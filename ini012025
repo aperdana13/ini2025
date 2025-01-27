@@ -1805,7 +1805,7 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
 https://topembed.mizhls.ru/lb/premium464/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://iili.io/dMTGNEX.png" group-title="CHANNEL | WORLD 1", CANAL+ Sport 1
+#EXTINF:-1 tvg-logo="https://iili.io/dMTGNEX.png" group-title="CHANNEL | SPORTS 1", CANAL+ Sport 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
 https://canale.mizhls.ru/lb/premium48/playlist.m3u8
