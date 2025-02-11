@@ -47,9 +47,6 @@ http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
 #EXTVLCOPT:http-referrer=http://dens.tv
 http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQljkdOu3lINlyG252mTiTfrjF3fiHbi3w0AjbBhoquBWBrCvJ8Lheigo&s=10" group-title="CHANNEL | INDONESIA", Indosiar Sports
-http://103.237.32.213:9981/stream/channelid/1888111875?profile=pass
-
 #EXTINF:-1 tvg-id="" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://iptv.urfan.web.id/logo/moji.png" group-title="CHANNEL | INDONESIA", MOJI TV
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv
@@ -117,39 +114,26 @@ http://op-group1-swiftservehd-1.dens.tv/h/h10/01.m3u8
 #EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
 
-#EXTINF:-1 group-title="CHANNEL | INDONESIA" tvg-id="Maxstream.id" tvg-logo="https://iptv.urfan.web.id/logo/maxstream.png",Maxstream
-#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://cdn08jtedge.indihometv.com/dassdvr/194/maxstream/manifest.mpd
-
-#EXTINF:-1 group-title="CHANNEL | INDONESIA"  tvg-logo="https://images.indihometv.com/logo_imc_small.png",IMC
-https://cdn09jtedge.indihometv.com/joss/130/imc/index.m3u8?c
- 
-#EXTINF:-1 group-title="CHANNEL | INDONESIA"  tvg-logo="https://images.indihometv.com/logo_flik_ver2.png",FLIK
-https://cdn09jtedge.indihometv.com/joss/133/flik/index.m3u8?c
- 
-#EXTINF:-1 group-title="CHANNEL | INDONESIA"  tvg-logo="https://images.indihometv.com/logo_bioskopindonesia_small1.png?v=2.0.0.13",Bioskop Indonesia
-https://cdn09jtedge.indihometv.com/joss/130/bioskopindonesia/index.m3u8
- 
 #EXTINF:-1 group-title="CHANNEL | INDONESIA" tvg-id="seatoday.id" tvg-logo="https://iptv.urfan.web.id/logo/seatoday.png",SEA Today
 #EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://hls.seatoday.com/hls_hd/seatoday.m3u8
 
 # CHANNEL | MOVIES
 
-#EXTINF:-1 tvg-id="HBO.my" tvg-name="HBO HD MOVIE" tvg-logo="https://i.loli.net/2021/10/07/qKaC82rwGmOuAdX.jpg" group-title="CHANNEL | MOVIES",HBO 
-http://iptv12k.com:35461/654321/123456/1892
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/H/hbo-logo-9BCB43E157-seeklogo.com.png" group-title="CHANNEL | MOVIES",HBO
+https://mantul.biz.id:443/inetwork/gayanet12/1.ts
 
-#EXTINF:-1 tvg-id="HBOHits.id" tvg-name="HBO Hits MOVIE" tvg-logo="https://i.loli.net/2021/10/07/w8Seb17JIRvBfrP.png" group-title="CHANNEL | MOVIES",HBO Hits 
-http://iptv12k.com:35461/654321/123456/1888
+#EXTINF:-1 tvg-logo="https://www.liblogo.com/img-logo/hb7524h5d2-hbo-family-logo-hbo-family-logopedia-.png" group-title="CHANNEL | MOVIES",HBO FAMILY
+https://mantul.biz.id:443/inetwork/gayanet12/5.ts
 
-#EXTINF:-1 tvg-id="HBOFamily.id" tvg-name="HBO Family MOVIE" tvg-logo="https://i.loli.net/2021/10/07/6pUeHjzMhctCgu2.png" group-title="CHANNEL | MOVIES",HBO Family
-http://iptv12k.com:35461/654321/123456/1890
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="CHANNEL | MOVIES",HBO HITS
+https://mantul.biz.id:443/inetwork/gayanet12/4
 
-#EXTINF:-1 tvg-id="HBOSignature.id" tvg-name="HBO Signature my MOVIE" tvg-logo="https://i.loli.net/2021/10/07/w2BW4vgHC6PTEMf.png" group-title="CHANNEL | MOVIES",HBO Signature
-http://iptv12k.com:35461/654321/123456/1886
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" group-title="CHANNEL | MOVIES",HBO SIGNATURE
+https://mantul.biz.id:443/inetwork/gayanet12/1019.ts
 
-#EXTINF:-1 tvg-name="SIN-Cinemax MOVIE" tvg-logo="https://itsmiyagi.site:443/images/9d44a8b4dfee561ae093a8827310163f.png" group-title="CHANNEL | MOVIES",Cinemax
-http://iptv12k.com:35461/654321/123456/1883
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" group-title="CHANNEL | MOVIES",CINEMAX
+https://mantul.biz.id:443/inetwork/gayanet12/89.ts
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
