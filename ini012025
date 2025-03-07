@@ -115,10 +115,6 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/DAAITV/mpd/DAAITV.mpd
 #EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
 
-#EXTINF:-1 group-title="CHANNEL | INDONESIA" tvg-id="vtv.id" tvg-logo="https://images.seeklogo.com/logo-png/48/1/vtv-logo-png_seeklogo-483454.png",VTV
-#EXTVLCOPT:http-user-agent=YouTV/1.8.1-prod.release+d73ba1cb (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://flv.intechmedia.net/live/ch107.m3u8
-
 #EXTINF:-1 group-title="CHANNEL | INDONESIA" tvg-id="CNNIndonesia.id" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cnn_id.png",CNN Indonesia
 #EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/index.m3u8
@@ -309,7 +305,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/AFNHD/mpd/AFNHD.mpd
 #KODIPROP:inputstream.adaptive.license_key=6dc31ac1031242a8b0c37286acb66a37:648286167b494bf9ee122eced0e37de1
 https://atemecdnbalancer-voe.sysln.id/live/eds/FoodNetworkHD/mpd/FoodNetworkHD.mpd
 
-#EXTINF:-1 tvg-name="" tvg-logo="https://theme.zdassets.com/theme_assets/9513797/13b9e8f7ab03eaf955916952cb7de6790a655b50.png" group-title="CHANNEL | USA",Cooking Channel USA
+#EXTINF:-1 tvg-name="" tvg-logo="https://theme.zdassets.com/theme_assets/9513797/13b9e8f7ab03eaf955916952cb7de6790a655b50.png" group-title="CHANNEL | LIFESTYLE",Cooking Channel USA
 #EXTVLCOPT:http-origin=https://pkpakiplay.xyz/
 https://dokko1new.koskoros.ru/dokko1/premium697/mono.m3u8|referer=https://pkpakiplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
@@ -528,7 +524,7 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/63
 #https://jmp2.uk/PlutoTV/624303598e45140007d765c1-alt.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5d14fdb8ca91eedee1633117/colorLogoPNG.png" group-title="CHANNEL | MUSIC",MTV Spankin' New
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/635bfb89b5cd9b0007ca9d63/colorLogoPNG.png" group-title="CHANNEL | MUSIC",MTV Spankin' New
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6541010f770cf1000866be98/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7b3f02-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=7c3402af-f54f-4488-b74f-62b1998013e4&serverSideAds=false
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d14fdb8ca91eedee1633117/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7b3f02-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=7c3402af-f54f-4488-b74f-62b1998013e4&serverSideAds=false
 #https://jmp2.uk/PlutoTV/5d14fdb8ca91eedee1633117-alt.m3u8
@@ -599,16 +595,16 @@ https://d3djdu8hxjprse.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://dri82941jql2y.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/RockMetal-prod/playlist.m3u8
 #https://i.mjh.nz/SamsungTVPlus/USBB2300004KV.m3u8
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-01/6bf58983d255ceb95c15e53ba64237db.png" group-title="CHANNEL | MUSIC",Trace Urban
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9a/Traceurban2022.png" group-title="CHANNEL | MUSIC",Trace Urban
 https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/retromusic.png" group-title="CHANNEL | MUSIC",Retro TV
+#EXTINF:-1 tvg-logo="https://retromusic.cz/wp-content/uploads/2017/08/retro-logo.png" group-title="CHANNEL | MUSIC",Retro TV
 http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8?wmsAuthSign=InspirationLinks
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://www.dens.tv/images/channel-logo/130.jpg" group-title="CHANNEL | MUSIC",Dance
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UKMR625.png" group-title="CHANNEL | MUSIC",Dance
 https://op-group1-swiftservehd-1.dens.tv/h/h250/index.m3u8
 
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
@@ -663,25 +659,25 @@ https://ddy6new.iosplayer.ru/ddy6/premium135/mono.m3u8
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
 https://ddy6new.iosplayer.ru/ddy6/premium139/mono.m3u8
 
-#EXTINF:-1 tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7d/Astro_SuperSport_1.png/revision/latest?cb=20200922172456" group-title="CHANNEL | SPORTS",Astro Grandstand
+#EXTINF:-1 tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/Astro_Grandstand_%28Oct_2024%29.png/revision/latest?cb=20241121183356" group-title="CHANNEL | SPORTS",Astro Grandstand
 #EXTVLCOPT:http-origin=https://pkpakiplay.xyz/
 https://zekonew.koskoros.ru/zeko/premium123/mono.m3u8|referer=https://pkpakiplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
-#EXTINF:-1 tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7d/Astro_SuperSport_1.png/revision/latest?cb=20200922172456" group-title="CHANNEL | SPORTS",Astro Football
+#EXTINF:-1 tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/70/Astro_Football_%28Oct_2024%29.png/revision/latest?cb=20241121183458" group-title="CHANNEL | SPORTS",Astro Football
 #EXTVLCOPT:http-origin=https://pkpakiplay.xyz/
 https://windnew.koskoros.ru/wind/premium124/mono.m3u8|referer=https://pkpakiplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
-#EXTINF:-1 tvg-name="" tvg-logo="http://kingtv.dynu.com/tvlogo/Astro_Arena_Bola.png" group-title="CHANNEL | SPORTS",Astro Premier League 1
+#EXTINF:-1 tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/Astro_Cricket_%282024%29.png" group-title="CHANNEL | SPORTS",Astro Cricket
+#EXTVLCOPT:http-origin=https://pkpakiplay.xyz/
+https://zekonew.koskoros.ru/zeko/premium370/mono.m3u8|referer=https://pkpakiplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0b/Astro_Premier_League_%28Oct_2024%29.png/revision/latest?cb=20241121183051" group-title="CHANNEL | SPORTS",Astro Premier League 1
 #EXTVLCOPT:http-origin=https://pkpakiplay.xyz/
 https://zekonew.koskoros.ru/zeko/premium125/mono.m3u8|referer=https://pkpakiplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
-#EXTINF:-1 tvg-name="" tvg-logo="http://kingtv.dynu.com/tvlogo/Astro_Arena_Bola.png" group-title="CHANNEL | SPORTS",Astro Premier League 2
+#EXTINF:-1 tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0b/Astro_Premier_League_%28Oct_2024%29.png/revision/latest?cb=20241121183051" group-title="CHANNEL | SPORTS",Astro Premier League 2
 #EXTVLCOPT:http-origin=https://pkpakiplay.xyz/
 https://zekonew.koskoros.ru/zeko/premium126/mono.m3u8|referer=https://pkpakiplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7d/Astro_SuperSport_1.png/revision/latest?cb=20200922172456" group-title="CHANNEL | SPORTS",Astro Cricket
-#EXTVLCOPT:http-origin=https://pkpakiplay.xyz/
-https://zekonew.koskoros.ru/zeko/premium370/mono.m3u8|referer=https://pkpakiplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/527537294471737344/em3WLNOV_400x400.jpeg" group-title="CHANNEL | SPORTS",Benfica TV
 #EXTVLCOPT:http-origin=https://pkpakiplay.xyz/
@@ -766,23 +762,23 @@ https://dokko1new.iosplayer.ru/dokko1/premium96/mono.m3u8
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
 https://dokko1new.iosplayer.ru/dokko1/premium97/mono.m3u8
 
-#EXTINF:-1 tvg-name="" tvg-logo="https://images.seeklogo.com/logo-png/48/1/canal-sport-logo-png_seeklogo-481264.png" group-title="CHANNEL | SPORTS",Canal+ Sport FRA
+#EXTINF:-1 tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Canal%2B_Sport_PL_2009.png" group-title="CHANNEL | SPORTS",Canal+ Sport FRA
 #EXTVLCOPT:http-origin=https://pkpakiplay.xyz/
 https://windnew.koskoros.ru/wind/premium122/mono.m3u8|referer=https://pkpakiplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
-#EXTINF:-1 tvg-name="" tvg-logo="https://images.seeklogo.com/logo-png/48/1/canal-sport-logo-png_seeklogo-481264.png" group-title="CHANNEL | SPORTS",Canal+ Foot FRA
+#EXTINF:-1 tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Canal%2BFoot.png/280px-Canal%2BFoot.png" group-title="CHANNEL | SPORTS",Canal+ Foot FRA
 #EXTVLCOPT:http-origin=https://pkpakiplay.xyz/
 https://windnew.koskoros.ru/wind/premium463/mono.m3u8|referer=https://pkpakiplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
-#EXTINF:-1 tvg-name="" tvg-logo="https://images.seeklogo.com/logo-png/48/1/canal-sport-logo-png_seeklogo-481264.png" group-title="CHANNEL | SPORTS",Canal+ Sport360 FRA
+#EXTINF:-1 tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/Canal%2BSport_360.png" group-title="CHANNEL | SPORTS",Canal+ Sport360 FRA
 #EXTVLCOPT:http-origin=https://pkpakiplay.xyz/
 https://windnew.koskoros.ru/wind/premium464/mono.m3u8|referer=https://pkpakiplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
-#EXTINF:-1 tvg-name="" tvg-logo="https://images.seeklogo.com/logo-png/48/1/canal-sport-logo-png_seeklogo-481264.png" group-title="CHANNEL | SPORTS",CANAL+ MotoGP FRA
+#EXTINF:-1 tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/Canal%2B_Polska_2004_logo.png" group-title="CHANNEL | SPORTS",CANAL+ MotoGP FRA
 #EXTVLCOPT:http-origin=https://pkpakiplay.xyz/
 https://zekonew.koskoros.ru/zeko/premium271/mono.m3u8|referer=https://pkpakiplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
-#EXTINF:-1 tvg-name="" tvg-logo="https://images.seeklogo.com/logo-png/48/1/canal-sport-logo-png_seeklogo-481264.png" group-title="CHANNEL | SPORTS",Canal+ Formula 1 FRA
+#EXTINF:-1 tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/Canal%2B_Polska_2004_logo.png" group-title="CHANNEL | SPORTS",Canal+ Formula 1 FRA
 #EXTVLCOPT:http-origin=https://pkpakiplay.xyz/
 https://zekonew.koskoros.ru/zeko/premium273/mono.m3u8|referer=https://pkpakiplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
@@ -1118,12 +1114,12 @@ https://dokko1new.iosplayer.ru/dokko1/premium595/mono.m3u8
 #https://cempedak-live-cdn.mncnow.id/live/eds/soccerchannel-test/sa_dash_vmx/soccerchannel-test.mpd
 https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-soccerchannel-hd/sa_dash/rcti-soccerchannel-hd.mpd
 
-#EXTINF:0 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_421.png" group-title="CHANNEL | SPORTS", Sportstars
+#EXTINF:0 tvg-logo="https://img.inews.co.id/media/620/files/inews_new/2021/05/24/sportstars.jpeg" group-title="CHANNEL | SPORTS", Sportstars
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=531c6d50e3e9f9ba66446f624f492289:d769d9ae238bdd424f8bcdcdc9a3801f
 https://d1abp075u76pbq.cloudfront.net/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd|Referer=https://www.visionplus.id/
 
-#EXTINF:0 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_422.png" group-title="CHANNEL | SPORTS", Sportstars 2
+#EXTINF:0 tvg-logo="https://img.inews.co.id/media/620/files/inews_new/2021/05/24/sportstars.jpeg" group-title="CHANNEL | SPORTS", Sportstars 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=45fec91ce1f19b6b1f31d69dcfaaf6cd:843e228ab109e9aa6c4822ee4ad05d7d
 https://d1abp075u76pbq.cloudfront.net/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd|Referer=https://www.visionplus.id/
@@ -1570,7 +1566,7 @@ https://atemeshield1-voe.sysln.id/live/eds/TvNMoviesHD/mpd/TvNMoviesHD.mpd
 #KODIPROP:inputstream.adaptive.license_key=a7e68d7c2667465f976361eb0d6bd0c1:32a856d04efbf93cee7b2c97643d7998
 https://atemecdnbalancer-voe.sysln.id/live/eds/ONEHD/mpd/ONEHD.mpd
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/KBS_World.svg/2560px-KBS_World.svg.png" group-title="CHANNEL | INDIHOME",KBS World
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/KBS_World_%282009%29.svg/640px-KBS_World_%282009%29.svg.png" group-title="CHANNEL | INDIHOME",KBS World
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4dbd7f200e1f43c1a5a7b0bb4d753527:7fa839050222d118f97ba1f770f7d188
@@ -1651,7 +1647,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/CCTV4/mpd/CCTV4.mpd
 #EXTINF:-1 tvg-id="TV1.my" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f4/Logo_of_TV1_%28Malaysia%29.svg/1200px-Logo_of_TV1_%28Malaysia%29.svg.png" tvg-url="https://bit.ly/JejeVisionEPG" group-title="CHANNEL | ASEAN",TV 1
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd
 
-#EXTINF:-1 tvg-id="TV2.my" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/7TV2_%28Malaysia%29_logo.svg/1200px-TV2_%28Malaysia%29_logo.svg.png" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" group-title="CHANNEL | ASEAN",TV 2
+#EXTINF:-1 tvg-id="TV2.my" tvg-logo="https://banner2.cleanpng.com/20181113/sgz/kisspng-tv2-radio-televisyen-malaysia-tv1-logo-tvi-1713923102269.webp" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" group-title="CHANNEL | ASEAN",TV 2
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
 
 #EXTINF:-1 tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-id="TV3.my" group-title="CHANNEL | ASEAN" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/f/f5/TV3_%28Malaysia%29.svg/640px-TV3_%28Malaysia%29.svg.png",TV3
@@ -1671,7 +1667,7 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/manifest.mpd
 
 #EXTVLCOPT:http-referrer=https://live-xtra-sg1.global.ssl.fastly.net/embed/index.html?vid=11056645&autoplay=1&mute=0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="8TV.my" group-title="CHANNEL | ASEAN" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml." tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/8TV_%28Malaysia%29_logo_in_Chinese.svg/2560px-8TV_%28Malaysia%29_logo_in_Chinese.svg.png",8TV Malaysia
+#EXTINF:-1 tvg-id="8TV.my" group-title="CHANNEL | ASEAN" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml." tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/89/8TV_%28Malaysia%29_logo_in_English.svg",8TV Malaysia
 https://tonton-live-ssai.akamaized.net/live/a884c33b-6b11-4433-8bf9-a8899939e224/cmaf.isml/.m3u8
 
 #EXTINF:-1 tvg-id="Sukan RTM" tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium1.xml" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/SALURAN_1920x1080px_SUKANRTM.jpg" group-title="CHANNEL | ASEAN",Sukan RTM
@@ -1728,7 +1724,10 @@ https://ebsonairios.ebs.co.kr/ebs2tablet500k/tablet500k/playlist.m3u8
 https://op-group1-swiftservehd-1.dens.tv/h/h219/index.m3u8?app_type=web&amp;userid=lite&amp;chname=K-PLUS_HD
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/KBS_World_%282009%29.svg/640px-KBS_World_%282009%29.svg.png" group-title="CHANNEL | ASIAN",KBS World
-https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4dbd7f200e1f43c1a5a7b0bb4d753527:7fa839050222d118f97ba1f770f7d188
+https://atemecdnbalancer-voe.sysln.id/live/eds/KBSWorldHD/mpd/KBSWorldHD.mpd
 
 #EXTINF:-1 tvg-id="49" tvg-logo="https://www.dens.tv/images/channel-logo/49.jpg" group-title="CHANNEL | ASIAN", KIX
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
@@ -1801,27 +1800,27 @@ https://stream01.willfonk.com/live_playlist.m3u8?cid=CS314&r=HD&ccode=JP&m=d0:20
 
 ARG
 
-#EXTINF:-1 tvg-name="" tvg-logo=" " group-title="CHANNEL | AMERICA",ESPN Premium ARG
+#EXTINF:-1 tvg-name="" tvg-logo="https://i1.wp.com/redditsport.cc/imgs/ESPN.png?w=200" group-title="CHANNEL | AMERICA",ESPN Premium ARG
 #EXTVLCOPT:http-origin=https://pkpakiplay.xyz/
 https://windnew.koskoros.ru/wind/premium387/mono.m3u8|referer=https://pkpakiplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
-#EXTINF:-1 tvg-name="" tvg-logo=" " group-title="CHANNEL | AMERICA",ESPN Extra ARG
+#EXTINF:-1 tvg-name="" tvg-logo="https://i1.wp.com/redditsport.cc/imgs/ESPN.png?w=200" group-title="CHANNEL | AMERICA",ESPN Extra ARG
 #EXTVLCOPT:http-origin=https://pkpakiplay.xyz/
 https://dokko1new.koskoros.ru/dokko1/premium798/mono.m3u8|referer=https://pkpakiplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
-#EXTINF:-1 tvg-name="" tvg-logo=" " group-title="CHANNEL | AMERICA",Fox Sports 1 ARG
+#EXTINF:-1 tvg-name="" tvg-logo="https://w7.pngwing.com/pngs/542/458/png-transparent-fox-sports-networks-television-speed-fox-sport-television-blue-text.png" group-title="CHANNEL | AMERICA",Fox Sports 1 ARG
 #EXTVLCOPT:http-origin=https://pkpakiplay.xyz/
 https://zekonew.koskoros.ru/zeko/premium767/mono.m3u8|referer=https://pkpakiplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
-#EXTINF:-1 tvg-name="" tvg-logo=" " group-title="CHANNEL | AMERICA",Fox Sports 2 ARG
+#EXTINF:-1 tvg-name="" tvg-logo="https://w7.pngwing.com/pngs/542/458/png-transparent-fox-sports-networks-television-speed-fox-sport-television-blue-text.png" group-title="CHANNEL | AMERICA",Fox Sports 2 ARG
 #EXTVLCOPT:http-origin=https://pkpakiplay.xyz/
 https://windnew.koskoros.ru/wind/premium788/mono.m3u8|referer=https://pkpakiplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
-#EXTINF:-1 tvg-name="" tvg-logo=" " group-title="CHANNEL | AMERICA",Fox Sports 3 ARG
+#EXTINF:-1 tvg-name="" tvg-logo="https://w7.pngwing.com/pngs/542/458/png-transparent-fox-sports-networks-television-speed-fox-sport-television-blue-text.png" group-title="CHANNEL | AMERICA",Fox Sports 3 ARG
 #EXTVLCOPT:http-origin=https://pkpakiplay.xyz/
 https://windnew.koskoros.ru/wind/premium789/mono.m3u8|referer=https://pkpakiplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
-#EXTINF:-1 tvg-name="" tvg-logo=" " group-title="CHANNEL | AMERICA",TNT Sports ARG
+#EXTINF:-1 tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/TNT_Sports_logo_2021.png" group-title="CHANNEL | AMERICA",TNT Sports ARG
 #EXTVLCOPT:http-origin=https://pkpakiplay.xyz/
 https://ddy6new.koskoros.ru/ddy6/premium388/mono.m3u8|referer=https://pkpakiplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
@@ -1839,59 +1838,59 @@ https://windnew.koskoros.ru/wind/premium275/mono.m3u8|referer=https://pkpakiplay
 #EXTVLCOPT:http-origin=https://pkpakiplay.xyz/
 https://windnew.koskoros.ru/wind/premium89/mono.m3u8|referer=https://pkpakiplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
-#EXTINF:-1 tvg-name="" tvg-logo=" " group-title="CHANNEL | AMERICA",Cosmote Sport 1 HD BRA
+#EXTINF:-1 xui-id="7942" tvg-id="" tvg-name="COSMOTE 1" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cosmote_gr_sport_2_hd.png" group-title="CHANNEL | AMERICA",Cosmote Sport 1 BRA
 #EXTVLCOPT:http-origin=https://pkpakiplay.xyz/
 https://dokko1new.koskoros.ru/dokko1/premium622/mono.m3u8|referer=https://pkpakiplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
-#EXTINF:-1 tvg-name="" tvg-logo=" " group-title="CHANNEL | AMERICA",Cosmote Sport 2 HD BRA
+#EXTINF:-1 xui-id="7942" tvg-id="" tvg-name="COSMOTE 2" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cosmote_gr_sport_2_hd.png" group-title="CHANNEL | AMERICA",Cosmote Sport 2 BRA
 #EXTVLCOPT:http-origin=https://pkpakiplay.xyz/
 https://dokko1new.koskoros.ru/dokko1/premium623/mono.m3u8|referer=https://pkpakiplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
-#EXTINF:-1 tvg-name="" tvg-logo=" " group-title="CHANNEL | AMERICA",Cosmote Sport 3 HD BRA
+#EXTINF:-1 xui-id="7942" tvg-id="" tvg-name="COSMOTE 3" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cosmote_gr_sport_3_hd.png" group-title="CHANNEL | AMERICA",Cosmote Sport 3 BRA
 #EXTVLCOPT:http-origin=https://pkpakiplay.xyz/
 https://dokko1new.koskoros.ru/dokko1/premium624/mono.m3u8|referer=https://pkpakiplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
-#EXTINF:-1 tvg-name="" tvg-logo=" " group-title="CHANNEL | AMERICA",Cosmote Sport 4 HD BRA
+#EXTINF:-1 xui-id="7942" tvg-id="" tvg-name="COSMOTE 4" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cosmote_gr_sport_4_hd.png" group-title="CHANNEL | AMERICA",Cosmote Sport 4 BRA
 #EXTVLCOPT:http-origin=https://pkpakiplay.xyz/
 https://dokko1new.koskoros.ru/dokko1/premium625/mono.m3u8|referer=https://pkpakiplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
-#EXTINF:-1 tvg-name="" tvg-logo=" " group-title="CHANNEL | AMERICA",Cosmote Sport 5 HD BRA
+#EXTINF:-1 xui-id="7942" tvg-id="" tvg-name="COSMOTE 5" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cosmote_gr_sport_5_hd.png" group-title="CHANNEL | AMERICA",Cosmote Sport 5 BRA
 #EXTVLCOPT:http-origin=https://pkpakiplay.xyz/
 https://dokko1new.koskoros.ru/dokko1/premium626/mono.m3u8|referer=https://pkpakiplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
-#EXTINF:-1 tvg-name="" tvg-logo=" " group-title="CHANNEL | AMERICA",Cosmote Sport 6 HD BRA
+#EXTINF:-1 xui-id="7942" tvg-id="" tvg-name="COSMOTE 6" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cosmote_gr_sport_6_hd.png" group-title="CHANNEL | AMERICA",Cosmote Sport 6 BRA
 #EXTVLCOPT:http-origin=https://pkpakiplay.xyz/
 https://dokko1new.koskoros.ru/dokko1/premium627/mono.m3u8|referer=https://pkpakiplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
-#EXTINF:-1 tvg-name="" tvg-logo=" " group-title="CHANNEL | AMERICA",Cosmote Sport 7 HD BRA
+#EXTINF:-1 xui-id="7942" tvg-id="" tvg-name="COSMOTE 7" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cosmote_gr_sport_7_hd.png" group-title="CHANNEL | AMERICA",Cosmote Sport 7 BRA
 #EXTVLCOPT:http-origin=https://pkpakiplay.xyz/
 https://dokko1new.koskoros.ru/dokko1/premium628/mono.m3u8|referer=https://pkpakiplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
-#EXTINF:-1 tvg-name="" tvg-logo=" " group-title="CHANNEL | AMERICA",Cosmote Sport 8 HD BRA
+#EXTINF:-1 xui-id="7942" tvg-id="" tvg-name="COSMOTE 8" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cosmote_gr_sport_8_hd.png" group-title="CHANNEL | AMERICA",Cosmote Sport 8 BRA
 #EXTVLCOPT:http-origin=https://pkpakiplay.xyz/
 https://dokko1new.koskoros.ru/dokko1/premium629/mono.m3u8|referer=https://pkpakiplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
-#EXTINF:-1 tvg-name="" tvg-logo=" " group-title="CHANNEL | AMERICA",Cosmote Sport 9 HD BRA
+#EXTINF:-1 xui-id="7942" tvg-id="" tvg-name="COSMOTE 9" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cosmote_gr_sport_9_hd.png" group-title="CHANNEL | AMERICA",Cosmote Sport 9 BRA
 #EXTVLCOPT:http-origin=https://pkpakiplay.xyz/
 https://dokko1new.koskoros.ru/dokko1/premium630/mono.m3u8|referer=https://pkpakiplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
-#EXTINF:-1 tvg-name="" tvg-logo=" " group-title="CHANNEL | AMERICA",ESPN BRA
+#EXTINF:-1 tvg-name="" tvg-logo="https://i1.wp.com/redditsport.cc/imgs/ESPN.png?w=200" group-title="CHANNEL | AMERICA",ESPN BRA
 #EXTVLCOPT:http-origin=https://pkpakiplay.xyz/
 https://zekonew.koskoros.ru/zeko/premium81/mono.m3u8|referer=https://pkpakiplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
-#EXTINF:-1 tvg-name="" tvg-logo=" " group-title="CHANNEL | AMERICA",ESPN2 BRA
+#EXTINF:-1 tvg-name="" tvg-logo="https://i1.wp.com/redditsport.cc/imgs/ESPN.png?w=200" group-title="CHANNEL | AMERICA",ESPN2 BRA
 #EXTVLCOPT:http-origin=https://pkpakiplay.xyz/
 https://windnew.koskoros.ru/wind/premium82/mono.m3u8|referer=https://pkpakiplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
-#EXTINF:-1 tvg-name="" tvg-logo=" " group-title="CHANNEL | AMERICA",ESPN3 BRA
+#EXTINF:-1 tvg-name="" tvg-logo="https://i1.wp.com/redditsport.cc/imgs/ESPN.png?w=200" group-title="CHANNEL | AMERICA",ESPN3 BRA
 #EXTVLCOPT:http-origin=https://pkpakiplay.xyz/
 https://ddy6new.koskoros.ru/ddy6/premium83/mono.m3u8|referer=https://pkpakiplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
-#EXTINF:-1 tvg-name="" tvg-logo=" " group-title="CHANNEL | AMERICA",ESPN4 BRA
+#EXTINF:-1 tvg-name="" tvg-logo="https://i1.wp.com/redditsport.cc/imgs/ESPN.png?w=200" group-title="CHANNEL | AMERICA",ESPN4 BRA
 #EXTVLCOPT:http-origin=https://pkpakiplay.xyz/
 https://ddy6new.koskoros.ru/ddy6/premium85/mono.m3u8|referer=https://pkpakiplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
-#EXTINF:-1 tvg-name="" tvg-logo=" " group-title="CHANNEL | AMERICA",Premier BRA
+#EXTINF:-1 tvg-name="" tvg-logo="https://i1.wp.com/redditsport.cc/imgs/ESPN.png?w=200" group-title="CHANNEL | AMERICA",Premier BRA
 #EXTVLCOPT:http-origin=https://pkpakiplay.xyz/
 https://windnew.koskoros.ru/wind/premium88/mono.m3u8|referer=https://pkpakiplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
@@ -1949,7 +1948,7 @@ https://ddy6new.koskoros.ru/ddy6/premium830/mono.m3u8|referer=https://pkpakiplay
 
 CHL
 
-#EXTINF:-1 tvg-name="" tvg-logo=" " group-title="CHANNEL | AMERICA",TNT Sports HD CHL
+#EXTINF:-1 tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/TNT_Sports_logo_2021.png" group-title="CHANNEL | AMERICA",TNT Sports HD CHL
 #EXTVLCOPT:http-origin=https://pkpakiplay.xyz/
 https://dokko1new.koskoros.ru/dokko1/premium642/mono.m3u8|referer=https://pkpakiplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
@@ -1985,210 +1984,210 @@ https://ddy6new.koskoros.ru/ddy6/premium828/mono.m3u8|referer=https://pkpakiplay
 #EXTVLCOPT:http-origin=https://pkpakiplay.xyz/
 https://ddy6new.koskoros.ru/ddy6/premium818/mono.m3u8|referer=https://pkpakiplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
-#CHANNEL | EUROPEPE
+#CHANNEL | EUROPE
 
 ENG
 
-#EXTINF:-1 tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtjptUUdjBUDnm7M_8X93zfqjjnRn4TxvBSA&s" group-title="CHANNEL | EUROPEPE",BBC One UK
+#EXTINF:-1 tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtjptUUdjBUDnm7M_8X93zfqjjnRn4TxvBSA&s" group-title="CHANNEL | EUROPE",BBC One UK
 #EXTVLCOPT:http-origin=https://pkpakiplay.xyz/
 https://ddy6new.koskoros.ru/ddy6/premium356/mono.m3u8|referer=https://pkpakiplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
-#EXTINF:-1 tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtjptUUdjBUDnm7M_8X93zfqjjnRn4TxvBSA&s" group-title="CHANNEL | EUROPEPE",BBC Two UK
+#EXTINF:-1 tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtjptUUdjBUDnm7M_8X93zfqjjnRn4TxvBSA&s" group-title="CHANNEL | EUROPE",BBC Two UK
 #EXTVLCOPT:http-origin=https://pkpakiplay.xyz/
 https://dokko1new.koskoros.ru/dokko1/premium357/mono.m3u8|referer=https://pkpakiplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
-#EXTINF:-1 tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtjptUUdjBUDnm7M_8X93zfqjjnRn4TxvBSA&s" group-title="CHANNEL | EUROPEPE",BBC Three UK
+#EXTINF:-1 tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtjptUUdjBUDnm7M_8X93zfqjjnRn4TxvBSA&s" group-title="CHANNEL | EUROPE",BBC Three UK
 #EXTVLCOPT:http-origin=https://pkpakiplay.xyz/
 https://ddy6new.koskoros.ru/ddy6/premium358/mono.m3u8|referer=https://pkpakiplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
-#EXTINF:-1 tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtjptUUdjBUDnm7M_8X93zfqjjnRn4TxvBSA&s" group-title="CHANNEL | EUROPEPE",BBC Four UK
+#EXTINF:-1 tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtjptUUdjBUDnm7M_8X93zfqjjnRn4TxvBSA&s" group-title="CHANNEL | EUROPE",BBC Four UK
 #EXTVLCOPT:http-origin=https://pkpakiplay.xyz/
 https://dokko1new.koskoros.ru/dokko1/premium359/mono.m3u8|referer=https://pkpakiplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
-#EXTINF:-1 tvg-name="" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_332.jpg" group-title="CHANNEL | EUROPEPE",BBC News Channel UK
+#EXTINF:-1 tvg-name="" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_332.jpg" group-title="CHANNEL | EUROPE",BBC News Channel UK
 #EXTVLCOPT:http-origin=https://pkpakiplay.xyz/
 https://dokko1new.koskoros.ru/dokko1/premium349/mono.m3u8|referer=https://pkpakiplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
-#EXTINF:-1 tvg-name="" tvg-logo=" " group-title="CHANNEL | EUROPEPE",Channel 4 UK
+#EXTINF:-1 tvg-name="" tvg-logo=" " group-title="CHANNEL | EUROPE",Channel 4 UK
 #EXTVLCOPT:http-origin=https://pkpakiplay.xyz/
 https://windnew.koskoros.ru/wind/premium354/mono.m3u8|referer=https://pkpakiplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
-#EXTINF:-1 tvg-name="" tvg-logo=" " group-title="CHANNEL | EUROPEPE",Channel 5 UK
+#EXTINF:-1 tvg-name="" tvg-logo=" " group-title="CHANNEL | EUROPE",Channel 5 UK
 #EXTVLCOPT:http-origin=https://pkpakiplay.xyz/
 https://zekonew.koskoros.ru/zeko/premium355/mono.m3u8|referer=https://pkpakiplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
-#EXTINF:-1 tvg-name="" tvg-logo=" " group-title="CHANNEL | EUROPEPE",E4 Channel UK
+#EXTINF:-1 tvg-name="" tvg-logo=" " group-title="CHANNEL | EUROPE",E4 Channel UK
 #EXTVLCOPT:http-origin=https://pkpakiplay.xyz/
 https://ddy6new.koskoros.ru/ddy6/premium363/mono.m3u8|referer=https://pkpakiplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
-#EXTINF:-1 tvg-name="" tvg-logo=" " group-title="CHANNEL | EUROPEPE",Film4 UK
+#EXTINF:-1 tvg-name="" tvg-logo=" " group-title="CHANNEL | EUROPE",Film4 UK
 #EXTVLCOPT:http-origin=https://pkpakiplay.xyz/
 https://windnew.koskoros.ru/wind/premium688/mono.m3u8|referer=https://pkpakiplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
-#EXTINF:-1 tvg-name="" tvg-logo=" " group-title="CHANNEL | EUROPEPE",Gold UK
+#EXTINF:-1 tvg-name="" tvg-logo=" " group-title="CHANNEL | EUROPE",Gold UK
 #EXTVLCOPT:http-origin=https://pkpakiplay.xyz/
 https://ddy6new.koskoros.ru/ddy6/premium687/mono.m3u8|referer=https://pkpakiplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
-#EXTINF:-1 tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqojdRAA83UBx0wezCT-9l0ojcWYfKVvlUVQ&s" group-title="CHANNEL | EUROPEPE",ITV 1 UK
+#EXTINF:-1 tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqojdRAA83UBx0wezCT-9l0ojcWYfKVvlUVQ&s" group-title="CHANNEL | EUROPE",ITV 1 UK
 #EXTVLCOPT:http-origin=https://pkpakiplay.xyz/
 https://dokko1new.koskoros.ru/dokko1/premium350/mono.m3u8|referer=https://pkpakiplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
-#EXTINF:-1 tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqojdRAA83UBx0wezCT-9l0ojcWYfKVvlUVQ&s" group-title="CHANNEL | EUROPEPE",ITV 2 UK
+#EXTINF:-1 tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqojdRAA83UBx0wezCT-9l0ojcWYfKVvlUVQ&s" group-title="CHANNEL | EUROPE",ITV 2 UK
 #EXTVLCOPT:http-origin=https://pkpakiplay.xyz/
 https://zekonew.koskoros.ru/zeko/premium351/mono.m3u8|referer=https://pkpakiplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
-#EXTINF:-1 tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqojdRAA83UBx0wezCT-9l0ojcWYfKVvlUVQ&s" group-title="CHANNEL | EUROPEPE",ITV 3 UK
+#EXTINF:-1 tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqojdRAA83UBx0wezCT-9l0ojcWYfKVvlUVQ&s" group-title="CHANNEL | EUROPE",ITV 3 UK
 #EXTVLCOPT:http-origin=https://pkpakiplay.xyz/
 https://zekonew.koskoros.ru/zeko/premium352/mono.m3u8|referer=https://pkpakiplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
-#EXTINF:-1 tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqojdRAA83UBx0wezCT-9l0ojcWYfKVvlUVQ&s" group-title="CHANNEL | EUROPEPE",ITV 4 UK
+#EXTINF:-1 tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqojdRAA83UBx0wezCT-9l0ojcWYfKVvlUVQ&s" group-title="CHANNEL | EUROPE",ITV 4 UK
 #EXTVLCOPT:http-origin=https://pkpakiplay.xyz/
 https://ddy6new.koskoros.ru/ddy6/premium353/mono.m3u8|referer=https://pkpakiplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
-#EXTINF:-1 tvg-name="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/de22be100229320ab6edcdce8de7ba64.png" group-title="CHANNEL | EUROPEPE",BeIN Sports English 1 UK
+#EXTINF:-1 tvg-name="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/de22be100229320ab6edcdce8de7ba64.png" group-title="CHANNEL | EUROPE",BeIN Sports English 1 UK
 #EXTVLCOPT:http-origin=https://pkpakiplay.xyz/
 https://windnew.koskoros.ru/wind/premium61/mono.m3u8|referer=https://pkpakiplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
-#EXTINF:-1 tvg-name="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/9e0d289e6b96b75e073d74cae50fc8a4.png" group-title="CHANNEL | EUROPEPE",BeIN Sports English 2 UK
+#EXTINF:-1 tvg-name="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/9e0d289e6b96b75e073d74cae50fc8a4.png" group-title="CHANNEL | EUROPE",BeIN Sports English 2 UK
 #EXTVLCOPT:http-origin=https://pkpakiplay.xyz/
 https://zekonew.koskoros.ru/zeko/premium90/mono.m3u8|referer=https://pkpakiplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
-#EXTINF:-1 tvg-name="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/f7d20955aa9bafdb1a3f750f81e15bc9.png" group-title="CHANNEL | EUROPEPE",BeIN Sports English 3 UK
+#EXTINF:-1 tvg-name="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/f7d20955aa9bafdb1a3f750f81e15bc9.png" group-title="CHANNEL | EUROPE",BeIN Sports English 3 UK
 #EXTVLCOPT:http-origin=https://pkpakiplay.xyz/
 https://windnew.koskoros.ru/wind/premium46/mono.m3u8|referer=https://pkpakiplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
-#EXTINF:-1 tvg-name="" tvg-logo=" " group-title="CHANNEL | EUROPEPE",LaLigaTV UK
+#EXTINF:-1 tvg-name="" tvg-logo=" " group-title="CHANNEL | EUROPE",LaLigaTV UK
 #EXTVLCOPT:http-origin=https://pkpakiplay.xyz/
 https://windnew.koskoros.ru/wind/premium276/mono.m3u8|referer=https://pkpakiplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
-#EXTINF:-1 tvg-name="" tvg-logo=" " group-title="CHANNEL | EUROPEPE",LALIGA TV Hypermotion UK
+#EXTINF:-1 tvg-name="" tvg-logo=" " group-title="CHANNEL | EUROPE",LALIGA TV Hypermotion UK
 #EXTVLCOPT:http-origin=https://pkpakiplay.xyz/
 https://dokko1new.koskoros.ru/dokko1/premium539/mono.m3u8|referer=https://pkpakiplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
-#EXTINF:-1 tvg-name="" tvg-logo="https://iili.io/JpwYNG2.png" group-title="CHANNEL | EUROPEPE",Sky Sports Football UK
+#EXTINF:-1 tvg-name="" tvg-logo="https://iili.io/JpwYNG2.png" group-title="CHANNEL | EUROPE",Sky Sports Football UK
 #EXTVLCOPT:http-origin=https://pkpakiplay.xyz/
 https://zekonew.koskoros.ru/zeko/premium35/mono.m3u8|referer=https://pkpakiplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
-#EXTINF:-1 tvg-name="" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-1-uk.png" group-title="CHANNEL | EUROPEPE",TNT Sports 1 UK
+#EXTINF:-1 tvg-name="" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-1-uk.png" group-title="CHANNEL | EUROPE",TNT Sports 1 UK
 #EXTVLCOPT:http-origin=https://pkpakiplay.xyz/
 https://nfsnew.koskoros.ru/nfs/premium31/mono.m3u8|referer=https://pkpakiplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
-#EXTINF:-1 tvg-name="" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-2-uk.png" group-title="CHANNEL | EUROPEPE",TNT Sports 2 UK
+#EXTINF:-1 tvg-name="" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-2-uk.png" group-title="CHANNEL | EUROPE",TNT Sports 2 UK
 #EXTVLCOPT:http-origin=https://pkpakiplay.xyz/
 https://nfsnew.koskoros.ru/nfs/premium32/mono.m3u8|referer=https://pkpakiplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
-#EXTINF:-1 tvg-name="" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-3-uk.png" group-title="CHANNEL | EUROPEPE",TNT Sports 3 UK
+#EXTINF:-1 tvg-name="" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-3-uk.png" group-title="CHANNEL | EUROPE",TNT Sports 3 UK
 #EXTVLCOPT:http-origin=https://pkpakiplay.xyz/
 https://nfsnew.koskoros.ru/nfs/premium33/mono.m3u8|referer=https://pkpakiplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
-#EXTINF:-1 tvg-name="" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-4-uk.png" group-title="CHANNEL | EUROPEPE",TNT Sports 4 UK
+#EXTINF:-1 tvg-name="" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-4-uk.png" group-title="CHANNEL | EUROPE",TNT Sports 4 UK
 #EXTVLCOPT:http-origin=https://pkpakiplay.xyz/
 https://nfsnew.koskoros.ru/nfs/premium34/mono.m3u8|referer=https://pkpakiplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
-#EXTINF:-1 tvg-name="" tvg-logo=" " group-title="CHANNEL | EUROPEPE",Racing TV UK
+#EXTINF:-1 tvg-name="" tvg-logo=" " group-title="CHANNEL | EUROPE",Racing TV UK
 #EXTVLCOPT:http-origin=https://pkpakiplay.xyz/
 https://zekonew.koskoros.ru/zeko/premium555/mono.m3u8|referer=https://pkpakiplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
-#EXTINF:-1 tvg-name="" tvg-logo=" " group-title="CHANNEL | EUROPEPE",Viaplay Sports 1 UK
+#EXTINF:-1 tvg-name="" tvg-logo=" " group-title="CHANNEL | EUROPE",Viaplay Sports 1 UK
 #EXTVLCOPT:http-origin=https://pkpakiplay.xyz/
 https://windnew.koskoros.ru/wind/premium451/mono.m3u8|referer=https://pkpakiplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
-#EXTINF:-1 tvg-name="" tvg-logo=" " group-title="CHANNEL | EUROPEPE",Viaplay Sports 2 UK
+#EXTINF:-1 tvg-name="" tvg-logo=" " group-title="CHANNEL | EUROPE",Viaplay Sports 2 UK
 #EXTVLCOPT:http-origin=https://pkpakiplay.xyz/
 https://windnew.koskoros.ru/wind/premium550/mono.m3u8|referer=https://pkpakiplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
-#EXTINF:-1 tvg-name="" tvg-logo=" " group-title="CHANNEL | EUROPEPE",Viaplay Xtra UK
+#EXTINF:-1 tvg-name="" tvg-logo=" " group-title="CHANNEL | EUROPE",Viaplay Xtra UK
 #EXTVLCOPT:http-origin=https://pkpakiplay.xyz/
 https://zekonew.koskoros.ru/zeko/premium597/mono.m3u8|referer=https://pkpakiplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
 IRL
 
-#EXTINF:-1 tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpCEEBysmwnkFds-O1xWUBSbkHITcosrfO-w&s" group-title="CHANNEL | EUROPEPE",RTE 1 IRL
+#EXTINF:-1 tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpCEEBysmwnkFds-O1xWUBSbkHITcosrfO-w&s" group-title="CHANNEL | EUROPE",RTE 1 IRL
 #EXTVLCOPT:http-origin=https://pkpakiplay.xyz/
 https://zekonew.koskoros.ru/zeko/premium364/mono.m3u8|referer=https://pkpakiplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
-#EXTINF:-1 tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpCEEBysmwnkFds-O1xWUBSbkHITcosrfO-w&s" group-title="CHANNEL | EUROPEPE",RTE 2 IRL
+#EXTINF:-1 tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpCEEBysmwnkFds-O1xWUBSbkHITcosrfO-w&s" group-title="CHANNEL | EUROPE",RTE 2 IRL
 #EXTVLCOPT:http-origin=https://pkpakiplay.xyz/
 https://zekonew.koskoros.ru/zeko/premium365/mono.m3u8|referer=https://pkpakiplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
-#EXTINF:-1 tvg-name="" tvg-logo="https://iili.io/d9i4ecb.png" group-title="CHANNEL | EUROPEPE",Premier Sports 1 IRL
+#EXTINF:-1 tvg-name="" tvg-logo="https://iili.io/d9i4ecb.png" group-title="CHANNEL | EUROPE",Premier Sports 1 IRL
 #EXTVLCOPT:http-origin=https://pkpakiplay.xyz/
 https://ddy6new.koskoros.ru/ddy6/premium771/mono.m3u8|referer=https://pkpakiplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
-#EXTINF:-1 tvg-name="" tvg-logo="https://iili.io/d9i4tHv.png" group-title="CHANNEL | EUROPEPE",Premier Sports 2 IRL
+#EXTINF:-1 tvg-name="" tvg-logo="https://iili.io/d9i4tHv.png" group-title="CHANNEL | EUROPE",Premier Sports 2 IRL
 #EXTVLCOPT:http-origin=https://pkpakiplay.xyz/
 https://zekonew.koskoros.ru/zeko/premium799/mono.m3u8|referer=https://pkpakiplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
 FRA
 
-#EXTINF:-1 tvg-name="" tvg-logo="https://images.seeklogo.com/logo-png/2/2/canal-logo-png_seeklogo-25587.png" group-title="CHANNEL | EUROPEPE",Canal+ FRA
+#EXTINF:-1 tvg-name="" tvg-logo="https://w7.pngwing.com/pngs/922/548/png-transparent-canal-hd-logo.png" group-title="CHANNEL | EUROPE",Canal+ FRA
 #EXTVLCOPT:http-origin=https://pkpakiplay.xyz/
 https://windnew.koskoros.ru/wind/premium121/mono.m3u8|referer=https://pkpakiplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
-#EXTINF:-1 tvg-name="" tvg-logo="https://images.seeklogo.com/logo-png/48/1/canal-sport-logo-png_seeklogo-481264.png" group-title="CHANNEL | EUROPEPE",Canal+ Sport FRA
+#EXTINF:-1 tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Canal%2B_Sport_PL_2009.png" group-title="CHANNEL | EUROPE",Canal+ Sport FRA
 #EXTVLCOPT:http-origin=https://pkpakiplay.xyz/
 https://windnew.koskoros.ru/wind/premium122/mono.m3u8|referer=https://pkpakiplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
-#EXTINF:-1 tvg-name="" tvg-logo="https://images.seeklogo.com/logo-png/48/1/canal-sport-logo-png_seeklogo-481264.png" group-title="CHANNEL | EUROPEPE",Canal+ Foot FRA
+#EXTINF:-1 tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Canal%2BFoot.png/280px-Canal%2BFoot.png" group-title="CHANNEL | EUROPE",Canal+ Foot FRA
 #EXTVLCOPT:http-origin=https://pkpakiplay.xyz/
 https://windnew.koskoros.ru/wind/premium463/mono.m3u8|referer=https://pkpakiplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
-#EXTINF:-1 tvg-name="" tvg-logo="https://images.seeklogo.com/logo-png/48/1/canal-sport-logo-png_seeklogo-481264.png" group-title="CHANNEL | EUROPEPE",Canal+ Sport360 FRA
+#EXTINF:-1 tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/Canal%2BSport_360.png" group-title="CHANNEL | EUROPE",Canal+ Sport360 FRA
 #EXTVLCOPT:http-origin=https://pkpakiplay.xyz/
 https://windnew.koskoros.ru/wind/premium464/mono.m3u8|referer=https://pkpakiplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
-#EXTINF:-1 tvg-name="" tvg-logo="https://images.seeklogo.com/logo-png/48/1/canal-sport-logo-png_seeklogo-481264.png" group-title="CHANNEL | EUROPEPE",CANAL+ MotoGP FRA
+#EXTINF:-1 tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/Canal%2B_Polska_2004_logo.png" group-title="CHANNEL | EUROPE",CANAL+ MotoGP FRA
 #EXTVLCOPT:http-origin=https://pkpakiplay.xyz/
 https://zekonew.koskoros.ru/zeko/premium271/mono.m3u8|referer=https://pkpakiplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
-#EXTINF:-1 tvg-name="" tvg-logo="https://images.seeklogo.com/logo-png/48/1/canal-sport-logo-png_seeklogo-481264.png" group-title="CHANNEL | EUROPEPEPE",Canal+ Formula 1 FRA
+#EXTINF:-1 tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/Canal%2B_Polska_2004_logo.png" group-title="CHANNEL | EUROPE",Canal+ Formula 1 FRA
 #EXTVLCOPT:http-origin=https://pkpakiplay.xyz/
 https://zekonew.koskoros.ru/zeko/premium273/mono.m3u8|referer=https://pkpakiplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2015/03/14121037/TV5_Style_HD.jpg" group-title="CHANNEL | EUROPEPE",TV5 Monde Style FRA
+#EXTINF:-1 tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2015/03/14121037/TV5_Style_HD.jpg" group-title="CHANNEL | EUROPE",TV5 Monde Style FRA
 https://op-group1-swiftservehd-1.dens.tv/h/h216/02.m3u8
 
-#EXTINF:-1 group-title="CHANNEL | EUROPEPE" tvg-logo="https://w7.pngwing.com/pngs/573/795/png-transparent-france-tv5monde-television-channel-streaming-media-france-television-blue-text.png", TV5 Monde Asie FRA
+#EXTINF:-1 group-title="CHANNEL | EUROPE" tvg-logo="https://w7.pngwing.com/pngs/573/795/png-transparent-france-tv5monde-television-channel-streaming-media-france-television-blue-text.png", TV5 Monde Asie FRA
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=11d67d0e8b2a455a8358d3d3a23e7529:d5308e3b12a529c959beab1cddacdec4
 https://atemeshield1-voe.sysln.id/live/eds/TV5Monde/mpd/TV5Monde.mpd
 
-#EXTINF:-1 tvg-name="" tvg-logo=" " group-title="CHANNEL | EUROPEPE",Eurosport 1 FRA
+#EXTINF:-1 tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Eurosport_Logo_2015.svg/250px-Eurosport_Logo_2015.svg.png" group-title="CHANNEL | EUROPE",Eurosport 1 FRA
 #EXTVLCOPT:http-origin=https://pkpakiplay.xyz/
 https://ddy6new.koskoros.ru/ddy6/premium772/mono.m3u8|referer=https://pkpakiplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
-#EXTINF:-1 tvg-name="" tvg-logo=" " group-title="CHANNEL | EUROPEPE",Eurosport 2 FRA
+#EXTINF:-1 tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Eurosport_Logo_2015.svg/250px-Eurosport_Logo_2015.svg.png" group-title="CHANNEL | EUROPE",Eurosport 2 FRA
 #EXTVLCOPT:http-origin=https://pkpakiplay.xyz/
 https://ddy6new.koskoros.ru/ddy6/premium773/mono.m3u8|referer=https://pkpakiplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
-#EXTINF:-1 tvg-name="" tvg-logo=" " group-title="CHANNEL | EUROPEPE",BeIN Sports 1 FRA
+#EXTINF:-1 tvg-name="" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-1-qa-fr.png" group-title="CHANNEL | EUROPE",BeIN Sports 1 FRA
 #EXTVLCOPT:http-origin=https://pkpakiplay.xyz/
 https://zekonew.koskoros.ru/zeko/premium116/mono.m3u8|referer=https://pkpakiplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
-#EXTINF:-1 tvg-name="" tvg-logo=" " group-title="CHANNEL | EUROPEPE",BeIN Sports 2 FRA
+#EXTINF:-1 tvg-name="" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-2-qa.png" group-title="CHANNEL | EUROPE",BeIN Sports 2 FRA
 #EXTVLCOPT:http-origin=https://pkpakiplay.xyz/
 https://zekonew.koskoros.ru/zeko/premium117/mono.m3u8|referer=https://pkpakiplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
-#EXTINF:-1 tvg-name="" tvg-logo=" " group-title="CHANNEL | EUROPEPE",BeIN Sports 3 FRA
+#EXTINF:-1 tvg-name="" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-3-qa.png" group-title="CHANNEL | EUROPE",BeIN Sports 3 FRA
 #EXTVLCOPT:http-origin=https://pkpakiplay.xyz/
 https://zekonew.koskoros.ru/zeko/premium118/mono.m3u8|referer=https://pkpakiplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
-#EXTINF:-1 tvg-name="" tvg-logo=" " group-title="CHANNEL | EUROPEPE",L'Equipe FRA
+#EXTINF:-1 tvg-name="" tvg-logo="https://logowik.com/content/uploads/images/lequipe9468.logowik.com.webp" group-title="CHANNEL | EUROPE",L'Equipe FRA
 #EXTVLCOPT:http-origin=https://pkpakiplay.xyz/
 https://dokko1new.koskoros.ru/dokko1/premium645/mono.m3u8|referer=https://pkpakiplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
-#EXTINF:-1 tvg-name="" tvg-logo=" " group-title="CHANNEL | EUROPEPE",M6 FRA
+#EXTINF:-1 tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZez-6GPP33oVLe5hot8wBa89eoB_F4ErZAA&s" group-title="CHANNEL | EUROPE",M6 FRA
 #EXTVLCOPT:http-origin=https://pkpakiplay.xyz/
 https://windnew.koskoros.ru/wind/premium470/mono.m3u8|referer=https://pkpakiplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
-#EXTINF:-1 tvg-name="" tvg-logo=" " group-title="CHANNEL | EUROPEPE",RMC Sport 1 FRA
+#EXTINF:-1 tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3b/Logo_RMC_Sport_1_2018.svg/revision/latest/scale-to-width-down/300?cb=20191012125536" group-title="CHANNEL | EUROPE",RMC Sport 1 FRA
 #EXTVLCOPT:http-origin=https://pkpakiplay.xyz/
 https://zekonew.koskoros.ru/zeko/premium119/mono.m3u8|referer=https://pkpakiplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
-#EXTINF:-1 tvg-name="" tvg-logo=" " group-title="CHANNEL | EUROPE",RMC Sport 2 FRA
+#EXTINF:-1 tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3b/Logo_RMC_Sport_1_2018.svg/revision/latest/scale-to-width-down/300?cb=20191012125536" group-title="CHANNEL | EUROPE",RMC Sport 2 FRA
 #EXTVLCOPT:http-origin=https://pkpakiplay.xyz/
 https://ddy6new.koskoros.ru/ddy6/premium120/mono.m3u8|referer=https://pkpakiplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
