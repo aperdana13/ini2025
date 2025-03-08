@@ -321,6 +321,10 @@ http://op-group1-swiftservehd-1.dens.tv/h/h193/index.m3u8?app_type=web&amp;useri
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 http://op-group1-swiftservehd-1.dens.tv/h/h18/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=My_Cinema_Europe_HD
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Rk6GYS6d/pluto-fantastic.png" group-title="CHANNEL | ENTERTAINMENT",Pluto TV Fantastic
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5b64a245a202b3337f09e51d/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2aed45-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=46d9eb84-1a99-477f-99be-7f761b922cd2&serverSideAds=false&checkedby:iptvcat.com
+
 # CHANNEL | LIFESTYLE
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/xSH0Mv5r/afn.png" group-title="CHANNEL | LIFESTYLE",Asian Food Network
@@ -356,6 +360,9 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/TLCHD/mpd/TLCHD.mpd
 #KODIPROP:inputstream.adaptive.license_key=2c8ff6307bf94b408b9759d7cdb6e95e:50fede3d058915c8ddaa43721d52ec69
 https://atemecdnbalancer-voe.sysln.id/live/eds/LifetimeHD/mpd/LifetimeHD.mpd
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/dnBK4QN/hgtv.png" group-title="CHANNEL | LIFESTYLE",HGTV
+https://mediapackage-hgtv-source.fullscreen.nz/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/d0XyM7Dr/fashiontv.png" group-title="CHANNEL | LIFESTYLE",Fashion TV
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/Streaming/lifestyle/fashiontv.m3u8
 
@@ -383,9 +390,6 @@ http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/manifest.
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/C3ZYMSjs/dens-lifestyle.png" group-title="CHANNEL | LIFESTYLE",Dens Life & Style
 https://op-group1-swiftservehd-1.dens.tv/h/h222/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/dnBK4QN/hgtv.png" group-title="CHANNEL | LIFESTYLE",HGTV
-https://mediapackage-hgtv-source.fullscreen.nz/index.m3u8
-
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/Tqn7LX7z/crematv.png" group-title="CHANNEL | LIFESTYLE",Crema TV
@@ -397,55 +401,60 @@ http://op-group1-swiftservehd-1.dens.tv/h/h202/index.m3u8?app_type=web&amp;useri
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 group-title="CHANNEL | KNOWLEDGE" tvg-logo="https://github.com/Qingtvnew/test/raw/main/bbc-earth.png", BBC Earth
+#EXTINF:-1 group-title="CHANNEL | KNOWLEDGE" tvg-logo="https://i.ibb.co.com/wxR4BsD/bbc-earth.png", BBC Earth
 https://cempedak-live-cdn.mncnow.id/live/eds/BBCEarth-HD/sa_dash_vmx/BBCEarth-HD.mpd
 
-#EXTINF:-1 tvg-logo="https://images.indihometv.com/assets/DISCOVERYASIA-OTT-135-BW.png" group-title="CHANNEL | KNOWLEDGE",Discovery Asia
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/dsT3KqmR/discovery-asia.png" group-title="CHANNEL | KNOWLEDGE",Discovery Asia
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=27c8a08eabcd4bbc88eda3690cbf6aaf:bb078e32f6df14ca97bff5b8aee8caf5
 https://atemeshield1-voe.sysln.id/live/eds/DiscoveryAsiaHD/mpd/DiscoveryAsiaHD.mpd
 
-#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/482/735/png-transparent-discovery-channel-television-channel-logo-television-show-others-television-globe-logo.png" group-title="CHANNEL | KNOWLEDGE",Discovery Channel
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Pvg5K3B2/discovery-channel.png" group-title="CHANNEL | KNOWLEDGE",Discovery Channel
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=00cff33589a6468eb98e4db7aad46ca0:53bb2de4f3a4ed84661e4fc527a1fc09
 https://atemecdnbalancer-voe.sysln.id/live/eds/DiscoveryHD/mpd/DiscoveryHD.mpd
 
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
-#EXTINF:-1 tvg-logo="https://static.mncnow.id/images/channel/e23a351e/790d_r32.jpg" group-title="CHANNEL | KNOWLEDGE",Global Trekker
-https://cempedak-live-cdn.mncnow.id/live/eds/Globaltrekker/sa_dash_vmx/Globaltrekker.mpd
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/DHBb7mqc/discovery-channel-usa.png" group-title="CHANNEL | KNOWLEDGE",Discovery Channel
+#EXTVLCOPT:http-origin=https://pkpakiplay.xyz/
+https://zekonew.koskoros.ru/zeko/premium313/mono.m3u8|referer=https://pkpakiplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/022/50022-SNAPSHOT-l.png" group-title="CHANNEL | KNOWLEDGE",History
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/Vcf5f9sQ/discovery-family-usa.png" group-title="CHANNEL | KNOWLEDGE",Discovery Family
+#EXTVLCOPT:http-origin=https://pkpakiplay.xyz/
+https://dokko1new.koskoros.ru/dokko1/premium657/mono.m3u8|referer=https://pkpakiplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/tTcp51q7/discovery-life-usa.png" group-title="CHANNEL | KNOWLEDGE",Discovery Life
+#EXTVLCOPT:http-origin=https://pkpakiplay.xyz/
+https://zekonew.koskoros.ru/zeko/premium311/mono.m3u8|referer=https://pkpakiplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Sciense" tvg-logo="https://i.ibb.co.com/fdtR7Q4x/discovery-science-usa.png" group-title="CHANNEL | KNOWLEDGE", Discovery Sciense
+https://fl3.moveonjoy.com/Discovery_Science/index.m3u8
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/0RcYTLfL/discovery-velocity-usa.png" group-title="CHANNEL | KNOWLEDGE",Discovery Velocity
+#EXTVLCOPT:http-origin=https://pkpakiplay.xyz/
+https://ddy6new.koskoros.ru/ddy6/premium285/mono.m3u8|referer=https://pkpakiplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/4Zr1k1yC/natgeo-usa.png" group-title="CHANNEL | KNOWLEDGE",National Geographic
+#EXTVLCOPT:http-origin=https://pkpakiplay.xyz/
+https://zekonew.koskoros.ru/zeko/premium328/mono.m3u8|referer=https://pkpakiplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/v6vGJktP/history.png" group-title="CHANNEL | KNOWLEDGE",History
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=bf7ec2974fa14a248e338280a6e64cb8:7e81ae9282d08881e304aa527a1d7e72
 https://atemecdnbalancer-voe.sysln.id/live/eds/HistoryHD/mpd/HistoryHD.mpd
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBA2200005ZA_20230426T015613SQUARE.png_20230426015614.png" group-title="CHANNEL | KNOWLEDGE",History Hit
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/BdkbFg7/history-hit.png" group-title="CHANNEL | KNOWLEDGE",History Hit
 https://ldsaaaaaa-timeline-samsung-uk-azlgu.amagi.tv/playlist/ldsAAAAAA-timeline-samsung-uk/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
-#EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 group-title="CHANNEL | KNOWLEDGE" tvg-logo="https://github.com/Qingtvnew/test/raw/main/CGTN-Documentary.png", CGTN Documentary
-http://cempedak-live-cdn.mncnow.id/live/eds/CGTN_Doc/sa_dash_vmx/CGTN_Doc.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
-#EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 group-title="CHANNEL | KNOWLEDGE" tvg-logo="https://github.com/Qingtvnew/test/raw/main/CI.png", Crime Investigation
-http://cempedak-live-cdn.mncnow.id/live/eds/CrimeInvestigation/sa_dash_vmx/CrimeInvestigation.mpd
 
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://www.dens.tv/images/channel-logo/1.jpg" group-title="CHANNEL | KNOWLEDGE",Dens Knowledge
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/tpsnRw9w/dens-knowledge.png" group-title="CHANNEL | KNOWLEDGE",Dens Knowledge
 https://op-group1-swiftservehd-1.dens.tv/h/h236/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/DMAX_-_Logo_2016.svg/1200px-DMAX_-_Logo_2016.svg.png" group-title="CHANNEL | KNOWLEDGE",DMAX TV 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/LXtgpkPd/dmax.png" group-title="CHANNEL | KNOWLEDGE",DMAX TV 
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=62fae935e91c4e8d9e835a294ea81909:328cfed51cba1bfa41f1bda219ceeff8
@@ -454,46 +463,65 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/DMAXHD/mpd/DMAXHD.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/647/647-LOGO-m.png" group-title="CHANNEL | KNOWLEDGE",Outdoor
-https://cempedak-live-cdn.mncnow.id/live/eds/outdoorchannel/sa_dash_vmx/outdoorchannel.mpd
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA300017PK_20240520T222742SQUARE.png" group-title="CHANNEL | KNOWLEDGE",Pluto TV Fantastic
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5b64a245a202b3337f09e51d/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2aed45-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=46d9eb84-1a99-477f-99be-7f761b922cd2&serverSideAds=false&checkedby:iptvcat.com
-
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/7ab9a956d38f2361c92545120dee2a95.webp" group-title="CHANNEL | KNOWLEDGE", | RT Documentary
-https://rt-rtd.rttv.com/dvr/rtdoc/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://blueantmedia.com/wp-content/uploads/2020/04/Smithsonian-Transparent.png" group-title="CHANNEL | KNOWLEDGE", Smithsonian Channel
-http://117tv.icu:8080/live/X5xRz0/944877/47369.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD1100001UI_20240904T162714SQUARE.png" group-title="CHANNEL | KNOWLEDGE",World War TV
-https://amg00841-aenetworksukane-worldwartv-samsunguk-fiod1.amagi.tv/playlist/amg00841-aenetworksukane-worldwartv-samsunguk/playlist.m3u8
+#EXTINF:-1 group-title="CHANNEL | KNOWLEDGE" tvg-logo="https://i.ibb.co.com/bMV758WC/cgtn-documentary.png", CGTN Documentary
+http://cempedak-live-cdn.mncnow.id/live/eds/CGTN_Doc/sa_dash_vmx/CGTN_Doc.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 group-title="CHANNEL | KNOWLEDGE" tvg-logo="https://bit.ly/40bjwNy", Love Nature
+#EXTINF:-1 group-title="CHANNEL | KNOWLEDGE" tvg-logo="https://i.ibb.co.com/WWVTmX4s/crime-investigation.png", Crime Investigation
+http://cempedak-live-cdn.mncnow.id/live/eds/CrimeInvestigation/sa_dash_vmx/CrimeInvestigation.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/MyBSSDyJ/rt-documentary.png" group-title="CHANNEL | KNOWLEDGE", | RT Documentary
+https://rt-rtd.rttv.com/dvr/rtdoc/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/RpCd3Zp8/smithsonian-channel.png" group-title="CHANNEL | KNOWLEDGE", Smithsonian Channel
+http://117tv.icu:8080/live/X5xRz0/944877/47369.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/m5fJ3zB0/world-war.png" group-title="CHANNEL | KNOWLEDGE",World War TV
+https://amg00841-aenetworksukane-worldwartv-samsunguk-fiod1.amagi.tv/playlist/amg00841-aenetworksukane-worldwartv-samsunguk/playlist.m3u8
+
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/TxnQsRbN/global-trekker.png" group-title="CHANNEL | KNOWLEDGE",Global Trekker
+https://cempedak-live-cdn.mncnow.id/live/eds/Globaltrekker/sa_dash_vmx/Globaltrekker.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/DHjVT8LB/outdoor-channel.png" group-title="CHANNEL | KNOWLEDGE",Outdoor Channel
+https://cempedak-live-cdn.mncnow.id/live/eds/outdoorchannel/sa_dash_vmx/outdoorchannel.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 group-title="CHANNEL | KNOWLEDGE" tvg-logo="https://i.ibb.co.com/pc8XJqp/love-nature.png", Love Nature
 #http://cempedak-live-cdn.mncnow.id/live/eds/NatGeoWild/sa_dash_vmx/NatGeoWild.mpd
 https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/694/46/png-clipart-animal-planet-logo-icons-logos-emojis-iconic-brands.png" group-title="CHANNEL | KNOWLEDGE",Animal Planet
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/yFr1rQzh/natgeo-wild-usa.png" group-title="CHANNEL | KNOWLEDGE",Nat Geo Wild
+#EXTVLCOPT:http-origin=https://pkpakiplay.xyz/
+https://zekonew.koskoros.ru/zeko/premium745/mono.m3u8|referer=https://pkpakiplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/fzGqwTXb/animal-planet.png" group-title="CHANNEL | KNOWLEDGE",Animal Planet
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fe0d35dd7f2045e58bfdfeea879a8ae9:6a61e84d6c9147aa68c06d68f1d7b218
 https://atemecdnbalancer-voe.sysln.id/live/eds/AnimalPlanetHD/mpd/AnimalPlanetHD.mpd
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/sRhcqHT/realwild.png" group-title="CHANNEL | KNOWLEDGE",Real Wild 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/99bKwyc3/real-wild.png" group-title="CHANNEL | KNOWLEDGE",Real Wild 
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-realwild-tcl/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_pandatv_small.png" group-title="CHANNEL | KNOWLEDGE",Panda TV 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/mF9JkLNK/pandatv.png" group-title="CHANNEL | KNOWLEDGE",Panda TV 
 https://cdn08jtedge.indihometv.com/dassdvr/130/pandatv/manifest.mpd
 https://cdn09jtedge.indihometv.com/joss/130/pandatv/index.m3u8?c
 
 # CHANNEL | MUSIC
 
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/950/49950-SNAPSHOT-l.png" group-title="CHANNEL | MUSIC",MTV 90's
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/bgLNh5xg/mtv90s.png" group-title="CHANNEL | MUSIC",MTV 90's
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e83b7a7c66c941d48dfd393086077745:71f4a249b41cb62db6164b47fb22722f
@@ -502,154 +530,145 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/MTV90sHD/mpd/MTV90sHD.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5b9753643572b0c6c467793b50900029:ebeda1cf36dae2b0bdedf1065129ea93
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/668/668-LOGO-m.png" group-title="CHANNEL | MUSIC",MTV Live
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/RpwggLcN/mtv-live.png" group-title="CHANNEL | MUSIC",MTV Live
 https://cempedak-live-cdn.mncnow.id/live/eds/MTV/sa_dash_vmx/MTV.mpd
 
-#EXTINF:-1 group-title="CHANNEL | MUSIC" tvg-logo="https://i.iheart.com/v3/re/new_assets/0a01b40d-6206-49dd-85f4-06d89f5f2065?ops=fit(480%2C480)",IHeart 80s
-https://iheart-iheart80s-1-us.roku.wurl.tv/playlist.m3u8
-
-#EXTINF:-1 group-title="CHANNEL | MUSIC" tvg-logo="https://i.iheart.com/v3/re/new_assets/329ab2f0-5d1a-4e71-9f9a-e6d5674ad982",IHeart 90s
-https://iheart-iheart90s-1-us.roku.wurl.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://tv.assets.pressassociation.io/99435f7c-81dc-5fd1-b98d-0cec084d136e.png" group-title="CHANNEL | MUSIC",Now 70
-https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://tv.assets.pressassociation.io/6b00bdca-a5b6-5aac-b586-08cdfedae2c3.png" group-title="CHANNEL | MUSIC",Now 80
-https://lightning-now80s-samsunguk.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://tv.assets.pressassociation.io/352ea371-76bc-5b7b-a3d5-0f21b5e67fe5.png" group-title="CHANNEL | MUSIC",Now Rock
-https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
-
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5d14fd1a252d35decbc4080c/colorLogoPNG.png" group-title="CHANNEL | MUSIC",MTV Biggest Pop
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/V0ZVkmps/mtv-biggest-pop.png" group-title="CHANNEL | MUSIC",MTV Biggest Pop
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65410176770cf1000866bf31/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7b17f7-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=bcf56774-6379-4d92-a0d3-c5c517f6e994&serverSideAds=false
 #https://jmp2.uk/PlutoTV/5d14fd1a252d35decbc4080c-alt.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/635bfb89b5cd9b0007ca9d63/colorLogoPNG.png" group-title="CHANNEL | MUSIC",MTV Classic
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1JscfbZd/mtv-clasic.png" group-title="CHANNEL | MUSIC",MTV Classic
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/654100b4bdf3cf0008aa49c7/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7b17f8-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=0f6e1478-21f2-4086-89a2-f5bf724e1c45&serverSideAds=false
 #https://jmp2.uk/PlutoTV/635bfb89b5cd9b0007ca9d63-alt.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-#EXTINF:-1 tvg-logo="" group-title="CHANNEL | MUSIC",MTV Music
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/G4WMXp87/mtv-music.png" group-title="CHANNEL | MUSIC",MTV Music
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6245d15062cd1f00070a2338/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1ec342-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=a56dace8-66e4-4b9a-a55f-d5348160dae2&serverSideAds=false
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/62430270d6394a0007ef24a6/colorLogoPNG.png" group-title="CHANNEL | MUSIC",MTV Love
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/93YWxdZ8/mtv-love.png" group-title="CHANNEL | MUSIC",MTV Love
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/619b80acac5329000740c022/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7b17f8-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=0f6e1478-21f2-4086-89a2-f5bf724e1c45&serverSideAds=false
 #https://jmp2.uk/PlutoTV/62430270d6394a0007ef24a6-alt.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6331a50a0eba1900080bd911/colorLogoPNG.png" group-title="CHANNEL | MUSIC",MTV Movie Hits
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/0y4QcwKc/mtv-movie.png" group-title="CHANNEL | MUSIC",MTV Movie Hits
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6331a50a0eba1900080bd911/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7b17f8-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=0f6e1478-21f2-4086-89a2-f5bf724e1c45&serverSideAds=false
 #https://jmp2.uk/PlutoTV/62a067e7c65ff60007b40874-alt.m3u8
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/64c10558060e830008ed1b0a/colorLogoPNG.png" group-title="CHANNEL | MUSIC",MTV Raps Classic
-#https://jmp2.uk/PlutoTV/64c10558060e830008ed1b0a-alt.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/624303598e45140007d765c1/colorLogoPNG.png" group-title="CHANNEL | MUSIC",MTV Rocks
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+(KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/n8kKHQXf/mtv-rocks.png" group-title="CHANNEL | MUSIC",MTV Rocks
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/638f2e06cc9fc2000798c410/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7b17f8-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=0f6e1478-21f2-4086-89a2-f5bf724e1c45&serverSideAds=false
 #https://jmp2.uk/PlutoTV/624303598e45140007d765c1-alt.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/635bfb89b5cd9b0007ca9d63/colorLogoPNG.png" group-title="CHANNEL | MUSIC",MTV Spankin' New
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6541010f770cf1000866be98/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7b3f02-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=7c3402af-f54f-4488-b74f-62b1998013e4&serverSideAds=false
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d14fdb8ca91eedee1633117/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7b3f02-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=7c3402af-f54f-4488-b74f-62b1998013e4&serverSideAds=false
-#https://jmp2.uk/PlutoTV/5d14fdb8ca91eedee1633117-alt.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/65a6939b4a10d800085cee92/colorLogoPNG.png" group-title="CHANNEL | MUSIC",MTV: Best of
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Lh9vgQF3/mtv-bestof.png" group-title="CHANNEL | MUSIC",MTV Best of
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65a6939b4a10d800085cee92/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7b3f02-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=7c3402af-f54f-4488-b74f-62b1998013e4&serverSideAds=false
 #https://jmp2.uk/PlutoTV/65a6939b4a10d800085cee92-alt.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ca672f515a62078d2ec0ad2/colorLogoPNG.png" group-title="CHANNEL | MUSIC",MTV Pluto TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/5WdP5vW1/mtv-pluto.png" group-title="CHANNEL | MUSIC",MTV Pluto TV
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ca672f515a62078d2ec0ad2/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7b3f02-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=7c3402af-f54f-4488-b74f-62b1998013e4&serverSideAds=false
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSceKBfzjFFmJRyqS9gAgBD4DRBk_9qaDpo0A&usqp=CAU" group-title="CHANNEL | MUSIC" tvg-id="" tvg-name="", MTV Spankin New
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/bj6SjvPj/mtv-spankin.png" group-title="CHANNEL | MUSIC" tvg-id="" tvg-name="", MTV Spankin New
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
 #EXTVLCOPT:network-caching=10
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d14fdb8ca91eedee1633117/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD300012YC_20240520T212858SQUARE.png" group-title="CHANNEL | MUSIC",Vevo '80s
+#EXTINF:-1 group-title="CHANNEL | MUSIC" tvg-logo="https://i.ibb.co.com/wr2jFNVm/iheart80s.png",IHeart 80s
+https://iheart-iheart80s-1-us.roku.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="CHANNEL | MUSIC" tvg-logo="https://i.ibb.co.com/4wXSDrCY/iheart90s.png",IHeart 90s
+https://iheart-iheart90s-1-us.roku.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/BKqpSqxy/now70s.png" group-title="CHANNEL | MUSIC",Now 70
+https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/DfMMGPc1/now80s.png" group-title="CHANNEL | MUSIC",Now 80
+https://lightning-now80s-samsunguk.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/S7whTb92/now-rock.png" group-title="CHANNEL | MUSIC",Now Rock
+https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/JWmGDM0M/vevo80s.png" group-title="CHANNEL | MUSIC",Vevo '80s
 https://d36tolctzl3cf9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ooxwuk06xi7af/playlist.m3u8
 #https://jmp2.uk/SamsungTVPlus/USBD300012YC.m3u8
 
-#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3000133M_20240520T212900SQUARE.png" group-title="CHANNEL | MUSIC",Vevo '90s
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/spYYZ7gJ/vevo90s.png" group-title="CHANNEL | MUSIC",Vevo '90s
 https://d36vl7sxn34m5q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-m63zgwps7b87g/playlist.m3u8
 #https://jmp2.uk/SamsungTVPlus/USBD3000133M.m3u8
 
-#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD120002431_20240520T212902SQUARE.png" group-title="CHANNEL | MUSIC",Vevo 2010s
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/XxNTZPy5/vevo2010.png" group-title="CHANNEL | MUSIC",Vevo 2010s
 https://d21cpy4ek4aipj.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gchcemfivgmyw/playlist.m3u8
 #https://jmp2.uk/SamsungTVPlus/USBD120002431.m3u8
 
-#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB4400015F5_20240520T212904SQUARE.png" group-title="CHANNEL | MUSIC",Vevo 2K
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/LhqjB8CT/vevo2k.png" group-title="CHANNEL | MUSIC",Vevo 2K
 https://d2yhuqxy1ky6ij.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bel4aqksrgol2-ssai-prd/playlist.m3u8
 #https://jmp2.uk/SamsungTVPlus/USBB4400015F5.m3u8
 
-#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD1200008GL_20240520T212908SQUARE.png" group-title="CHANNEL | MUSIC",Vevo Features
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/MyfVmsPN/vevo-features.png" group-title="CHANNEL | MUSIC",Vevo Features
 https://d281w17vgfepv6.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-00dgfxdry0m4p/playlist.m3u8
 #https://jmp2.uk/SamsungTVPlus/USBD1200008GL.m3u8
 
-#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC3600008WY_20240520T212914SQUARE.png" group-title="CHANNEL | MUSIC",Vevo Pop
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQXWThXS/vevo-pop.png" group-title="CHANNEL | MUSIC",Vevo Pop
 https://d28edobz3hqdpi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-shs19slqofvwj-ssai-prd/playlist.m3u8
 #https://jmp2.uk/SamsungTVPlus/USBC3600008WY.m3u8
 
-#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3000145P_20240520T212918SQUARE.png" group-title="CHANNEL | MUSIC",Vevo Retro Rock
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/5x63XLFC/vevo-rock.png" group-title="CHANNEL | MUSIC",Vevo Retro Rock
 https://d1uttzwuh34h7x.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-5wuvgw5l0sw7j/playlist.m3u8
 #https://jmp2.uk/SamsungTVPlus/USBD3000145P.m3u8
 
-#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB320000647_20240702T044851SQUARE.png" group-title="CHANNEL | MUSIC",XITE 80s Flashback
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/pBK75hhc/xite80s.png" group-title="CHANNEL | MUSIC",XITE 80s Flashback
 https://dw0oa71jud5ry.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/usbb320000647-prod/amg80rewind/playlist.m3u8
 #https://jmp2.uk/SamsungTVPlus/USBB320000647.m3u8
 
-#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB3200007AK_20240702T044853SQUARE.png" group-title="CHANNEL | MUSIC",XITE 90s Throwback
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/C5Zn2NFF/xite90s.png" group-title="CHANNEL | MUSIC",XITE 90s Throwback
 https://d3fr64zqebnqn3.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/usbb3200007ak-prod/amg90rock/playlist.m3u8
 #https://jmp2.uk/SamsungTVPlus/USBB3200007AK.m3u8
 
-#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD350003932_20240401T235814SQUARE.png" group-title="CHANNEL | MUSIC",XITE Celebrates
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/XfpbPb7j/xite-celebrates.png" group-title="CHANNEL | MUSIC",XITE Celebrates
 https://d34qgohlfri4qv.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bu0q3qfwex9um/playlist.m3u8
 #https://jmp2.uk/SamsungTVPlus/USBD350003932.m3u8
 
-#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300004RH_20240716T002643SQUARE.png" group-title="CHANNEL | MUSIC",XITE Hits
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/2YHqq56P/xite-hits.png" group-title="CHANNEL | MUSIC",XITE Hits
 https://d3sy3u4ap6305a.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-p6yjzr0wgc2pq/playlist.m3u8
 #https://jmp2.uk/SamsungTVPlus/USBD3300004RH.m3u8
 
-#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300008DG_20231024T231916SQUARE.png_20231024231917.png" group-title="CHANNEL | MUSIC",XITE Only Love
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/nqh6Tgk6/xite-love.png" group-title="CHANNEL | MUSIC",XITE Only Love
 https://d3djdu8hxjprse.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3m6pysw8u03bf/playlist.m3u8
 #https://i.mjh.nz/SamsungTVPlus/USBD3300008DG.m3u8
 
-#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB2300004KV_20240401T235853SQUARE.png" group-title="CHANNEL | MUSIC",XITE Rock On
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/s9Dyp563/xite-rock.png" group-title="CHANNEL | MUSIC",XITE Rock On
 https://dri82941jql2y.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/RockMetal-prod/playlist.m3u8
 #https://i.mjh.nz/SamsungTVPlus/USBB2300004KV.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9a/Traceurban2022.png" group-title="CHANNEL | MUSIC",Trace Urban
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Y4qxJg8d/trace-urban.png" group-title="CHANNEL | MUSIC",Trace Urban
 https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://retromusic.cz/wp-content/uploads/2017/08/retro-logo.png" group-title="CHANNEL | MUSIC",Retro TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1fcfRPJT/retrotv.png" group-title="CHANNEL | MUSIC",Retro TV
 http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8?wmsAuthSign=InspirationLinks
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://i.imgur.com/UKMR625.png" group-title="CHANNEL | MUSIC",Dance
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/hFxQ0Psd/dancetv.png" group-title="CHANNEL | MUSIC",Dance
 https://op-group1-swiftservehd-1.dens.tv/h/h250/index.m3u8
 
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
-#EXTINF:-1 tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1701423611_tvchannels_v1.jpg" group-title="CHANNEL | MUSIC",Stingray Classic
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/G35DhjcZ/stingray.png" group-title="CHANNEL | MUSIC",Stingray Classica
 http://op-group1-swiftservehd-1.dens.tv/h/h229/S4/mnf.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=0bea88ab972e06760a04712cc423d841:4039d607f88f1b1f677e4beb6ee66637
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/667/667-LOGO-m.png" group-title="CHANNEL | MUSIC",Music TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/twCJHnCW/musictv.png" group-title="CHANNEL | MUSIC",Music TV
 https://cempedak-live-cdn.mncnow.id/live/eds/MusicChannel/sa_dash_vmx/MusicChannel.mpd
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FRksPN7F/POP-MUSIK.png" group-title="CHANNEL | MUSIC",Pop Musik
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/67RnCDQF/pop-musik.png" group-title="CHANNEL | MUSIC",Pop Musik
 https://play.accolamedia.id/accola/popmusic.stream/playlist.m3u8
 
 # CHANNEL | SPORTS
@@ -3184,22 +3203,22 @@ https://dokko1new.koskoros.ru/dokko1/premium348/mono.m3u8|referer=https://pkpaki
 #EXTVLCOPT:http-origin=https://pkpakiplay.xyz/
 https://dokko1new.koskoros.ru/dokko1/premium651/mono.m3u8|referer=https://pkpakiplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
-#EXTINF:-1 tvg-name="" tvg-logo=" " group-title="CHANNEL | USA",Discovery Channel
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/DHBb7mqc/discovery-channel-usa.png" group-title="CHANNEL | USA",Discovery Channel
 #EXTVLCOPT:http-origin=https://pkpakiplay.xyz/
 https://zekonew.koskoros.ru/zeko/premium313/mono.m3u8|referer=https://pkpakiplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
-#EXTINF:-1 tvg-name="" tvg-logo=" " group-title="CHANNEL | USA",Discovery Family
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/Vcf5f9sQ/discovery-family-usa.png" group-title="CHANNEL | USA",Discovery Family
 #EXTVLCOPT:http-origin=https://pkpakiplay.xyz/
 https://dokko1new.koskoros.ru/dokko1/premium657/mono.m3u8|referer=https://pkpakiplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
-#EXTINF:-1 tvg-name="" tvg-logo=" " group-title="CHANNEL | USA",Discovery Life
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/tTcp51q7/discovery-life-usa.png" group-title="CHANNEL | USA",Discovery Life
 #EXTVLCOPT:http-origin=https://pkpakiplay.xyz/
 https://zekonew.koskoros.ru/zeko/premium311/mono.m3u8|referer=https://pkpakiplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Sciense" tvg-logo="https://www.lyngsat.com/logo/tv/dd/discovery_family_us.png" group-title="CHANNEL | USA", Discovery Sciense
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Sciense" tvg-logo="https://i.ibb.co.com/fdtR7Q4x/discovery-science-usa.png" group-title="CHANNEL | USA", Discovery Sciense
 https://fl3.moveonjoy.com/Discovery_Science/index.m3u8
 
-#EXTINF:-1 tvg-name="" tvg-logo=" " group-title="CHANNEL | USA",Discovery Velocity CA
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/0RcYTLfL/discovery-velocity-usa.png" group-title="CHANNEL | USA",Discovery Velocity
 #EXTVLCOPT:http-origin=https://pkpakiplay.xyz/
 https://ddy6new.koskoros.ru/ddy6/premium285/mono.m3u8|referer=https://pkpakiplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
@@ -3451,11 +3470,11 @@ https://nfsnew.koskoros.ru/nfs/premium371/mono.m3u8|referer=https://pkpakiplay.x
 #EXTVLCOPT:http-origin=https://pkpakiplay.xyz/
 https://ddy6new.koskoros.ru/ddy6/premium654/mono.m3u8|referer=https://pkpakiplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
-#EXTINF:-1 tvg-name="" tvg-logo=" " group-title="CHANNEL | USA",National Geographic
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/4Zr1k1yC/natgeo-usa.png" group-title="CHANNEL | USA",National Geographic
 #EXTVLCOPT:http-origin=https://pkpakiplay.xyz/
 https://zekonew.koskoros.ru/zeko/premium328/mono.m3u8|referer=https://pkpakiplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
-#EXTINF:-1 tvg-name="" tvg-logo=" " group-title="CHANNEL | USA",Nat Geo Wild
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/yFr1rQzh/natgeo-wild-usa.png" group-title="CHANNEL | USA",Nat Geo Wild
 #EXTVLCOPT:http-origin=https://pkpakiplay.xyz/
 https://zekonew.koskoros.ru/zeko/premium745/mono.m3u8|referer=https://pkpakiplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
