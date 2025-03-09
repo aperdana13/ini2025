@@ -1715,7 +1715,7 @@ https://tonton-live-ssai.akamaized.net/live/2dd2b7cd-1b34-4871-b669-57b5c9beca23
 #EXTINF:-1 group-title="CHANNEL | ASEAN" tvg-id="Dunia Sinema HD"  tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium2.xml" tvg-logo="https://i.ibb.co.com/NdznS8B6/dunia-sinema-my.png",Dunia Sinema MAS
 https://unifi-live01.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
 
-#EXTINF:-1 tvg-id="Okey" tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium1.xml" group-title="CHANNEL | ASEAN" tvg-logo="https://i.ibb.co.com/W4WXk5xN/tvokey-my.png",TV Okey
+#EXTINF:-1 tvg-id="Okey" tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium1.xml" group-title="CHANNEL | ASEAN" tvg-logo="https://i.ibb.co.com/W4WXk5xN/tvokey-my.png",TV Okey MAS
 https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
 
 #EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://i.ibb.co.com/39QXW2t4/tv6-my.png" group-title="CHANNEL | ASEAN",TV 6 MAS
@@ -1734,6 +1734,28 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:berita/manifest.mpd
 
 #EXTINF:-1 tvg-id="AstroAwani.my" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://i.ibb.co.com/C5hd6zJZ/astro-awani-my.png" group-title="CHANNEL | ASEAN",Astro Awani MAS
 https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index.m3u8
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/dwc9PtPv/astro-grandstand.png" group-title="CHANNEL | ASEAN",Astro Grandstand MAS
+#EXTVLCOPT:http-origin=https://pkpakiplay.xyz/
+https://zekonew.koskoros.ru/zeko/premium123/mono.m3u8|referer=https://pkpakiplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/4ZztGW78/astro-football.png" group-title="CHANNEL | ASEAN",Astro Football MAS
+#EXTVLCOPT:http-origin=https://pkpakiplay.xyz/
+https://windnew.koskoros.ru/wind/premium124/mono.m3u8|referer=https://pkpakiplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/XfLNhHht/astro-cricket.png" group-title="CHANNEL | ASEAN",Astro Cricket MAS
+#EXTVLCOPT:http-origin=https://pkpakiplay.xyz/
+https://zekonew.koskoros.ru/zeko/premium370/mono.m3u8|referer=https://pkpakiplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/Mxy3Cm9k/astro-pl.png" group-title="CHANNEL | ASEAN",Astro Premier League 1 MAS
+#EXTVLCOPT:http-origin=https://pkpakiplay.xyz/
+https://zekonew.koskoros.ru/zeko/premium125/mono.m3u8|referer=https://pkpakiplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/Mxy3Cm9k/astro-pl.png" group-title="CHANNEL | ASEAN",Astro Premier League 2 MAS
+#EXTVLCOPT:http-origin=https://pkpakiplay.xyz/
+https://zekonew.koskoros.ru/zeko/premium126/mono.m3u8|referer=https://pkpakiplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+
+SGP
 
 #EXTINF:-1 group-title="CHANNEL | ASEAN" tvg-id="cna.sg" tvg-logo="https://i.ibb.co.com/QFcRJzB2/cna-sg.png",CNA SGP
 #EXTVLCOPT:http-user-agent=mewatch/6.86.102 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
@@ -1754,19 +1776,24 @@ https://tglmp02.akamaized.net/out/v1/423fa206c4ea458ebe83d6edd172eb10/manifest.m
 #KODIPROP:inputstream.adaptive.license_key=981fda1d42aa4d81b367d85794447e2a:61f0b7e53768214d4d56917fbcfc2723
 https://tglmp03.akamaized.net/out/v1/151218455da04a47be327aa14be3e5cb/manifest.mpd
  
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=612eb711dfb444f7a194c5e20d7f7048:b6226449b9ed5066542e6d6ad5ecb346
-#EXTINF:-1 group-title="CHANNEL | ASEAN" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo="https://i.ibb.co.com/3yDhKXJq/oktoholiday-sg.png",Okto Holidays SGP
-https://tglmp03.akamaized.net/out/v1/be732843b7d24bada23e13810282e55f/manifest.mpd
-
 #EXTINF:-1 group-title="CHANNEL | ASEAN" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-id="Suria (HD).sg" tvg-logo="https://i.ibb.co.com/xNhgQkK/suria-sg.png",Suria SGP
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=db646b3742ba42718a28436a1f401aa8:75a545066954b9b7fafa96d72a844e00
 https://tglmp04.akamaized.net/out/v1/00ac947de8174a54bd0f52226115d1db/manifest.mpd
 
-##KODIPROP:inputstream.adaptive.license_type=clearkey
-##KODIPROP:inputstream.adaptive.license_key=9970038ef6c548e39768f3a1ff6f5081:3e19d54b7bcd8bb336776fe136d48f57
-##EXTINF:-1 group-title="CHANNEL | ASEAN" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-id="Vasantham (HD).sg" tvg-logo="https://i.ibb.co.com/KMT3bSn/vasantham-sg.png",Vasantham SGP
+THA
+
+#EXTINF:-1 tvg-name="TRUE P1" tvg-logo="https://i.ibb.co.com/9kfLhtkJ/true-pl1.png" group-title="CHANNEL | ASEAN",True Premier 1 THA
+https://iptv2.wirdy.workers.dev/02_PremierHD1_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-name="TRUE P2" tvg-logo="https://i.ibb.co.com/ycJf8N5K/true-pl2.png" group-title="CHANNEL | ASEAN",True Premier 2 THA
+https://iptv2.wirdy.workers.dev/02_PremierHD2_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-name="TRUE P3" tvg-logo="https://i.ibb.co.com/T9SbD0P/true-pl3.png" group-title="CHANNEL | ASEAN",True Premier 3 THA
+https://iptv2.wirdy.workers.dev/02_PremierHD3_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-name="TRUE P4" tvg-logo="https://i.ibb.co.com/zVrktg5C/true-pl4.png" group-title="CHANNEL | ASEAN",True Premier 4 THA
+https://iptv2.wirdy.workers.dev/02_PremierHD4_720p/chunklist.m3u8
 
 # CHANNEL | ASIAN
 
@@ -1859,6 +1886,17 @@ https://stream01.willfonk.com/live_playlist.m3u8?cid=CS325&r=HD&ccode=JP&m=d0:20
 
 #EXTINF:-1 group-title="CHANNEL | ASIAN" tvg-id="suntv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/SUN-TV_wordmark_2019.png", SUN TV Japan
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS314&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+KSA
+
+#EXTINF:-1 group-title="CHANNEL | ASIAN" tvg-id="aljazeeraenglish.qa" tvg-logo="https://iptv.urfan.web.id/logo/aljazeera.png",Al Jazeera English
+#EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://live-hls-web-aje.getaj.net/AJE/index.m3u8
+
+#EXTINF:-1 group-title="CHANNEL | ASIAN" tvg-id="aljazeera.qa" tvg-logo="https://iptv.urfan.web.id/logo/aljazeera.png",Al Jazeera Arab
+#EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://live-hls-web-aja.getaj.net/AJA/index.m3u8
+
 
 #CHANNEL | AMERICA
 
