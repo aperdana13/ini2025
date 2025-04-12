@@ -1604,20 +1604,6 @@ https://tglmp03.akamaized.net/out/v1/151218455da04a47be327aa14be3e5cb/manifest.m
 #KODIPROP:inputstream.adaptive.license_key=db646b3742ba42718a28436a1f401aa8:75a545066954b9b7fafa96d72a844e00
 https://tglmp04.akamaized.net/out/v1/00ac947de8174a54bd0f52226115d1db/manifest.mpd
 
-THA
-
-#EXTINF:-1 tvg-name="TRUE P1" tvg-logo="https://i.ibb.co.com/9kfLhtkJ/true-pl1.png" group-title="CHANNEL | ASEAN",True Premier 1 TH
-https://iptv2.wirdy.workers.dev/02_PremierHD1_720p/chunklist.m3u8
-
-#EXTINF:-1 tvg-name="TRUE P2" tvg-logo="https://i.ibb.co.com/ycJf8N5K/true-pl2.png" group-title="CHANNEL | ASEAN",True Premier 2 TH
-https://iptv2.wirdy.workers.dev/02_PremierHD2_720p/chunklist.m3u8
-
-#EXTINF:-1 tvg-name="TRUE P3" tvg-logo="https://i.ibb.co.com/T9SbD0P/true-pl3.png" group-title="CHANNEL | ASEAN",True Premier 3 TH
-https://iptv2.wirdy.workers.dev/02_PremierHD3_720p/chunklist.m3u8
-
-#EXTINF:-1 tvg-name="TRUE P4" tvg-logo="https://i.ibb.co.com/zVrktg5C/true-pl4.png" group-title="CHANNEL | ASEAN",True Premier 4 TH
-https://iptv2.wirdy.workers.dev/02_PremierHD4_720p/chunklist.m3u8
-
 # CHANNEL | ASIAN
 
 KOR
@@ -2453,5 +2439,3 @@ https://windnew.koskoros.ru/wind/premium376/mono.m3u8|referer=https://pkpakiplay
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/ns8SstpQ/yestv.png" group-title="CHANNEL | USA",YES Network
 #EXTVLCOPT:http-origin=https://pkpakiplay.xyz/
 https://zekonew.koskoros.ru/zeko/premium763/mono.m3u8|referer=https://pkpakiplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-
-
