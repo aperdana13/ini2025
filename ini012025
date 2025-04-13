@@ -1779,7 +1779,6 @@ http://fl1.moveonjoy.com/ABC_EAST/index.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/4RqsHf6r/abc-ny.png" group-title="CHANNEL | USA",ABC NY
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/rRZ6G250/acc-network.png" group-title="CHANNEL | USA",ACC Network
-http://fl2.moveonjoy.com/ACC_NETWORK/index.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/SD9jjxtC/adult-swim.png" group-title="CHANNEL | USA",Adult Swim
 
@@ -1788,7 +1787,7 @@ http://fl2.moveonjoy.com/ACC_NETWORK/index.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/fdtSryLg/amc.png" group-title="CHANNEL | USA",AMC
 http://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8
 
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="CHANNEL | USA",American Heroes Channel
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/fYNPsJf2/ahc.png" group-title="CHANNEL | USA",American Heroes Channel
 http://fl3.moveonjoy.com/American_Heroes_Channel/index.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/FGv8wmy/animal-planet.png" group-title="CHANNEL | USA",Animal Planet
@@ -1819,19 +1818,19 @@ http://fl2.moveonjoy.com/BET_SOUL/index.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/Z6PjJbSy/bit-network.png" group-title="CHANNEL | USA",BIG TEN Network
 http://fl3.moveonjoy.com/BIG_TEN_NETWORK/index.m3u8
 
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="CHANNEL | USA",Bloomberg
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/TMTZPTfy/bloomberg.png" group-title="CHANNEL | USA",Bloomberg
 http://fl2.moveonjoy.com/BLOOMBERG/index.m3u8
 
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="CHANNEL | USA",Boomerang
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/4n29YY76/boomerang.png" group-title="CHANNEL | USA",Boomerang
 http://fl3.moveonjoy.com/BOOMERANG/index.m3u8
 
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="CHANNEL | USA",Bounce
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/zWD4NyQv/bounce.png" group-title="CHANNEL | USA",Bounce
 http://fl3.moveonjoy.com/BOUNCE_TV/index.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/d0kTQggm/bravo.png" group-title="CHANNEL | USA",Bravo
 http://fl2.moveonjoy.com/BRAVO/index.m3u8
 
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="CHANNEL | USA",Buzzr
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/1J2tKSCt/buzzr.png" group-title="CHANNEL | USA",Buzzr
 http://fl3.moveonjoy.com/Buzzr/index.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/jvCcHmVJ/c-span.png" group-title="CHANNEL | USA",C Span
@@ -1853,13 +1852,13 @@ http://fl2.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/BV3P6X4m/cinemax-usa.png" group-title="CHANNEL | USA",Cinemax
 http://fl5.moveonjoy.com/CINEMAX/index.m3u8
 
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="CHANNEL | USA",Cinemax East
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/KzVLyzNK/cinemax.png" group-title="CHANNEL | USA",Cinemax East
 http://fl2.moveonjoy.com/CINEMAX_EAST/index.m3u8
 
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="CHANNEL | USA",Cinemax West
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/kWM9X68/cinemax-east.png" group-title="CHANNEL | USA",Cinemax West
 http://fl2.moveonjoy.com/CINEMAX_WEST/index.m3u8
 
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="CHANNEL | USA",Cinemax Moremax
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/KzLhdhBj/cinemax-moremax.png" group-title="CHANNEL | USA",Cinemax Moremax
 http://fl3.moveonjoy.com/CINEMAX_MOREMAX/index.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/Jj3Q1kjf/cleotv.png" group-title="CHANNEL | USA",Cleo TV
@@ -1871,15 +1870,12 @@ http://fl3.moveonjoy.com/CMT/index.m3u8
 http://fl3.moveonjoy.com/CNBC/index.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/Lz2QnGhS/cnn.png" group-title="CHANNEL | USA",CNN
-http://fl2.moveonjoy.com/CNN/index.m3u8
-
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="CHANNEL | USA",CNN International
 http://fl2.moveonjoy.com/CNN_INTERNATIONAL/index.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/GvCGd0zF/comedy-central.png" group-title="CHANNEL | USA",Comedy Central
 http://fl3.moveonjoy.com/Comedy_Central/index.m3u8
 
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="CHANNEL | USA",Comedy TV
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/spN4zkcy/comedy-tv.png" group-title="CHANNEL | USA",Comedy TV
 http://fl3.moveonjoy.com/Comedy_TV/index.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/tpQmgNvp/comet.png" group-title="CHANNEL | USA",Comet
@@ -1893,22 +1889,22 @@ http://fl3.moveonjoy.com/COURT_TV/index.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/R4yT6W91/cozitv.png" group-title="CHANNEL | USA",Cozi TV
 http://fl3.moveonjoy.com/COZI_TV/index.m3u8
 
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="CHANNEL | USA",Crave 1
-http://fl3.moveonjoy.com/CRAVE_1/index.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/HDCR42cX/crave1.png" group-title="CHANNEL | USA",Crave 1
+http://fl2.moveonjoy.com/CRAVE_1/index.m3u8
 
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="CHANNEL | USA",Crave 2
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/Y49fcd2x/crave2.png" group-title="CHANNEL | USA",Crave 2
 http://fl2.moveonjoy.com/CRAVE_2/index.m3u8
 
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="CHANNEL | USA",Crave 3
-http://fl3.moveonjoy.com/CRAVE_3/index.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/svKvsc5q/crave3.png" group-title="CHANNEL | USA",Crave 3
+http://fl2.moveonjoy.com/CRAVE_3/index.m3u8
 
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="CHANNEL | USA",Crave 4
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/q30c8qmK/crave4.png" group-title="CHANNEL | USA",Crave 4
 http://fl2.moveonjoy.com/CRAVE_4/index.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/BV95bkY9/crime-investigation.png" group-title="CHANNEL | USA",Crime+ Investigation
 http://fl3.moveonjoy.com/Crime_and_Investigation_Network/index.m3u8
 
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="CHANNEL | USA",Curiosity
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/YFwNKG7J/curiosity.png" group-title="CHANNEL | USA",Curiosity
 http://fl3.moveonjoy.com/Curiosity_Stream/index.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/F4y19gVN/cw.png" group-title="CHANNEL | USA",CW
@@ -1934,38 +1930,28 @@ https://fl3.moveonjoy.com/Discovery_Science/index.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/0RcYTLfL/discovery-velocity-usa.png" group-title="CHANNEL | USA",Discovery Velocity
 
-#EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/Nd2fz89C/disney-channel.png" group-title="CHANNEL | USA",Disney Channel
-http://fl2.moveonjoy.com/DISNEY_CHANNEL/index.m3u8
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/C3G0jChF/disney-jr.png" group-title="CHANNEL | USA",Disney JR
-http://fl2.moveonjoy.com/DISNEY_JR/index.m3u8
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/hJHCRBR6/disney-xd.png" group-title="CHANNEL | USA",Disney XD
-http://fl2.moveonjoy.com/DISNEY_XD/index.m3u8
-
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="CHANNEL | USA",DIY
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/23K1CGxb/diy.png" group-title="CHANNEL | USA",DIY
 http://fl2.moveonjoy.com/DIY/index.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/5gFtK3PZ/E-entertainment.png" group-title="CHANNEL | USA",E! Entertainment
 http://fl2.moveonjoy.com/E_ENTERTAINMENT_TELEVISION/index.m3u8
 
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="CHANNEL | USA",EPIX
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/jZTsB4VL/epix-drive.png" group-title="CHANNEL | USA",EPIX
 http://fl2.moveonjoy.com/EPIX/index.m3u8
 
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="CHANNEL | USA",EPIX 2
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/k6ry5bmR/epix-hits.png" group-title="CHANNEL | USA",EPIX 2
 http://fl2.moveonjoy.com/EPIX_2/index.m3u8
 
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="CHANNEL | USA",EPIX Drive-In
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/ymtLXcHm/epix.png" group-title="CHANNEL | USA",EPIX Drive In
 http://fl2.moveonjoy.com/EPIX_DRIVE_IN/index.m3u8
 
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="CHANNEL | USA",EPIX Hits
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/zW31B0mZ/epix2.png" group-title="CHANNEL | USA",EPIX Hits
 http://fl2.moveonjoy.com/EPIX_HITS/index.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/Fkb7smV8/espn.png" group-title="CHANNEL | USA",ESPN
-http://fl1.moveonjoy.com/ESPN/index.m3u8
+http://fl2.moveonjoy.com/ESPN_2/index.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/chBS1Btq/espn2.png" group-title="CHANNEL | USA",ESPN2
-http://fl2.moveonjoy.com/ESPN_2/index.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/J0Y5d4L/espnU.png" group-title="CHANNEL | USA",ESPN U
 http://fl2.moveonjoy.com/ESPN_U/index.m3u8
@@ -1976,10 +1962,12 @@ http://fl2.moveonjoy.com/ESPN_U/index.m3u8
 http://fl2.moveonjoy.com/ESPN_NEWS/index.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/HDzDBXG3/fashiontv.png" group-title="CHANNEL | USA",Fashion TV
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/Streaming/lifestyle/fashionmidnight.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/HpXVpJsr/fetv.png" group-title="CHANNEL | USA",FETV
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/3YYTds8j/fight-sport.png" group-title="CHANNEL | USA",Fight Network
+https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/20SRKFDj/food-network.png" group-title="CHANNEL | USA",The Food Network
 http://fl2.moveonjoy.com/FOOD_NETWORK/index.m3u8
@@ -1991,22 +1979,18 @@ http://fl1.moveonjoy.com/FOX_EAST/index.m3u8
 http://fl2.moveonjoy.com/FOX_Business_Network/index.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/nSLjKxr/fox-news.png" group-title="CHANNEL | USA",Fox News Channel
-http://fl2.moveonjoy.com/FOX_News_Channel/index.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/rKCJSrJj/fox-ny.png" group-title="CHANNEL | USA",Fox NY
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/Ng7W0VBV/fox-cricket.png" group-title="CHANNEL | USA",Fox Cricket
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/KcNjXnGk/fox-soccer.png" group-title="CHANNEL | USA",Fox Soccer Plus
-http://fl2.moveonjoy.com/FOX_SOCCER_PLUS/index.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/FLFbC9J5/fox-soccer1.png" group-title="CHANNEL | USA",Fox Sports 1
-http://fl2.moveonjoy.com/FOX_Sports_1/index.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/cKfLsSdC/fox-soccer2.png" group-title="CHANNEL | USA",Fox Sports 2
-http://fl2.moveonjoy.com/FOX_Sports_2/index.m3u8
 
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="CHANNEL | USA",Fox Soul
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/DP3YL1Hb/fox-soul.png" group-title="CHANNEL | USA",Fox Soul
 http://fl1.moveonjoy.com/FOX_SOUL/index.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/zWfTdGd4/fox-weather.png" group-title="CHANNEL | USA",Fox Weather Channel
@@ -2031,11 +2015,10 @@ http://fl2.moveonjoy.com/FYI/index.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/nss6nFtW/galavision.png" group-title="CHANNEL | USA",Galavisión
 
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="CHANNEL | USA",Get TV
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/ynkmtxjN/get-tv.png" group-title="CHANNEL | USA",Get TV
 http://fl2.moveonjoy.com/GET_TV/index.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/kvky5ZQ/golf-channel.png" group-title="CHANNEL | USA",Golf Channel
-http://fl2.moveonjoy.com/GOLF_CHANNEL/index.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/DDHzpGvP/grift.png" group-title="CHANNEL | USA",Grit Channel
 http://fl2.moveonjoy.com/GRIT_TV/index.m3u8
@@ -2065,43 +2048,35 @@ http://fl2.moveonjoy.com/HBO_FAMILY/index.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/rKsMx6S5/hbo-europe.png" group-title="CHANNEL | USA",HBO Europe
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/bRNvM9TJ/hbo-zone-usa.png" group-title="CHANNEL | USA",HBO Zone
-http://fl2.moveonjoy.com/HBO_ZONE/index.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/4gwj93d6/hgtv.png" group-title="CHANNEL | USA",HGTV
 http://fl2.moveonjoy.com/HGTV/index.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/pvVW8XFp/history.png" group-title="CHANNEL | USA",History
 
-#EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/Kc7yT2jH/hln.png" group-title="CHANNEL | USA",Headline News
-
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="CHANNEL | USA",HLN
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/Kc7yT2jH/hln.png" group-title="CHANNEL | USA"HLN
 http://fl2.moveonjoy.com/HLN/index.m3u8
 
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="CHANNEL | USA",INSP
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/Zpt8RWSV/insp.png" group-title="CHANNEL | USA",INSP
 http://fl2.moveonjoy.com/INSP/index.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/9Hxc9gCg/ifc.png" group-title="CHANNEL | USA",IFC
 
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="CHANNEL | USA",Investigation Discovery
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/JFpRhbsf/investigation.png" group-title="CHANNEL | USA",Investigation Discovery
 http://fl2.moveonjoy.com/INVESTIGATION_DISCOVERY/index.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/zVFzhJ68/ion.png" group-title="CHANNEL | USA",ION
 http://fl2.moveonjoy.com/ION_TV/index.m3u8
 
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="CHANNEL | USA",Laff TV
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/Lz0LCMW3/laff.png" group-title="CHANNEL | USA",Laff TV
 http://72.46.118.193/Laff/index.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/RG4ZTyf8/lifetime.png" group-title="CHANNEL | USA",Lifetime Network
-http://fl2.moveonjoy.com/LIFETIME/index.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/JjQNcwrT/lifetime-movies.png" group-title="CHANNEL | USA",Lifetime Movies Network
 http://fl2.moveonjoy.com/LIFETIME_MOVIE_NETWORK/index.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/V0p1ZLMJ/longhorn.png" group-title="CHANNEL | USA",Longhorn Network
-http://fl1.moveonjoy.com/LONGHORN_NETWORK/index.m3u8
-
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="CHANNEL | USA", MAV TV
-http://fl2.moveonjoy.com/MAV_TV/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Love Nature" tvg-logo="https://i.ibb.co.com/HTzXCKWT/love-nature.png" group-title="CHANNEL | USA", Love Nature
 https://fl1.moveonjoy.com/LOVE_NATURE/index.m3u8
@@ -2113,11 +2088,12 @@ https://fl1.moveonjoy.com/LOVE_NATURE/index.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/ZpbfmJww/msn.png" group-title="CHANNEL | USA",MASN
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/Kp7Tjx3C/mavtv.png" group-title="CHANNEL | USA",MAVTV
+http://fl2.moveonjoy.com/MAV_TV/index.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/S4q9gFgq/metv.png" group-title="CHANNEL | USA",METV
 http://fl2.moveonjoy.com/ME_TV/index.m3u8
 
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="CHANNEL | USA",Military History
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/h140b44B/military-hisory.png" group-title="CHANNEL | USA",Military History
 http://fl3.moveonjoy.com/Military_History/index.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/mCWn0dy3/mgm.png" group-title="CHANNEL | USA",MGM+
@@ -2128,23 +2104,23 @@ http://fl2.moveonjoy.com/MLB_NETWORK/index.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/FkxDbsys/masn.png" group-title="CHANNEL | USA",MSG
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/0jjpdTB9/msnbc.png" group-title="CHANNEL | USA",MSNBC
-http://fl2.moveonjoy.com/MSNBC/index.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/5h0p67hH/mtrspt1.png" group-title="CHANNEL | USA",Motor Trend
 http://fl2.moveonjoy.com/MOTOR_TREND/index.m3u8
 
-#EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/S7BcTbrJ/mtv-clasic.png" group-title="CHANNEL | USA",MTV
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/Fk80Y7sv/mtv.png" group-title="CHANNEL | USA",MTV
 http://fl2.moveonjoy.com/MTV/index.m3u8
 
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="CHANNEL | USA",MTV2
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/FLfQ6GKr/mtv2.png" group-title="CHANNEL | USA",MTV2
 http://fl2.moveonjoy.com/MTV_2/index.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="CHANNEL | USA",MTV Classic
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/5WmfNcZ9/mtv-classic.png" group-title="CHANNEL | USA",MTV Classic
 http://fl2.moveonjoy.com/MTV_CLASSIC/index.m3u8
 
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="CHANNEL | USA",MTV Live
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/q3by4DZx/mtv-live.png" group-title="CHANNEL | USA",MTV Live
 http://fl2.moveonjoy.com/MTV_LIVE/index.m3u8
 
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="CHANNEL | USA",MTV U
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/s97kFjSn/mtv-u.png" group-title="CHANNEL | USA",MTV U
 http://fl2.moveonjoy.com/MTV_U/index.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/9kk1kFyF/my9tv.png" group-title="CHANNEL | USA",MY9TV
@@ -2156,15 +2132,14 @@ http://fl2.moveonjoy.com/National_Geographic/index.m3u8
 http://fl2.moveonjoy.com/Nat_Geo_Wild/index.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/pvj0hw86/nbatv.png" group-title="CHANNEL | USA",NBA TV
-http://fl2.moveonjoy.com/NBA_TV/index.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/qfJsHfq/nbc.png" group-title="CHANNEL | USA",NBC
 http://fl1.moveonjoy.com/NBC_EAST/index.m3u8
 
-#EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/23dHVJpV/nbc4ny.png" group-title="CHANNEL | USA",NBC NY
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co.com/J0xVpsN/nbc-sports.png" group-title="CHANNEL | USA" , NBC Sports
 http://fl2.moveonjoy.com/NBC_SPORTS_NETWORK/index.m3u8
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/23dHVJpV/nbc4ny.png" group-title="CHANNEL | USA",NBC NY
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/dsGBkBGZ/nesn.png" group-title="CHANNEL | USA",NESN
 
@@ -2180,7 +2155,6 @@ http://fl2.moveonjoy.com/NFL_NETWORK/index.m3u8
 http://fl1.moveonjoy.com/NICKELODEON/index.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/V0tn6SGM/nickjr.png" group-title="CHANNEL | USA",Nick Jr
-http://fl2.moveonjoy.com/NICK_JR/index.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/PsgrrCxY/nicktoons.png" group-title="CHANNEL | USA",Nicktoons
 http://fl1.moveonjoy.com/NICKTOONS/index.m3u8
@@ -2193,16 +2167,16 @@ http://fl2.moveonjoy.com/NICK_MUSIC/index.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/v4j70Sxs/own.png" group-title="CHANNEL | USA",Oprah Winfrey Network
 http://fl2.moveonjoy.com/OWN/index.m3u8
 
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="CHANNEL | USA",Outdoor Channel
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/MyN3zdR6/outdoor-channel.png" group-title="CHANNEL | USA",Outdoor Channel
 http://fl2.moveonjoy.com/OUTDOOR_CHANNEL/index.m3u8
 
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="CHANNEL | USA",Outer Max
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/spVgsRtW/outermax.png" group-title="CHANNEL | USA",Outer Max
 http://fl2.moveonjoy.com/OUTER_MAX/index.m3u8
 
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="CHANNEL | USA",Oustide TV
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/FTGqkz9/outsidetv.png" group-title="CHANNEL | USA",Oustide TV
 http://fl2.moveonjoy.com/OUTSIDE_TV/index.m3u8
 
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="CHANNEL | USA",Ovation
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/VYqcshXq/ovation.png" group-title="CHANNEL | USA",Ovation
 http://fl3.moveonjoy.com/Ovation/index.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/4ZGMVPkR/oxygen.png" group-title="CHANNEL | USA",Oxygen True Crime
@@ -2214,68 +2188,50 @@ http://fl2.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/4nfV8MJS/pop.png" group-title="CHANNEL | USA",Pop TV
 http://fl3.moveonjoy.com/Pop_TV/index.m3u8
 
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="CHANNEL | USA",Pursuit Channel
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/gFXqg2ct/pursuit.png" group-title="CHANNEL | USA",Pursuit Channel
 http://fl3.moveonjoy.com/Pursuit_Channel/index.m3u8
 
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="CHANNEL | USA",QVC
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/9HZ2V687/qvc.png" group-title="CHANNEL | USA",QVC
 http://fl2.moveonjoy.com/QVC/index.m3u8
 
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="CHANNEL | USA",Reelz Channel
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/8F27tfv/reelz.png" group-title="CHANNEL | USA",Reelz Channel
 http://fl2.moveonjoy.com/REELZ/index.m3u8
 
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="CHANNEL | USA",Revolt
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/PGbxybfZ/revolt.png" group-title="CHANNEL | USA",Revolt
 http://fl2.moveonjoy.com/REVOLT/index.m3u8
 
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="CHANNEL | USA",SEC Network
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/YFs16H9f/sec.png" group-title="CHANNEL | USA",SEC Network
 http://fl2.moveonjoy.com/SEC_NETWORK/index.m3u8
 
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="CHANNEL | USA",Showtime
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/gLB9q0Px/showtime.png" group-title="CHANNEL | USA",Showtime
 http://fl2.moveonjoy.com/SHOWTIME/index.m3u8
 
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="CHANNEL | USA",Showtime 2
-http://fl2.moveonjoy.com/SHOWTIME_2/index.m3u8
-
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="CHANNEL | USA",Showtime Extreme
-http://fl2.moveonjoy.com/SHOWTIME_EXTREME/index.m3u8
-
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="CHANNEL | USA",Showtime Next
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/S4C60Yhz/showtime-N.png" group-title="CHANNEL | USA",Showtime Next
 http://fl2.moveonjoy.com/SHOWTIME_NEXT/index.m3u8
 
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="CHANNEL | USA",Showtime Women
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/5ghNBfvy/showtime-W.png" group-title="CHANNEL | USA",Showtime Women
 http://fl2.moveonjoy.com/SHOWTIME_WOMEN/index.m3u8
 
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="CHANNEL | USA",SHOWTIME WEST
-http://fl2.moveonjoy.com/SHOWTIME_WEST/index.m3u8
-
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="CHANNEL | USA",SMITHSONIAN CHANNEL
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/ynF88tfT/smithsonian.png" group-title="CHANNEL | USA",Smithsonian Channel
 http://fl2.moveonjoy.com/SMITHSONIAN_CHANNEL/index.m3u8
 
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="CHANNEL | USA",SONY MOVIE CHANNEL
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/m5qJ9Vr6/sony-channel.png" group-title="CHANNEL | USA",Sony Movie Channel
 http://fl3.moveonjoy.com/Sony_Movie_Channel/index.m3u8
 
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="CHANNEL | USA",Stadium
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/LdcSYVN8/stadium.png" group-title="CHANNEL | USA",Stadium Sports Network
 http://fl2.moveonjoy.com/STADIUM/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Starz" tvg-logo="https://i.ibb.co.com/xtWvT0vD/starz.png" group-title="CHANNEL | USA", Starz
-https://fl5.moveonjoy.com/STARZ/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Starz Comedy" tvg-logo="https://i.ibb.co.com/KpXq87Pt/starz-comedy.png" group-title="CHANNEL | USA", Starz Comedy
-https://fl5.moveonjoy.com/STARZ_COMEDY/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Starz Encore Action" tvg-logo="https://i.ibb.co.com/XZxpz9jq/starz-action.png" group-title="CHANNEL | USA", Starz Encore Action
-https://fl5.moveonjoy.com/STARZ_ENCORE_ACTION/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Starz Edge" tvg-logo="https://i.ibb.co.com/B2FnNv6v/starz-edge.png" group-title="CHANNEL | USA", Starz Edge
-https://fl5.moveonjoy.com/STARZ_EDGE/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Starz Encore" tvg-logo="https://i.ibb.co.com/Q3fSCCSk/starz-encore.png" group-title="CHANNEL | USA", Starz Encore
-https://fl5.moveonjoy.com/STARZ_ENCORE/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Starz Encore Westerns" tvg-logo="https://i.ibb.co.com/Q1qX3bc/starz-westerns.png" group-title="CHANNEL | USA", Starz Encore Westerns
-https://fl5.moveonjoy.com/STARZ_ENCORE_WESTERNS/tracks-v1a1/mono.ts.m3u8
-
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="CHANNEL | USA",SundanceTV
-http://fl2.moveonjoy.com/SUNDANCE/index.m3u8
 
 #EXTINF:-1 tvg-id="MLBNetwork.us" tvg-name="Syfy" tvg-logo="https://i.ibb.co.com/953b0M9/syfy.png" group-title="CHANNEL | USA", Syfy
 https://fl5.moveonjoy.com/SYFY/index.m3u8
@@ -2290,32 +2246,24 @@ http://fl1.moveonjoy.com/TCM/index.m3u8
 http://fl2.moveonjoy.com/TENNIS_CHANNEL/index.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/bjT29zT5/tlc.png" group-title="CHANNEL | USA",TLC
-http://fl2.moveonjoy.com/TLC/index.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/fhqM7FP/tmc.png" group-title="CHANNEL | USA",TMC Channel
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/4ZWXfZwS/tnt.png" group-title="CHANNEL | USA",TNT
-http://fl2.moveonjoy.com/TNT/index.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/WNVR2LSs/trvl.png" group-title="CHANNEL | USA",Travel Channel
 http://fl2.moveonjoy.com/Travel_Channel/index.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/FL3G7GZ3/trutv.png" group-title="CHANNEL | USA",TruTV
-http://fl2.moveonjoy.com/TRU_TV/index.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/nsYbmSTc/tudn.png" group-title="CHANNEL | USA",TUDN
 http://45.68.35.218:4001/play/a00x/index.m3u8
 
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="CHANNEL | USA",TVG
-http://fl2.moveonjoy.com/TVG/index.m3u8
-
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/jvKkjnY3/tvland.png" group-title="CHANNEL | USA",TVLand
-http://fl2.moveonjoy.com/TV_Land/index.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/Kjf1JfKF/tvone.png" group-title="CHANNEL | USA",TVOne
-http://fl2.moveonjoy.com/TV_ONE/index.m3u8
 
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="CHANNEL | USA",UFC
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/bRq70ygN/ufc.png" group-title="CHANNEL | USA",UFC
 http://fl1.moveonjoy.com/UFC/index.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/fYMWDyJh/univision.png" group-title="CHANNEL | USA",Univision
@@ -2323,40 +2271,29 @@ http://fl1.moveonjoy.com/UFC/index.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/fTSxtn6/unimas.png" group-title="CHANNEL | USA",Unimas
 
 #EXTINF:-1 group-title="CHANNEL | USA" tvg-id="" tvg-logo="https://i.ibb.co.com/JFcbfVYg/usa-network3.png", USA Network 1
-https://fl5.moveonjoy.com/USA_Network/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co.com/Vp9kmqtt/usa-network1.png" group-title="CHANNEL | USA" , USA Network 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0045a118e231f1326bcdb45350b1ceaa:8c13afbfa54ea37a368b8b859021f6e3
 https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(knbc)/master.mpd
 
-#EXTINF:-1 group-title="CHANNEL | USA" tvg-id="" tvg-logo="https://i.ibb.co.com/HDS02Z8Z/usa-network2.png", USA Network 3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co.com/Vp9kmqtt/usa-network1.png" group-title="CHANNEL | USA" , USA Network 2
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0020d88a6713159839743f655c5da7de:ba9f34226301f69a4f0f13f65a1f92ec
 https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc122ycnuy)/master.mpd
 
-#EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/Kjx0BRmF/usa-network4.png" group-title="CHANNEL | USA",USA Network 4
-#EXTVLCOPT:http-origin=https://pkpakiplay.xyz/
-https://nfsnew.koskoros.ru/nfs/premium343/mono.m3u8|referer=https://pkpakiplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="CHANNEL | USA",USA NETWORK 5
-http://fl2.moveonjoy.com/USA_Network/index.m3u8
-
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/pr9rmswQ/vh1.png" group-title="CHANNEL | USA",VH1
-http://fl2.moveonjoy.com/VH1/index.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/Nd8y7xmV/vice.png" group-title="CHANNEL | USA",Vice TV
 http://fl2.moveonjoy.com/VICELAND/index.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/BHsXNrwv/theweather-channel.png" group-title="CHANNEL | USA",The Weather Channel
-http://fl2.moveonjoy.com/THE_WEATHER_CHANNEL/index.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/wF8w46qr/wetv.png" group-title="CHANNEL | USA",WETV
 http://fl1.moveonjoy.com/WE_TV/index.m3u8
 
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="CHANNEL | USA",WGN
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/8CwncN5/wgn.png
+" group-title="CHANNEL | USA",WGN
 http://fl2.moveonjoy.com/WGN/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="World Fishing Network" tvg-logo="https://i.ibb.co.com/s9jq5bxV/worldfishing.png" group-title="CHANNEL | USA", World Fishing Network
@@ -2366,4 +2303,3 @@ https://fl5.moveonjoy.com/WORLD_FISHING_NETWORK/tracks-v1a1/mono.ts.m3u8
 http://fl2.moveonjoy.com/WWE/index.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/ns8SstpQ/yestv.png" group-title="CHANNEL | USA",YES Network
-http://fl2.moveonjoy.com/YES_NETWORK/index.m3u8
