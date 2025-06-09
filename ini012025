@@ -14,10 +14,16 @@ https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8
 https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
 
 #EXTINF:-1 tvg-id="RCTI - [Channel 80].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.ibb.co.com/JFtBvC4J/rcti.png" group-title="CHANNEL | INDONESIA",RCTI
+https://rcti-cutv.rctiplus.id/rcti-sdi-avc1_800000=7-mp4a_96000=1.m3u8
 
-#EXTINF:-1 tvg-id="MNCTV HD - [Channel 432].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.ibb.co.com/ymSy9KDw/mnctv.png" group-title="CHANNEL | INDONESIA",MNC TV
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+#EXTINF:0 tvg-id="MNCTV.id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.ibb.co.com/ymSy9KDw/mnctv.png" group-title="CHANNEL | INDONESIA", MNCTV
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://mnctv-cutv.rctiplus.id/mnctv-sdi.m3u8
 
 #EXTINF:-1 tvg-id="GTV HD - [Channel 431].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.ibb.co.com/20B9cHfL/gtv.png" group-title="CHANNEL | INDONESIA",GTV
+https://gtv-cutv.rctiplus.id/gtv-sdi.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/R4CJhC2p/sctv.png" group-title="CHANNEL | INDONESIA",SCTV
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
@@ -35,12 +41,8 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd
 http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
 
 #EXTINF:-1 tvg-id="Indosiar.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://i.ibb.co.com/35LdJ6Jd/indosiar-sport.png" group-title="CHANNEL | INDONESIA",Indosiar Sports 2
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-http://aflaxtv.xyz:8080/live/test_acct/ohbo1veifa4AhD/162138.ts
-http://cdn.nng.cloudns.us/live/m3u8/id/575eeb9f08dc8db.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="ID: Indosiar" tvg-logo="https://i.ibb.co.com/35LdJ6Jd/indosiar-sport.png" group-title="CHANNEL | INDONESIA",Indosiar Sports 3
-http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/162138
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/608N7XvY/moji.png" group-title="CHANNEL | INDONESIA", MOJI TV
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
@@ -80,10 +82,7 @@ http://op-group1-swiftservesd-1.dens.tv/h/h06/01.m3u8
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://cdn08jtedge.indihometv.com/dassdvr/194/maxstream/manifest.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 #EXTINF:-1 tvg-id="Flik.id" tvg-name="Flik" tvg-logo="https://i.ibb.co.com/HpY1LH1R/flik.png" group-title="CHANNEL | INDONESIA", Flik
-https://cdn08jtedge.indihometv.com/dassdvr/133/flik/manifest.mpd
 
 #EXTINF:-1 tvg-id="IMC.id" tvg-name="IMC" tvg-logo="https://i.ibb.co.com/d0D3WyX5/imc.png" group-title="CHANNEL | INDONESIA", IMC
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
@@ -132,8 +131,9 @@ https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
 #EXTINF:-1 group-title="CHANNEL | INDONESIA" tvg-logo="https://i.ibb.co.com/Xx7zvNLF/magna.png",Magna Channel
 http://op-group1-swiftservehd-1.dens.tv/h/h24/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=Magna_Channel|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36&referrer=http://www.dens.tv/
 
-#EXTINF:-1 group-title="CHANNEL | INDONESIA" tvg-logo="https://i.ibb.co.com/60DSpXnD/bn.png",BTV
-http://b1news.beritasatumedia.com/Beritasatu/B1News_960x540.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=BTV|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36&referrer=http://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
+#EXTINF:-1 tvg-id="BTV.id" tvg-name="BTV" tvg-logo="https://i.ibb.co.com/60DSpXnD/bn.png" group-title="CHANNEL | INDONESIA", BTV
+http://khano.nng.cloudns.us/live/m3u8/id/270f72deeb5843h.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/RkqxpZQN/inspira.png" group-title="CHANNEL | INDONESIA", Inspira
 https://inspiratv.siar.us/inspiratv/live/playlist.m3u8
@@ -164,11 +164,10 @@ http://op-group1-swiftservehd-1.dens.tv/h/h12/index.m3u8?app_type=web&amp;userid
 #EXTINF:-1 group-title="CHANNEL | INDONESIA" tvg-logo="https://i.ibb.co.com/8LD2tCWM/kompastv.png",Kompas TV
 http://op-group1-swiftservehd-1.dens.tv/s/s104/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=Kompas_TV|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36&referrer=http://www.dens.tv/
 
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a31cf5136789514b7e12b9cc99307c84:980e54d671ffc2b2f4cf54e75cae0ac2
-#EXTINF:-1 group-title="CHANNEL | INDONESIA" tvg-id="iNews HD - [Channel 433].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.ibb.co.com/cSfDPLpr/inews.png",iNews
-https://d1abp075u76pbq.cloudfront.net/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
+#EXTVLCOPT:http-referrer=https://www.visionplus.id
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
+#EXTINF:-1 group-title="CHANNEL | INDONESIA" tvg-id="iNews.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://i.ibb.co.com/cSfDPLpr/inews.png",iNews
+https://av-ch-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash/iNewsTV-HDD.mpd
 
 #EXTINF:-1 group-title="CHANNEL | INDONESIA" tvg-id="CNNIndonesia.id" tvg-logo="https://i.ibb.co.com/wFWQqGdz/cnn-indonesia.png",CNN Indonesia
 #EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
@@ -181,7 +180,6 @@ https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/index.m3u8
 #EXTINF:-1 group-title="CHANNEL | INDONESIA" tvg-id="Sindo News TV HD - [Channel 434].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.ibb.co.com/S4qvgrLd/sindonews.png",SindoNews
 
 #EXTINF:-1 tvg-id="IDTV.id" tvg-name="Berita Satu" tvg-logo="https://i.ibb.co.com/QvbprGM8/berita-satu.png" group-title="CHANNEL | INDONESIA",Berita Satu
-https://b1world.beritasatumedia.com/Beritasatu/B1World_manifest.m3u8
 
 #EXTINF:-1 tvg-id="RRINET.id" tvg-logo="https://i.ibb.co.com/Y47H0qdS/rri.png" group-title="CHANNEL | INDONESIA", RRI Net
 https://public-streaming.rri.co.id/memfs/a3a573d6-1ed3-4d6e-9f9f-e9a4e2cefd9d.m3u8
@@ -244,19 +242,15 @@ https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d0552e
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd
 
-#EXTINF:-1 tvg-id="Galaxy.id" tvg-name="Galaxy" tvg-logo="https://i.ibb.co.com/s9Mw63MP/galaxy.png" group-title="CHANNEL | ENTERTAINMENT", Galaxy
-#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTVLCOPT:http-referrer=https://www.indihometv.com/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-https://cdn08jtedge.indihometv.com/dassdvr/133/galaxy/manifest.mpd
+#EXTVLCOPT:http-referrer=https://www.visionplus.id
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
+#EXTINF:-1 group-title="CHANNEL | ENTERTAINMENT" tvg-id="GALAXY" tvg-url="https://bit.ly/IndonesiaEpgG" tvg-logo="https://i.ibb.co.com/s9Mw63MP/galaxy.png",Galaxy
+https://av-ch-cdn.mncnow.id/live/eds/Galaxy-HD/sa_dash/Galaxy-HD.mpd
 
-#EXTINF:-1 tvg-id="GalaxyPremium.id" tvg-name="Galaxy Premium" tvg-logo="https://i.ibb.co.com/67nPWPtr/galaxy-premium.png" group-title="CHANNEL | ENTERTAINMENT", Galaxy Premium
-#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTVLCOPT:http-referrer=https://www.indihometv.com/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-https://cdn08jtedge.indihometv.com/dassdvr/133/galaxypremium/manifest.mpd
+#EXTVLCOPT:http-referrer=https://www.visionplus.id
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
+#EXTINF:-1 group-title="CHANNEL | ENTERTAINMENT" tvg-id="GALAXYPremium" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://i.ibb.co.com/67nPWPtr/galaxy-premium.png",Galaxy Premium
+https://av-ch-cdn.mncnow.id/live/eds/GalaxyPremium-HD/sa_dash/GalaxyPremium-HD.mpd
 
 #EXTINF:-1 tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://i.ibb.co.com/0VfQTsCQ/studio-universal.png" group-title="CHANNEL | ENTERTAINMENT " tvg-id="" , Studio Universal
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
@@ -409,7 +403,10 @@ https://op-group1-swiftservehd-1.dens.tv/h/h222/index.m3u8
 
 # CHANNEL | KNOWLEDGE
 
-#EXTINF:-1 tvg-id="BBCEarth.id" tvg-name="BBC Earth Asia" group-title="CHANNEL | KNOWLEDGE" tvg-logo="https://i.ibb.co.com/wxR4BsD/bbc-earth.png", BBC Earth
+#EXTINF:-1 tvg-id="BBC Earth" tvg-logo="https://i.ibb.co.com/wxR4BsD/bbc-earth.png" group-title="CHANNEL | KNOWLEDGE", BBC Earth 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36 
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
+https://av-ch-cdn.mncnow.id/live/eds/BBCEarth-HD/sa_dash/BBCEarth-HD.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/dsT3KqmR/discovery-asia.png" group-title="CHANNEL | KNOWLEDGE",Discovery Asia
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
@@ -503,10 +500,10 @@ https://cdn09jtedge.indihometv.com/joss/130/pandatv/index.m3u8?c
 
 # CHANNEL | MUSIC
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/bgLNh5xg/mtv90s.png" group-title="CHANNEL | MUSIC",MTV 90's
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e83b7a7c66c941d48dfd393086077745:71f4a249b41cb62db6164b47fb22722f
+#EXTINF:-1 group-title="CHANNEL | MUSIC" tvg-name="" tvg-country="ID" tvg-logo="https://i.ibb.co.com/bgLNh5xg/mtv90s.png", MTV 90s 
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1 
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=e83b7a7c66c941d48dfd393086077745:71f4a249b41cb62db6164b47fb22722f 
 https://atemecdnbalancer-voe.sysln.id/live/eds/MTV90sHD/mpd/MTV90sHD.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/RpwggLcN/mtv-live.png" group-title="CHANNEL | MUSIC",MTV Live
@@ -568,33 +565,27 @@ https://lightning-now80s-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/S7whTb92/now-rock.png" group-title="CHANNEL | MUSIC",Now Rock
 https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/JWmGDM0M/vevo80s.png" group-title="CHANNEL | MUSIC",Vevo '80s
-https://d36tolctzl3cf9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ooxwuk06xi7af/playlist.m3u8
-#https://jmp2.uk/SamsungTVPlus/USBD300012YC.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/spYYZ7gJ/vevo90s.png" group-title="CHANNEL | MUSIC",Vevo '90s
-https://d36vl7sxn34m5q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-m63zgwps7b87g/playlist.m3u8
-#https://jmp2.uk/SamsungTVPlus/USBD3000133M.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/JWmGDM0M/vevo80s.png" group-title="CHANNEL | MUSIC", Vevo '80s
+https://jmp2.uk/sam-USBD300012YC.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/XxNTZPy5/vevo2010.png" group-title="CHANNEL | MUSIC",Vevo 2010s
-https://d21cpy4ek4aipj.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gchcemfivgmyw/playlist.m3u8
-#https://jmp2.uk/SamsungTVPlus/USBD120002431.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/spYYZ7gJ/vevo90s.png" group-title="CHANNEL | MUSIC", Vevo '90s
+https://jmp2.uk/sam-USBD3000133M.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/LhqjB8CT/vevo2k.png" group-title="CHANNEL | MUSIC",Vevo 2K
-https://d2yhuqxy1ky6ij.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bel4aqksrgol2-ssai-prd/playlist.m3u8
-#https://jmp2.uk/SamsungTVPlus/USBB4400015F5.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/XxNTZPy5/vevo2010.png" group-title="CHANNEL | MUSIC", Vevo 2010s
+https://jmp2.uk/sam-USBD120002431.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/MyfVmsPN/vevo-features.png" group-title="CHANNEL | MUSIC",Vevo Features
-https://d281w17vgfepv6.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-00dgfxdry0m4p/playlist.m3u8
-#https://jmp2.uk/SamsungTVPlus/USBD1200008GL.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/LhqjB8CT/vevo2k.png" group-title="CHANNEL | MUSIC", Vevo 2K
+https://jmp2.uk/sam-USBB4400015F5.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQXWThXS/vevo-pop.png" group-title="CHANNEL | MUSIC",Vevo Pop
-https://d28edobz3hqdpi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-shs19slqofvwj-ssai-prd/playlist.m3u8
-#https://jmp2.uk/SamsungTVPlus/USBC3600008WY.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/MyfVmsPN/vevo-features.png" group-title="CHANNEL | MUSIC", Vevo Features
+https://jmp2.uk/sam-USBD1200008GL.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/5x63XLFC/vevo-rock.png" group-title="CHANNEL | MUSIC",Vevo Retro Rock
-https://d1uttzwuh34h7x.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-5wuvgw5l0sw7j/playlist.m3u8
-#https://jmp2.uk/SamsungTVPlus/USBD3000145P.m3u8
+#EXTINF:-1 tvg-id="USBC3600008WY" tvg-name="Vevo Pop" tvg-logo="https://i.ibb.co.com/GQXWThXS/vevo-pop.png" group-title="CHANNEL | MUSIC", Vevo Pop
+https://jmp2.uk/sam-USBC3600008WY.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/5x63XLFC/vevo-rock.png" group-title="CHANNEL | MUSIC", Vevo Retro Rock
+https://jmp2.uk/sam-USBD3000145P.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/pBK75hhc/xite80s.png" group-title="CHANNEL | MUSIC",XITE 80s Flashback
 https://dw0oa71jud5ry.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/usbb320000647-prod/amg80rewind/playlist.m3u8
