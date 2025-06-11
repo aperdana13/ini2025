@@ -892,13 +892,13 @@ https://sweet-night-1d1d.worst.workers.dev/?id=9182&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/?id=9183&type=drm 
 https://sweet-night-1d1d.worst.workers.dev/?id=9183&type=dash 
 
-#EXTINF:-1 tvg-id="" tvg-name="UK| CHELSEA TV HD" tvg-logo="https://i.ibb.co/MyjKR9cF/chelseatv.png" group-title="CHANNEL | SPORTS",ChelseaTV
+#EXTINF:-1 tvg-id="" tvg-name="UK| CHELSEA TV HD" tvg-logo="https://i.ibb.co.com/MyjKR9cF/chelseatv.png" group-title="CHANNEL | SPORTS",ChelseaTV
 http://line.protv.cc:80/play/live.php?mac=00:1A:79:12:35:0A&stream=45327&extension=ts&play_token=gzXltyYvtc
 
-#EXTINF:-1 tvg-id="" tvg-name="SPT| LFC TV FHD" tvg-logo="https://i.ibb.co/Fbns02X5/lfctv.png" group-title="CHANNEL | SPORTS",LFC TV
+#EXTINF:-1 tvg-id="" tvg-name="SPT| LFC TV FHD" tvg-logo="https://i.ibb.co.com/Fbns02X5/lfctv.png" group-title="CHANNEL | SPORTS",LFC TV
 http://line.protv.cc:80/play/live.php?mac=00:1A:79:12:35:0A&stream=1360882&extension=ts&play_token=jxlnTFEtBh
 
-#EXTINF: -1 tvg-logo="https://i.ibb.co/fz7XP33n/mutv.png" group-title="CHANNEL | SPORTS", MUTV
+#EXTINF: -1 tvg-logo="https://i.ibb.co.com/fz7XP33n/mutv.png" group-title="CHANNEL | SPORTS", MUTV
 https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
 
 #EXTINF:-1 tvg-id="here" tvg-logo="https://i.ibb.co.com/G3crk7v2/realmadridtv.png" group-title="CHANNEL | SPORTS" , Real Madrid TV 
@@ -1107,7 +1107,7 @@ https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/m
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/dYWy4MM/premier-sports2.png" group-title="CHANNEL | SPORTS",Premier Sports 2
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/7TSTPzz/rallytv.png" group-title="CHANNEL | SPORTS", Rally TV 
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/7TSTPzz/rallytv.png" group-title="CHANNEL | SPORTS", Rally TV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
 https://freqsyndlin.rally.tv/583/hls/master/playlist.m3u8 
 
