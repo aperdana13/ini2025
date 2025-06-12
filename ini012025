@@ -119,36 +119,6 @@ http://op-group1-swiftservehd-1.dens.tv/h/h10/01.m3u8
 #EXTINF:-1 group-title="CHANNEL | INDONESIA" tvg-logo="https://i.ibb.co.com/gL4s71W4/vtv.png",VTV
 https://flv.intechmedia.net/live/ch107.m3u8|user-agent=Mozilla/5.0
 
-#EXTINF:-1 group-title="CHANNEL | INDONESIA" tvg-name="TV Religi" tvg-country="ID" tvg-logo="https://i.ibb.co.com/93cyYv3s/citramuslim.png", Citra Muslim 
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1 
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=f0bdfdef0f564819a2b43345b328f989:9f7555440fb310341ddb00cdbc638cea 
-https://atemecdnbalancer-voe.sysln.id/live/eds/CitraMuslimHD/mpd/CitraMuslimHD.mpd 
-
-#EXTINF:-1 group-title="CHANNEL | INDONESIA" tvg-name="TV Entertainment" tvg-country="ID" tvg-logo="https://i.ibb.co.com/WvgSzqtB/citradrama.png", Citra Drama 
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1 
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=eabfbb7dd5ef461699c879b05941e18d:c2f7e8f9468def5266e01a4c646b76a6 
-https://atemecdnbalancer-voe.sysln.id/live/eds/CitraDramaHD/mpd/CitraDramaHD.mpd 
-
-#EXTINF:-1 group-title="CHANNEL | INDONESIA" tvg-name="" tvg-country="ID" tvg-logo="https://i.ibb.co.com/1GCd3xpq/citraentertainment.png", Citra Entertainment 
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1 
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=05cb4bbd91e34d858f6921e7196f7795:da3e19311e3a3d147607971a101c8dc3 
-https://atemecdnbalancer-voe.sysln.id/live/eds/CitraEntertainmentHD/mpd/CitraEntertainmentHD.mpd 
-
-#EXTINF:-1 group-title="CHANNEL | INDONESIA" tvg-name="TV Entertainment" tvg-country="ID" tvg-logo="https://i.ibb.co.com/tPDhD0NQ/citradangdut.png", Citra Dangdut 
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1 
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=44a4c73921ea4f5f90eaaaf793d3f7cf:3be319093fec8a409fe0553128089671 
-https://atemecdnbalancer-voe.sysln.id/live/eds/CitraDangdutHD/mpd/CitraDangdutHD.mpd 
-
-#EXTINF:-1 group-title="CHANNEL | INDONESIA" tvg-name="TV Movies" tvg-country="ID" tvg-logo="https://i.ibb.co.com/dwtwRGfk/citrabioskop.png", Citra Bioskop 
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1 
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=94788bc937054090b216dc101e5fa5dc:297c97962ff8d9e99f1da178ea0083ec 
-https://atemecdnbalancer-voe.sysln.id/live/eds/CitraBioskopHD/mpd/CitraBioskopHD.mpd 
-
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_type=clearkey
