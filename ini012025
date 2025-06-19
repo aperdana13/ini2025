@@ -446,7 +446,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/LifetimeHD/mpd/LifetimeHD.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu-cindo.cenc16995.workers.dev/
 #KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
-#EXTINF:-1 tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c6857fe540a1018060ae0aa740bb/39e0cbc9c8e0477591d7993555146bd6.jpg" group-title="https://i.ibb.co.com/ns0GbJ4f/movienews.png",Movies News
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/ns0GbJ4f/movienews.png" group-title="CHANNEL | LIFESTYLE", Movies News
 https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c68572841ba301729cc464d33c0b/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/dnBK4QN/hgtv.png" group-title="CHANNEL | LIFESTYLE",HGTV
@@ -803,7 +803,7 @@ https://lotus.stingray.com/manifest/ose-122ads-montreal/samsungtvplus/master.m3u
 #EXTINF:-1 group-title="CHANNEL | MUSIC" tvg-id="StingrayTodaysKPop.ca" tvg-logo="https://i.ibb.co.com/x8Ytn7Lx/stingray-kpop.png" ,Stingray Today's KPOP
 https://lotus.stingray.com/manifest/ose-317ads-montreal/samsungtvplus/master.m3u8
 
-#EXTINF:-1 group-title="Music" tvg-id="StingrayTodaysLatinPop.ca" tvg-logo="https://i.ibb.co.com/BHf7B2YQ/stingray-latin-pop.png" ,Stingray Today's Latin Pop
+#EXTINF:-1 group-title="CHANNEL | MUSIC" tvg-id="StingrayTodaysLatinPop.ca" tvg-logo="https://i.ibb.co.com/BHf7B2YQ/stingray-latin-pop.png" ,Stingray Today's Latin Pop
 https://lotus.stingray.com/manifest/ose-190ads-montreal/samsungtvplus/master.m3u8
 
 #EXTINF:-1 group-title="CHANNEL | MUSIC" tvg-id="StingrayUrbanBeat.ca" tvg-logo="https://i.ibb.co.com/HTdbMSkq/stingray-urban-beat.png" ,Stingray Urban Beat
