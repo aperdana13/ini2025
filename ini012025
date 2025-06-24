@@ -5,7 +5,6 @@
 #EXTVLCOPT:http-user-agent=TVRIKLIK/7.0 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTINF:-1 tvg-id="TVRINasional.id" tvg-name="TVRI Nasional" tvg-logo="https://i.ibb.co.com/XfkPgVGj/TVRI.png" group-title="CHANNEL | INDONESIA", TVRI Nasional
 https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
-http://khano.nng.cloudns.us/live/m3u8/id/3f58825fe229a9f.m3u8
 
 #EXTINF:-1 group-title="CHANNEL | INDONESIA" tvg-id="TVRIWorld.id" tvg-logo="https://i.ibb.co.com/23XkwT28/tvri-world.png",TVRI World
 #EXTVLCOPT:http-user-agent=TVRIKLIK/7.0 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
@@ -40,7 +39,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/SCTVHD/mpd/SCTVHD.mpd
 https://atemecdnbalancer-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd
 
 #EXTINF:-1 tvg-id="Indosiar - [Channel 78].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.ibb.co.com/35LdJ6Jd/indosiar-sport.png" group-title="CHANNEL | INDONESIA",Indosiar Sports 1
-http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
+
 
 #EXTINF:-1 tvg-id="Indosiar.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://i.ibb.co.com/35LdJ6Jd/indosiar-sport.png" group-title="CHANNEL | INDONESIA",Indosiar Sports 2
 
@@ -81,10 +80,7 @@ https://atemeshield1-voe.sysln.id/live/eds/TvOne/mpd/TvOne.mpd
 #EXTINF:-1 group-title="CHANNEL | INDONESIA" tvg-logo="https://i.ibb.co.com/J820fJr/metrotv.png",Metro TV
 http://op-group1-swiftservehd-1.dens.tv/h/h12/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=Metro_TV|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36&referrer=http://www.dens.tv/
 
-#EXTVLCOPT:http-referrer=https://www.visionplus.id
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
 #EXTINF:-1 group-title="CHANNEL | INDONESIA" tvg-id="iNews.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://i.ibb.co.com/cSfDPLpr/inews.png",iNews
-https://av-ch-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash/iNewsTV-HDD.mpd
 
 #EXTINF:-1 group-title="CHANNEL | INDONESIA" tvg-id="Net.id" tvg-logo="https://i.ibb.co.com/RGctGV43/mdtv.png",MDTV
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
@@ -140,7 +136,6 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/CitraEntertainmentHD/mpd/CitraEnt
 http://op-group1-swiftservehd-1.dens.tv/h/h10/01.m3u8
 
 #EXTINF:-1 group-title="CHANNEL | INDONESIA" tvg-logo="https://i.ibb.co.com/gL4s71W4/vtv.png",VTV
-https://flv.intechmedia.net/live/ch107.m3u8|user-agent=Mozilla/5.0
 
 #EXTINF:-1 tvg-id="IndonesianaTV.id" tvg-name="Indonesiana TV" tvg-logo="https://i.ibb.co.com/4cmjM9V/indonesiana.png" group-title="CHANNEL | INDONESIA",Indonesiana TV
 https://tvstreamcast.com/indonesiana.m3u8
@@ -172,9 +167,6 @@ https://atemeshield1-voe.sysln.id/live/eds/JAKTV/mpd/JAKTV.mpd
 https://atemecdnbalancer-voe.sysln.id/live/eds/JTV/mpd/JTV.mpd
 
 #EXTINF:-1 tvg-id="Bali TV" tvg-logo="https://i.ibb.co.com/KzRLScR7/balitv.png" group-title="CHANNEL | INDONESIA", Bali TV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36 
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
-https://av-ch-cdn.mncnow.id/live/eds/BaliTV/sa_dash/BaliTV.mpd 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/bg7sHGHD/daaitv.png" group-title="CHANNEL | INDONESIA",DAAI TV
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
@@ -257,15 +249,9 @@ https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d0552e
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd
 
-#EXTVLCOPT:http-referrer=https://www.visionplus.id
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
 #EXTINF:-1 group-title="CHANNEL | MOVIE" tvg-id="GALAXY" tvg-url="https://bit.ly/IndonesiaEpgG" tvg-logo="https://i.ibb.co.com/s9Mw63MP/galaxy.png",Galaxy
-https://av-ch-cdn.mncnow.id/live/eds/Galaxy-HD/sa_dash/Galaxy-HD.mpd
 
-#EXTVLCOPT:http-referrer=https://www.visionplus.id
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
 #EXTINF:-1 group-title="CHANNEL | MOVIE" tvg-id="GALAXYPremium" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://i.ibb.co.com/67nPWPtr/galaxy-premium.png",Galaxy Premium
-https://av-ch-cdn.mncnow.id/live/eds/GalaxyPremium-HD/sa_dash/GalaxyPremium-HD.mpd
 
 #EXTINF:-1 tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://i.ibb.co.com/0VfQTsCQ/studio-universal.png" group-title="CHANNEL | MOVIE" tvg-id="" , Studio Universal
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
@@ -365,13 +351,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h16/01.m3u8?app_type=web&amp;userid=wn
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.16 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://streaming.indihometv.com/atm/DASH/warner/manifest.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/rcti_plus/index.drm?id=37
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/QvVYMVX9/buddystar.png" group-title="CHANNEL | ENTERTAINMENT", Buddy Star
-https://av-ch-cdn.mncnow.id/live/eds/Cinemachi-Kids-HD/sa_dash/Cinemachi-Kids-HD.mpd
-https://fta1-cdn-flr.visionplus.id/out/v1/c70975aaa68d47f2a38799e6730a7816/index.mpd
 
 #EXTINF:-1 tvg-id="95" tvg-logo="https://i.ibb.co.com/4RS2Zrz0/mycinema.png" group-title="CHANNEL | ENTERTAINMENT", My Cinema
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
@@ -432,13 +412,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/FoodNetworkHD/mpd/FoodNetworkHD.m
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/q3BLLC1c/dens-food.png" group-title="CHANNEL | LIFESTYLE",Dens Food Channel
 https://op-group1-swiftservehd-1.dens.tv/h/h221/index.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/rcti_plus/index.drm?id=71
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTINF:-1 tvg-id="FoodTravel.id" tvg-name="Food Travel" tvg-logo="https://i.ibb.co.com/gZdwJ10n/food-travel.png" group-title="CHANNEL | LIFESTYLE", Food Travel
-https://av-ch-cdn.mncnow.id/live/eds/OKTVnow/sa_dash/OKTVnow.mpd
-https://fta1-cdn-flr.visionplus.id/out/v1/77d7eac1b90247ac9aa745bd2eb47fa8/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu-cindo.cenc16995.workers.dev/
@@ -491,21 +465,13 @@ https://op-group1-swiftservehd-1.dens.tv/h/h222/index.m3u8
 https://op-group1-swiftservehd-1.dens.tv/h/h244/index.m3u8
 https://op-group1-swiftservehd-1.dens.tv/h/h244/02.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://cubmu-cindo.cenc16995.workers.dev/
-#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/chhP90js/movie-news.png" group-title="CHANNEL | LIFESTYLE", Movies News
-https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c68572841ba301729cc464d33c0b/manifest.mpd
 
 # CHANNEL | KNOWLEDGE
 
 #EXTINF:-1 group-title="CHANNEL | KNOWLEDGE" group-logo="https://i.ibb.co.com/FL9k1Sp7/knowledge.png"
 
 #EXTINF:-1 tvg-id="BBC Earth" tvg-logo="https://i.ibb.co.com/Wv94cBnS/bbc-earth.png" group-title="CHANNEL | KNOWLEDGE", BBC Earth 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36 
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
-https://av-ch-cdn.mncnow.id/live/eds/BBCEarth-HD/sa_dash/BBCEarth-HD.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="CTV Nature" tvg-logo="https://i.ibb.co.com/XrqVYCsX/ctv-nature.png" group-title="CHANNEL | KNOWLEDGE", CTV Nature Channel
 https://fl3.moveonjoy.com/Discovery_Science/index.m3u8
@@ -525,7 +491,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/DiscoveryHD/mpd/DiscoveryHD.mpd
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/dnBK4QN/hgtv.png" group-title="CHANNEL | KNOWLEDGE",HGTV
 https://mediapackage-hgtv-source.fullscreen.nz/index.m3u8
 
-#EXTINF:-1 tvg-id="Science.us" tvg-logo="https://i.ibb.co.com/ds5ytQgd/science-channel.png" group-title="CHANNEL | KNOWLEDGE",Science Channel
+#EXTINF:-1 tvg-id="Science.us" tvg-logo="https://i.ibb.o.com/ds5ytQgd/science-channel.png" group-title="CHANNEL | KNOWLEDGE",Science Channel
 
 #EXTINF:-1 tvg-id="National.Geographic.US.-.Eastern.us" tvg-logo="https://i.ibb.co.com/4Zr1k1yC/natgeo-usa.png" group-title="CHANNEL | KNOWLEDGE",National Geographic
 https://fl3.moveonjoy.com/National_Geographic/index.m3u8
@@ -764,13 +730,7 @@ https://jmp2.uk/sam-USAJ3000013FJ.m3u8
 #EXTINF:-1 tvg-id="tving|C00579" tvg-name="M.net FHD" tvg-logo="https://i.ibb.co.com/zTtLysws/mnet.png" group-title="CHANNEL | MUSIC",M Net
 http://warlock0.synology.me:9999/klive/api/url.m3u8?m=web_play&s=tving&i=C00579&q=FHD&apikey=5MY50EII66
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=0bea88ab972e06760a04712cc423d841:4039d607f88f1b1f677e4beb6ee66637
-#EXTVLCOPT:http-referrer=https://visionplus.id
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/twCJHnCW/musictv.png" group-title="CHANNEL | MUSIC",Music TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36 
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
-https://av-ch-cdn.mncnow.id/live/eds/Music-HD/sa_dash/Music-HD.mpd
 
 #EXTINF:-1 group-title="CHANNEL | MUSIC" tvg-id="StingrayCMusic.ca" tvg-logo="https://i.ibb.co.com/XxFzJrGq/stingray-cmusic.png" ,Stingray CMusic
 https://lotus.stingray.com/manifest/cmusic-cme004-montreal/samsungtvplus/master.m3u8
@@ -889,10 +849,7 @@ https://jmp2.uk/sam-USBA370000104.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/KzGgyrSN/cctv4.png" group-title="CHANNEL | NEWS",CCTV 4
 https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c685730a4243017317e334101575/manifest.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="CGTN" tvg-logo="https://i.ibb.co.com/1fbDWNjh/cgtn.png" group-title="CHANNEL | NEWS", CGTN
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36 
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
-https://av-ch-cdn.mncnow.id/live/eds/CGTN/sa_dash/CGTN.mpd 
+#EXTINF:-1 tvg-id="" tvg-name="CGTN" tvg-logo="https://i.ibb.co.com/1fbDWNjh/cgtn.png" group-title="CHANNEL | NEWS", CGTN 
 
 #EXTINF:-1 tvg-id="CNA.id" tvg-name="News Asia" tvg-logo="https://i.ibb.co.com/3ycD17qs/cna-sg.png" group-title="CHANNEL | NEWS", Channel News Asia
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
@@ -941,10 +898,10 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/France24/mpd/France24.mpd
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/tpFk7Mkm/i24.png" group-title="CHANNEL | NEWS",i24 News
 https://bcovlive-a.akamaihd.net/ecf224f43f3b43e69471a7b626481af0/eu-central-1/5377161796001/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/VWpnj6bx/news-world.png" group-title="CHANNEL | NEWS",NBC News
+#EXTINF:-1 tvg-logo="" group-title="CHANNEL | NEWS",NBC News
 https://jmp2.uk/sam-USBB2200014DK.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/yBMKpK86/news-world.png" group-title="CHANNEL | NEWS",News World
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/VWpnj6bx/news-world.png" group-title="CHANNEL | NEWS",News World
 https://amg01076-lightning-amg01076c5-rakuten-us-1788.playouts.now.amagi.tv/playlist/amg01076-lightning-newsworld-rakutenus/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -975,13 +932,7 @@ https://linear417-gb-hls3-prd-ak.cdn.skycdp.com/100e/Content/HLS_004_1080_30/Liv
 #EXTINF:-1 tvg-id="TRTWorld.tr" tvg-name="TRT World" tvg-logo="https://i.ibb.co.com/4wqrpWj8/trt-world.png" group-title="CHANNEL | NEWS", TRT World
 https://tv-trtworld.medya.trt.com.tr/master.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/rcti_plus/index.drm?id=163
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTINF:-1 tvg-id="" tvg-name="TV5 Monde Asie" tvg-logo="https://i.ibb.co.com/jZR04ZPh/tv5monde.png" group-title="CHANNEL | NEWS", TV5 Monde Asie
-https://legacy-global-cdn.visionplus.id/live/eds/TV5now/sa_dash/TV5now.mpd
-https://fta3-cdn-flr.visionplus.id/out/v1/16374447d35a49a596b9ff6cda259fe0/index.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/gbFFYvBL/voa.png" group-title="CHANNEL | NEWS", VOA
 https://voa-ingest.akamaized.net/hls/live/2033874/tvmc06/playlist.m3u8
@@ -1008,7 +959,6 @@ https://raw.githubusercontent.com/mimipipi22/lalajo/main/Streaming/news/wion.m3u
 #EXTINF:-1 tvg-id="Arena Premium 3.ba" tvg-logo="https://i.ibb.co.com/ZzNJ8VZv/arena-premium3-cro.png" group-title="CHANNEL | SPORTS", Arena Sport Premium 3
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/nMg7Xpxd/astro-arena.png" group-title="CHANNEL | SPORTS",Astro Arena
-https://ott.udptv.org/stream/astro/astroarena/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/JJvXDMM/astro-arenabola.png" group-title="CHANNEL | SPORTS",Astro Arena Bola 1
 https://smart.pendy.dpdns.org/Smart.php?id=Bolaarena1
@@ -1023,20 +973,14 @@ https://smart.pendy.dpdns.org/Smart.php?id=Bolaarena2
 https://wahyu1ptv.pages.dev/AstroFootBall-HD.m3u8
 
 #EXTINF:-1 tvg-id="AstroSupersport3" tvg-name="Astro Grandstand HD" tvg-logo="https://i.ibb.co.com/zVC2YKGT/astro-grandstand.png" group-title="CHANNEL | SPORTS",Astro Grandstand
-##http://droids2.xyz:8080/plx313/kQUGewSRrHtj/98262
-##http://line.protv.cc:80/play/live.php?mac=00:1A:79:12:35:0A&stream=1379226&extension=ts&play_token=6jflfDmBp5
-##https://zekonew.newkso.ru/zeko/premium123/mono.m3u8|referer=https://pkpakiplay.xyz/&origin=https://pkpakiplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-https://wahyu1ptv.pages.dev/AstroGrandStand-HD.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/bgzRZs6K/astro-pl.png" group-title="CHANNEL | SPORTS",Astro Premier League 1
 
 #EXTINF:-1 tvg-id="AstroSupersport2" tvg-name="Astro Premier League 2 HD" tvg-logo="https://i.ibb.co.com/bgzRZs6K/astro-pl.png" group-title="CHANNEL | SPORTS",Astro Premier League 2
 
 #EXTINF:-1 tvg-id="" tvg-name="Astro Sports Plus" tvg-logo="https://i.ibb.co.com/Kxyf1MF4/astro-sports-plus.png" group-title="CHANNEL | SPORTS",Astro Sports Plus
-https://ott.udptv.org/stream/astro/astrosportsplus/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
 
 #EXTINF:-1 group-title="CHANNEL | SPORTS" tvg-logo="https://i.ibb.co.com/PvKNbds6/beinsport.png",BeIN Sports
-https://ott.udptv.org/stream/udptvus/beinsports/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
 
 #EXTINF:-1 group-title="CHANNEL | SPORTS" tvg-logo="https://i.ibb.co.com/3YPPDVtF/bein1.png",BeIN Sports 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
