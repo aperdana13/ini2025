@@ -61,11 +61,7 @@ https://video.detik.com/transtv/smil:transtv.smil/index.m3u8
 #EXTINF:-1 tvg-id="Trans7.my.id" tvg-name="Trans 7" tvg-logo="https://i.ibb.co.com/yBhYjYNv/trans7.png" group-title="CHANNEL | INDONESIA", Trans7
 https://video.detik.com/trans7/smil:trans7.smil/chunklist_kamiselaluada_b744100_sleng.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=b4899559135b490d98a892c1d6a45e20:6b5feff6a7242dc4b4345bedb84c2181
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.19.1 (Linux; Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTINF:-1 tvg-id="ANTV.id" tvg-name="ANTV" tvg-logo="https://i.ibb.co.com/r2z8cQSX/antv.png" group-title="CHANNEL | INDONESIA",ANTV
-https://atemeshield1-voe.sysln.id/live/eds/ANTV/mpd/ANTV.mpd
 
 #EXTINF:-1 group-title="CHANNEL | INDONESIA" tvg-logo="https://i.ibb.co.com/8LD2tCWM/kompastv.png",Kompas TV
 http://op-group1-swiftservehd-1.dens.tv/s/s104/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=Kompas_TV|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36&referrer=http://www.dens.tv/
@@ -256,30 +252,6 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/HBOSignatureHD/mpd/HBOSignatureHD
 #EXTINF:-1 tvg-id="Cinemax.HD.id" tvg-logo="https://i.ibb.co.com/35Cf9hcQ/cinemax.png" group-title="CHANNEL | MOVIE",Cinemax
 https://atemecdnbalancer-voe.sysln.id/live/eds/CinemaxHD/mpd/CinemaxHD.mpd
 
-#EXTVLCOPT:http-origin=https://vecloud.eu
-#EXTVLCOPT:http-referrer=https://vecloud.eu/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-#EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/nsMytCG2/hbo2-usa.png" group-title="CHANNEL | MOVIE",HBO2
-https://events3.liveboxpro.com/event/689.m3u8
-
-#EXTVLCOPT:http-origin=https://vecloud.eu
-#EXTVLCOPT:http-referrer=https://vecloud.eu/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-#EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/dsG4RczZ/hbo-comedy-usa.png" group-title="CHANNEL | MOVIE",HBO Comedy
-https://events3.liveboxpro.com/event/690.m3u8
-
-#EXTVLCOPT:http-origin=https://vecloud.eu
-#EXTVLCOPT:http-referrer=https://vecloud.eu/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-#EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/PsF5SRjx/hbo-family-usa.png" group-title="CHANNEL | MOVIE",HBO Family
-https://events3.liveboxpro.com/event/691.m3u8
-
-#EXTVLCOPT:http-origin=https://vecloud.eu
-#EXTVLCOPT:http-referrer=https://vecloud.eu/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-#EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/GQGX1qPp/hbo-signature-usa.png" group-title="CHANNEL | MOVIE",HBO Signature
-https://events3.liveboxpro.com/event/693.m3u8
-
 #EXTINF:-1 group-title="CHANNEL | MOVIE" tvg-id="GALAXY" tvg-url="https://bit.ly/IndonesiaEpgG" tvg-logo="https://i.ibb.co.com/s9Mw63MP/galaxy.png",Galaxy
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -341,18 +313,30 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/782400332c96440598260730a864bc6f/in
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/bde0a6d8d3fd4d77ae5093ad2e6699dc/index.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+#EXTINF:-1 tvg-id="Cinema.World.id" tvg-name="Cinema World" tvg-logo="https://i.ibb.co.com/ycySdCjn/cinemaworld.png" group-title="CHANNEL | MOVIE", Cinema World
+https://cdn08jtedge.indihometv.com/dassdvr/134/cinemaworld/manifest.mpd
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/601kGq3V/etv.png" group-title="CHANNEL | MOVIE",eTV Bioskop 1
+#KODIPROP:contentlookup=False
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+#KODIPROP:inputstream=inputstream.adaptive
+http://194.42.205.99:8070/live/F28312/cc1dc138/298526.ts
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/601kGq3V/etv.png" group-title="CHANNEL | MOVIE",eTV Bioskop 2
+#KODIPROP:contentlookup=False
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+#KODIPROP:inputstream=inputstream.adaptive
+http://108.181.132.217:8070/live/F28312/cc1dc138/298513.ts
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/601kGq3V/etv.png" group-title="CHANNEL | MOVIE", eTV Bioskop 3
+#KODIPROP:contentlookup=False
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+#KODIPROP:inputstream=inputstream.adaptive
+http://108.181.122.179:8070/live/F28312/cc1dc138/298514.ts
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/601kGq3V/etv.png" group-title="CHANNEL | MOVIE", eTV Bioskop 4
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"BY3shFvTQBeKOI7dEEoBXg", "kid":"QPAZuGJB0j7wdWM/1/HpJw" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="ts599" tvg-logo="https://i.ibb.co.com/Gv5R0PZd/mnx.png" group-logo="" group-title="CHANNEL | MOVIE",MNX
-https://times-ott-live.akamaized.net/mnxhd_wv_drm/index.mpd
 
 #EXTINF:-1 group-title="CHANNEL | MOVIE" tvg-logo="https://i.ibb.co.com/DH8Zq5c4/sony-movies.png", Sony Movies
 http://xxip9.top:8080/live/Gizvid192@giz.com/1234@4321/2214.ts
@@ -364,26 +348,6 @@ https://tataplay.slivcdn.com/hls/live/2011748/PIXHD/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Syfy" tvg-logo="https://i.ibb.co.com/953b0M9/syfy.png" group-title="CHANNEL | MOVIE", Syfy
 https://fl3.moveonjoy.com/SYFY/index.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Rk6GYS6d/pluto-fantastic.png" group-title="CHANNEL | MOVIE",Pluto TV Fantastic
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5b64a245a202b3337f09e51d/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2aed45-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=46d9eb84-1a99-477f-99be-7f761b922cd2&serverSideAds=false&checkedby:iptvcat.com
-
-#EXTINF:-1 tvg-id="MyTimeMovieNetworkEast.us" tvg-logo="https://i.ibb.co.com/BHM8pGCW/mytime-movie.png" group-title="CHANNEL | MOVIE", MyTime Movie Network
-https://mytime-tcl.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 group-title="CHANNEL | MOVIE" tvg-logo="https://i.ibb.co.com/TBG6tLcb/movie-dome.png", Movie Dome Family
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00771-kochfilmsgerman-moviedomefamily-tcl/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://i.ibb.co.com/hFmnMh3s/sky-cinema-act.png" group-title="CHANNEL | MOVIE", Sky Cinema Action
-http://xxip9.top:8080/live/Gizvid192@giz.com/1234@4321/35254.ts
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-#EXTINF:-1 tvg-id="Cinema.World.id" tvg-name="Cinema World" tvg-logo="https://i.ibb.co.com/ycySdCjn/cinemaworld.png" group-title="CHANNEL | MOVIE", Cinema World
-https://cdn08jtedge.indihometv.com/dassdvr/134/cinemaworld/manifest.mpd
-
-#EXTINF:-1 tvg-id="55" tvg-logo="https://i.ibb.co.com/qL4PszjM/thrill.png" group-title="CHANNEL | MOVIE", Thrill
 
 #EXTINF:-1 tvg-name="CINEBOX: BLOCKBUSTERS" tvg-logo="https://i.ibb.co.com/zTjCRKkD/cinebox.png" group-title="CHANNEL | MOVIE",Cinebox Blockbusters
 http://1tv41.icu:8080/43761449506/smallwood/119421
@@ -432,6 +396,57 @@ http://1tv41.icu:8080/43761449506/smallwood/119436
 
 #EXTINF:-1 tvg-name="CINEBOX: THRILLER" tvg-logo="https://i.ibb.co.com/zTjCRKkD/cinebox.png" group-title="CHANNEL | MOVIE",Cinebox Thriller
 http://1tv41.icu:8080/43761449506/smallwood/119437
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3ffab3471a994535bdf7fc663792f08b:6e82876474df025c39ae804ba738ff17
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTINF:-1 tvg-id="55" tvg-logo="https://i.ibb.co.com/qL4PszjM/thrill.png" group-title="CHANNEL | MOVIE", Thrill
+https://d2tjypxxy769fn.cloudfront.net/out/v1/3c619ecc120b46e999d1eaa627cc544f/index.mpd
+https://fta2-cdn-flr.visionplus.id/out/v1/3c619ecc120b46e999d1eaa627cc544f/index.mpd
+https://av-ch-cdn.mncnow.id/live/eds/Thrill/sa_dash/Thrill.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"BY3shFvTQBeKOI7dEEoBXg", "kid":"QPAZuGJB0j7wdWM/1/HpJw" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="ts599" tvg-logo="https://i.ibb.co.com/Gv5R0PZd/mnx.png" group-logo="" group-title="CHANNEL | MOVIE",MNX
+https://times-ott-live.akamaized.net/mnxhd_wv_drm/index.mpd
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Rk6GYS6d/pluto-fantastic.png" group-title="CHANNEL | MOVIE",Pluto TV Fantastic
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5b64a245a202b3337f09e51d/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2aed45-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=46d9eb84-1a99-477f-99be-7f761b922cd2&serverSideAds=false&checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-id="MyTimeMovieNetworkEast.us" tvg-logo="https://i.ibb.co.com/BHM8pGCW/mytime-movie.png" group-title="CHANNEL | MOVIE", MyTime Movie Network
+https://mytime-tcl.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="CHANNEL | MOVIE" tvg-logo="https://i.ibb.co.com/TBG6tLcb/movie-dome.png", Movie Dome Family
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00771-kochfilmsgerman-moviedomefamily-tcl/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://i.ibb.co.com/hFmnMh3s/sky-cinema-act.png" group-title="CHANNEL | MOVIE", Sky Cinema Action
+http://xxip9.top:8080/live/Gizvid192@giz.com/1234@4321/35254.ts
+
+#EXTVLCOPT:http-origin=https://vecloud.eu
+#EXTVLCOPT:http-referrer=https://vecloud.eu/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/nsMytCG2/hbo2-usa.png" group-title="CHANNEL | MOVIE",HBO2
+https://events3.liveboxpro.com/event/689.m3u8
+
+#EXTVLCOPT:http-origin=https://vecloud.eu
+#EXTVLCOPT:http-referrer=https://vecloud.eu/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/dsG4RczZ/hbo-comedy-usa.png" group-title="CHANNEL | MOVIE",HBO Comedy
+https://events3.liveboxpro.com/event/690.m3u8
+
+#EXTVLCOPT:http-origin=https://vecloud.eu
+#EXTVLCOPT:http-referrer=https://vecloud.eu/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/PsF5SRjx/hbo-family-usa.png" group-title="CHANNEL | MOVIE",HBO Family
+https://events3.liveboxpro.com/event/691.m3u8
+
+#EXTVLCOPT:http-origin=https://vecloud.eu
+#EXTVLCOPT:http-referrer=https://vecloud.eu/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/GQGX1qPp/hbo-signature-usa.png" group-title="CHANNEL | MOVIE",HBO Signature
+https://events3.liveboxpro.com/event/693.m3u8
 
 # CHANNEL | ENTERTAINMENT
 
@@ -1162,6 +1177,10 @@ https://ddy6new.newkso.ru/ddy6/premium493/mono.m3u8|referer=https://pkpakiplay.x
 
 #EXTINF:-1 group-title="CHANNEL | SPORTS" tvg-id="" tvg-logo="https://i.ibb.co.com/MxPFwGdQ/beinsport6-sa.png",BeIN Sports 6 SA
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="Sky.Sport.Bundesliga.de" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png" group-title="CHANNEL | SPORTS",Bundesliga 1 Germany
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1NWMxZDMyMzRlNDMzLWQ4YTgtNjE2NC1jZTIzLWY0NThmYjcw/master.m3u8
+
 #EXTVLCOPT:http-origin=https://vecloud.eu
 #EXTVLCOPT:http-referrer=https://vecloud.eu/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
@@ -1350,46 +1369,24 @@ https://events3.liveboxpro.com/event/917.m3u8
 #EXTVLCOPT:http-referrer=https://vecloud.eu/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
 #EXTINF:-1 tvg-id="DAZN 1 DE.de" tvg-logo="https://i.ibb.co.com/d4zggKbd/dazn1.png" group-title="CHANNEL | SPORTS" , DAZN 1
-https://events3.liveboxpro.com/event/426.m3u8
-
-#EXTVLCOPT:http-origin=https://vecloud.eu
-#EXTVLCOPT:http-referrer=https://vecloud.eu/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-#EXTINF:-1 tvg-id="DAZN 2 DE.de" tvg-logo="https://i.ibb.co.com/vCBPM9XB/dazn2.png" group-title="CHANNEL | SPORTS" , DAZN 2
-https://events3.liveboxpro.com/event/427.m3u8
-
-#EXTINF:-1 tvg-id="DAZN 1"  tvg-logo="https://i.ibb.co.com/1fQhDqz6/dazn3.png" group-title="CHANNEL | SPORTS" , DAZN 3
-
-#EXTINF:-1 tvg-id="DAZN 4" tvg-logo="https://i.ibb.co.com/Q7zwLsZF/dazn4.png" group-title="CHANNEL | SPORTS" , DAZN 4
-
-#EXTVLCOPT:http-origin=https://vecloud.eu
-#EXTVLCOPT:http-referrer=https://vecloud.eu/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-#EXTINF:-1 tvg-id="DAZN F1" tvg-logo="https://i.ibb.co.com/7t4dH8W0/daznf1-esp.png" group-title="CHANNEL | SPORTS" , DAZN F1
-https://events3.liveboxpro.com/event/537.m3u8
-
-#EXTVLCOPT:http-origin=https://vecloud.eu
-#EXTVLCOPT:http-referrer=https://vecloud.eu/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-#EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/V01ypTZR/dazn1-de.png" group-title="CHANNEL | SPORTS",DAZN 1 HD
 https://events3.liveboxpro.com/event/445.m3u8
 
 #EXTVLCOPT:http-origin=https://vecloud.eu
 #EXTVLCOPT:http-referrer=https://vecloud.eu/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-#EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/vxN25WkG/dazn2-de.png" group-title="CHANNEL | SPORTS",DAZN 2 HD
+#EXTINF:-1 tvg-id="DAZN 2 DE.de" tvg-logo="https://i.ibb.co.com/vCBPM9XB/dazn2.png" group-title="CHANNEL | SPORTS" , DAZN 2
 https://events3.liveboxpro.com/event/446.m3u8
 
 #EXTVLCOPT:http-origin=https://vecloud.eu
 #EXTVLCOPT:http-referrer=https://vecloud.eu/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-#EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/fVPPD5sw/dazn3-de.png" group-title="CHANNEL | SPORTS",DAZN 3 HD
+#EXTINF:-1 tvg-id="DAZN 1"  tvg-logo="https://i.ibb.co.com/1fQhDqz6/dazn3.png" group-title="CHANNEL | SPORTS" , DAZN 3
 https://events3.liveboxpro.com/event/447.m3u8
 
 #EXTVLCOPT:http-origin=https://vecloud.eu
 #EXTVLCOPT:http-referrer=https://vecloud.eu/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-#EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/DHT8K7T8/dazn4-de.png" group-title="CHANNEL | SPORTS",DAZN 4 HD
+#EXTINF:-1 tvg-id="DAZN 4" tvg-logo="https://i.ibb.co.com/Q7zwLsZF/dazn4.png" group-title="CHANNEL | SPORTS" , DAZN 4
 https://events3.liveboxpro.com/event/448.m3u8
 
 #EXTVLCOPT:http-origin=https://vecloud.eu
@@ -1404,9 +1401,31 @@ https://events3.liveboxpro.com/event/538.m3u8
 #EXTINF:-1 tvg-id="DAZN LALIGA" tvg-logo="https://i.ibb.co.com/YTXCZKq7/dazn-laliga-esp.png" group-title="CHANNEL | SPORTS" , DAZN LaLiga 2
 https://events3.liveboxpro.com/event/43.m3u8
 
-#EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/fYGJx3Qv/dazn5-de.png" group-title="CHANNEL | SPORTS",DAZN 5 HD
+#EXTVLCOPT:http-origin=https://vecloud.eu
+#EXTVLCOPT:http-referrer=https://vecloud.eu/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
+#EXTINF:-1 tvg-id="DAZN F1" tvg-logo="https://i.ibb.co.com/7t4dH8W0/daznf1-esp.png" group-title="CHANNEL | SPORTS" , DAZN F1
+https://events3.liveboxpro.com/event/537.m3u8
 
-#EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/KggBR30/dazn6-de.png" group-title="CHANNEL | SPORTS",DAZN 6 HD
+#EXTVLCOPT:http-origin=https://vecloud.eu
+#EXTVLCOPT:http-referrer=https://vecloud.eu/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/V01ypTZR/dazn1-de.png" group-title="CHANNEL | SPORTS",DAZN 1 DE
+https://events3.liveboxpro.com/event/426.m3u8
+
+#EXTVLCOPT:http-origin=https://vecloud.eu
+#EXTVLCOPT:http-referrer=https://vecloud.eu/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/vxN25WkG/dazn2-de.png" group-title="CHANNEL | SPORTS",DAZN 2 DE
+https://events3.liveboxpro.com/event/427.m3u8
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/fVPPD5sw/dazn3-de.png" group-title="CHANNEL | SPORTS",DAZN 3 DE
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/DHT8K7T8/dazn4-de.png" group-title="CHANNEL | SPORTS",DAZN 4 DE
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/fYGJx3Qv/dazn5-de.png" group-title="CHANNEL | SPORTS",DAZN 5 DE
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/KggBR30/dazn6-de.png" group-title="CHANNEL | SPORTS",DAZN 6 DE
 
 #EXTVLCOPT:http-origin=https://vecloud.eu
 #EXTVLCOPT:http-referrer=https://vecloud.eu/
@@ -1510,7 +1529,9 @@ http://bestp55.xyz:80/A7FC77529786/519C32219872/1028356
 
 #EXTINF:-1 tvg-id="" tvg-name="MX - FOX SPORTS PREMIUM HEVC" tvg-logo="https://i.ibb.co.com/0j84ss9H/fs-premium-mex.png" group-title="CHANNEL | SPORTS",Fox Sports Premium Vivo
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/LGTSwjJ/golf.png" group-title="CHANNEL | SPORTS",Golf+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/LGTSwjJ/golf.png" group-title="CHANNEL | SPORTS",Golf Channel
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1NmNmOTRlN2Q4ZDg2LTlhNTktYjEyNC1iZGVkLWEzNjI5NzBh/master.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/gZyYmb9f/laliga-hypermotion.png" group-title="CHANNEL | SPORTS",LaLiga TV Hypermotion
 
@@ -1572,21 +1593,60 @@ https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc122ycnuy)/m
 #KODIPROP:inputstream.adaptive.license_key=002007110c69a23803173b50eab05f23:590d6e8f4ca81319f9bb29104f571990
 https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(lc107a1ddy)/master.mpd
 
+#EXTVLCOPT:http-origin=https://vecloud.eu
+#EXTVLCOPT:http-referrer=https://vecloud.eu/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
 #EXTINF:-1 tvg-id="NovaSport.bg" tvg-logo="https://i.ibb.co.com/tMjYW80p/nova-sport-bul.png" group-title="CHANNEL | SPORTS",Nova Sport
+https://events3.liveboxpro.com/event/468.m3u8
 
-#EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/cKSLSQSD/nova-sportpl-gre.png" group-title="CHANNEL | SPORTS",Nova Sports Premier League
-
+#EXTVLCOPT:http-origin=https://vecloud.eu
+#EXTVLCOPT:http-referrer=https://vecloud.eu/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/sSwNq30/nova-sport1-gre.png" group-title="CHANNEL | SPORTS",Nova Sports 1
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/variant/VE1AO1NTbu8mbv12LxEWM21ycrNWYyR3LycTYwQjZ5YmN5MmZtQjYmlTLzEmY00SZxYmYtEDMyUzN5gTO/master.m3u8
+https://events3.liveboxpro.com/event/631.m3u8
 
+#EXTVLCOPT:http-origin=https://vecloud.eu
+#EXTVLCOPT:http-referrer=https://vecloud.eu/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/TxLSw98m/nova-sport2-gre.png" group-title="CHANNEL | SPORTS",Nova Sports 2
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/variant/VE1AO1NTbu8mbv12LxEWM21ycrNWYyR3LjZTZ2kzN0YWZ4kTZtEWZygTLiFGM00SYwUWZtIWYjFjYlJGM/master.m3u8
+https://events3.liveboxpro.com/event/632.m3u8
 
+#EXTVLCOPT:http-origin=https://vecloud.eu
+#EXTVLCOPT:http-referrer=https://vecloud.eu/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/svWnzhbw/nova-sport3-gre.png" group-title="CHANNEL | SPORTS",Nova Sports 3
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/variant/VE1AO1NTbu8mbv12LxEWM21ycrNWYyR3LmRTYwYGZ5QzYxkDMtY2M1EWL5EWM00SO5ImMtEGOwcTNkBjZ/master.m3u8
+https://events3.liveboxpro.com/event/633.m3u8
 
+#EXTVLCOPT:http-origin=https://vecloud.eu
+#EXTVLCOPT:http-referrer=https://vecloud.eu/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/1tKC1HbD/nova-sport4-gre.png" group-title="CHANNEL | SPORTS",Nova Sports 4
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/variant/VE1AO1NTbu8mbv12LxEWM21ycrNWYyR3L1MjNmJGMzAjNldDOtgDN5gTLlFGZ00CZ0MzNtEGO5AjZiZ2M/master.m3u8
+https://events3.liveboxpro.com/event/634.m3u8
 
+#EXTVLCOPT:http-origin=https://vecloud.eu
+#EXTVLCOPT:http-referrer=https://vecloud.eu/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/N6kF6fkf/nova-sport5-gre.png" group-title="CHANNEL | SPORTS",Nova Sports 5
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/variant/VE1AO1NTbu8mbv12LxEWM21ycrNWYyR3L0cDMmNmZwIDNhFWMtImMxgTLiJ2Y00iY5IWOtQTMxcTO2cDO/master.m3u8
+https://events3.liveboxpro.com/event/635.m3u8
 
+#EXTVLCOPT:http-origin=https://vecloud.eu
+#EXTVLCOPT:http-referrer=https://vecloud.eu/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/XkCJWRTk/nova-sport6-gre.png" group-title="CHANNEL | SPORTS",Nova Sports 6
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/variant/VE1AO1NTbu8mbv12LxEWM21ycrNWYyR3L2gjZkBTNmZmMiZGOtkTZwEWLjNTY00SN5QGMtATZlZzNiBzM/master.m3u8
+https://events3.liveboxpro.com/event/636.m3u8
+
+#EXTVLCOPT:http-origin=https://vecloud.eu
+#EXTVLCOPT:http-referrer=https://vecloud.eu/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/cKSLSQSD/nova-sportpl-gre.png" group-title="CHANNEL | SPORTS",Nova Sports Premier League
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/variant/VE1gTdz0mLv52bt9SM21ycrNWYyR3L5gTNkFjZ4I2MzgjYtYWYmhTLjBjM00SMxMmZtEmZkFTZ1ImZ/master.m3u8
+https://events3.liveboxpro.com/event/599.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/gZMzQvgJ/optus-sport.png" group-title="CHANNEL | SPORTS",Optus 1
 
@@ -1915,26 +1975,76 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTVHD/mpd/SPOTVHD.mpd
 #KODIPROP:inputstream.adaptive.license_key=e6ed3fdf6e9f491d9ead109fc0b00cfc:3bc6c45722eb5fa7b343de9bffc4f7c7 
 https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTV2HD/mpd/SPOTV2HD.mpd 
 
+#EXTVLCOPT:http-origin=https://vecloud.eu
+#EXTVLCOPT:http-referrer=https://vecloud.eu/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
 #EXTINF:-1 xui-id="11539" tvg-id="" tvg-name="Portugal- SPORT TV 1 HD" tvg-logo="https://i.ibb.co.com/Myxf8KpZ/sporttv1.png" group-title="CHANNEL | SPORTS",Sport-TV 1
+https://events3.liveboxpro.com/event/49.m3u8
 
+#EXTVLCOPT:http-origin=https://vecloud.eu
+#EXTVLCOPT:http-referrer=https://vecloud.eu/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
 #EXTINF:-1 xui-id="11540" tvg-id="" tvg-name="Portugal- Sport TV 2" tvg-logo="https://i.ibb.co.com/8nzyQdgv/sporttv2.png" group-title="CHANNEL | SPORTS",Sport-TV 2
+https://events3.liveboxpro.com/event/74.m3u8
 
+#EXTVLCOPT:http-origin=https://vecloud.eu
+#EXTVLCOPT:http-referrer=https://vecloud.eu/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
 #EXTINF:-1 xui-id="11541" tvg-id="" tvg-name="Portugal- Sport TV 3" tvg-logo="https://i.ibb.co.com/9k7x6bhm/sporttv3.png" group-title="CHANNEL | SPORTS",Sport-TV 3
+https://events3.liveboxpro.com/event/454.m3u8
 
+#EXTVLCOPT:http-origin=https://vecloud.eu
+#EXTVLCOPT:http-referrer=https://vecloud.eu/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
 #EXTINF:-1 xui-d="11542" tvg-id="" tvg-name="Portugal- Sport TV 4" tvg-logo="https://i.ibb.co.com/4RsCbtcQ/sporttv4.png" group-title="CHANNEL | SPORTS",Sport-TV 4
+https://events3.liveboxpro.com/event/289.m3u8
 
+#EXTVLCOPT:http-origin=https://vecloud.eu
+#EXTVLCOPT:http-referrer=https://vecloud.eu/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
 #EXTINF:-1 xui-id="11543" tvg-id="" tvg-name="Portugal- Sport TV 5" tvg-logo="https://i.ibb.co.com/zTtFFPpt/sporttv5.png" group-title="CHANNEL | SPORTS",Sport-TV 5
+https://events3.liveboxpro.com/event/290.m3u8
 
+#EXTVLCOPT:http-origin=https://vecloud.eu
+#EXTVLCOPT:http-referrer=https://vecloud.eu/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
+#EXTINF:-1 xui-id="11543" tvg-id="" tvg-name="Portugal- Sport TV 5" tvg-logo="https://i.ibb.co.com/zTtFFPpt/sporttv5.png" group-title="CHANNEL | SPORTS",Sport-TV 6
+https://events3.liveboxpro.com/event/291.m3u8
+
+#EXTVLCOPT:http-origin=https://vecloud.eu
+#EXTVLCOPT:http-referrer=https://vecloud.eu/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
 #EXTINF:-1 xui-id="11180" tvg-id="" tvg-name="EX YU: Sport Klub 1 SR HD" tvg-logo="https://i.ibb.co.com/JFQy74d7/sk1.png" group-title="CHANNEL | SPORTS", Sport Klub 1
+https://events3.liveboxpro.com/event/101.m3u8
 
+#EXTVLCOPT:http-origin=https://vecloud.eu
+#EXTVLCOPT:http-referrer=https://vecloud.eu/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
 #EXTINF:-1 xui-id="11181" tvg-id="" tvg-name="EX YU: Sport Klub 2 SR HD" tvg-logo="https://i.ibb.co.com/zW16VCQ3/sk2.png" group-title="CHANNEL | SPORTS", Sport Klub 2
+https://events3.liveboxpro.com/event/102.m3u8
 
+#EXTVLCOPT:http-origin=https://vecloud.eu
+#EXTVLCOPT:http-referrer=https://vecloud.eu/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
 #EXTINF:-1 xui-id="11182" tvg-id="" tvg-name="EX YU: Sport Klub 3 SR" tvg-logo="https://i.ibb.co.com/3yYqwj1m/sk3.png" group-title="CHANNEL | SPORTS", Sport Klub 3
+https://events3.liveboxpro.com/event/103.m3u8
+
+#EXTVLCOPT:http-origin=https://vecloud.eu
+#EXTVLCOPT:http-referrer=https://vecloud.eu/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
+#EXTINF:-1 xui-id="11182" tvg-id="" tvg-name="EX YU: Sport Klub 3 SR" tvg-logo="https://i.ibb.co.com/3yYqwj1m/sk3.png" group-title="CHANNEL | SPORTS", Sport Klub 4
+https://events3.liveboxpro.com/event/104.m3u8
 
 #EXTINF:-1 group-title="CHANNEL | SPORTS" tvg-logo="https://i.ibb.co.com/Mytmd9SS/strongman.png",Strongman Champions League
 https://3f4b9dde8740443b9b90459fc7b67cdd.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-gb_StrongmanChampionsLeague/e21d95be-bbb1-442c-bd84-71813dc764ce/0.m3u8
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="TennisChannel.us" tvg-name="Tennis Channel" tvg-logo="https://i.ibb.co.com/vWbhb7z/tennis-channel.png" group-title="CHANNEL | SPORTS", Tennis Channel
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1ZmNhYTQ1ODQ5MGE2LTljYTktZGY1NC01NDRlLWMyZTQ3NjBm/master.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="TennisChannel.us" tvg-name="Tennis Channel" tvg-logo="https://i.ibb.co.com/vWbhb7z/tennis-channel.png" group-title="CHANNEL | SPORTS", Tennis Channel 2
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1NmYzNTJiMzc5NTdmLWIwYzgtNGY4NC0xMTdhLTI0OWE5Mjcy/master.m3u8
 
 #EXTINF:-1 group-title="CHANNEL | SPORTS" tvg-id="TNTSports1.uk" tvg-logo="https://i.ibb.co.com/xK6LH82X/tntsports1.png",TNT Sports 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -1968,7 +2078,9 @@ https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/lsdasbvglv/
 #KODIPROP:inputstream.adaptive.license_key=e31a5a81caff5d07ea2411a571fc2e59:96c5ef69479732ae734f962748c19729
 https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/i2pcjr4pe5/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="CHANNEL | SPORTS" tvg-id="TNTSports5.uk" tvg-logo="https://i.ibb.co.com/fVkfs3qy/tntsports5.png",TNT Sports 5
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1ZGE3MDdjOWNmOGNhLWY1MjktYmRiNC1kYjY4LTQwMTQ3OWZj/master.m3u8
 
 #EXTINF:-1 group-title="CHANNEL | SPORTS" tvg-id="TNTSports6.uk" tvg-logo="https://i.ibb.co.com/271k9CVJ/tntsports6.png",TNT Sports 6
 
