@@ -42,7 +42,10 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/SCTVHD/mpd/SCTVHD.mpd
 https://atemecdnbalancer-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd
 
 #EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://i.ibb.co.com/35LdJ6Jd/indosiar-sport.png" group-title="CHANNEL | INDONESIA",Indosiar Sports 1
-
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5eaddccd893a47ac8b65f9b31963a3ae:881afa67ea57b41c1822d745d67559e6
+https://atemecdnbalancer-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/608N7XvY/moji.png" group-title="CHANNEL | INDONESIA", Moji TV
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
@@ -61,7 +64,12 @@ https://video.detik.com/transtv/smil:transtv.smil/index.m3u8
 #EXTINF:-1 tvg-id="Trans7.my.id" tvg-name="Trans 7" tvg-logo="https://i.ibb.co.com/yBhYjYNv/trans7.png" group-title="CHANNEL | INDONESIA", Trans7
 https://video.detik.com/trans7/smil:trans7.smil/chunklist_kamiselaluada_b744100_sleng.m3u8
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=251c384e846841abafa1f7c723d57e66:e45b06a38cd261b74c5160f0912c042f
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
 #EXTINF:-1 tvg-id="ANTV.id" tvg-name="ANTV" tvg-logo="https://i.ibb.co.com/r2z8cQSX/antv.png" group-title="CHANNEL | INDONESIA",ANTV
+https://d84q7nw4qf3j3.cloudfront.net/out/v1/0a6c6b1534444ab4bd903af8761e6747/index.mpd
 
 #EXTINF:-1 group-title="CHANNEL | INDONESIA" tvg-logo="https://i.ibb.co.com/8LD2tCWM/kompastv.png",Kompas TV
 http://op-group1-swiftservehd-1.dens.tv/s/s104/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=Kompas_TV|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36&referrer=http://www.dens.tv/
@@ -776,19 +784,32 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5c
 #EXTVLCOPT:network-caching=10
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d14fdb8ca91eedee1633117/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
+#EXTINF:-1   tvg-logo="https://i.ibb.co.com/zhdLcZSb/vevo70s.png" group-title="CHANNEL | MUSIC"", Vevo '70s
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f32f26bcd8aea00071240e5/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/JWmGDM0M/vevo80s.png" group-title="CHANNEL | MUSIC", Vevo '80s
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fd7b8bf927e090007685853/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/spYYZ7gJ/vevo90s.png" group-title="CHANNEL | MUSIC", Vevo '90s
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/XxNTZPy5/vevo2010.png" group-title="CHANNEL | MUSIC", Vevo 2010s
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fd7bb1f86d94a000796e2c2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/LhqjB8CT/vevo2k.png" group-title="CHANNEL | MUSIC", Vevo 2K
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/MyfVmsPN/vevo-features.png" group-title="CHANNEL | MUSIC", Vevo Features
-
-#EXTINF:-1 tvg-id="USBC3600008WY" tvg-name="Vevo Pop" tvg-logo="https://i.ibb.co.com/GQXWThXS/vevo-pop.png" group-title="CHANNEL | MUSIC", Vevo Pop
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fd7bca3e0a4ee0007a38e8c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/5x63XLFC/vevo-rock.png" group-title="CHANNEL | MUSIC", Vevo Retro Rock
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61d4b38226b8a50007fe03a6/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-id="USBC3600008WY" tvg-name="Vevo Pop" tvg-logo="https://i.ibb.co.com/GQXWThXS/vevo-pop.png" group-title="CHANNEL | MUSIC", Vevo Pop
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d93b635b43dd1a399b39eee/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1   tvg-logo="https://i.ibb.co.com/23K9t6CR/vevo-r-b.png" group-title="CHANNEL | MUSIC", Vevo R&B
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5da0d83f66c9700009b96d0e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1   tvg-logo="https://i.ibb.co.com/fG1Rkq5X/vevo-hiphop.png" group-title="CHANNEL | MUSIC", Vevo Hip-Hop
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61d4c2817a823d00070ba53e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1   tvg-logo="https://i.ibb.co.com/pr9rmswQ/vh1.png" group-title="CHANNEL | MUSIC", VH1 Classic
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6076cd1df8576d0007c82193/master.m3u8?
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/Y4qxJg8d/trace-urban.png" group-title="CHANNEL | MUSIC",Trace Urban
 https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
@@ -973,7 +994,12 @@ https://bloomberg.com/media-manifest/streams/asia.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/pjkgr57F/cbs.png" group-title="CHANNEL | NEWS",CBS News
 https://jmp2.uk/sam-USBA370000104.m3u8
 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6224262601de437a81c99fdda7e2ea4a:7224fae0f679b70d22aca394a9084120
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.19.1 (Linux; Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/KzGgyrSN/cctv4.png" group-title="CHANNEL | NEWS",CCTV 4
+https://atemecdnbalancer-voe.sysln.id/live/eds/CCTV4/mpd/CCTV4.mpd
+http://khano.nng.cloudns.us/live/m3u8/int/b0e5bb72ae995c6.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="CGTN" tvg-logo="https://i.ibb.co.com/1fbDWNjh/cgtn.png" group-title="CHANNEL | NEWS", CGTN 
 
@@ -1368,6 +1394,18 @@ https://events3.liveboxpro.com/event/377.m3u8
 
 #EXTINF:-1 tvg-id="here" tvg-logo="https://i.ibb.co.com/G3crk7v2/realmadridtv.png" group-title="CHANNEL | SPORTS" , Real Madrid TV 
 https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
+
+#EXTVLCOPT:http-origin=https://vecloud.eu
+#EXTVLCOPT:http-referrer=https://vecloud.eu/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/Xf2zhk77/porto-pt.png" group-title="CHANNEL | SPORTS", Porto Canal
+https://events3.liveboxpro.com/event/718.m3u8
+
+#EXTVLCOPT:http-origin=https://vecloud.eu
+#EXTVLCOPT:http-referrer=https://vecloud.eu/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/MyQqjQgy/sportingtv-pt.png" group-title="CHANNEL | SPORTS", Sporting TV
+https://events3.liveboxpro.com/event/716.m3u8
 
 #EXTVLCOPT:http-origin=https://vecloud.eu
 #EXTVLCOPT:http-referrer=https://vecloud.eu/
@@ -1843,7 +1881,7 @@ https://events3.liveboxpro.com/event/60.m3u8
 #EXTVLCOPT:http-origin=https://vecloud.eu
 #EXTVLCOPT:http-referrer=https://vecloud.eu/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-#EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/rKx6y8n3/skysport-racing.png" group-title="CHANNEL | EUROPE", Sky Sports Racing
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/rKx6y8n3/skysport-racing.png" group-title="CHANNEL | SPORTS", Sky Sports Racing
 https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1NDc0M2VhZjdhMjM2LWY5ZmEtZWMxNC1hZWM4LTVmODE2ZjEz/master.m3u8
 https://5nhp186eg31fofnc.chinese-restaurant-api.site/v4/variant/VE1gTdz0mLzRnLv52bt9SMhFjdtM3ajFmc09SZ0QGMzEGMjBzMjZTLhFTZ50SMmZDNtUjZ0kTL1YmM5UTY4E2L.m3u8
 https://events3.liveboxpro.com/event/554.m3u8
@@ -2254,8 +2292,6 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
 
 #EXTINF:-1 tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-id="TV3.my" group-title="CHANNEL | ASEAN" tvg-logo="https://i.ibb.co.com/LDr96Gkq/tv3-my.png",TV3 MY
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Xper!a 5 Build/mFjLTNcIil8fCh0eXBlIT1cIn1cImF1ZGlvXCIpIn0.BkWDujdfuYgIuoHodsw1Kshx0h6BhW4egKD8ymY4e2s; wv) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.7.1675.48 Safari/537.36
-https://smart.pendy.dpdns.org/Smart.php?id=TV3
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=YmE1ODUyNDctMTU5NS0zMWEzLWJhYWYtZDVmMjI3Y2VjODIz
@@ -2398,9 +2434,10 @@ http://mytv.dothome.co.kr/ch/catv/4.php
 https://atemecdnbalancer-voe.sysln.id/live/eds/KBSWorldHD/mpd/KBSWorldHD.mpd
 
 #EXTINF:-1 tvg-id="49" tvg-logo="https://i.ibb.co.com/FbVsBd8t/kix.png" group-title="CHANNEL | ASIAN", KIX
-#EXTVLCOPT:http-referrer=http://www.dens.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
-http://op-group1-swiftservehd-1.dens.tv/h/h07/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=KIX_HD
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6300053f268640b9b2b695cb5ab0677e:cb81072bd6e4d4ff3b3187efff7928d1
+https://atemecdnbalancer-voe.sysln.id/live/eds/KIXHD/mpd/KIXHD.mpd
 
 #EXTINF:-1 group-title="CHANNEL | ASIAN" tvg-logo="https://i.ibb.co.com/HffbHLhx/one.png", One
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1 
@@ -2423,7 +2460,6 @@ https://atemeshield1-voe.sysln.id/live/eds/TvNMoviesHD/mpd/TvNMoviesHD.mpd
 https://giatv.bozztv.com/giatv/giatv-kpoptvplay/kpoptvplay/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/W4P2x7tJ/newkpop.png" group-title="CHANNEL | ASIAN", New Kpop
-https://jmp2.uk/sam-USAJ3000013FJ.m3u8
 
 #EXTINF:-1 tvg-id="tving|C00579" tvg-name="M.net FHD" tvg-logo="https://i.ibb.co.com/zTtLysws/mnet.png" group-title="CHANNEL | ASIAN",M Net
 http://warlock0.synology.me:9999/klive/api/url.m3u8?m=web_play&s=tving&i=C00579&q=FHD&apikey=5MY50EII66
@@ -2434,15 +2470,13 @@ http://warlock0.synology.me:9999/klive/api/url.m3u8?m=web_play&s=tving&i=C00579&
 #KODIPROP:inputstream.adaptive.license_key=d71b38eb626d4e9c9297c04a174ab1f8:ed551459c28dacd8a8a3f16a8c5c985b 
 https://atemeshield1-voe.sysln.id/live/eds/AnhuiTV/mpd/AnhuiTV.mpd 
 
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c6bbd293f9604131961bf10ddd1d6d31:ff08a6c78c1d1414a1cfae760ab623a9
 #EXTINF:-1 tvg-id="99" tvg-logo="https://i.ibb.co.com/23zGN5gt/celestial-movie.png" group-title="CHANNEL | ASIAN", Celestial Movies
-#EXTVLCOPT:http-referrer=http://www.dens.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
-http://op-group1-swiftservehd-1.dens.tv/h/h14/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=Celestial_Movies_HD
+https://atemecdnbalancer-voe.sysln.id/live/eds/CelestialMoviesHD/mpd/CelestialMoviesHD.mpd
 
 #EXTINF:-1 tvg-id="110" tvg-logo="https://i.ibb.co.com/4nNpbzrN/ccm.png" group-title="CHANNEL | ASIAN", CCM
-#EXTVLCOPT:http-referrer=http://www.dens.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
-http://op-group1-swiftservesd-1.dens.tv/s/s31/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=CCM_Celestial_Classic_MV-
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6224262601de437a81c99fdda7e2ea4a:7224fae0f679b70d22aca394a9084120
@@ -2520,39 +2554,28 @@ JPN
 https://atemecdnbalancer-voe.sysln.id/live/eds/AnimaxHD/mpd/AnimaxHD.mpd
 
 #EXTINF:-1  tvg-name="Anime x Hidive" tvg-id="plex.tv.ANIME.x.HIDIVE.plex" tvg-logo="https://i.ibb.co.com/tMy27Vf3/anime-hidive.png" group-title="CHANNEL | ASIAN",Anime x Hidive
-https://ott.udptv.net/stream/iptv/animexhidive/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
 
 #EXTINF:-1  tvg-name="Aniplus" tvg-id="Aniplus.id" tvg-logo="https://i.ibb.co.com/HLHz4D80/aniplus.png" group-title="CHANNEL | ASIAN",Aniplus
-https://ott.udptv.net/stream/iptv/aniplus/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTINF:-1 group-title="CHANNEL | ASIAN" tvg-id="homedrama" tvg-logo="https://i.ibb.co.com/rGFwr20n/home-dream.png", Home Drama Channel Japan
-https://stream01.willfonk.com/live_playlist.m3u8?cid=CS294&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 
 #EXTINF:-1 group-title="CHANNEL | ASIAN" tvg-id="js1" tvg-logo="https://i.ibb.co.com/JW6Vnv7h/j-sports.png", J Sports 1  
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS242&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 
 #EXTINF:-1 group-title="CHANNEL | ASIAN" tvg-id="js2" tvg-logo="https://i.ibb.co.com/JW6Vnv7h/j-sports.png", J Sports 2  
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS243&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 
 #EXTINF:-1 group-title="CHANNEL | ASIAN" tvg-id="js3" tvg-logo="https://i.ibb.co.com/JW6Vnv7h/j-sports.png", J Sports 3  
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS244&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 
 #EXTINF:-1 group-title="CHANNEL | ASIAN" tvg-id="js4" tvg-logo="https://i.ibb.co.com/JW6Vnv7h/j-sports.png", J Sports 4  
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS245&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59
 
 #EXTINF:-1 group-title="CHANNEL | ASIAN" tvg-id="mbs" tvg-logo="https://i.ibb.co.com/Cp8rMtmv/mbs.png", MBS Japan
-https://stream01.willfonk.com/live_playlist.m3u8?cid=CS305&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 
 #EXTINF:-1 group-title="CHANNEL | ASIAN" tvg-id="movieplus" tvg-logo="https://i.ibb.co.com/My8rgLdy/movie-plus.png", Movie Plus Japan
-https://stream01.willfonk.com/live_playlist.m3u8?cid=CS314&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
  
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTINF:-1 group-title="CHANNEL | ASIAN" tvg-id="neco" tvg-logo="https://i.ibb.co.com/0VZ6B30f/neco.png", Neco Japan
-https://stream01.willfonk.com/live_playlist.m3u8?cid=CS223&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 
 #EXTINF:-1 group-title="CHANNEL | ASIAN" tvg-id="ntvgplus" tvg-logo="https://i.ibb.co.com/mrXb5Z4S/G.png", Nittele G+ Japan
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS251&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/WNVjqfV9/nhk-world.png" group-title="CHANNEL | ASIAN", NHK World Japan
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
@@ -2564,10 +2587,8 @@ https://atemeshield1-voe.sysln.id/live/eds/NHKWorldJapanHD/mpd/NHKWorldJapanHD.m
 https://cdn.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3u8
 
 #EXTINF:-1 group-title="CHANNEL | ASIAN" tvg-id="nhkg" tvg-logo="https://i.ibb.co.com/3m6JDxj2/nhk-g.png", NHK G Osaka Japan
-https://stream01.willfonk.com/live_playlist.m3u8?cid=CS325&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 
 #EXTINF:-1 group-title="CHANNEL | ASIAN" tvg-id="suntv" tvg-logo="https://i.ibb.co.com/fVCYhK8W/suntv.png", SUN TV Japan
-https://stream01.willfonk.com/live_playlist.m3u8?cid=CS314&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 
 KSA
 
@@ -2645,7 +2666,7 @@ https://ssc-extra3-enc.edgenextcdn.net/out/v1/8f1c6c3f05ef4284a64b342891bd85ae/i
 
 # CHANNEL | AMERICA
 
-#EXTINF:-1 group-title="CHANNEL | AMERICA" group-logo="https://i.ibb.co.com/hxp4Kwgk/asian.png"
+#EXTINF:-1 group-title="CHANNEL | AMERICA" group-logo="https://i.ibb.co.com/5gB0LPYf/world.png"
 
 #EXTVLCOPT:http-origin=https://vecloud.eu
 #EXTVLCOPT:http-referrer=https://vecloud.eu/
@@ -2660,12 +2681,24 @@ https://events3.liveboxpro.com/event/833.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="CHANNEL | AMERICA",TVA Sports 2 CA
 https://events3.liveboxpro.com/event/834.m3u8
 
+#EXTVLCOPT:http-origin=https://vecloud.eu
+#EXTVLCOPT:http-referrer=https://vecloud.eu/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="CHANNEL | AMERICA",Azteca 7 MX
+https://events3.liveboxpro.com/event/844.m3u8
+
+#EXTVLCOPT:http-origin=https://vecloud.eu
+#EXTVLCOPT:http-referrer=https://vecloud.eu/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="CHANNEL | AMERICA",Bandsports BR
+https://events3.liveboxpro.com/event/275.m3u8
+
 
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="CHANNEL | AMERICA",
 
 # CHANNEL | EUROPE
 
-#EXTINF:-1 group-title="CHANNEL | EUROPE" group-logo="https://i.ibb.co.com/hxp4Kwgk/asian.png"
+#EXTINF:-1 group-title="CHANNEL | EUROPE" group-logo="https://i.ibb.co.com/DP68rYY9/euro.png"
 
 #EXTVLCOPT:http-origin=https://vecloud.eu
 #EXTVLCOPT:http-referrer=https://vecloud.eu/
@@ -4009,7 +4042,7 @@ https://wikinew.newkso.ru/wiki/eplayereleven5.m3u8
 #EXTVLCOPT:http-origin=https://vecloud.eu
 #EXTVLCOPT:http-referrer=https://vecloud.eu/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="CHANNEL | EUROPE", Porto Canal PT
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/Xf2zhk77/porto-pt.png" group-title="CHANNEL | EUROPE", Porto Canal PT
 https://events3.liveboxpro.com/event/718.m3u8
 
 #EXTVLCOPT:http-origin=https://vecloud.eu
@@ -4075,7 +4108,7 @@ https://events3.liveboxpro.com/event/722.m3u8
 #EXTVLCOPT:http-origin=https://vecloud.eu
 #EXTVLCOPT:http-referrer=https://vecloud.eu/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="CHANNEL | EUROPE", Sporting TV PT
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/MyQqjQgy/sportingtv-pt.png" group-title="CHANNEL | EUROPE", Sporting TV PT
 https://events3.liveboxpro.com/event/716.m3u8
 
 #EXTVLCOPT:http-origin=https://vecloud.eu
