@@ -1396,43 +1396,43 @@ https://events3.liveboxpro.com/event/716.m3u8
 #EXTVLCOPT:http-origin=https://vecloud.eu
 #EXTVLCOPT:http-referrer=https://vecloud.eu/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-EXTINF:-1 xui-id="7942" tvg-id="" tvg-name="CYTA1" tvg-logo="https://i.ibb.co.com/gbWxVPPg/cytavision1-cyp.png" group-title="CHANNEL | SPORTS",Cytavision Sports 1
+EXTINF:-1 tvg-id="" tvg-name="CYTA1" tvg-logo="https://i.ibb.co.com/gbWxVPPg/cytavision1-cyp.png" group-title="CHANNEL | SPORTS",Cytavision Sports 1
 https://events3.liveboxpro.com/event/911.m3u8
 
 #EXTVLCOPT:http-origin=https://vecloud.eu
 #EXTVLCOPT:http-referrer=https://vecloud.eu/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-EXTINF:-1 xui-id="7942" tvg-id="" tvg-name="CYTA2" tvg-logo="https://i.ibb.co.com/0pkyhY6c/cytavision2-cyp.png" group-title="CHANNEL | SPORTS",Cytavision Sports 2
+EXTINF:-1 tvg-id="" tvg-name="CYTA2" tvg-logo="https://i.ibb.co.com/0pkyhY6c/cytavision2-cyp.png" group-title="CHANNEL | SPORTS",Cytavision Sports 2
 https://events3.liveboxpro.com/event/912.m3u8
 
 #EXTVLCOPT:http-origin=https://vecloud.eu
 #EXTVLCOPT:http-referrer=https://vecloud.eu/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-EXTINF:-1 xui-id="7942" tvg-id="" tvg-name="CYTA3" tvg-logo="https://i.ibb.co.com/TBQQ1nZT/cytavision3-cyp.png" group-title="CHANNEL | SPORTS",Cytavision Sports 3
+EXTINF:-1 tvg-id="" tvg-name="CYTA3" tvg-logo="https://i.ibb.co.com/TBQQ1nZT/cytavision3-cyp.png" group-title="CHANNEL | SPORTS",Cytavision Sports 3
 https://events3.liveboxpro.com/event/913.m3u8
 
 #EXTVLCOPT:http-origin=https://vecloud.eu
 #EXTVLCOPT:http-referrer=https://vecloud.eu/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-EXTINF:-1 xui-id="7942" tvg-id="" tvg-name="CYTA4" tvg-logo="https://i.ibb.co.com/XxWdQnvL/cytavision4-cyp.png" group-title="CHANNEL | SPORTS",Cytavision Sports 4
+EXTINF:-1 tvg-id="" tvg-name="CYTA4" tvg-logo="https://i.ibb.co.com/XxWdQnvL/cytavision4-cyp.png" group-title="CHANNEL | SPORTS",Cytavision Sports 4
 https://events3.liveboxpro.com/event/914.m3u8
 
 #EXTVLCOPT:http-origin=https://vecloud.eu
 #EXTVLCOPT:http-referrer=https://vecloud.eu/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-EXTINF:-1 xui-id="7942" tvg-id="" tvg-name="CYTA5" tvg-logo="https://i.ibb.co.com/h33YhVD/cytavision5-cyp.png" group-title="CHANNEL | SPORTS",Cytavision Sports 5
+EXTINF:-1 tvg-id="" tvg-name="CYTA5" tvg-logo="https://i.ibb.co.com/h33YhVD/cytavision5-cyp.png" group-title="CHANNEL | SPORTS",Cytavision Sports 5
 https://events3.liveboxpro.com/event/915.m3u8
 
 #EXTVLCOPT:http-origin=https://vecloud.eu
 #EXTVLCOPT:http-referrer=https://vecloud.eu/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-EXTINF:-1 xui-id="7942" tvg-id="" tvg-name="CYTA6" tvg-logo="https://i.ibb.co.com/KBLyY7c/cytavision6-cyp.png" group-title="CHANNEL | SPORTS",Cytavision Sports 6
+EXTINF:-1 tvg-id="" tvg-name="CYTA6" tvg-logo="https://i.ibb.co.com/KBLyY7c/cytavision6-cyp.png" group-title="CHANNEL | SPORTS",Cytavision Sports 6
 https://events3.liveboxpro.com/event/916.m3u8
 
 #EXTVLCOPT:http-origin=https://vecloud.eu
 #EXTVLCOPT:http-referrer=https://vecloud.eu/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-EXTINF:-1 xui-id="7942" tvg-id="" tvg-name="CYTA7" tvg-logo="https://i.ibb.co.com/LhYQHbzv/cytavision7-cyp.png" group-title="CHANNEL | SPORTS",Cytavision Sports 7
+EXTINF:-1 tvg-id="" tvg-name="CYTA7" tvg-logo="https://i.ibb.co.com/LhYQHbzv/cytavision7-cyp.png" group-title="CHANNEL | SPORTS",Cytavision Sports 7
 https://events3.liveboxpro.com/event/917.m3u8
 
 #EXTVLCOPT:http-origin=https://vecloud.eu
@@ -2258,7 +2258,7 @@ https://events3.liveboxpro.com/event/423.m3u8
 #EXTVLCOPT:http-origin=https://vecloud.eu
 #EXTVLCOPT:http-referrer=https://vecloud.eu/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="CHANNEL | SPORTS", SuperSport Motorsport
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/Z1Kqzd7n/ss-blitz.png" group-title="CHANNEL | SPORTS", SuperSport Motorsport
 https://events3.liveboxpro.com/event/424.m3u8
 
 #EXTVLCOPT:http-origin=https://vecloud.eu
@@ -4515,21 +4515,19 @@ https://events3.liveboxpro.com/event/386.m3u8
 #EXTVLCOPT:http-origin=https://vecloud.eu
 #EXTVLCOPT:http-referrer=https://vecloud.eu/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-#EXTINF:-1 tvg-name="" tvg-logo="https://ibb.co.com/hJRFJ1KL" group-title="CHANNEL | EUROPE", RTL7 NL
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/variant/VE1AO1NTbu8mbv12LxEWM21ycrNWYyR3L4EWNhlDZ4ADZ5MDMtkTNklTLyMGN00SY3MGMtQmN4QzM3ITY/master.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/fzYdzGCq/rtl7-nl.png" group-title="CHANNEL | EUROPE", RTL7 NL
 https://events3.liveboxpro.com/event/390.m3u8
 
 #EXTVLCOPT:http-origin=https://vecloud.eu
 #EXTVLCOPT:http-referrer=https://vecloud.eu/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="CHANNEL | EUROPE", SBS6 NL
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/DfBp3r2N/sbs6-nl.png" group-title="CHANNEL | EUROPE", SBS6 NL
 https://events3.liveboxpro.com/event/883.m3u8
 
 #EXTVLCOPT:http-origin=https://vecloud.eu
 #EXTVLCOPT:http-referrer=https://vecloud.eu/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/DDgh5ZsK/veronica-nl.png" group-title="CHANNEL | EUROPE", Veronica NL
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/variant/VE1AO1NTbu8mbv12LxEWM21ycrNWYyR3LlVGM4MjNmVDMiNmNtQ2MiJWL0EjM00SNyYzMtQWO4YjNiBDN/master.m3u8
 https://events3.liveboxpro.com/event/378.m3u8
 
 #EXTVLCOPT:http-origin=https://vecloud.eu
@@ -4644,37 +4642,37 @@ https://events3.liveboxpro.com/event/721.m3u8
 #EXTVLCOPT:http-origin=https://vecloud.eu
 #EXTVLCOPT:http-referrer=https://vecloud.eu/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-#EXTINF:-1 xui-id="11539" tvg-id="" tvg-name="Portugal- SPORT TV 1 HD" tvg-logo="https://i.ibb.co.com/Myxf8KpZ/sporttv1.png" group-title="CHANNEL | SPORTS",Sport-TV 1 PT
+#EXTINF:-1 xui-id="11539" tvg-id="" tvg-name="Portugal- SPORT TV 1 HD" tvg-logo="https://i.ibb.co.com/Myxf8KpZ/sporttv1.png" group-title="CHANNEL | EUROPE",Sport-TV 1 PT
 https://events3.liveboxpro.com/event/49.m3u8
 
 #EXTVLCOPT:http-origin=https://vecloud.eu
 #EXTVLCOPT:http-referrer=https://vecloud.eu/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-#EXTINF:-1 xui-id="11540" tvg-id="" tvg-name="Portugal- Sport TV 2" tvg-logo="https://i.ibb.co.com/8nzyQdgv/sporttv2.png" group-title="CHANNEL | SPORTS",Sport-TV 2 PT
+#EXTINF:-1 xui-id="11540" tvg-id="" tvg-name="Portugal- Sport TV 2" tvg-logo="https://i.ibb.co.com/8nzyQdgv/sporttv2.png" group-title="CHANNEL | EUROPE",Sport-TV 2 PT
 https://events3.liveboxpro.com/event/74.m3u8
 
 #EXTVLCOPT:http-origin=https://vecloud.eu
 #EXTVLCOPT:http-referrer=https://vecloud.eu/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-#EXTINF:-1 xui-id="11541" tvg-id="" tvg-name="Portugal- Sport TV 3" tvg-logo="https://i.ibb.co.com/9k7x6bhm/sporttv3.png" group-title="CHANNEL | SPORTS",Sport-TV 3 PT
+#EXTINF:-1 xui-id="11541" tvg-id="" tvg-name="Portugal- Sport TV 3" tvg-logo="https://i.ibb.co.com/9k7x6bhm/sporttv3.png" group-title="CHANNEL | EUROPE",Sport-TV 3 PT
 https://events3.liveboxpro.com/event/454.m3u8
 
 #EXTVLCOPT:http-origin=https://vecloud.eu
 #EXTVLCOPT:http-referrer=https://vecloud.eu/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-#EXTINF:-1 xui-d="11542" tvg-id="" tvg-name="Portugal- Sport TV 4" tvg-logo="https://i.ibb.co.com/4RsCbtcQ/sporttv4.png" group-title="CHANNEL | SPORTS",Sport-TV 4 PT
+#EXTINF:-1 xui-d="11542" tvg-id="" tvg-name="Portugal- Sport TV 4" tvg-logo="https://i.ibb.co.com/4RsCbtcQ/sporttv4.png" group-title="CHANNEL | EUROPE",Sport-TV 4 PT
 https://events3.liveboxpro.com/event/289.m3u8
 
 #EXTVLCOPT:http-origin=https://vecloud.eu
 #EXTVLCOPT:http-referrer=https://vecloud.eu/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-#EXTINF:-1 xui-id="11543" tvg-id="" tvg-name="Portugal- Sport TV 5" tvg-logo="https://i.ibb.co.com/zTtFFPpt/sporttv5.png" group-title="CHANNEL | SPORTS",Sport-TV 5 PT
+#EXTINF:-1 xui-id="11543" tvg-id="" tvg-name="Portugal- Sport TV 5" tvg-logo="https://i.ibb.co.com/zTtFFPpt/sporttv5.png" group-title="CHANNEL | EUROPE",Sport-TV 5 PT
 https://events3.liveboxpro.com/event/290.m3u8
 
 #EXTVLCOPT:http-origin=https://vecloud.eu
 #EXTVLCOPT:http-referrer=https://vecloud.eu/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-#EXTINF:-1 xui-id="11543" tvg-id="" tvg-name="Portugal- Sport TV 5" tvg-logo="https://i.ibb.co.com/zTtFFPpt/sporttv5.png" group-title="CHANNEL | SPORTS",Sport-TV 6 PT
+#EXTINF:-1 xui-id="11543" tvg-id="" tvg-name="Portugal- Sport TV 5" tvg-logo="https://i.ibb.co.com/zTtFFPpt/sporttv5.png" group-title="CHANNEL | EUROPE",Sport-TV 6 PT
 https://events3.liveboxpro.com/event/291.m3u8
 
 #EXTVLCOPT:http-origin=https://vecloud.eu
@@ -4929,94 +4927,94 @@ DK
 #EXTVLCOPT:http-origin=https://vecloud.eu
 #EXTVLCOPT:http-referrer=https://vecloud.eu/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="CHANNEL | EUROPE",CANAL9 DK
+#EXTINF:-1 tvg-name="" tvg-logo="https://ibb.co.com/kfC2t0t" group-title="CHANNEL | EUROPE",CANAL9 DK
 https://events3.liveboxpro.com/event/805.m3u8
 
 #EXTVLCOPT:http-origin=https://vecloud.eu
 #EXTVLCOPT:http-referrer=https://vecloud.eu/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="CHANNEL | EUROPE",DR1 DK
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/PGyTBDtS/dr1-den.png" group-title="CHANNEL | EUROPE",DR1 DK
 https://events3.liveboxpro.com/event/801.m3u8
 
 #EXTVLCOPT:http-origin=https://vecloud.eu
 #EXTVLCOPT:http-referrer=https://vecloud.eu/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="CHANNEL | EUROPE",DR2 DK
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/Kzp9Qpn1/dr2-den.png" group-title="CHANNEL | EUROPE",DR2 DK
 https://events3.liveboxpro.com/event/802.m3u8
 
 #EXTVLCOPT:http-origin=https://vecloud.eu
 #EXTVLCOPT:http-referrer=https://vecloud.eu/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="CHANNEL | EUROPE",Kanal 4 DK
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/yBW5cmJy/kanal4-den.png" group-title="CHANNEL | EUROPE",Kanal 4 DK
 https://events3.liveboxpro.com/event/803.m3u8
 
 #EXTVLCOPT:http-origin=https://vecloud.eu
 #EXTVLCOPT:http-referrer=https://vecloud.eu/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="CHANNEL | EUROPE",Kanal 5 DK
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/jkv34vQS/kanal5-den.png" group-title="CHANNEL | EUROPE",Kanal 5 DK
 https://events3.liveboxpro.com/event/804.m3u8
 
 #EXTVLCOPT:http-origin=https://vecloud.eu
 #EXTVLCOPT:http-referrer=https://vecloud.eu/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="CHANNEL | EUROPE",MTV DK
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/1JscfbZd/mtv-clasic.png" group-title="CHANNEL | EUROPE",MTV DK
 https://events3.liveboxpro.com/event/806.m3u8
 
 #EXTVLCOPT:http-origin=https://vecloud.eu
 #EXTVLCOPT:http-referrer=https://vecloud.eu/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="CHANNEL | EUROPE",SEE DK
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/kVZ7Tyxh/see-den.png" group-title="CHANNEL | EUROPE",SEE DK
 https://events3.liveboxpro.com/event/811.m3u8
 
 #EXTVLCOPT:http-origin=https://vecloud.eu
 #EXTVLCOPT:http-referrer=https://vecloud.eu/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="CHANNEL | EUROPE",TV2 Bornholm DK
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/GQYM0tBd/tv2-bornholm-den.png" group-title="CHANNEL | EUROPE",TV2 Bornholm DK
 https://events3.liveboxpro.com/event/807.m3u8
 
 #EXTVLCOPT:http-origin=https://vecloud.eu
 #EXTVLCOPT:http-referrer=https://vecloud.eu/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="CHANNEL | EUROPE",TV2 Sport X DK
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/wFW6HV83/tv2-sport-X-den.png" group-title="CHANNEL | EUROPE",TV2 Sport X DK
 https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/variant/VE1AO1NTbu8mbv12LxEWM21ycrNWYyR3L5QTY4kDN5YGZ4kjYtEWYlFWLxImZ00COzIGOtEjN1UmN3QGN/master.m3u8
 https://events3.liveboxpro.com/event/808.m3u8
 
 #EXTVLCOPT:http-origin=https://vecloud.eu
 #EXTVLCOPT:http-referrer=https://vecloud.eu/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="CHANNEL | EUROPE",TV3 Sport DK
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/svb5YBM5/tv3-den.png" group-title="CHANNEL | EUROPE",TV3 Sport DK
 https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/variant/VE1AO1NTbu8mbv12LxEWM21ycrNWYyR3L4ImM1gDNhBDMyMDMtkjMygTLkBjN00yNhJWOtkzM1ADOyUzY/master.m3u8
 https://events3.liveboxpro.com/event/809.m3u8
 
 #EXTVLCOPT:http-origin=https://vecloud.eu
 #EXTVLCOPT:http-referrer=https://vecloud.eu/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="CHANNEL | EUROPE",TV2 Sport DK
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/60TxmFnQ/tv2-sport-den.png" group-title="CHANNEL | EUROPE",TV2 Sport DK
 https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/variant/VE1AO1NTbu8mbv12LxEWM21ycrNWYyR3LjR2M2QmNhJzN4YWZtUWY3gTL1I2Y00COwQmNtY2YmRTOxYzN/master.m3u8
 https://events3.liveboxpro.com/event/810.m3u8
 
 #EXTVLCOPT:http-origin=https://vecloud.eu
 #EXTVLCOPT:http-referrer=https://vecloud.eu/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="CHANNEL | EUROPE",TV2 DK
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/99b1pvrF/tv2-den.png" group-title="CHANNEL | EUROPE",TV2 DK
 https://events3.liveboxpro.com/event/817.m3u8
 
 #EXTVLCOPT:http-origin=https://vecloud.eu
 #EXTVLCOPT:http-referrer=https://vecloud.eu/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="CHANNEL | EUROPE",TV2 Zulu DK
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/99b1pvrF/tv2-den.png" group-title="CHANNEL | EUROPE",TV2 Zulu DK
 https://events3.liveboxpro.com/event/818.m3u8
 
 #EXTVLCOPT:http-origin=https://vecloud.eu
 #EXTVLCOPT:http-referrer=https://vecloud.eu/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="CHANNEL | EUROPE",TV3+ DK
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/Q7rQcjvG/tv3plus-den.png" group-title="CHANNEL | EUROPE",TV3+ DK
 https://events3.liveboxpro.com/event/819.m3u8
 
 #EXTVLCOPT:http-origin=https://vecloud.eu
 #EXTVLCOPT:http-referrer=https://vecloud.eu/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="CHANNEL | EUROPE",TV3 Max DK
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/HfFnH58Y/tv3max-den.png" group-title="CHANNEL | EUROPE",TV3 Max DK
 https://events3.liveboxpro.com/event/223.m3u8
 
 #EXTVLCOPT:http-origin=https://vecloud.eu
@@ -5059,19 +5057,19 @@ BG
 #EXTVLCOPT:http-origin=https://vecloud.eu
 #EXTVLCOPT:http-referrer=https://vecloud.eu/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="CHANNEL | EUROPE",BNT 1 BG
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/WWvtBCJv/bnt1-bul.png" group-title="CHANNEL | EUROPE",BNT 1 BG
 https://events3.liveboxpro.com/event/476.m3u8
 
 #EXTVLCOPT:http-origin=https://vecloud.eu
 #EXTVLCOPT:http-referrer=https://vecloud.eu/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="CHANNEL | EUROPE",BNT 2 BG
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/RpBRSyXK/bnt2-bul.png" group-title="CHANNEL | EUROPE",BNT 2 BG
 https://events3.liveboxpro.com/event/477.m3u8
 
 #EXTVLCOPT:http-origin=https://vecloud.eu
 #EXTVLCOPT:http-referrer=https://vecloud.eu/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="CHANNEL | EUROPE",BNT 3 BG
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/whjhKXnt/bnt3-bul.png" group-title="CHANNEL | EUROPE",BNT 3 BG
 https://events3.liveboxpro.com/event/478.m3u8
 
 #EXTVLCOPT:http-origin=https://vecloud.eu
@@ -5083,103 +5081,103 @@ https://events3.liveboxpro.com/event/479.m3u8
 #EXTVLCOPT:http-origin=https://vecloud.eu
 #EXTVLCOPT:http-referrer=https://vecloud.eu/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="CHANNEL | EUROPE",bTV Action BG
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/p6wp26wB/btv-action-bul.png" group-title="CHANNEL | EUROPE",bTV Action BG
 https://events3.liveboxpro.com/event/481.m3u8
 
 #EXTVLCOPT:http-origin=https://vecloud.eu
 #EXTVLCOPT:http-referrer=https://vecloud.eu/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="CHANNEL | EUROPE",bTV Lady BG
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/pcbmPCH/btv-bul.png" group-title="CHANNEL | EUROPE",bTV Lady BG
 https://events3.liveboxpro.com/event/484.m3u8
 
 #EXTVLCOPT:http-origin=https://vecloud.eu
 #EXTVLCOPT:http-referrer=https://vecloud.eu/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="CHANNEL | EUROPE",Diema Sport BG
-https://events3.liveboxpro.com/event/465.m3u8
-
-#EXTVLCOPT:http-origin=https://vecloud.eu
-#EXTVLCOPT:http-referrer=https://vecloud.eu/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="CHANNEL | EUROPE",Diema Sport 2 BG
-https://events3.liveboxpro.com/event/466.m3u8
-
-#EXTVLCOPT:http-origin=https://vecloud.eu
-#EXTVLCOPT:http-referrer=https://vecloud.eu/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="CHANNEL | EUROPE",Diema Sport 3 BG
-https://events3.liveboxpro.com/event/467.m3u8
-
-#EXTVLCOPT:http-origin=https://vecloud.eu
-#EXTVLCOPT:http-referrer=https://vecloud.eu/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="CHANNEL | EUROPE",Diema BG
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/C3vqp5vY/diema-bul.png" group-title="CHANNEL | EUROPE",Diema BG
 https://events3.liveboxpro.com/event/482.m3u8
 
 #EXTVLCOPT:http-origin=https://vecloud.eu
 #EXTVLCOPT:http-referrer=https://vecloud.eu/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="CHANNEL | EUROPE",Diema Family BG
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/Rkb7scqh/diema-family-bul.png" group-title="CHANNEL | EUROPE",Diema Family BG
 https://events3.liveboxpro.com/event/485.m3u8
 
 #EXTVLCOPT:http-origin=https://vecloud.eu
 #EXTVLCOPT:http-referrer=https://vecloud.eu/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="CHANNEL | EUROPE",Eurosport 1 BG
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/Tqhf3Lrf/diema-sport-bul.png" group-title="CHANNEL | EUROPE",Diema Sport BG
+https://events3.liveboxpro.com/event/465.m3u8
+
+#EXTVLCOPT:http-origin=https://vecloud.eu
+#EXTVLCOPT:http-referrer=https://vecloud.eu/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/G4pTqHP0/diema-sport2-bul.png" group-title="CHANNEL | EUROPE",Diema Sport 2 BG
+https://events3.liveboxpro.com/event/466.m3u8
+
+#EXTVLCOPT:http-origin=https://vecloud.eu
+#EXTVLCOPT:http-referrer=https://vecloud.eu/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/qM7DMkWw/diema-sport3-bul.png" group-title="CHANNEL | EUROPE",Diema Sport 3 BG
+https://events3.liveboxpro.com/event/467.m3u8
+
+#EXTVLCOPT:http-origin=https://vecloud.eu
+#EXTVLCOPT:http-referrer=https://vecloud.eu/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/wfbd59V/eurosport1.png" group-title="CHANNEL | EUROPE",Eurosport 1 BG
 https://events3.liveboxpro.com/event/469.m3u8
 
 #EXTVLCOPT:http-origin=https://vecloud.eu
 #EXTVLCOPT:http-referrer=https://vecloud.eu/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="CHANNEL | EUROPE",Eurosport 2 BG
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/VWHTD2xM/eurosport2.png" group-title="CHANNEL | EUROPE",Eurosport 2 BG
 https://events3.liveboxpro.com/event/470.m3u8
 
 #EXTVLCOPT:http-origin=https://vecloud.eu
 #EXTVLCOPT:http-referrer=https://vecloud.eu/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="CHANNEL | EUROPE",FOX HD BG
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/HQLZSLC/star-channel-bul.png" group-title="CHANNEL | EUROPE",Star Channel HD BG
 https://events3.liveboxpro.com/event/483.m3u8
 
 #EXTVLCOPT:http-origin=https://vecloud.eu
 #EXTVLCOPT:http-referrer=https://vecloud.eu/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="CHANNEL | EUROPE",Max Sport 1 BG
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/6cmT1STg/maxsport1-bul.png" group-title="CHANNEL | EUROPE",Max Sport 1 BG
 https://events3.liveboxpro.com/event/472.m3u8
 
 #EXTVLCOPT:http-origin=https://vecloud.eu
 #EXTVLCOPT:http-referrer=https://vecloud.eu/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="CHANNEL | EUROPE",Max Sport 2 BG
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/4RYMP3YQ/maxsport2-bul.png" group-title="CHANNEL | EUROPE",Max Sport 2 BG
 https://events3.liveboxpro.com/event/473.m3u8
 
 #EXTVLCOPT:http-origin=https://vecloud.eu
 #EXTVLCOPT:http-referrer=https://vecloud.eu/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="CHANNEL | EUROPE",Max Sport 3 BG
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/mVCtr8vk/maxsport3-bul.png" group-title="CHANNEL | EUROPE",Max Sport 3 BG
 https://events3.liveboxpro.com/event/474.m3u8
 
 #EXTVLCOPT:http-origin=https://vecloud.eu
 #EXTVLCOPT:http-referrer=https://vecloud.eu/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="CHANNEL | EUROPE",Max Sport 4 BG
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/CphyHm4S/maxsport4-bul.png" group-title="CHANNEL | EUROPE",Max Sport 4 BG
 https://events3.liveboxpro.com/event/475.m3u8
 
 #EXTVLCOPT:http-origin=https://vecloud.eu
 #EXTVLCOPT:http-referrer=https://vecloud.eu/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="CHANNEL | EUROPE",Nova Sport BG
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/tMjYW80p/nova-sport-bul.png" group-title="CHANNEL | EUROPE",Nova Sport BG
 https://events3.liveboxpro.com/event/468.m3u8
 
 #EXTVLCOPT:http-origin=https://vecloud.eu
 #EXTVLCOPT:http-referrer=https://vecloud.eu/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="CHANNEL | EUROPE",Nova TV BG
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/21QDypKV/nova-bul.png" group-title="CHANNEL | EUROPE",Nova TV BG
 https://events3.liveboxpro.com/event/480.m3u8
 
 #EXTVLCOPT:http-origin=https://vecloud.eu
 #EXTVLCOPT:http-referrer=https://vecloud.eu/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="CHANNEL | EUROPE",Ring BG
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/5WDkF3kh/ring-bul.png" group-title="CHANNEL | EUROPE",Ring BG
 https://events3.liveboxpro.com/event/471.m3u8
 
 RO
@@ -5235,7 +5233,7 @@ https://events3.liveboxpro.com/event/442.m3u8
 #EXTVLCOPT:http-origin=https://vecloud.eu
 #EXTVLCOPT:http-referrer=https://vecloud.eu/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="CHANNEL | EUROPE",Prima TV RO
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/kZ0QQZ4/primatv-rou.png" group-title="CHANNEL | EUROPE",Prima TV RO
 https://events3.liveboxpro.com/event/843.m3u8
 
 
@@ -5244,25 +5242,25 @@ TR
 #EXTVLCOPT:http-origin=https://vecloud.eu
 #EXTVLCOPT:http-referrer=https://vecloud.eu/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="CHANNEL | EUROPE",beIN SPORTS 1 TR
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/GvHdVBkX/beinsport1.png" group-title="CHANNEL | EUROPE",BeIN Sports 1 TR
 https://events3.liveboxpro.com/event/62.m3u8
 
 #EXTVLCOPT:http-origin=https://vecloud.eu
 #EXTVLCOPT:http-referrer=https://vecloud.eu/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="CHANNEL | EUROPE",beIN SPORTS 2 TR
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/Y7j929WS/beinsport2.png" group-title="CHANNEL | EUROPE",BeIN Sports 2 TR
 https://events3.liveboxpro.com/event/63.m3u8
 
 #EXTVLCOPT:http-origin=https://vecloud.eu
 #EXTVLCOPT:http-referrer=https://vecloud.eu/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="CHANNEL | EUROPE",beIN SPORTS 3 TR
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/LznjJF3T/beinsport3.png" group-title="CHANNEL | EUROPE",BeIN Sports 3 TR
 https://events3.liveboxpro.com/event/64.m3u8
 
 #EXTVLCOPT:http-origin=https://vecloud.eu
 #EXTVLCOPT:http-referrer=https://vecloud.eu/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="CHANNEL | EUROPE",beIN SPORTS 4 TR
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/XZcFYgnv/beinsport4.png" group-title="CHANNEL | EUROPE",BeIN Sports 4 TR
 https://events3.liveboxpro.com/event/67.m3u8
 
 GR
@@ -5270,166 +5268,51 @@ GR
 #EXTVLCOPT:http-origin=https://vecloud.eu
 #EXTVLCOPT:http-referrer=https://vecloud.eu/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="CHANNEL | EUROPE",ERT 1 GR
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/wZRT8WyR/ert-gre.png" group-title="CHANNEL | EUROPE",ERT 1 GR
 https://events3.liveboxpro.com/event/774.m3u8
-
-#EXTVLCOPT:http-origin=https://vecloud.eu
-#EXTVLCOPT:http-referrer=https://vecloud.eu/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="CHANNEL | EUROPE",Nova Sports 1 GR
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/variant/VE1AO1NTbu8mbv12LxEWM21ycrNWYyR3LycTYwQjZ5YmN5MmZtQjYmlTLzEmY00SZxYmYtEDMyUzN5gTO/master.m3u8
-https://events3.liveboxpro.com/event/631.m3u8
-
-#EXTVLCOPT:http-origin=https://vecloud.eu
-#EXTVLCOPT:http-referrer=https://vecloud.eu/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="CHANNEL | EUROPE",Nova Sports 2 GR
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/variant/VE1AO1NTbu8mbv12LxEWM21ycrNWYyR3LjZTZ2kzN0YWZ4kTZtEWZygTLiFGM00SYwUWZtIWYjFjYlJGM/master.m3u8
-https://events3.liveboxpro.com/event/632.m3u8
-
-#EXTVLCOPT:http-origin=https://vecloud.eu
-#EXTVLCOPT:http-referrer=https://vecloud.eu/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="CHANNEL | EUROPE",Nova Sports 3 GR
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/variant/VE1AO1NTbu8mbv12LxEWM21ycrNWYyR3LmRTYwYGZ5QzYxkDMtY2M1EWL5EWM00SO5ImMtEGOwcTNkBjZ/master.m3u8
-https://events3.liveboxpro.com/event/633.m3u8
-
-#EXTVLCOPT:http-origin=https://vecloud.eu
-#EXTVLCOPT:http-referrer=https://vecloud.eu/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="CHANNEL | EUROPE",Nova Sports 4 GR
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/variant/VE1AO1NTbu8mbv12LxEWM21ycrNWYyR3L1MjNmJGMzAjNldDOtgDN5gTLlFGZ00CZ0MzNtEGO5AjZiZ2M/master.m3u8
-https://events3.liveboxpro.com/event/634.m3u8
-
-#EXTVLCOPT:http-origin=https://vecloud.eu
-#EXTVLCOPT:http-referrer=https://vecloud.eu/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="CHANNEL | EUROPE",Nova Sports 5 GR
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/variant/VE1AO1NTbu8mbv12LxEWM21ycrNWYyR3L0cDMmNmZwIDNhFWMtImMxgTLiJ2Y00iY5IWOtQTMxcTO2cDO/master.m3u8
-https://events3.liveboxpro.com/event/635.m3u8
-
-#EXTVLCOPT:http-origin=https://vecloud.eu
-#EXTVLCOPT:http-referrer=https://vecloud.eu/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="CHANNEL | EUROPE",Nova Sports 6 GR
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/variant/VE1AO1NTbu8mbv12LxEWM21ycrNWYyR3L2gjZkBTNmZmMiZGOtkTZwEWLjNTY00SN5QGMtATZlZzNiBzM/master.m3u8
-https://events3.liveboxpro.com/event/636.m3u8
-
-#EXTVLCOPT:http-origin=https://vecloud.eu
-#EXTVLCOPT:http-referrer=https://vecloud.eu/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="CHANNEL | EUROPE",Nova Sports Premier League GR
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/variant/VE1gTdz0mLv52bt9SM21ycrNWYyR3L5gTNkFjZ4I2MzgjYtYWYmhTLjBjM00SMxMmZtEmZkFTZ1ImZ/master.m3u8
-https://events3.liveboxpro.com/event/599.m3u8
-
-#EXTVLCOPT:http-origin=https://vecloud.eu
-#EXTVLCOPT:http-referrer=https://vecloud.eu/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="CHANNEL | EUROPE",Nova Sports Start GR
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/variant/VE1AO1NTbu8mbv12LxEWM21ycrNWYyR3LwczM5QmYmNGMwcjYtUGMwkTLxUTY00yMwUTOtQGM3gzMxYTO/master.m3u8
-https://events3.liveboxpro.com/event/637.m3u8
-
-#EXTVLCOPT:http-origin=https://vecloud.eu
-#EXTVLCOPT:http-referrer=https://vecloud.eu/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="CHANNEL | EUROPE",Nova Sports Prime GR
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/variant/VE1AO1NTbu8mbv12LxEWM21ycrNWYyR3L5QmNwEWYlBTYwAjMtYzMlFWLwI2N00iZzQGMtEDN4UjNxIDO/master.m3u8
-https://events3.liveboxpro.com/event/638.m3u8
-
-#EXTVLCOPT:http-origin=https://vecloud.eu
-#EXTVLCOPT:http-referrer=https://vecloud.eu/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="CHANNEL | EUROPE",Nova Sports News GR
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/variant/VE1AO1NTbu8mbv12LxEWM21ycrNWYyR3LilDZmRmZzQ2MxYTOtUTMiJWL3EGZ00CMwI2NtMmMiNTZmhDN/master.m3u8
-https://events3.liveboxpro.com/event/639.m3u8
-
-RU
-
-#EXTVLCOPT:http-origin=https://vecloud.eu
-#EXTVLCOPT:http-referrer=https://vecloud.eu/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="CHANNEL | EUROPE",Match Football 1 RU
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/variant/VE1AO1NTbu8mbv12LxEWM21ycrNWYyR3LwMDMiRGMjRTM3gTYtY2Y0gTLiNWZ00iNzEWNtATZ3IzN4QWZ/master.m3u8
-https://events3.liveboxpro.com/event/136.m3u8
-
-#EXTVLCOPT:http-origin=https://vecloud.eu
-#EXTVLCOPT:http-referrer=https://vecloud.eu/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="CHANNEL | EUROPE",Match Football 2 RU
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/variant/VE1gTdz0mLv52bt9SM21ycrNWYyR3LzYmMiFzMhJmYyQTOtQGN4IWLjVWZ00CZ1kjZtMGO2MzYklDM/master.m3u8
-https://events3.liveboxpro.com/event/137.m3u8
-
-#EXTVLCOPT:http-origin=https://vecloud.eu
-#EXTVLCOPT:http-referrer=https://vecloud.eu/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="CHANNEL | EUROPE",Match Football 3 RU
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/variant/VE1AO1NTbu8mbv12LxEWM21ycrNWYyR3LiBjN3QWMxImNlNmYtczM5IWL3UDM00yM3UGZtYWO5EzM2UWM/master.m3u8
-https://events3.liveboxpro.com/event/138.m3u8
-
-#EXTVLCOPT:http-origin=https://vecloud.eu
-#EXTVLCOPT:http-referrer=https://vecloud.eu/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="CHANNEL | EUROPE",Match Premier RU
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/variant/VE1AO1NTbu8mbv12LxEWM21ycrNWYyR3LkJzM3UGM0UDM5MjYtIjZykTL0MGZ00SZyczNtMjYwQ2M3UmY/master.m3u8
-https://events3.liveboxpro.com/event/573.m3u8
-
-#EXTVLCOPT:http-origin=https://vecloud.eu
-#EXTVLCOPT:http-referrer=https://vecloud.eu/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="CHANNEL | EUROPE",Match TV RU
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/variant/VE1AO1NTbu8mbv12LxEWM21ycrNWYyR3LkhTO2EWZwkTN0QDMtkDM1IWLxMjZ00yYiBjZtUjNjRDMmRzY/master.m3u8
-https://events3.liveboxpro.com/event/127.m3u8
-
-#EXTVLCOPT:http-origin=https://vecloud.eu
-#EXTVLCOPT:http-referrer=https://vecloud.eu/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="CHANNEL | EUROPE",МАТЧ! БОЕЦ RU
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/variant/VE1AO1NTbu8mbv12LxEWM21ycrNWYyR3L3QjNhBTMyYDOwQTNtgzYlhTL3U2N00SY5QWYtYzNwMjNkVmN/master.m3u8
-https://events3.liveboxpro.com/event/395.m3u8
 
 CY
 
-
 #EXTVLCOPT:http-origin=https://vecloud.eu
 #EXTVLCOPT:http-referrer=https://vecloud.eu/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-EXTINF:-1 xui-id="7942" tvg-id="" tvg-name="CYTA1" tvg-logo="https://i.ibb.co.com/gbWxVPPg/cytavision1-cyp.png" group-title="CHANNEL | EUROPE",Cytavision Sports 1 CY
+EXTINF:-1 tvg-id="" tvg-name="CYTA1" tvg-logo="https://i.ibb.co.com/gbWxVPPg/cytavision1-cyp.png" group-title="CHANNEL | EUROPE", Cytavision Sports 1 CY
 https://events3.liveboxpro.com/event/911.m3u8
 
 #EXTVLCOPT:http-origin=https://vecloud.eu
 #EXTVLCOPT:http-referrer=https://vecloud.eu/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-EXTINF:-1 xui-id="7942" tvg-id="" tvg-name="CYTA2" tvg-logo="https://i.ibb.co.com/0pkyhY6c/cytavision2-cyp.png" group-title="CHANNEL | EUROPE",Cytavision Sports 2 CY
+EXTINF:-1 tvg-id="" tvg-name="CYTA2" tvg-logo="https://i.ibb.co.com/0pkyhY6c/cytavision2-cyp.png" group-title="CHANNEL | EUROPE", Cytavision Sports 2 CY
 https://events3.liveboxpro.com/event/912.m3u8
 
 #EXTVLCOPT:http-origin=https://vecloud.eu
 #EXTVLCOPT:http-referrer=https://vecloud.eu/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-EXTINF:-1 xui-id="7942" tvg-id="" tvg-name="CYTA3" tvg-logo="https://i.ibb.co.com/TBQQ1nZT/cytavision3-cyp.png" group-title="CHANNEL | EUROPE",Cytavision Sports 3 CY
+EXTINF:-1 tvg-id="" tvg-name="CYTA3" tvg-logo="https://i.ibb.co.com/TBQQ1nZT/cytavision3-cyp.png" group-title="CHANNEL | EUROPE",Cytavision Sports 3 CY
 https://events3.liveboxpro.com/event/913.m3u8
 
 #EXTVLCOPT:http-origin=https://vecloud.eu
 #EXTVLCOPT:http-referrer=https://vecloud.eu/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-EXTINF:-1 xui-id="7942" tvg-id="" tvg-name="CYTA4" tvg-logo="https://i.ibb.co.com/XxWdQnvL/cytavision4-cyp.png" group-title="CHANNEL | EUROPE",Cytavision Sports 4 CY
+EXTINF:-1 tvg-id="" tvg-name="CYTA4" tvg-logo="https://i.ibb.co.com/XxWdQnvL/cytavision4-cyp.png" group-title="CHANNEL | EUROPE",Cytavision Sports 4 CY
 https://events3.liveboxpro.com/event/914.m3u8
 
 #EXTVLCOPT:http-origin=https://vecloud.eu
 #EXTVLCOPT:http-referrer=https://vecloud.eu/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-EXTINF:-1 xui-id="7942" tvg-id="" tvg-name="CYTA5" tvg-logo="https://i.ibb.co.com/h33YhVD/cytavision5-cyp.png" group-title="CHANNEL | EUROPE",Cytavision Sports 5 CY
+EXTINF:-1 tvg-id="" tvg-name="CYTA5" tvg-logo="https://i.ibb.co.com/h33YhVD/cytavision5-cyp.png" group-title="CHANNEL | EUROPE",Cytavision Sports 5 CY
 https://events3.liveboxpro.com/event/915.m3u8
 
 #EXTVLCOPT:http-origin=https://vecloud.eu
 #EXTVLCOPT:http-referrer=https://vecloud.eu/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-EXTINF:-1 xui-id="7942" tvg-id="" tvg-name="CYTA6" tvg-logo="https://i.ibb.co.com/KBLyY7c/cytavision6-cyp.png" group-title="CHANNEL | EUROPE",Cytavision Sports 6 CY
+EXTINF:-1 tvg-id="" tvg-name="CYTA6" tvg-logo="https://i.ibb.co.com/KBLyY7c/cytavision6-cyp.png" group-title="CHANNEL | EUROPE",Cytavision Sports 6 CY
 https://events3.liveboxpro.com/event/916.m3u8
 
 #EXTVLCOPT:http-origin=https://vecloud.eu
 #EXTVLCOPT:http-referrer=https://vecloud.eu/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-EXTINF:-1 xui-id="7942" tvg-id="" tvg-name="CYTA7" tvg-logo="https://i.ibb.co.com/LhYQHbzv/cytavision7-cyp.png" group-title="CHANNEL | EUROPE",Cytavision Sports 7 CY
+EXTINF:-1 tvg-id="" tvg-name="CYTA7" tvg-logo="https://i.ibb.co.com/LhYQHbzv/cytavision7-cyp.png" group-title="CHANNEL | EUROPE",Cytavision Sports 7 CY
 https://events3.liveboxpro.com/event/917.m3u8
 
 # CHANNEL | USA
