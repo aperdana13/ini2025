@@ -606,6 +606,12 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/DiscoveryHD/mpd/DiscoveryHD.mpd
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/dnBK4QN/hgtv.png" group-title="CHANNEL | KNOWLEDGE",HGTV
 https://mediapackage-hgtv-source.fullscreen.nz/index.m3u8
 
+#EXTINF:-1 tvg-name="" tvg-logo="https://coleswildbird.com/wp-content/uploads/2017/03/tinyhousenation.jpg" group-title="CHANNEL | KNOWLEDGE", Tiny House Nation
+https://disyw7xcmhink.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://s42814.pcdn.co/wp-content/uploads/2022/11/thisoldhouse-logo.svg"  group-title="CHANNEL | KNOWLEDGE", This Old House
+https://content.uplynk.com/channel/778dfa39720b47d5ab6de27ee3cf81b7.m3u8
+
 #EXTINF:-1 tvg-id="Science.us" tvg-logo="https://i.ibb.o.com/ds5ytQgd/science-channel.png" group-title="CHANNEL | KNOWLEDGE",Science Channel
 
 #EXTINF:-1 tvg-id="National.Geographic.US.-.Eastern.us" tvg-logo="https://i.ibb.co.com/4Zr1k1yC/natgeo-usa.png" group-title="CHANNEL | KNOWLEDGE",National Geographic
@@ -1314,9 +1320,13 @@ https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1NWMxZDMyMzRl
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/LXGyfzSZ/espn2-nl.png" group-title="CHANNEL | SPORTS", ESPN 2 NL
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/N2RKBdqX/eurosport1.png" group-title="CHANNEL | SPORTS",EuroSport 1
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1OGY2ODAzOWY3ZDE5LThkMmEtNWY0NC0zZjViLTJiZDEwNjQ5/master.m3u8
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/7dbGxv1m/eurosport2.png" group-title="CHANNEL | SPORTS",EuroSport 2
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1MzgwZjU4MzNjMTk4LWE4OGEtN2MwNC1lNjRkLTk4N2JhMDA2/master.m3u8
 
 #EXTINF:-1 group-title="CHANNEL | SPORTS" tvg-logo="https://i.ibb.co.com/xt9wqVL3/eurosport-asia.png",Eurosport Asia
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
@@ -1419,7 +1429,6 @@ https://events3.liveboxpro.com/event/780.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="MLBNetwork.us" tvg-name="MLB Network" tvg-logo="https://i.ibb.co.com/RTvHrPWz/mlb-network.png" group-title="CHANNEL | SPORTS",MLB Network
 https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1NGIxMDU4YWFkNjNkLTcxMWItNDU0NC00YTI0LTk4ZmNiMzQ4/master.m3u8
-
 
 #EXTVLCOPT:http-origin=https://vecloud.eu
 #EXTVLCOPT:http-referrer=https://vecloud.eu/
@@ -1812,7 +1821,9 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTVHD/mpd/SPOTVHD.mpd
 #KODIPROP:inputstream.adaptive.license_key=e6ed3fdf6e9f491d9ead109fc0b00cfc:3bc6c45722eb5fa7b343de9bffc4f7c7 
 https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTV2HD/mpd/SPOTV2HD.mpd 
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 #EXTINF:-1 xui-id="11539" tvg-id="" tvg-name="Portugal- SPORT TV 1 HD" tvg-logo="https://i.ibb.co.com/Myxf8KpZ/sporttv1.png" group-title="CHANNEL | SPORTS",Sport-TV 1
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1ZjVlNWIwODJkNzc2LTNjZTgtMTNmNC1mM2Q3LWUzMjU5OTNh/master.m3u8
 
 #EXTINF:-1 xui-id="11540" tvg-id="" tvg-name="Portugal- Sport TV 2" tvg-logo="https://i.ibb.co.com/8nzyQdgv/sporttv2.png" group-title="CHANNEL | SPORTS",Sport-TV 2
 
@@ -2029,7 +2040,15 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd
 #EXTINF:-1 tvg-id="TV2.my" tvg-logo="https://i.ibb.co.com/wrbp3npV/tv2-my.png" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" group-title="CHANNEL | ASEAN",TV 2 MY
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#EXTVLCOPT:Host=tonton-live-switch-ssar.akamaized.net
+#EXTHTTP:{"Origin":"https://tonton-live-sg3.akamaized.net"}
+#EXTVLCOPT:http-referrer=https://tonton-live-sg3.akamaized.net/
 #EXTINF:-1 tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-id="TV3.my" group-title="CHANNEL | ASEAN" tvg-logo="https://i.ibb.co.com/LDr96Gkq/tv3-my.png",TV3 MY
+https://smart.pendy.dpdns.org/Smart.php?id=TV3_mega
+#http://cool365.xyz:900/live/4160189881/DB4ACD54/400200329.ts
+#https://live-ssar-01.tonton.com.my/stream-tv3/master_540.m3u8?bpkio_serviceid=6c0958d82a830a02ca0936d9cfab8311|referrer=https://watch.tonton.com.my/
+#https://live-ssar-01.tonton.com.my/stream-tv3/master.m3u8?bpkio_serviceid=6c0958d82a830a02ca0936d9cfab8311&bpkio_sessionid=10a3d41e210-d39ffcf2-59c8-4c43-b133-4d56d43ce3c0&category=all
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=YmE1ODUyNDctMTU5NS0zMWEzLWJhYWYtZDVmMjI3Y2VjODIz
@@ -2463,7 +2482,11 @@ https://events3.liveboxpro.com/event/609.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/B0mGz0V/dstv-kyknet-rsa.png" group-title="CHANNEL | AFRICA", DSTV kykNET & kie ZA
 
+#EXTVLCOPT:http-origin=https://vecloud.eu
+#EXTVLCOPT:http-referrer=https://vecloud.eu/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/Z1Kqzd7n/ss-blitz.png" group-title="CHANNEL | AFRICA", SuperSport Grandstand ZA
+https://events3.liveboxpro.com/event/412.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/gFvzPv6k/ss-pl.png" group-title="CHANNEL | AFRICA", SuperSport Premier League ZA
 
@@ -2648,23 +2671,33 @@ https://events3.liveboxpro.com/event/392.m3u8
 
 #EXTINF:-1 group-title="CHANNEL | EUROPE" group-logo="https://i.ibb.co.com/DP68rYY9/euro.png"
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/Txfc9KvJ/bbc-one.png" group-title="CHANNEL | EUROPE", BBC One UK
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1MzJmNzY2NGE1MmQ2LTgzNDgtMzU4NC03ZDk1LWJjZTk5ODU2/master.m3u8
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/3HkdXMk/bbc-two.png" group-title="CHANNEL | EUROPE", BBC Two UK
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1NTVkYzFhNDNkNGI2LWUwMWItNDBmNC1jZDQwLTdhZmIxYWNl/master.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/DHDBbM1J/bbc-three.png" group-title="CHANNEL | EUROPE", BBC Three UK
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/k2jQpcD8/bbc-four.png" group-title="CHANNEL | EUROPE", BBC Four UK
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/0RcqL9HK/bbc-worldnews.png" group-title="CHANNEL | EUROPE", BBC News UK
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1NDlkODUwYTgzMWNlLTU4NjgtNzZjNC03OGQyLTFhNWExNDk2/master.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/XZswjzBB/channel4-uk.png" group-title="CHANNEL | EUROPE", Channel 4 UK
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/DPQj6pGn/channel5-uk.png" group-title="CHANNEL | EUROPE", Channel 5 UK
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/wfbd59V/eurosport1.png" group-title="CHANNEL | EUROPE", EuroSport 1 UK
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1OGY2ODAzOWY3ZDE5LThkMmEtNWY0NC0zZjViLTJiZDEwNjQ5/master.m3u8
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/VWHTD2xM/eurosport2.png" group-title="CHANNEL | EUROPE", EuroSport 2 UK
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1MzgwZjU4MzNjMTk4LWE4OGEtN2MwNC1lNjRkLTk4N2JhMDA2/master.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/sp1K5yxP/e4channel-uk.png" group-title="CHANNEL | EUROPE", E4 Channel UK
 
@@ -2739,11 +2772,15 @@ https://events3.liveboxpro.com/event/555.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/DDyNByMg/sky-cinema-uk.png" group-title="CHANNEL | EUROPE", Sky Cinema Animation UK
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/DDyNByMg/sky-cinema-uk.png" group-title="CHANNEL | EUROPE", Sky Cinema Family UK
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1YzkzNTZiMjY3YzBhLTE4ZjgtN2M3NC1jOGYzLWQ1YzVlZjli/master.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/DDyNByMg/sky-cinema-uk.png" group-title="CHANNEL | EUROPE", Sky Cinema Action UK
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/DDyNByMg/sky-cinema-uk.png" group-title="CHANNEL | EUROPE", Sky Cinema Comedy UK
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1MmRkNjU2YTRjODE2LTBhN2EtYzk0NC05OTMzLWZhZDQyZTI5/master.m3u8
 
 title="CHANNEL | EUROPE", Sky Cinema Thriller UK
 
@@ -2806,7 +2843,7 @@ https://events3.liveboxpro.com/event/38.m3u8
 #EXTVLCOPT:http-origin=https://vecloud.eu
 #EXTVLCOPT:http-referrer=https://vecloud.eu/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-#EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/27ZWzwzw/sky-sports-uk.png" group-title="CHANNEL | EUROPE", Sky sports Premier League UK
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/27ZWzwzw/sky-sports-uk.png" group-title="CHANNEL | EUROPE", Sky Sports Premier League UK
 https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1NTMwMTUyNDhlM2ExLTAwMGItNjE3NC02OGM0LThjZDU4YmQy/master.m3u8
 https://5nhp186eg31fofnc.chinese-restaurant-api.site/v4/variant/VE1gTdz0mLzRnLv52bt9SMhFjdtM3ajFmc09iMhFWNjRDZwITZmJTLjhjMi1SNlhDNtEjZwEWL0QTOwETN1gzL.m3u8
 https://events3.liveboxpro.com/event/130.m3u8
@@ -2934,9 +2971,13 @@ https://events3.liveboxpro.com/event/550.m3u8
 https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/variant/VE1AO1NTbu8mbv12LxEWM21ycrNWYyR3LhVmN4gDZ2EmMhZjZtQjZihTLmZjY00iNjNjYtYGN1MjYkhTN/master.m3u8
 https://events3.liveboxpro.com/event/597.m3u8
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/FqfD84RC/premier-sports1.png" group-title="CHANNEL | EUROPE", Premier Sports 1 IE
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1MmUzYTQyNGU1ODZjLWE1OTgtYTE5NC1lYzcwLWEyZmVjOTk1/master.m3u8
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/GvqLFTs0/premier-sports2.png" group-title="CHANNEL | EUROPE", Premier Sports 2 IE
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1NjE4YmE5OWMzMmQxLTEwNjktZTM0NC1jOTY0LTNlOGM3ZDU2/master.m3u8
 
 #EXTVLCOPT:http-origin=https://vecloud.eu
 #EXTVLCOPT:http-referrer=https://vecloud.eu/
@@ -3028,9 +3069,13 @@ DE
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/tT1BVHRB/br-de.png" group-title="CHANNEL | EUROPE", BR Fernsehen DE
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/RT5ccKVK/dazn1-de.png" group-title="CHANNEL | EUROPE", DAZN 1 DE
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1MmY4Yjc0ZDFiNzdhLTYzN2EtNzIwNC0wNmEyLWEzM2EwMDM2/master.m3u8
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/zVkts12X/dazn2-de.png" group-title="CHANNEL | EUROPE", DAZN 2 DE
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1NDczNGRiNWVkN2QwLWU3NGItNmRkNC0wYjhiLTFjNmM2NTBj/master.m3u8
 
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
@@ -3050,17 +3095,33 @@ https://dwamdstream110.akamaized.net/hls/live/2017971/dwstream110/index.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/kVsXfLMr/rtl-de.png" group-title="CHANNEL | EUROPE", RTL DE
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/27ZWzwzw/sky-sports-uk.png" group-title="CHANNEL | EUROPE", Sky Sport Top Event DE
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1NjgyNTVmNTE1M2M5LWM5OGItMGNjNC00YzdlLTliZWI4YWY3/master.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/27ZWzwzw/sky-sports-uk.png" group-title="CHANNEL | EUROPE", Sky Sport Mix DE
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1MTBkYjk1MTkzMTFmLTAzNDgtZWVkNC0xZDRjLWM1YmY5MWEx/master.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/4Rh6wVY3/skysport-pl.png" group-title="CHANNEL | EUROPE", Sky Sport Premier League DE
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1MzlmYzMwMWU3ZjZlLTE0NmItMjljNC0xODRhLTU2MTg5YmM0/master.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/27ZWzwzw/sky-sports-uk.png" group-title="CHANNEL | EUROPE", Sky Sport News DE
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1ZmE0NzI3MGU5ZmRmLTMwMTktYWFhNC1mZDNhLWI5YjFkZGE2/master.m3u8
+
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/27ZWzwzw/sky-sports-uk.png" group-title="CHANNEL | EUROPE", Sky Sports F1 DE
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/27ZWzwzw/sky-sports-uk.png" group-title="CHANNEL | EUROPE", Sky Sports Tennis DE
 
-#EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/27ZWzwzw/sky-sports-uk.png" group-title="CHANNEL | EUROPE", Sky Sport Top Event DE
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/27ZWzwzw/sky-sports-uk.png" group-title="CHANNEL | EUROPE", Sky Sport Mix DE
-
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/27ZWzwzw/sky-sports-uk.png" group-title="CHANNEL | EUROPE", Sky Sport Bundesliga DE
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/WWgRyHKg/sport1-de.png" group-title="CHANNEL | EUROPE", Sport1+ DE
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/WWgRyHKg/sport1-de.png" group-title="CHANNEL | EUROPE", SportDigital Germany
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1OWQ3NWJhMGY1Zjk0LTU3OTgtNmUwNC05YTkyLWM1M2IyNzA0/master.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/jvP4KbFG/sport1-de.png" group-title="CHANNEL | EUROPE", Sport1 DE
 
@@ -3913,14 +3974,20 @@ https://fl3.moveonjoy.com/EPIX_DRIVE_IN/index.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/zW31B0mZ/epix2.png" group-title="CHANNEL | USA",EPIX Hits
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/Fkb7smV8/espn.png" group-title="CHANNEL | USA",ESPN
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1NTkzNGQyNjA3OWRiLWU1NGEtYmZjNC05NDMxLWU4OTEyYmJm/master.m3u8
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/chBS1Btq/espn2.png" group-title="CHANNEL | USA",ESPN2
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1NDU1YzcxM2M4NDQ5LWIyYWEtNmE4NC0xMzY0LWZlMWUxYTc3/master.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/J0Y5d4L/espnU.png" group-title="CHANNEL | USA",ESPN U
 https://fl3.moveonjoy.com/ESPN_U/index.m3u8
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/Y4RQkMz0/espn-deportes.png" group-title="CHANNEL | USA",ESPN Deportes
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1M2Q1YmI0NDBiOWI2LWRiNGEtNGRjNC1iODU4LTZkYzE3YTM4/master.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/5hJcFXSG/espn-news.png" group-title="CHANNEL | USA",ESPNews
 https://fl3.moveonjoy.com/ESPN_NEWS/index.m3u8
@@ -3965,7 +4032,9 @@ https://events3.liveboxpro.com/event/39.m3u8
 https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1YTY5MDFkNTVlYjFmLTEwMGItOWQ2NC0yYWE2LWVkYWYwMGYy/master.m3u8
 https://events3.liveboxpro.com/event/758.m3u8
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/KcNjXnGk/fox-soccer.png" group-title="CHANNEL | USA",Fox Soccer Plus
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1MjVhMzNjZTkxZTdkLWRmZGItMWM4NC03Y2Q3LWU2NjQyMWU5/master.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/Ng7W0VBV/fox-cricket.png" group-title="CHANNEL | USA",Fox Cricket
 
