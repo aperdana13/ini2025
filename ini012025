@@ -97,8 +97,10 @@ https://inews-cutv.rctiplus.id/inews-sdi.m3u8
 #EXTVLCOPT:http-referrer=http://dens.tv
 http://op-group1-swiftservesd-1.dens.tv/h/h06/01.m3u8
 
-#EXTVLCOPT:http-referrer=https://www.indihometv.com
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTINF:-1 tvg-id="" tvg-name="AllPlay Ent.id" tvg-logo="https://i.ibb.co.com/cRyBT3K/allplay.png" group-title="CHANNEL | INDONESIA", Allplay Ent
+https://cdn10jtedge.indihometv.com/atm/DASH/useeprime/manifest.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
@@ -525,6 +527,11 @@ https://op-group1-swiftservehd-1.dens.tv/h/h221/index.m3u8
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/4k-travel-tv/manifest.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/ZRG4Dz5f/travel-tv.png" group-title="CHANNEL | LIFESTYLE",Travel TV
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=34880f56627c11ee8c990242ac120002:c23677c829bb244b79a3dc09ffd88ca0
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/DfLmcv0n/bbc-lifestyle.png" group-title="CHANNEL | LIFESTYLE",BBC Lifestyle
+https://qp-pldt-live-grp-09-prod.akamaized.net/out/u/cg_bbclifestyle.mpd
 
 #EXTINF:-1 group-title="CHANNEL | LIFESTYLE" tvg-logo="https://i.ibb.co.com/QjXSkgXS/tlc.png", TLC
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
@@ -1088,11 +1095,20 @@ https://raw.githubusercontent.com/mimipipi22/lalajo/main/Streaming/news/wion.m3u
 ##https://windnew.newkso.ru/wind/premium124/mono.m3u8|referer=https://pkpakiplay.xyz/&origin=https://pkpakiplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 https://wahyu1ptv.pages.dev/AstroFootBall-HD.m3u8
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
 #EXTINF:-1 tvg-id="AstroSupersport3" tvg-name="Astro Grandstand HD" tvg-logo="https://i.ibb.co.com/zVC2YKGT/astro-grandstand.png" group-title="CHANNEL | SPORTS",Astro Grandstand
+https://zekonew.newkso.ru/zeko/premium123/mono.m3u8|referer=https://webxzplay.cfd/
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/variant/VE1AO1NTbu8mbv12LxEWM21ycrNWYyR3L0kDO2EmZlBDZyEzMtkjZxIWLzQGO00SMhRzMtAjZjRjN1EWN/master.m3u8|referer=https://www.vidembed.re/|referer=https://www.vidembed.re/
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/bgzRZs6K/astro-pl.png" group-title="CHANNEL | SPORTS",Astro Premier League 1
+https://zekonew.newkso.ru/zeko/premium125/mono.m3u8|referer=https://webxzplay.cfd/
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/variant/VE1AO1NTbu8mbv12LxEWM21ycrNWYyR3L3cTOhNmZ4UWZ2E2YtcjZ0kTLzYzN00iY0QmYtY2MmRTM3QTY/master.m3u8|referer=https://www.vidembed.re/|referer=https://www.vidembed.re/
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
 #EXTINF:-1 tvg-id="AstroSupersport2" tvg-name="Astro Premier League 2 HD" tvg-logo="https://i.ibb.co.com/bgzRZs6K/astro-pl.png" group-title="CHANNEL | SPORTS",Astro Premier League 2
+https://zekonew.newkso.ru/zeko/premium126/mono.m3u8|referer=https://webxzplay.cfd/
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/variant/VE1AO1NTbu8mbv12LxEWM21ycrNWYyR3LhRmY3UjM1EzNmJzNtczM4IWLyIjZ00CNkNWYtEmN3cTZzgzN/master.m3u8|referer=https://www.vidembed.re/|referer=https://www.vidembed.re/
 
 #EXTINF:-1 tvg-id="" tvg-name="Astro Sports Plus" tvg-logo="https://i.ibb.co.com/Kxyf1MF4/astro-sports-plus.png" group-title="CHANNEL | SPORTS",Astro Sports Plus
 
@@ -2159,25 +2175,34 @@ https://atemeshield1-voe.sysln.id/live/eds/ZeeBioskop/mpd/ZeeBioskop.mpd
 JPN
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ecc5bc0e2dec4b9495db147278fb3904:ca86d9fdad6a8e9b1c13368d734e2095
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.19.1 (Linux; Android 15.0.0;) ExoPlayerLib/2.19.1
+#KODIPROP:inputstream.adaptive.license_key=6f309276a94e45be89a8860159456e84:3fe2eec12885264556ca4e29aa6c0c40
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTINF:-1 tvg-id="AnimaxAsia.id" tvg-name="Animax HD" tvg-logo="https://i.ibb.co.com/NnYBWdGK/animax.png" group-title="CHANNEL | ASIAN", Animax
-https://atemecdnbalancer-voe.sysln.id/live/eds/AnimaxHD/mpd/AnimaxHD.mpd
+https://d84q7nw4qf3j3.cloudfront.net/out/v1/ab3ef0f0e4144c3c8b7e60f1873a3bcc/index.mpd
+https://fta1-cdn-flr.visionplus.id/out/v1/ab3ef0f0e4144c3c8b7e60f1873a3bcc/index.mpd
 
 #EXTINF:-1  tvg-name="Anime x Hidive" tvg-id="plex.tv.ANIME.x.HIDIVE.plex" tvg-logo="https://i.ibb.co.com/tMy27Vf3/anime-hidive.png" group-title="CHANNEL | ASIAN",Anime x Hidive
 
+#EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=http://dens.tv/
 #EXTINF:-1  tvg-name="Aniplus" tvg-id="Aniplus.id" tvg-logo="https://i.ibb.co.com/HLHz4D80/aniplus.png" group-title="CHANNEL | ASIAN",Aniplus
+https://op-group1-swiftservehd-1.dens.tv/h/h201/index.m3u8?app_type=web&userid=lite&chname=ANIPLUS_HD
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTINF:-1 group-title="CHANNEL | ASIAN" tvg-id="homedrama" tvg-logo="https://i.ibb.co.com/rGFwr20n/home-dream.png", Home Drama Channel Japan
 
 #EXTINF:-1 group-title="CHANNEL | ASIAN" tvg-id="js1" tvg-logo="https://i.ibb.co.com/JW6Vnv7h/j-sports.png", J Sports 1  
+https://mt01.utako.moe/js1/index.m3u8
 
 #EXTINF:-1 group-title="CHANNEL | ASIAN" tvg-id="js2" tvg-logo="https://i.ibb.co.com/JW6Vnv7h/j-sports.png", J Sports 2  
+https://mt01.utako.moe/js2/index.m3u8
 
 #EXTINF:-1 group-title="CHANNEL | ASIAN" tvg-id="js3" tvg-logo="https://i.ibb.co.com/JW6Vnv7h/j-sports.png", J Sports 3  
+https://mt01.utako.moe/js3/index.m3u8
 
 #EXTINF:-1 group-title="CHANNEL | ASIAN" tvg-id="js4" tvg-logo="https://i.ibb.co.com/JW6Vnv7h/j-sports.png", J Sports 4  
+https://mt01.utako.moe/js4/index.m3u8
 
 #EXTINF:-1 group-title="CHANNEL | ASIAN" tvg-id="mbs" tvg-logo="https://i.ibb.co.com/Cp8rMtmv/mbs.png", MBS Japan
 
@@ -2374,51 +2399,17 @@ QA
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/SXgzfYcw/rds-info-ca.png" group-title="CHANNEL | AMERICA",RDS Info CA
 
-#EXTVLCOPT:http-origin=https://vecloud.eu
-#EXTVLCOPT:http-referrer=https://vecloud.eu/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
 #EXTINF:-1 tvg-id="TSN 1" tvg-logo="https://i.ibb.co.com/F4cMZ1R1/tsn1.png" group-title="CHANNEL | AMERICA",TSN 1 CA
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1MDExYmYxYjFiZDhkLWVkMTktNzhkNC0xMTBiLWIyZGZjODNm/master.m3u8
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/variant/VE1AO1NTbu8mbv12LxEWM21ycrNWYyR3LxcTZ0MjYwQWYlJjMtETMlFWL0ADZ00CO1cjZtYzYlNTOkVWO/master.m3u8
-https://events3.liveboxpro.com/event/111.m3u8
 
-#EXTVLCOPT:http-origin=https://vecloud.eu
-#EXTVLCOPT:http-referrer=https://vecloud.eu/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
 #EXTINF:-1 tvg-id="TSN 2" tvg-logo="https://i.ibb.co.com/XZbKM9xr/tsn2.png" group-title="CHANNEL | AMERICA",TSN 2 CA
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1OTZlNjZlYzdjMTlhLTYyMTgtNjQ0NC1jYzU3LTBmYzdmNmNh/master.m3u8
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/variant/VE1AO1NTbu8mbv12LxEWM21ycrNWYyR3L5cTYlZzN5kDM0UzYtUjN3gTL1EDZ00yY5UDNtU2M2YWN1UjN/master.m3u8
-https://events3.liveboxpro.com/event/112.m3u8
 
-#EXTVLCOPT:http-origin=https://vecloud.eu
-#EXTVLCOPT:http-referrer=https://vecloud.eu/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
 #EXTINF:-1 tvg-id="TSN 3" tvg-logo="https://i.ibb.co.com/whgJ7JdR/tsn3.png" group-title="CHANNEL | AMERICA",TSN 3 CA
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1YzA3ZGVjOWEzMGU3LTg3NmItOGM2NC05ZGI4LTZiZDIxOTA1/master.m3u8
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/variant/VE1AO1NTbu8mbv12LxEWM21ycrNWYyR3L5czMlZDMyUzN2MTNtM2NxgTL2IDM00SNiJGOtEjN3QDNiVDM/master.m3u8
-https://events3.liveboxpro.com/event/113.m3u8
 
-#EXTVLCOPT:http-origin=https://vecloud.eu
-#EXTVLCOPT:http-referrer=https://vecloud.eu/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
 #EXTINF:-1 tvg-id="TSN 4" tvg-logo="https://i.ibb.co.com/8nx9DntS/tsn4.png" group-title="CHANNEL | AMERICA",TSN 4 CA
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1N2M3NDM4YWNiYTc4LTJmMzktNDcwNC1hNDExLWQyMzAzNTY0/master.m3u8
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/variant/VE1AO1NTbu8mbv12LxEWM21ycrNWYyR3LhFmNjZTO3EmNyUzMtI2M1kTL2IGZ00SOjJDOtUzMmJzN3UTN/master.m3u8
-https://events3.liveboxpro.com/event/114.m3u8
 
-#EXTVLCOPT:http-origin=https://vecloud.eu
-#EXTVLCOPT:http-referrer=https://vecloud.eu/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
 #EXTINF:-1 tvg-id="TSN 5" tvg-logo="https://i.ibb.co.com/1GQRYYYS/tsn5.png" group-title="CHANNEL | AMERICA",TSN 5 CA
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1ZjU1MDM5ZjMzY2FjLTY0Y2ItMDJkNC04MDM4LWVjYWNlNTEx/master.m3u8
-https://events3.liveboxpro.com/event/115.m3u8
 
-#EXTVLCOPT:http-origin=https://vecloud.eu
-#EXTVLCOPT:http-referrer=https://vecloud.eu/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/6RpND5tL/tva-sports-ca.png" group-title="CHANNEL | AMERICA",TVA Sports CA
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/variant/VE1AO1NTbu8mbv12LxEWM21ycrNWYyR3LhdDMilDZkR2YmljMtUmM2gTLzQTM00yN4kTZtUWOxQDZwQjN/master.m3u8
-https://events3.liveboxpro.com/event/833.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/STFTNzc/tva-sports2-ca.png" group-title="CHANNEL | AMERICA",TVA Sports 2 CA
 
@@ -2442,12 +2433,7 @@ https://events3.liveboxpro.com/event/833.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/4nHfLBKx/foxsport3-ar.png" group-title="CHANNEL | AMERICA", Fox Sports 3 Argentina
 
-#EXTVLCOPT:http-origin=https://vecloud.eu
-#EXTVLCOPT:http-referrer=https://vecloud.eu/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/pj6gyGq6/tnt-sport-ar.png" group-title="CHANNEL | AMERICA",TNT Sports AR
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/variant/VE1AO1NTbu8mbv12LxEWM21ycrNWYyR3L5UGZ3YTZkhzMxMjYtkTYlhTLmNTN00iZ4M2MtMzY2QmZzkTN/master.m3u8
-https://events3.liveboxpro.com/event/388.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/DfyZNP2K/tyc-sport-ar.png" group-title="CHANNEL | AMERICA",TYC Sports AR
 
@@ -2465,12 +2451,7 @@ https://events3.liveboxpro.com/event/388.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/ZpzSKXv1/globorio-bra.png" group-title="CHANNEL | AMERICA", Globo Rio BR
 
-#EXTVLCOPT:http-origin=https://vecloud.eu
-#EXTVLCOPT:http-referrer=https://vecloud.eu/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/W45By7k8/premier-bra.png" group-title="CHANNEL | AMERICA", Premier Brasil
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/variant/VE1AO1NTbu8mbv12LxEWM21ycrNWYyR3L0IjZ3E2MiFWOyITMtUDZihTLkhzY00SNmhjNtEmN1IDMiVTY/master.m3u8
-https://events3.liveboxpro.com/event/88.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/pvDKTFZR/sportv-bra.png" group-title="CHANNEL | AMERICA", SporTV BR
 
@@ -2478,26 +2459,11 @@ https://events3.liveboxpro.com/event/88.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/pvDKTFZR/sportv-bra.png" group-title="CHANNEL | AMERICA",SporTV3 BR
 
-#EXTVLCOPT:http-origin=https://vecloud.eu
-#EXTVLCOPT:http-referrer=https://vecloud.eu/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/Fb67kRK1/tnt-bra.png" group-title="CHANNEL | AMERICA", TNT BR
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/variant/VE1AO1NTbu8mbv12LxEWM21ycrNWYyR3LkNTY2QWZklTMkR2NtAjYhhTLjlzY00SO0kjNtgTZ4EGN5MWY/master.m3u8
-https://events3.liveboxpro.com/event/87.m3u8
 
-#EXTVLCOPT:http-origin=https://vecloud.eu
-#EXTVLCOPT:http-referrer=https://vecloud.eu/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/TDC7kfjx/tntsport-chl.png" group-title="CHANNEL | AMERICA",TNT Sports CL
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/variant/VE1AO1NTbu8mbv12LxEWM21ycrNWYyR3LyEDOhBTN2czYklTOtETYzgTLlRGM00yN3MzYtgjMzMjN3QmN/master.m3u8
-https://events3.liveboxpro.com/event/642.m3u8
 
-#EXTVLCOPT:http-origin=https://vecloud.eu
-#EXTVLCOPT:http-referrer=https://vecloud.eu/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/7d1NnVyQ/win-football-col.png" group-title="CHANNEL | AMERICA", Win Sports+ CO
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/variant/VE1AO1NTbu8mbv12LxEWM21ycrNWYyR3LyEGMyIjZhJWMxgzMtMWY5EWL4ATY00iMyQDMtIDNiFWM1MDZ/master.m3u8
-https://events3.liveboxpro.com/event/392.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="CHANNEL | AMERICA",
 
