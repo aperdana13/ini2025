@@ -609,12 +609,6 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/DiscoveryHD/mpd/DiscoveryHD.mpd
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/dnBK4QN/hgtv.png" group-title="CHANNEL | KNOWLEDGE",HGTV
 https://mediapackage-hgtv-source.fullscreen.nz/index.m3u8
 
-#EXTINF:-1 tvg-name="" tvg-logo="https://coleswildbird.com/wp-content/uploads/2017/03/tinyhousenation.jpg" group-title="CHANNEL | KNOWLEDGE", Tiny House Nation
-https://disyw7xcmhink.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://s42814.pcdn.co/wp-content/uploads/2022/11/thisoldhouse-logo.svg"  group-title="CHANNEL | KNOWLEDGE", This Old House
-https://content.uplynk.com/channel/778dfa39720b47d5ab6de27ee3cf81b7.m3u8
-
 #EXTINF:-1 tvg-id="Science.us" tvg-logo="https://i.ibb.o.com/ds5ytQgd/science-channel.png" group-title="CHANNEL | KNOWLEDGE",Science Channel
 
 #EXTINF:-1 tvg-id="National.Geographic.US.-.Eastern.us" tvg-logo="https://i.ibb.co.com/4Zr1k1yC/natgeo-usa.png" group-title="CHANNEL | KNOWLEDGE",National Geographic
@@ -1302,15 +1296,10 @@ https://atemeshield1-voe.sysln.id/live/eds/EUROSPORTHD/mpd/EUROSPORTHD.mpd
 https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1ZmVlYmEzMGU4MjBlLTFlOWEtZjgxNC1iY2I1LTExZGU0MjJi/master.m3u8
 
 #EXTINF:-1 group-title="CHANNEL | SPORTS" tvg-id="Fox Soccer Plus" tvg-logo="https://i.ibb.co.com/KxQBbNrC/fox-soccer.png", Fox Soccer Plus 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://ddy6new.newkso.ru/ddy6/premium756/mono.m3u8
 
 #EXTINF:-1 group-title="CHANNEL | SPORTS" tvg-id="Fox Sports 1 HDTV" tvg-logo="https://i.ibb.co.com/N6BtLCm3/fs1.png", Fox Sports 1 
-http://primestreams.tv:826/live/SF11/vulwBvtfo9/118499.ts
 
 #EXTINF:-1 group-title="CHANNEL | SPORTS" tvg-id="Fox Sports 2" tvg-logo="https://i.ibb.co.com/qMd71rVt/fs2.png", Fox Sports 2
-http://primestreams.tv:826/live/SF11/vulwBvtfo9/109152.ts
 
 #EXTINF:-1 group-title="CHANNEL | SPORTS" tvg-id="Fox Soccer Plus" tvg-logo="https://i.ibb.co.com/PGkm2fSg/fox-deportes.png", Fox Deportes
 
@@ -1482,19 +1471,6 @@ https://events3.liveboxpro.com/event/799.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=002046c9a49b9ab1cdb6616bec5d26c3:d2f92f6b7edc9a1a05d393ba0c20ef9e
 https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/master.mpd
-
-#EXTINF:-1 tvg-id="NBCSportsBoston.us" tvg-name="" tvg-logo="https://i.ibb.co.com/Vp9kmqtt/usa-network1.png" group-title="CHANNEL | SPORTS" ,  USA Network 1
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0020d88a6713159839743f655c5da7de:ba9f34226301f69a4f0f13f65a1f92ec
-https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc122ycnuy)/master.mpd
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
-#EXTINF:-1 tvg-id="NBCSportsBoston.us" tvg-name="" tvg-logo="https://i.ibb.co.com/HDS02Z8Z/usa-network2.png" group-title="CHANNEL | SPORTS" ,  USA Network 2
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1YWM5OGZjM2FkNDI1LTc2MzgtMjMwNC00OTUyLWRmZGVhYzlh/master.m3u8|referer=https://www.vidembed.re/&origint=https://www.vidembed.re
-https://nfsnew.newkso.ru/nfs/premium343/mono.m3u8|referer=https://webxzplay.cfd/
-https://leeeeeeeel.dupereasy.com/event/343.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co.com/JFcbfVYg/usa-network3.png" group-title="CHANNEL | SPORTS" , USA Network 3
 
@@ -1855,12 +1831,24 @@ https://events3.liveboxpro.com/event/115.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/svb5YBM5/tv3-den.png" group-title="CHANNEL | SPORTS",TV3 Sport
 
+#EXTINF:-1 tvg-id="NBCSportsBoston.us" tvg-name="" tvg-logo="https://i.ibb.co.com/Vp9kmqtt/usa-network1.png" group-title="CHANNEL | SPORTS" ,  USA Network 1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0020d88a6713159839743f655c5da7de:ba9f34226301f69a4f0f13f65a1f92ec
+https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc122ycnuy)/master.mpd
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
+#EXTINF:-1 tvg-id="NBCSportsBoston.us" tvg-name="" tvg-logo="https://i.ibb.co.com/HDS02Z8Z/usa-network2.png" group-title="CHANNEL | SPORTS" ,  USA Network 2
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1YWM5OGZjM2FkNDI1LTc2MzgtMjMwNC00OTUyLWRmZGVhYzlh/master.m3u8|referer=https://www.vidembed.re/&origint=https://www.vidembed.re
+https://nfsnew.newkso.ru/nfs/premium343/mono.m3u8|referer=https://webxzplay.cfd/
+https://leeeeeeeel.dupereasy.com/event/343.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co.com/8D3tVg65/wsport.png" group-title="CHANNEL | SPORTS", W Sport
 
 #EXTINF:-1 tvg-id="WWENetwork.us" tvg-name="WWE NETWORK" tvg-logo="https://i.ibb.co.com/JWkrnYj9/wwe.png" group-title="CHANNEL | SPORTS", WWE NETWORK 
 
 #EXTINF:-1 tvg-id="" tvg-name="NL: Ziggo Sport" tvg-logo="https://i.ibb.co.com/3YTJBFDW/ziggo-sport.png" group-title="CHANNEL | SPORTS",Ziggo Sport
-http://filex.tv:8080/live/@B1gM0/qsavC6NPSm/303689.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="NL: Ziggo Sport Voetbal" tvg-logo="https://i.ibb.co.com/5XZC0dZz/ziggo-sport2.png" group-title="CHANNEL | SPORTS",Ziggo Sport 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1943,12 +1931,12 @@ BR
 #EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://i.ibb.co.com/KxQZzNXM/rtb.png" group-title="CHANNEL | ASEAN", RTB BN
 https://d1211whpimeups.cloudfront.net/smil:rtb1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-url="https://i.ibb.co.com/XrCvr9rz/rtb-golive.png" tvg-logo="" group-title="CHANNEL | ASEAN", RTB GO Live BN
-#EXTVLCOPT:network-caching=1000 
-https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://i.ibb.co.com/8L6ZSL0n/rtb-aneka.png" group-title="CHANNEL | ASEAN", RTB Aneka BN
 https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist_b1120000_sleng.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://i.ibb.co.com/XrCvr9rz/rtb-golive.png" group-title="CHANNEL | ASEAN", RTB GO Live BN
+#EXTVLCOPT:network-caching=1000 
+https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist.m3u8
 
 SG
 
@@ -2091,6 +2079,8 @@ https://giatv.bozztv.com/giatv/giatv-kpoptvplay/kpoptvplay/chunks.m3u8
 #EXTINF:-1 tvg-id="tving|C00579" tvg-name="M.net FHD" tvg-logo="https://i.ibb.co.com/zTtLysws/mnet.png" group-title="CHANNEL | ASIAN",M Net
 http://warlock0.synology.me:9999/klive/api/url.m3u8?m=web_play&s=tving&i=C00579&q=FHD&apikey=5MY50EII66
 
+CHI
+
 #EXTINF:-1 group-title="CHANNEL | ASIAN" tvg-name="" tvg-country="ID" tvg-logo="https://i.ibb.co.com/QvV9gTTW/anhui.png", Anhui 
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
@@ -2160,18 +2150,6 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/TVBXingHe/mpd/TVBXingHe.mpd
 #KODIPROP:inputstream.adaptive.license_key=d397670017d94f648f4942d3f35b2f10:bd3353307516a1865bf83d6b1ac60368 
 https://atemecdnbalancer-voe.sysln.id/live/eds/ZhejiangTV/mpd/ZhejiangTV.mpd 
 
-#EXTINF:-1 group-title="CHANNEL | ASIAN" tvg-name="" tvg-country="ID" tvg-logo="https://i.ibb.co.com/hR8js0K0/sonymax.png", Sony Max
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1 
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=fe0f12834d244b02873c6faf4238ffc9:da329ca93cbe1c816a43c14b09b8dd6d 
-https://atemeshield1-voe.sysln.id/live/eds/SonyMax/mpd/SonyMax.mpd 
-
-#EXTINF:-1 group-title="CHANNEL | ASIAN" tvg-name="TV Movies" tvg-country="ID" tvg-logo="https://i.ibb.co.com/SwZtnLkC/zee.png", Zee Bioskop 
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1 
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=70d0197a8aca42589cf5df6daa576d86:ebd47832fd7251a09e3cc8eb36790ad5 
-https://atemeshield1-voe.sysln.id/live/eds/ZeeBioskop/mpd/ZeeBioskop.mpd 
-
 JPN
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -2225,6 +2203,20 @@ https://cdn.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3
 #EXTINF:-1 group-title="CHANNEL | ASIAN" tvg-id="nhkg" tvg-logo="https://i.ibb.co.com/3m6JDxj2/nhk-g.png", NHK G Osaka Japan
 
 #EXTINF:-1 group-title="CHANNEL | ASIAN" tvg-id="suntv" tvg-logo="https://i.ibb.co.com/fVCYhK8W/suntv.png", SUN TV Japan
+
+IND
+
+#EXTINF:-1 group-title="CHANNEL | ASIAN" tvg-name="" tvg-country="ID" tvg-logo="https://i.ibb.co.com/hR8js0K0/sonymax.png", Sony Max
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1 
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=fe0f12834d244b02873c6faf4238ffc9:da329ca93cbe1c816a43c14b09b8dd6d 
+https://atemeshield1-voe.sysln.id/live/eds/SonyMax/mpd/SonyMax.mpd 
+
+#EXTINF:-1 group-title="CHANNEL | ASIAN" tvg-name="TV Movies" tvg-country="ID" tvg-logo="https://i.ibb.co.com/SwZtnLkC/zee.png", Zee Bioskop 
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1 
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=70d0197a8aca42589cf5df6daa576d86:ebd47832fd7251a09e3cc8eb36790ad5 
+https://atemeshield1-voe.sysln.id/live/eds/ZeeBioskop/mpd/ZeeBioskop.mpd 
 
 AU
 
@@ -2826,6 +2818,11 @@ FR
 
 DE
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"bef45d69a359c3c5ab265b807b0b11ee":"3572bdc32850a0d0e4a95bffd000383c","d8958c9208065f25a365a66a49ad44bd":"5bd96fa145739a44a876668b77c44693","21b3c2f352325ac4ab820c83578e87a8":"6264dbb0644b7de9a96ad479d86a963c","a9532ab91cf15348a20e7d0c235e0987":"2b2bfa0bfe707eab164686c7b797a6fb"}
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/bR8CWZpd/sat3-de.png" group-title="CHANNEL | EUROPE", 3SAT DE
+https://ac-009.live.p7s1video.net/4cb9b4be/t_009/3sat-de-hd/cenc-default.mpd
+
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/p6Wtvybb/arte-de.png" group-title="CHANNEL | EUROPE", Arte DE
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/k2FQFqXh/bbc-de.png" group-title="CHANNEL | EUROPE", BBC 1 DE
@@ -2889,11 +2886,6 @@ https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1OWQ3NWJhMGY1
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/jvP4KbFG/sport1-de.png" group-title="CHANNEL | EUROPE", Sport1 DE
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/60CQtZXW/sat1-de.png" group-title="CHANNEL | EUROPE", SAT.1 DE
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"bef45d69a359c3c5ab265b807b0b11ee":"3572bdc32850a0d0e4a95bffd000383c","d8958c9208065f25a365a66a49ad44bd":"5bd96fa145739a44a876668b77c44693","21b3c2f352325ac4ab820c83578e87a8":"6264dbb0644b7de9a96ad479d86a963c","a9532ab91cf15348a20e7d0c235e0987":"2b2bfa0bfe707eab164686c7b797a6fb"}
-#EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/bR8CWZpd/sat3-de.png" group-title="CHANNEL | EUROPE", 3SAT DE
-https://ac-009.live.p7s1video.net/4cb9b4be/t_009/3sat-de-hd/cenc-default.mpd
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/WWWRZgHH/sixx-de.png" group-title="CHANNEL | EUROPE", Sixx DE
 
@@ -3054,12 +3046,7 @@ https://events3.liveboxpro.com/event/276.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/35XF9xDZ/mundotoro-esp.png" group-title="CHANNEL | EUROPE", Mundotoro TV ES
 
-#EXTVLCOPT:http-origin=https://vecloud.eu
-#EXTVLCOPT:http-referrer=https://vecloud.eu/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/G3crk7v2/realmadridtv.png" group-title="CHANNEL | EUROPE", Real Madrid TV ES
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/variant/VE1AO1NTbu8mbv12LxEWM21ycrNWYyR3LzcTY0UTOiZjY3IzMtEzN4gTLwATM00CZiVWNtYjMhhTN5IjN/master.m3u8
-https://events3.liveboxpro.com/event/523.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/JwWhsmsv/telecinco-esp.png" group-title="CHANNEL | EUROPE", Telecinco ES
 
@@ -3167,12 +3154,7 @@ PL
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/FbGHTVMM/filmbox-pol.png" group-title="CHANNEL | EUROPE",FilmBox Premium PL
 
-#EXTVLCOPT:http-origin=https://vecloud.eu
-#EXTVLCOPT:http-referrer=https://vecloud.eu/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/fVktswVC/motowizja-pol.png" group-title="CHANNEL | EUROPE",Motowizja PL
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/variant/VE1AO1NTbu8mbv12LxEWM21ycrNWYyR3LkZTOyQ2YzUzYhJWMtY2YhhTLwIzY00iN4EDMtYzY0EGOyQDO/master.m3u8
-https://events3.liveboxpro.com/event/563.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/1HHGpwP/polsat-pol.png" group-title="CHANNEL | EUROPE",Polsat PL
 
@@ -3353,12 +3335,7 @@ CY
 
 #EXTINF:-1 group-title="CHANNEL | USA" group-logo="https://i.ibb.co.com/cc7wpm2b/usa.png"
 
-#EXTVLCOPT:http-origin=https://vecloud.eu
-#EXTVLCOPT:http-referrer=https://vecloud.eu/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/wNLQSZWC/a-3.png" group-title="CHANNEL | USA",A&E
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/variant/VE1AO1NTbu8mbv12LxEWM21ycrNWYyR3L4UzN3EjM0EjMzgzMtMzYilTLkVjZ00SOldDZtQmNxUGNhZjZ/master.m3u8
-https://events3.liveboxpro.com/event/302.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/CKY8L6ft/abc.png" group-title="CHANNEL | USA",ABC
 http://fl1.moveonjoy.com/ABC_EAST/index.m3u8
@@ -3368,12 +3345,7 @@ http://fl1.moveonjoy.com/ABC_EAST/index.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/rRZ6G250/acc-network.png" group-title="CHANNEL | USA",ACC Network
 https://fl3.moveonjoy.com/ACC_NETWORK/index.m3u8
 
-#EXTVLCOPT:http-origin=https://vecloud.eu
-#EXTVLCOPT:http-referrer=https://vecloud.eu/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/SD9jjxtC/adult-swim.png" group-title="CHANNEL | USA",Adult Swim
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/variant/VE1AO1NTbu8mbv12LxEWM21ycrNWYyR3LzUWYjRjYyQWMwgTZtIzMlJWL3M2N00iYxITMtEWYhRGMwYGZ/master.m3u8
-https://events3.liveboxpro.com/event/295.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/Q7ZxcjZJ/altitude-sport.png" group-title="CHANNEL | USA",Altitude Sports
 
@@ -3383,12 +3355,7 @@ http://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/fYNPsJf2/ahc.png" group-title="CHANNEL | USA",American Heroes Channel
 http://fl3.moveonjoy.com/American_Heroes_Channel/index.m3u8
 
-#EXTVLCOPT:http-origin=https://vecloud.eu
-#EXTVLCOPT:http-referrer=https://vecloud.eu/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/FGv8wmy/animal-planet.png" group-title="CHANNEL | USA",Animal Planet
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/variant/VE1AO1NTbu8mbv12LxEWM21ycrNWYyR3LlBjYxAjNhdTOkJ2MtIWZhJWL2I2Y00CO2QzMtQ2Y3kzMjlzY/master.m3u8
-https://events3.liveboxpro.com/event/304.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/fYzZqkL8/aspire.png" group-title="CHANNEL | USA",Aspire
 https://fl3.moveonjoy.com/Aspire/index.m3u8
@@ -3571,11 +3538,7 @@ https://raw.githubusercontent.com/mimipipi22/lalajo/main/Streaming/lifestyle/fas
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/3YYTds8j/fight-sport.png" group-title="CHANNEL | USA",Fight Network
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6dc31ac1031242a8b0c37286acb66a37:648286167b494bf9ee122eced0e37de1
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.19.1 (Linux; Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/20SRKFDj/food-network.png" group-title="CHANNEL | USA",The Food Network
-https://atemecdnbalancer-voe.sysln.id/live/eds/FoodNetworkHD/mpd/FoodNetworkHD.mpd
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/357L5qRH/fox.png" group-title="CHANNEL | USA",Fox
 http://fl1.moveonjoy.com/FOX_EAST/index.m3u8
@@ -3621,7 +3584,7 @@ https://fl3.moveonjoy.com/FREE_FORM/index.m3u8
 #EXTVLCOPT:http-origin=https://vecloud.eu
 #EXTVLCOPT:http-referrer=https://vecloud.eu/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-#EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co/8DsYr2Bg/fubo.png" group-title="CHANNEL | USA"Fubo Sports
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co/8DsYr2Bg/fubo.png" group-title="CHANNEL | USA", Fubo Sports
 https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1YzZiYTA0MjhmMmQ0LTgxNjgtNDYzNC04ZWFmLTI4YTQ5ODE1/master.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/gbv2sgcn/fuse.png" group-title="CHANNEL | USA",Fuse TV
@@ -3663,12 +3626,7 @@ https://fl3.moveonjoy.com/HALLMARK_CHANNEL/index.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/LXVmdWw9/hallmark-mystery.png" group-title="CHANNEL | USA",Hallmark Movies & Mysterie
 https://fl3.moveonjoy.com/HALLMARK_MOVIES_MYSTERIES/index.m3u8
 
-#EXTVLCOPT:http-origin=https://vecloud.eu
-#EXTVLCOPT:http-referrer=https://vecloud.eu/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/yBY86Q4N/hbo-usa.png" group-title="CHANNEL | USA",HBO
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/variant/VE1AO1NTbu8mbv12LxEWM21ycrNWYyR3LiVWNiJTO2IzN5UzYtYGMjFWL1IzM00iMzYGZtUjNjRmM0cTN/master.m3u8
-https://events3.liveboxpro.com/event/321.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/nsMytCG2/hbo2-usa.png" group-title="CHANNEL | USA",HBO2
 
@@ -3682,45 +3640,20 @@ https://events3.liveboxpro.com/event/321.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/bRNvM9TJ/hbo-zone-usa.png" group-title="CHANNEL | USA",HBO Zone
 
-#EXTVLCOPT:http-origin=https://vecloud.eu
-#EXTVLCOPT:http-referrer=https://vecloud.eu/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/rKsMx6S5/hbo-europe.png" group-title="CHANNEL | USA",HBO Europe
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/variant/VE1AO1NTbu8mbv12LxEWM21ycrNWYyR3LidDMxQ2M5MzNkRDMtITNiJWL3YjZ00CZiBDNtEDMiNGZjZmY/master.m3u8
-https://events3.liveboxpro.com/event/569.m3u8
 
-#EXTVLCOPT:http-origin=https://vecloud.eu
-#EXTVLCOPT:http-referrer=https://vecloud.eu/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/4gwj93d6/hgtv.png" group-title="CHANNEL | USA",HGTV
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/variant/VE1AO1NTbu8mbv12LxEWM21ycrNWYyR3LiNzN3YmY4kjZjJjNtETY2kTL0QDZ00iN2MzMtMjMkVTOyATN/master.m3u8
-https://events3.liveboxpro.com/event/382.m3u8
 
-#EXTVLCOPT:http-origin=https://vecloud.eu
-#EXTVLCOPT:http-referrer=https://vecloud.eu/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/pvVW8XFp/history.png" group-title="CHANNEL | USA",History
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/variant/VE1AO1NTbu8mbv12LxEWM21ycrNWYyR3LyUGOzUmMiJzM4Y2MtMmZlFWL0cjN00yMxMmNtMGO0Q2NilTY/master.m3u8
-https://events3.liveboxpro.com/event/322.m3u8
 
-#EXTVLCOPT:http-origin=https://vecloud.eu
-#EXTVLCOPT:http-referrer=https://vecloud.eu/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/Kc7yT2jH/hln.png" group-title="CHANNEL | USA"Headline News
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/variant/VE1AO1NTbu8mbv12LxEWM21ycrNWYyR3LlVWN0ATNllTYlZzMtcDO3gTLxQWM00iMkRjMtMzMidjMilzN/master.m3u8
-https://events3.liveboxpro.com/event/323.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/Zpt8RWSV/insp.png" group-title="CHANNEL | USA",INSP
 https://fl3.moveonjoy.com/INSP/index.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/9Hxc9gCg/ifc.png" group-title="CHANNEL | USA",IFC
 
-#EXTVLCOPT:http-origin=https://vecloud.eu
-#EXTVLCOPT:http-referrer=https://vecloud.eu/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/JFpRhbsf/investigation.png" group-title="CHANNEL | USA",Investigation Discovery
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/variant/VE1AO1NTbu8mbv12LxEWM21ycrNWYyR3LwMWM0kTN3gjNxI2YtcTNmFWLlNjM00SO3ETNtMWMyYDZmNmM/master.m3u8
-https://events3.liveboxpro.com/event/324.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/zVFzhJ68/ion.png" group-title="CHANNEL | USA",ION+
 https://fl3.moveonjoy.com/ION_Plus/index.m3u8
@@ -3729,14 +3662,8 @@ https://fl3.moveonjoy.com/ION_Plus/index.m3u8
 https://fl3.moveonjoy.com/ION_TV/index.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/Lz0LCMW3/laff.png" group-title="CHANNEL | USA",Laff TV
-http://72.46.118.193/Laff/index.m3u8
 
-#EXTVLCOPT:http-origin=https://vecloud.eu
-#EXTVLCOPT:http-referrer=https://vecloud.eu/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/RG4ZTyf8/lifetime.png" group-title="CHANNEL | USA",Lifetime Network
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/variant/VE1AO1NTbu8mbv12LxEWM21ycrNWYyR3LyYWOmdTZ5Y2M1cjMtITZzkTLzEGN00SY3IGMtQTMlJmM1MDO/master.m3u8
-https://events3.liveboxpro.com/event/326.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/JjQNcwrT/lifetime-movies.png" group-title="CHANNEL | USA",Lifetime Movies Network
 https://fl3.moveonjoy.com/LIFETIME/index.m3u8
@@ -3746,23 +3673,13 @@ https://fl3.moveonjoy.com/LIFETIME/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Love Nature" tvg-logo="https://i.ibb.co.com/HTzXCKWT/love-nature.png" group-title="CHANNEL | USA", Love Nature
 https://fl1.moveonjoy.com/LOVE_NATURE/index.m3u8
 
-#EXTVLCOPT:http-origin=https://vecloud.eu
-#EXTVLCOPT:http-referrer=https://vecloud.eu/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/bjH1rSSS/magnolia.png" group-title="CHANNEL | USA",Magnolia Network
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/variant/VE1AO1NTbu8mbv12LxEWM21ycrNWYyR3LmVWN2MjYwMGN1cTYtQ2Y2EWL1cTO00SZiZmZtUTM1kjZ2EzM/master.m3u8
-https://events3.liveboxpro.com/event/299.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/fzVv3z1X/marquee.png" group-title="CHANNEL | USA",Marquee Sports Network
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/ZpbfmJww/msn.png" group-title="CHANNEL | USA",MASN
 
-#EXTVLCOPT:http-origin=https://vecloud.eu
-#EXTVLCOPT:http-referrer=https://vecloud.eu/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/Kp7Tjx3C/mavtv.png" group-title="CHANNEL | USA",MAVTV
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/variant/VE1AO1NTbu8mbv12LxEWM21ycrNWYyR3L2QmZlJWM3Y2YiNWOtYWY4EWL4YjY00iMjlTNtgjZmJGMzYWN/master.m3u8
-https://events3.liveboxpro.com/event/646.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/S4q9gFgq/metv.png" group-title="CHANNEL | USA",METV
 https://fl3.moveonjoy.com/ME_TV/index.m3u8
@@ -3778,13 +3695,7 @@ https://fl3.moveonjoy.com/MLB_NETWORK/index.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/FkxDbsys/masn.png" group-title="CHANNEL | USA",MSG
 https://fl3.moveonjoy.com/MSG/index.m3u8
 
-#EXTVLCOPT:http-origin=https://vecloud.eu
-#EXTVLCOPT:http-referrer=https://vecloud.eu/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/0jjpdTB9/msnbc.png" group-title="CHANNEL | USA",MSNBC
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1OGQ4YzMwOTdlOTI4LWMxZWItMzdhNC0zN2U3LTIxMWIyZjhk/master.m3u8
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/variant/VE1AO1NTbu8mbv12LxEWM21ycrNWYyR3L2ImMzcTOlZTYlhTMtgTOlFWLlZGM00CMyUGOtMjNhNDZlVWO/master.m3u8
-https://events3.liveboxpro.com/event/327.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/5h0p67hH/mtrspt1.png" group-title="CHANNEL | USA",Motor Trend
 
@@ -3819,12 +3730,7 @@ http://fl1.moveonjoy.com/NBC_EAST/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co.com/J0xVpsN/nbc-sports.png" group-title="CHANNEL | USA" , NBC Sports Chicago
 
-#EXTVLCOPT:http-origin=https://vecloud.eu
-#EXTVLCOPT:http-referrer=https://vecloud.eu/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co.com/J0xVpsN/nbc-sports.png" group-title="CHANNEL | USA" , NBC Sports Philadelphia
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/variant/VE1AO1NTbu8mbv12LxEWM21ycrNWYyR3LmBzY0ATYiJ2MjNmNtImZxkTLlBzY00yNyYmMtYmMwQWOiNjM/master.m3u8
-https://events3.liveboxpro.com/event/777.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co.com/J0xVpsN/nbc-sports.png" group-title="CHANNEL | USA" , NBC Sports Washington
 
@@ -3980,11 +3886,8 @@ http://fl1.moveonjoy.com/UFC/index.m3u8
 https://fl3.moveonjoy.com/Up_Tv/index.m3u8
 
 #EXTINF:-1 group-title="CHANNEL | USA" tvg-id="" tvg-logo="https://i.ibb.co.com/JFcbfVYg/usa-network3.png", USA Network 1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0045a118e231f1326bcdb45350b1ceaa:8c13afbfa54ea37a368b8b859021f6e3
-https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(knbc)/master.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co.com/Vp9kmqtt/usa-network1.png" group-title="CHANNEL | USA" , USA Network 2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co.com/Vp9kmqtt/usa-network1.png" group-title="CHANNEL | USA" , USA Network
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
