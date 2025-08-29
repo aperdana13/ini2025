@@ -1806,86 +1806,86 @@ https://mag03.tvx.prd.tv.odido.nl/wh7f454c46tw1024019879_757686866/PLTV/86/224/3
 
 MY
 
-#EXTINF:-1 tvg-id="TV1.my" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://i.ibb.co.com/2YNTvZzF/tv1-my.png" tvg-url="https://bit.ly/JejeVisionEPG" group-title="CHANNEL | ASEAN",TV 1 MY
+#EXTINF:-1 tvg-id="TV1.my" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://i.ibb.co.com/2YNTvZzF/tv1-my.png" tvg-url="https://bit.ly/JejeVisionEPG" group-title="CHANNEL | ASEAN",TV 1
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd
 
-#EXTINF:-1 tvg-id="TV2.my" tvg-logo="https://i.ibb.co.com/wrbp3npV/tv2-my.png" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" group-title="CHANNEL | ASEAN",TV 2 MY
+#EXTINF:-1 tvg-id="TV2.my" tvg-logo="https://i.ibb.co.com/wrbp3npV/tv2-my.png" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" group-title="CHANNEL | ASEAN",TV 2
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
 
-#EXTINF:-1 tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-id="TV3.my" group-title="CHANNEL | ASEAN" tvg-logo="https://i.ibb.co.com/LDr96Gkq/tv3-my.png",TV3 MY
+#EXTINF:-1 tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-id="TV3.my" group-title="CHANNEL | ASEAN" tvg-logo="https://i.ibb.co.com/LDr96Gkq/tv3-my.png",TV3
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=YmE1ODUyNDctMTU5NS0zMWEzLWJhYWYtZDVmMjI3Y2VjODIz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTINF:-1 group-title="CHANNEL | ASEAN" tvg-id="Dunia Sinema HD"  tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium2.xml" tvg-logo="https://i.ibb.co.com/NdznS8B6/dunia-sinema-my.png",Dunia Sinema MY
+#EXTINF:-1 group-title="CHANNEL | ASEAN" tvg-id="Dunia Sinema HD"  tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium2.xml" tvg-logo="https://i.ibb.co.com/NdznS8B6/dunia-sinema-my.png",Dunia Sinema
 https://unifi-live01.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
 
-#EXTINF:-1 tvg-id="Okey" tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium1.xml" group-title="CHANNEL | ASEAN" tvg-logo="https://i.ibb.co.com/W4WXk5xN/tvokey-my.png",TV Okey MY
+#EXTINF:-1 tvg-id="Okey" tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium1.xml" group-title="CHANNEL | ASEAN" tvg-logo="https://i.ibb.co.com/W4WXk5xN/tvokey-my.png",TV Okey
 https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/yFQMk428/apetito.png" group-title="CHANNEL | ASEAN",Apetito MY
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/yFQMk428/apetito.png" group-title="CHANNEL | ASEAN",Apetito
 https://d1sq2slp9afh7o.cloudfront.net/smil:apetito/chunklist.m3u8
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#EXTINF:-1 tvg-id="135.astro" tvg-logo="https://i.ibb.co.com/FL7FcgTr/travel-taste.png" group-title="CHANNEL | ASEAN",Travel & Taste MY
+#EXTINF:-1 tvg-id="135.astro" tvg-logo="https://i.ibb.co.com/FL7FcgTr/travel-taste.png" group-title="CHANNEL | ASEAN",Travel & Taste
 https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_5/dash.mpd
 
-#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://i.ibb.co.com/39QXW2t4/tv6-my.png" group-title="CHANNEL | ASEAN",TV 6 MY
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://i.ibb.co.com/39QXW2t4/tv6-my.png" group-title="CHANNEL | ASEAN",TV 6
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/manifest.mpd
 
-#EXTINF:-1 tvg-id="Sukan RTM" tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium1.xml" tvg-logo="https://i.ibb.co.com/P2CvVKw/sukanrtm-my.png" group-title="CHANNEL | ASEAN",Sukan RTM MY
+#EXTINF:-1 tvg-id="Sukan RTM" tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium1.xml" tvg-logo="https://i.ibb.co.com/P2CvVKw/sukanrtm-my.png" group-title="CHANNEL | ASEAN",Sukan RTM
 https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/chunklist.m3u8?id=1|Referer=https://rtmklik.rtm.gov.my
 
-#EXTINF:-1 tvg-id="Berita RTM" tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium1.xml" tvg-logo="https://i.ibb.co.com/60T5r7qn/beritartm-my.png" group-title="CHANNEL | ASEAN",Berita RTM MY
+#EXTINF:-1 tvg-id="Berita RTM" tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium1.xml" tvg-logo="https://i.ibb.co.com/60T5r7qn/beritartm-my.png" group-title="CHANNEL | ASEAN",Berita RTM
 https://d25tgymtnqzu8s.cloudfront.net/smil:berita/manifest.mpd
 
-#EXTINF:-1 tvg-id="AstroAwani.my" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://i.ibb.co.com/C5hd6zJZ/astro-awani-my.png" group-title="CHANNEL | ASEAN",Astro Awani MY
+#EXTINF:-1 tvg-id="AstroAwani.my" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://i.ibb.co.com/C5hd6zJZ/astro-awani-my.png" group-title="CHANNEL | ASEAN",Astro Awani
 https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index.m3u8
 
 BR
 
-#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://i.ibb.co.com/KxQZzNXM/rtb.png" group-title="CHANNEL | ASEAN", RTB BN
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://i.ibb.co.com/KxQZzNXM/rtb.png" group-title="CHANNEL | ASEAN", RTB
 https://d1211whpimeups.cloudfront.net/smil:rtb1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://i.ibb.co.com/8L6ZSL0n/rtb-aneka.png" group-title="CHANNEL | ASEAN", RTB Aneka BN
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://i.ibb.co.com/8L6ZSL0n/rtb-aneka.png" group-title="CHANNEL | ASEAN", RTB Aneka
 https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist_b1120000_sleng.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://i.ibb.co.com/XrCvr9rz/rtb-golive.png" group-title="CHANNEL | ASEAN", RTB GO Live BN
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://i.ibb.co.com/XrCvr9rz/rtb-golive.png" group-title="CHANNEL | ASEAN", RTB GO Live
 #EXTVLCOPT:network-caching=1000 
 https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist.m3u8
 
 SG
 
-#EXTINF:-1 group-title="CHANNEL | ASEAN" tvg-id="cna.sg" tvg-logo="https://i.ibb.co.com/QFcRJzB2/cna-sg.png",CNA SG
+#EXTINF:-1 group-title="CHANNEL | ASEAN" tvg-id="cna.sg" tvg-logo="https://i.ibb.co.com/QFcRJzB2/cna-sg.png",CNA
 #EXTVLCOPT:http-user-agent=mewatch/6.86.102 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://d2e1asnsl7br7b.cloudfront.net/4c152bfc7ad2463d928bfbec0990eaeb/index.m3u8
 
-#EXTINF:-1 group-title="CHANNEL | ASEAN" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-id="Ch 5 (HD).sg" tvg-logo="https://i.ibb.co.com/7dqPrG0m/ch5-sg.png",Channel 5 SG
+#EXTINF:-1 group-title="CHANNEL | ASEAN" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-id="Ch 5 (HD).sg" tvg-logo="https://i.ibb.co.com/7dqPrG0m/ch5-sg.png",Channel 5
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1b8ee3db17d34547983a2c3ddc3d28fc:fb5deb5f688fd67ec20c71191c7f4590
 https://tglmp02.akamaized.net/out/v1/8c503a6966554d439035588f10505eee/manifest.mpd
 
-#EXTINF:-1 group-title="CHANNEL | ASEAN" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-id="Ch 8 (HD).sg" tvg-logo="https://i.ibb.co.com/jkpr0hpH/ch8-sg.png",Channel 8 SG
+#EXTINF:-1 group-title="CHANNEL | ASEAN" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-id="Ch 8 (HD).sg" tvg-logo="https://i.ibb.co.com/jkpr0hpH/ch8-sg.png",Channel 8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a4315e7266024dfc9ddb9667727d9635:485a55859fda05a1e3e8ae1ae63906e8 
 https://tglmp02.akamaized.net/out/v1/423fa206c4ea458ebe83d6edd172eb10/manifest.mpd
 
-#EXTINF:-1 group-title="CHANNEL | ASEAN" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-id="Ch U (HD).sg" tvg-logo="https://i.ibb.co.com/nq56JfWW/chu-sg.png",Channel U SG
+#EXTINF:-1 group-title="CHANNEL | ASEAN" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-id="Ch U (HD).sg" tvg-logo="https://i.ibb.co.com/nq56JfWW/chu-sg.png",Channel U
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=981fda1d42aa4d81b367d85794447e2a:61f0b7e53768214d4d56917fbcfc2723
 https://tglmp03.akamaized.net/out/v1/151218455da04a47be327aa14be3e5cb/manifest.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co.com/qF7PVtsr/mediacorp.png" group-title="CHANNEL | ASEAN",Mediacorp Entertainment English SG
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co.com/qF7PVtsr/mediacorp.png" group-title="CHANNEL | ASEAN",Mediacorp Entertainment English
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mediacorp-entertainment-english/manifest.m3u8
  
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=612eb711dfb444f7a194c5e20d7f7048:b6226449b9ed5066542e6d6ad5ecb346
-#EXTINF:-1 tvg-id="Vasantham" tvg-name="oktolidays" tvg-logo="https://i.ibb.co.com/3yDhKXJq/oktoholiday-sg.png" group-title="CHANNEL | ASEAN",Oktolidays SG
+#EXTINF:-1 tvg-id="Vasantham" tvg-name="oktolidays" tvg-logo="https://i.ibb.co.com/3yDhKXJq/oktoholiday-sg.png" group-title="CHANNEL | ASEAN",Oktolidays
 https://tglmp03.akamaized.net/out/v1/be732843b7d24bada23e13810282e55f/manifest.mpd
 
-#EXTINF:-1 group-title="CHANNEL | ASEAN" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-id="Suria (HD).sg" tvg-logo="https://i.ibb.co.com/xNhgQkK/suria-sg.png",Suria SG
+#EXTINF:-1 group-title="CHANNEL | ASEAN" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-id="Suria (HD).sg" tvg-logo="https://i.ibb.co.com/xNhgQkK/suria-sg.png",Suria
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=db646b3742ba42718a28436a1f401aa8:75a545066954b9b7fafa96d72a844e00
 https://tglmp04.akamaized.net/out/v1/00ac947de8174a54bd0f52226115d1db/manifest.mpd
@@ -1894,24 +1894,24 @@ https://tglmp04.akamaized.net/out/v1/00ac947de8174a54bd0f52226115d1db/manifest.m
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"By5hGjg6LR49TY6hngFqcQ", "kid":"9RWBlMxAROaZ0N8Bdy8iEg" } ], "type":"temporary" }
-#EXTINF:-1 group-title="CHANNEL | ASEAN" tvg-logo="https://i.ibb.co.com/Hfv9vSxv/sport-sg.png",Sport 1 SG
+#EXTINF:-1 group-title="CHANNEL | ASEAN" tvg-logo="https://i.ibb.co.com/Hfv9vSxv/sport-sg.png",Sport 1
 https://tglmp04.akamaized.net/out/v1/6ec3ff8c3b5649249f9c8a6e2651195a/manifest.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"sub/8k2mdlSvVI/mGqa9Wg", "kid":"3rbITbTcRXi9qmHpZbNCTA" } ], "type":"temporary" }
-#EXTINF:-1 group-title="CHANNEL | ASEAN" tvg-logo="https://i.ibb.co.com/Hfv9vSxv/sport-sg.png",Sport 2 SG
+#EXTINF:-1 group-title="CHANNEL | ASEAN" tvg-logo="https://i.ibb.co.com/Hfv9vSxv/sport-sg.png",Sport 2
 https://tglmp02.akamaized.net/out/v1/06bffdc183074130a6faf73d04502eaa/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=  :
-#EXTINF:-1 tvg-id="Vasantham" tvg-name="oktolidays" tvg-logo="https://i.ibb.co.com/yngnSHmB/mewatch1.png" group-title="CHANNEL | ASEAN",Mewatch Live 1 SG
+#EXTINF:-1 tvg-id="Vasantham" tvg-name="oktolidays" tvg-logo="https://i.ibb.co.com/yngnSHmB/mewatch1.png" group-title="CHANNEL | ASEAN",Mewatch Live 1
 https://tglmp04.akamaized.net/out/v1/898b1cbac7c747e3b1f3deb460e9b67e/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=60dc08aae52f4c0b806a8e43f24a12c8:30d5b579966d822b215ec51a91d8a271
-#EXTINF:-1 tvg-id="Vasantham" tvg-name="oktolidays" tvg-logo="https://i.ibb.co.com/SwMCVQJt/mewatch2.png" group-title="CHANNEL | ASEAN",Mewatch Live 2 SG
+#EXTINF:-1 tvg-id="Vasantham" tvg-name="oktolidays" tvg-logo="https://i.ibb.co.com/SwMCVQJt/mewatch2.png" group-title="CHANNEL | ASEAN",Mewatch Live 2
 https://tglmp02.akamaized.net/out/v1/3170252e3fb0453085f2f4b0f8401a6b/manifest.mpd
 
 # CHANNEL | ASIAN
@@ -2383,26 +2383,26 @@ QA
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=859e0fc9638e4f7f848412736bcc8bb9:ff4fcc6c04f31a1eaced59d91940c9a7
-#EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/Txfc9KvJ/bbc-one.png" group-title="CHANNEL | EUROPE", BBC One UK
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/Txfc9KvJ/bbc-one.png" group-title="CHANNEL | EUROPE", BBC One
 https://nlziet-live.akamaized.net/L22/6e958e41/3e8eb32a.isml/.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=aef74d2bd07d4a8fb62c698bf837e7f6:0674de7571cd5047892f0012cf7c5238
-#EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/3HkdXMk/bbc-two.png" group-title="CHANNEL | EUROPE", BBC Two UK
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/3HkdXMk/bbc-two.png" group-title="CHANNEL | EUROPE", BBC Two
 https://nlziet-live.akamaized.net/L3/75825848/a684e34a.isml/.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9cc344f5df584c77b9f10d04b7281df7:37020f567d14e9bb8df8d1be0263c3a6
-#EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/DHDBbM1J/bbc-three.png" group-title="CHANNEL | EUROPE", BBC Three UK
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/DHDBbM1J/bbc-three.png" group-title="CHANNEL | EUROPE", BBC Three
 https://nlziet-live.akamaized.net/L12/4891aa65/2c23ee3a.isml/.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a76ba7bf50494381beca9e2f7e3be96f:c0a14394f5518ec810656323d3fe9903
-#EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/k2jQpcD8/bbc-four.png" group-title="CHANNEL | EUROPE", BBC Four UK
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/k2jQpcD8/bbc-four.png" group-title="CHANNEL | EUROPE", BBC Four
 https://nlziet-live.akamaized.net/L24/b7d8aaf5/cfe54783.isml/.mpd
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/0RcqL9HK/bbc-worldnews.png" group-title="CHANNEL | EUROPE", BBC News UK
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/0RcqL9HK/bbc-worldnews.png" group-title="CHANNEL | EUROPE", BBC News
 https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1NDlkODUwYTgzMWNlLTU4NjgtNzZjNC03OGQyLTFhNWExNDk2/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/N2yZzzb3/reuters.png" group-title="CHANNEL | EUROPE",Reuters TV
@@ -2416,18 +2416,6 @@ https://linear417-gb-hls3-prd-ak.cdn.skycdp.com/100e/Content/HLS_004_1080_30/Liv
 #EXTINF:-1 tvg-id="Euronews.id" tvg-name="Euronews" tvg-logo="https://i.ibb.co.com/xq825vM5/euronews.png" group-title="CHANNEL | EUROPE", Euronews
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/euronews/euronews-en.m3u8
 https://d1abp075u76pbq.cloudfront.net/live/eds/EuroNews/sa_dash_vmx/EuroNews.mpd|Referer=https://www.visionplus.id
-
-#EXTINF:-1 group-title="CHANNEL | EUROPE" tvg-name="" tvg-country="ID" tvg-logo="https://i.ibb.co.com/8gg6YZP6/france24.png", France24 
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1 
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=8b64c1b610274982a96842346bea89bc:f4d88e26d012f1e8f166174da0b53b68 
-https://atemecdnbalancer-voe.sysln.id/live/eds/France24/mpd/France24.mpd 
-
-#EXTINF:-1 tvg-id="" tvg-name="TV5 Monde Asie" tvg-logo="https://i.ibb.co.com/jZR04ZPh/tv5monde.png" group-title="CHANNEL | EUROPE", TV5 Monde Asie
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=11d67d0e8b2a455a8358d3d3a23e7529:d5308e3b12a529c959beab1cddacdec4
-https://atemeshield1-voe.sysln.id/live/eds/TV5Monde/mpd/TV5Monde.mpd
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/XZswjzBB/channel4-uk.png" group-title="CHANNEL | EUROPE", Channel 4 UK
 
@@ -2585,6 +2573,18 @@ FR
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/7dbGxv1m/eurosport2.png" group-title="CHANNEL | EUROPE", Eurosport 2 FR
 
+#EXTINF:-1 group-title="CHANNEL | EUROPE" tvg-name="" tvg-country="ID" tvg-logo="https://i.ibb.co.com/8gg6YZP6/france24.png", France24 
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1 
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=8b64c1b610274982a96842346bea89bc:f4d88e26d012f1e8f166174da0b53b68 
+https://atemecdnbalancer-voe.sysln.id/live/eds/France24/mpd/France24.mpd 
+
+#EXTINF:-1 tvg-id="" tvg-name="TV5 Monde Asie" tvg-logo="https://i.ibb.co.com/jZR04ZPh/tv5monde.png" group-title="CHANNEL | EUROPE", TV5 Monde Asie
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11d67d0e8b2a455a8358d3d3a23e7529:d5308e3b12a529c959beab1cddacdec4
+https://atemeshield1-voe.sysln.id/live/eds/TV5Monde/mpd/TV5Monde.mpd
+
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/7xRkh76D/l-equipetv.png" group-title="CHANNEL | EUROPE", L'Equipe FR
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/TxRV5rGz/m6.png" group-title="CHANNEL | EUROPE", M6 FR
@@ -2599,7 +2599,7 @@ DE
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"bef45d69a359c3c5ab265b807b0b11ee":"3572bdc32850a0d0e4a95bffd000383c","d8958c9208065f25a365a66a49ad44bd":"5bd96fa145739a44a876668b77c44693","21b3c2f352325ac4ab820c83578e87a8":"6264dbb0644b7de9a96ad479d86a963c","a9532ab91cf15348a20e7d0c235e0987":"2b2bfa0bfe707eab164686c7b797a6fb"}
-#EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/bR8CWZpd/sat3-de.png" group-title="CHANNEL | EUROPE", 3SAT DE
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/bR8CWZpd/sat3-de.png" group-title="CHANNEL | EUROPE", 3SAT
 https://ac-009.live.p7s1video.net/4cb9b4be/t_009/3sat-de-hd/cenc-default.mpd
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/p6Wtvybb/arte-de.png" group-title="CHANNEL | EUROPE", Arte DE
@@ -2682,12 +2682,12 @@ IT
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=00f9f3c0783536b8ee91704e23b78016:bfd04d6f544c9cc4d35cb13ab6778587
-#EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/TB60tZQ7/mediaset1-IT.png" group-title="CHANNEL | EUROPE",Mediaset 1 IT
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/TB60tZQ7/mediaset1-IT.png" group-title="CHANNEL | EUROPE",Mediaset 1
 https://live03p-seg.msf.cdn.mediaset.net/live/ch-i1/i1-dash-widevine.isml/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=00f9f3c0783536b8ce4a30a01a52e082:e926f7d45af4f7d154c990eae6a2d937
-#EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/8LBsCnCB/mediaset5-IT.png" group-title="CHANNEL | EUROPE",Mediaset 5 IT
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/8LBsCnCB/mediaset5-IT.png" group-title="CHANNEL | EUROPE",Mediaset 5
 https://live03p-seg.msf.cdn.mediaset.net/live/ch-c5/c5-dash-widevine.isml/manifest.mpd
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/QvDgZPNN/la7-italia.png" group-title="CHANNEL | EUROPE", La7 IT
@@ -3243,7 +3243,6 @@ http://fl3.moveonjoy.com/COZI_TV/index.m3u8
 http://fl3.moveonjoy.com/Crime_and_Investigation_Network/index.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/YFwNKG7J/curiosity.png" group-title="CHANNEL | USA",Curiosity
-http://fl3.moveonjoy.com/Curiosity_Stream/index.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/F4y19gVN/cw.png" group-title="CHANNEL | USA",CW
 
@@ -3288,20 +3287,14 @@ https://fl3.moveonjoy.com/EPIX_DRIVE_IN/index.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/zW31B0mZ/epix2.png" group-title="CHANNEL | USA",EPIX Hits
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/Fkb7smV8/espn.png" group-title="CHANNEL | USA",ESPN
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1NTkzNGQyNjA3OWRiLWU1NGEtYmZjNC05NDMxLWU4OTEyYmJm/master.m3u8
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/chBS1Btq/espn2.png" group-title="CHANNEL | USA",ESPN2
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1NDU1YzcxM2M4NDQ5LWIyYWEtNmE4NC0xMzY0LWZlMWUxYTc3/master.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/J0Y5d4L/espnU.png" group-title="CHANNEL | USA",ESPN U
 https://fl3.moveonjoy.com/ESPN_U/index.m3u8
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/Y4RQkMz0/espn-deportes.png" group-title="CHANNEL | USA",ESPN Deportes
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1M2Q1YmI0NDBiOWI2LWRiNGEtNGRjNC1iODU4LTZkYzE3YTM4/master.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/5hJcFXSG/espn-news.png" group-title="CHANNEL | USA",ESPNews
 https://fl3.moveonjoy.com/ESPN_NEWS/index.m3u8
@@ -3327,24 +3320,11 @@ https://fl1.moveonjoy.com/FOX_NEWS_CHANNEL/index.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/rKCJSrJj/fox-ny.png" group-title="CHANNEL | USA",Fox NY
 https://fl3.moveonjoy.com/FOX_NEWS_CHANNEL/index.m3u8
 
-#EXTVLCOPT:http-origin=https://vecloud.eu
-#EXTVLCOPT:http-referrer=https://vecloud.eu/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/FLFbC9J5/fox-soccer1.png" group-title="CHANNEL | USA",Fox Sports 1
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1ZmI4NzhmOGI3ZGUwLTU4Y2ItNjJhNC1iYjlmLTYyNGM4ZGZm/master.m3u8
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/variant/VE1AO1NTbu8mbv12LxEWM21ycrNWYyR3L3EGM4YTM1MjM1AjZtUTNyIWLwEWN00SM4QzMtMGN5I2MxEmZ/master.m3u8
-https://events3.liveboxpro.com/event/39.m3u8
 
-#EXTVLCOPT:http-origin=https://vecloud.eu
-#EXTVLCOPT:http-referrer=https://vecloud.eu/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/cKfLsSdC/fox-soccer2.png" group-title="CHANNEL | USA",Fox Sports 2
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1YTY5MDFkNTVlYjFmLTEwMGItOWQ2NC0yYWE2LWVkYWYwMGYy/master.m3u8
-https://events3.liveboxpro.com/event/758.m3u8
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/KcNjXnGk/fox-soccer.png" group-title="CHANNEL | USA",Fox Soccer Plus
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1MjVhMzNjZTkxZTdkLWRmZGItMWM4NC03Y2Q3LWU2NjQyMWU5/master.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/Ng7W0VBV/fox-cricket.png" group-title="CHANNEL | USA",Fox Cricket
 
@@ -3356,11 +3336,7 @@ http://fl1.moveonjoy.com/FOX_SOUL/index.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/svJgYZLN/freeform.png" group-title="CHANNEL | USA",Freeform
 https://fl3.moveonjoy.com/FREE_FORM/index.m3u8
 
-#EXTVLCOPT:http-origin=https://vecloud.eu
-#EXTVLCOPT:http-referrer=https://vecloud.eu/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co/8DsYr2Bg/fubo.png" group-title="CHANNEL | USA", Fubo Sports
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1YzZiYTA0MjhmMmQ0LTgxNjgtNDYzNC04ZWFmLTI4YTQ5ODE1/master.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/gbv2sgcn/fuse.png" group-title="CHANNEL | USA",Fuse TV
 https://fl3.moveonjoy.com/FUSE/index.m3u8
@@ -3382,13 +3358,7 @@ https://fl3.moveonjoy.com/FYI/index.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/ynkmtxjN/get-tv.png" group-title="CHANNEL | USA",Get TV
 https://fl3.moveonjoy.com/GET_TV/index.m3u8
 
-#EXTVLCOPT:http-origin=https://vecloud.eu
-#EXTVLCOPT:http-referrer=https://vecloud.eu/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/kvky5ZQ/golf-channel.png" group-title="CHANNEL | USA",Golf Channel
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1NmNmOTRlN2Q4ZDg2LTlhNTktYjEyNC1iZGVkLWEzNjI5NzBh/master.m3u8
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/variant/VE1AO1NTbu8mbv12LxEWM21ycrNWYyR3LiRWZyI2YyQTN5I2MtEGN4gTLmVTM00SYjJmYtIzYkJGN3IWO/master.m3u8
-https://events3.liveboxpro.com/event/318.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co/PvQdVSdN/great-american.png" group-title="CHANNEL | USA",Great American Channel
 
@@ -3501,7 +3471,7 @@ https://fl3.moveonjoy.com/Nat_Geo_Wild/index.m3u8
 https://fl3.moveonjoy.com/NBA_TV/index.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/qfJsHfq/nbc.png" group-title="CHANNEL | USA",NBC
-http://fl1.moveonjoy.com/NBC_EAST/index.m3u8
+http://fl3.moveonjoy.com/NBC_EAST/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co.com/J0xVpsN/nbc-sports.png" group-title="CHANNEL | USA" , NBC Sports Chicago
 
