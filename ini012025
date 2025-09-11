@@ -4156,6 +4156,88 @@ https://mam.jogjaprov.go.id:1937/cctv-kominfosleman/FlyOver_JomborTimur.stream/p
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | JOGJA", Fly Over Jombor Barat
 https://mam.jogjaprov.go.id:1937/cctv-kominfosleman/FlyOver_JomborBarat.stream/playlist.m3u8
 
+# CCTV | BALI
+
+#EXTINF:-1 group-title="CCTV | BALI" group-logo="https://i.ibb.co.com/XkyV6yND/cctv-jogja.png"
+
+ #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BALI", Ngurah Rai Patung Kuda
+https://transcode.baliprov.dev/get-m3u8.php?srv=internals&channel=21&m3u8=live.m3u8
+
+ #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BALI", Underpass Ngurah Rai Utara
+https://transcode.baliprov.dev/get-m3u8.php?srv=internals&channel=29&m3u8=live.m3u8
+
+ #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BALI", Underpass Ngurah Rai Selatan
+https://transcode.baliprov.dev/get-m3u8.php?srv=internals&channel=28&m3u8=live.m3u8
+
+ #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BALI", Ngurah Rai Kedonganan
+https://transcode.baliprov.dev/get-m3u8.php?srv=internals&channel=22&m3u8=live.m3u8
+
+ #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BALI", Simpang Unud
+https://transcode.baliprov.dev/get-m3u8.php?srv=internals&channel=23&m3u8=live.m3u8
+
+ #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BALI", Simpang Taman Griya
+https://transcode.baliprov.dev/get-m3u8.php?srv=internals&channel=24&m3u8=live.m3u8
+
+ #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BALI", Simpang Pintu Tol Mandara
+https://transcode.baliprov.dev/get-m3u8.php?srv=internals&channel=25&m3u8=live.m3u8
+
+ #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BALI", Simpang Tanjung Benoa
+https://transcode.baliprov.dev/get-m3u8.php?srv=internals&channel=26&m3u8=live.m3u8
+
+ #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BALI", Simpang Nusa Dua
+https://transcode.baliprov.dev/get-m3u8.php?srv=internals&channel=27&m3u8=live.m3u8
+
+ #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BALI", Pelabuhan Benoa
+https://transcode.baliprov.dev/get-m3u8.php?srv=internals&channel=2&m3u8=live.m3u8
+
+ #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BALI", Simpang Benoa
+https://transcode.baliprov.dev/get-m3u8.php?srv=internals&channel=20&m3u8=live.m3u8
+
+ #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BALI", Simpang Tirtanandi
+https://transcode.baliprov.dev/get-m3u8.php?srv=internals&channel=18&m3u8=live.m3u8
+
+ #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BALI", Simpang Sindu
+https://transcode.baliprov.dev/get-m3u8.php?srv=internals&channel=17&m3u8=live.m3u8
+
+ #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BALI", Simpang Sanur
+https://transcode.baliprov.dev/get-m3u8.php?srv=internals&channel=16&m3u8=live.m3u8
+
+ #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BALI", Pantai Sanur
+https://transcode.baliprov.dev/get-m3u8.php?srv=internals&channel=3&m3u8=live.m3u8
+
+ #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BALI", Pasar Seni Guwang
+https://transcode.baliprov.dev/get-m3u8.php?srv=internals&channel=4&m3u8=live.m3u8
+
+ #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BALI", Kapal
+https://transcode.baliprov.dev/get-m3u8.php?srv=badung&m3u8=SP_KAPAL.m3u8
+
+ #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BALI", Luluk
+https://transcode.baliprov.dev/get-m3u8.php?srv=badung&m3u8=SP_LUKLUK.m3u8
+
+ #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BALI", Abianbase
+https://transcode.baliprov.dev/get-m3u8.php?srv=badung&m3u8=SP_ABIANBASE.m3u8
+
+ #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BALI", Tanah Lot
+https://transcode.baliprov.dev/get-m3u8.php?srv=internals&channel=6&m3u8=live.m3u8
+
+ #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BALI", Pelabuhan Padang Bai
+https://transcode.baliprov.dev/get-m3u8.php?srv=internals&channel=7&m3u8=live.m3u8
+
+ #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BALI", Besakih Pintu Utama
+https://transcode.baliprov.dev/get-m3u8.php?srv=internals&channel=30&m3u8=live.m3u8
+
+ #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BALI", Besakih Pospol
+https://transcode.baliprov.dev/get-m3u8.php?srv=internals&channel=32&m3u8=live.m3u8
+
+ #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BALI", Besakih Pintu Keluar
+https://transcode.baliprov.dev/get-m3u8.php?srv=internals&channel=31&m3u8=live.m3u8
+
+ #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BALI", Kintamani
+https://transcode.baliprov.dev/get-m3u8.php?srv=internals&channel=34&m3u8=live.m3u8
+
+ #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BALI", Buleleng
+https://transcode.baliprov.dev/get-m3u8.php?srv=internals&channel=1&m3u8=live.m3u8
+
 # CCTV | BANTEN
 
 #EXTINF:-1 group-title="CCTV | BANTEN" group-logo="https://i.ibb.co.com/XkyV6yND/cctv-jogja.png"
