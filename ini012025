@@ -223,35 +223,42 @@ https://atemeshield1-voe.sysln.id/live/eds/JakartaGlobeHD/mpd/JakartaGlobeHD.mpd
 
 #EXTINF:-1 group-title="CHANNEL | MOVIE" group-logo="https://i.ibb.co.com/1HKgmXc/entertainment.png"
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/sultantvnew.php
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
 #EXTINF:-1 tvg-id="HBO.HD.id" tvg-logo="https://i.ibb.co.com/S7tGJpTf/hbo.png" group-title="CHANNEL | MOVIE",HBO
-https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856b6088c3016b87d64b970b53/manifest.mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d47ebabf7a21430b83a8c4b82d9ef6b1:54c213b2b5f885f1e0290ee4131d425b
+https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_hbohd.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/sultantvnew.php
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
 #EXTINF:-1 tvg-id="dummy" tvg-logo="https://i.ibb.co.com/vCqk2Nc5/hbo-hits.png" group-title="CHANNEL | MOVIE",HBO Hits
-https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d054fbf67379f/manifest.mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=b04ae8017b5b4601a5a0c9060f6d5b7d:a8795f3bdb8a4778b7e888ee484cc7a1
+https://qp-pldt-live-grp-09-prod.akamaized.net/out/u/cg_hbohits.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/sultantvnew.php
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
 #EXTINF:-1 tvg-id="HBO.Family.HD.id" tvg-logo="https://i.ibb.co.com/whbd0Rg1/hbo-family.png" group-title="CHANNEL | MOVIE",HBO Family
-https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d055927fe37a4/manifest.mpd
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=872910c843294319800d85f9a0940607:f79fd895b79c590708cf5e8b5c6263be
+https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_hbofam.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/sultantvnew.php
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
 #EXTINF:-1 tvg-id="HBO.Signature.HD.id" tvg-logo="https://i.ibb.co.com/9HfLMbkv/hbo-signature.png" group-title="CHANNEL | MOVIE",HBO Signature
-https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d0552e0ca37a2/manifest.mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=a06ca6c275744151895762e0346380f5:559da1b63eec77b5a942018f14d3f56f
+https://qp-pldt-live-grp-01-prod.akamaized.net/out/u/cg_hbosign.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/sultantvnew.php
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
 #EXTINF:-1 tvg-id="Cinemax.HD.id" tvg-logo="https://i.ibb.co.com/35Cf9hcQ/cinemax.png" group-title="CHANNEL | MOVIE",Cinemax
-https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b207c44332844523a3a3b0469e5652d7:fe71aea346db08f8c6fbf0592209f955
+https://qp-pldt-live-grp-01-prod.akamaized.net/out/u/cg_cinemax.mpd
 
 #EXTINF:-1 group-title="CHANNEL | MOVIE" tvg-id="GALAXY" tvg-url="https://bit.ly/IndonesiaEpgG" tvg-logo="https://i.ibb.co.com/s9Mw63MP/galaxy.png",Galaxy
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -4144,21 +4151,159 @@ https://mam.jogjaprov.go.id:1937/cctv-public/ViewBreksi.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | JOGJA", Simpang Ibu Ruswo
 https://cctvjss.jogjakota.go.id/atcs/ATCS_Ibu_Ruswo.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | JOGJA", Pos Polisi Jombor
-https://mam.jogjaprov.go.id:1937/cctv-kominfosleman/PosPolisi_Jombor.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | JOGJA", Fly Over Jombor Utara
-https://mam.jogjaprov.go.id:1937/cctv-kominfosleman/FlyOver_JomborUtara.stream/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | JOGJA", Fly Over Jombor Timur
 https://mam.jogjaprov.go.id:1937/cctv-kominfosleman/FlyOver_JomborTimur.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | JOGJA", Fly Over Jombor Barat
-https://mam.jogjaprov.go.id:1937/cctv-kominfosleman/FlyOver_JomborBarat.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | JOGJA", Stasiun Utara
+https://cctvjss.jogjakota.go.id/margo-utomo/Wisma-Ratih.stream/chunklist_w182282365.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | JOGJA", Pasar Kembang Malioboro
+https://cctvjss.jogjakota.go.id/malioboro/Malioboro_1_Selatan_Teteg.stream/chunklist_w854876751.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | JOGJA", Simpang PKU Muhamadiyah
+https://cctvjss.jogjakota.go.id/atcs/ATCS_pkumuh.stream/chunklist_w211054348.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | JOGJA", Simpang Serangan Hotel Cavinton
+https://cctvjss.jogjakota.go.id/atcs/ATCS_serangan.stream/chunklist_w1865627920.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | JOGJA", Simpang Tamansari
+https://cctvjss.jogjakota.go.id/atcs/ATCS_tamansari.stream/chunklist_w883834083.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | JOGJA", Simpang Gondomanan
+https://cctvjss.jogjakota.go.id/atcs/ATCS_gondomanan.stream/chunklist_w1166000924.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | JOGJA", Simpang Gondomanan Selatan
+https://cctvjss.jogjakota.go.id/atcs/ATCS_Simpang_Gondomanan_View_Selatan.stream/chunklist_w640738080.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | JOGJA", Simpang Jogokaryan Utara
+https://cctvjss.jogjakota.go.id/atcs/ATCS_Simpang_Jogokariyan_View_Utara.stream/chunklist_w987396289.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | JOGJA", Simpang Jogokaryan Selatan
+https://cctvjss.jogjakota.go.id/atcs/ATCS_jogokaryan.stream/chunklist_w508386096.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | JOGJA", Simpang Mirota
+https://cctvjss.jogjakota.go.id/atcs/ATCS_mirota.stream/chunklist_w1784759140.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | JOGJA", Simpang Jetis
+https://cctvjss.jogjakota.go.id/atcs/ATCS_Jetis.stream/chunklist_w511697592.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | JOGJA", Simpang Tugu
+https://cctvjss.jogjakota.go.id/atcs/ATCS_Simpang_Tugu.stream/chunklist_w1348969041.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | JOGJA", Selatan Tugu
+https://cctvjss.jogjakota.go.id/margo-utomo/Toko-Cat-Wahyu.stream/chunklist_w2044272838.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | JOGJA", Gowongan Lor
+https://cctvjss.jogjakota.go.id/margo-utomo/Gowongan-Lor.stream/chunklist_w1812829806.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | JOGJA", Mangkubumi 1
+https://cctvjss.jogjakota.go.id/margo-utomo/Wijaya-Baru-Travel.stream/chunklist_w1913287207.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | JOGJA", Mangkubumi 2
+https://cctvjss.jogjakota.go.id/margo-utomo/Selatan-Olive.stream/chunklist_w1670840745.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | JOGJA", Simpang Jlagran
+https://cctvjss.jogjakota.go.id/atcs/ATCS_jlagran.stream/chunklist_w2015264512.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | JOGJA", Simpang Suprapto Tubun
+https://cctvjss.jogjakota.go.id/atcs/ATCS_Simpang_Letjen_Suprapto_KS_Tubun_View_Selatan.stream/chunklist_w1318181472.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | JOGJA", Simpang Wirobrajan
+https://cctvjss.jogjakota.go.id/atcs/ATCS_wirobrajan.stream/chunklist_w1976837646.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | JOGJA", Simpang Pingit 1
+https://cctvjss.jogjakota.go.id/atcs/ATCS_Lampu_Merah_Pingit1.stream/chunklist_w1631009866.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | JOGJA", Simpang Pingit 2
+https://cctvjss.jogjakota.go.id/atcs/ATCS_Lampu_Merah_Pingit2.stream/chunklist_w1661115694.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | JOGJA", Simpang Pingit 3
+https://cctvjss.jogjakota.go.id/atcs/ATCS_Lampu_Merah_Pingit3.stream/chunklist_w1485207869.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | JOGJA", Simpang Pingit 4
+https://cctvjss.jogjakota.go.id/atcs/ATCS_Lampu_Merah_Pingit4.stream/chunklist_w510444899.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | JOGJA", Simpang Borobudur Plaza
+https://cctvjss.jogjakota.go.id/atcs/ATCS_Simpang_Borobudur_Plaza.stream/chunklist_w1778178435.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | JOGJA", Sudirman McDonals
+https://cctvjss.jogjakota.go.id/kotabaru/ANPR-Jl-FM-Noto-McDonalds.stream/chunklist_w1665381130.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | JOGJA", Sudirman Terban 1
+https://cctvjss.jogjakota.go.id/atcs/ATCS_Simpang_Terban_View_Timur.stream/chunklist_w1662843936.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | JOGJA", Sudirman Terban 2
+https://cctvjss.jogjakota.go.id/atcs/ATCS_Simpang_Terban_View_Barat.stream/chunklist_w1774910526.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | JOGJA", Sudirman Gramedia 1
+https://cctvjss.jogjakota.go.id/atcs/ATCS_Gramedia_2.stream/chunklist_w206921087.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | JOGJA", Sudirman Gramedia 2
+https://cctvjss.jogjakota.go.id/atcs/ATCS_gramedia.stream/chunklist_w1697466285.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | JOGJA", Sudirman Galeria
+https://cctvjss.jogjakota.go.id/atcs/ATCS_Simpang_Galeria_TimurSelatan.stream/chunklist_w1885255998.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | JOGJA", Simpang Demangan 1
+https://cctvjss.jogjakota.go.id/atcs/ATCS_Simpang_Demangan_View_Timur.stream/chunklist_w167881732.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | JOGJA", Simpang Demangan 2
+https://cctvjss.jogjakota.go.id/atcs/ATCS_Simpang_Demangan_View_Timur.stream/chunklist_w311166629.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | JOGJA", Simpang Sentul
+https://cctvjss.jogjakota.go.id/atcs/ATCS_sentul.stream/chunklist_w103340414.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | JOGJA", Simpang Permata
+https://cctvjss.jogjakota.go.id/atcs/ATCS_permata.stream/chunklist_w1179242400.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | JOGJA", Simpang Cendana
+https://cctvjss.jogjakota.go.id/atcs/ATCS_cendana.stream/chunklist_w102764448.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | JOGJA", Simpang Melia Purosani
+https://cctvjss.jogjakota.go.id/atcs/ATCS_Simpang_Melia_Purosani.stream/chunklist_w209701310.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | JOGJA", Simpang Tungkak
+https://cctvjss.jogjakota.go.id/atcs/ATCS_tungkak.stream/chunklist_w843289032.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | JOGJA", Simpang Sutoyo Katamso
+https://cctvjss.jogjakota.go.id/atcs/ATCS_Lampu_Merah_JoktengWetan.stream/chunklist_w1331059455.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | JOGJA", Simpang Pasar Gading 1
+https://cctvjss.jogjakota.go.id/atcs/ATCS_Lampu_Merah_PasarGading1.stream/chunklist_w1425507283.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | JOGJA", Simpang Pasar Gading 2
+https://cctvjss.jogjakota.go.id/atcs/ATCS_Lampu_Merah_PasarGading2.stream/chunklist_w81004716.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | JOGJA", Abubakar Ali
+https://cctvjss.jogjakota.go.id/atcs/ATCS_Kleringan_Abu_Bakar_Ali.stream/chunklist_w219601920.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | JOGJA", Abubakar Ali Ahmad Jazuli
+https://cctvjss.jogjakota.go.id/kotabaru/ANPR-Jl-Ahmad-Jazuli.stream/chunklist_w1701774896.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | JOGJA", Noto Raminten
+https://cctvjss.jogjakota.go.id/kotabaru/ANPR-Jl-FM-Noto-Raminten.stream/chunklist_w306570418.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | JOGJA", Juadi
+https://cctvjss.jogjakota.go.id/kotabaru/Jl-Juadi.stream/chunklist_w1893887632.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | JOGJA", Sajiono
+https://cctvjss.jogjakota.go.id/kotabaru/Jl-Sajiono.stream/chunklist_w238991193.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | JOGJA", Wardhani
+https://cctvjss.jogjakota.go.id/kotabaru/ANPR-Jl-Wardhani.stream/chunklist_w1024298641.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | JOGJA", Yos Sudarso
+https://cctvjss.jogjakota.go.id/kotabaru/ANPR-Jl-Yos-Sudarso.stream/chunklist_w1498942629.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | JOGJA", Simpang Atmosukarto
+https://cctvjss.jogjakota.go.id/atcs/ATCS_Simpang_Atmosukarto.stream/chunklist_w1037890847.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | JOGJA", Simpang UKDW
+https://cctvjss.jogjakota.go.id/atcs/ATCS_ukdw.stream/chunklist_w957923269.m3u8
 
 # CCTV | BALI
 
-#EXTINF:-1 group-title="CCTV | BALI" group-logo="https://i.ibb.co.com/XkyV6yND/cctv-jogja.png"
+#EXTINF:-1 group-title="CCTV | BALI" group-logo="https://i.ibb.co.com/9763Jtv/cctv-bali.png"
 
  #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BALI", Ngurah Rai Patung Kuda
 https://transcode.baliprov.dev/get-m3u8.php?srv=internals&channel=21&m3u8=live.m3u8
@@ -4172,7 +4317,7 @@ https://transcode.baliprov.dev/get-m3u8.php?srv=internals&channel=28&m3u8=live.m
  #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BALI", Ngurah Rai Kedonganan
 https://transcode.baliprov.dev/get-m3u8.php?srv=internals&channel=22&m3u8=live.m3u8
 
- #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BALI", Simpang Unud
+ #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BALI", Ngurah Rai Jimbaran
 https://transcode.baliprov.dev/get-m3u8.php?srv=internals&channel=23&m3u8=live.m3u8
 
  #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BALI", Simpang Taman Griya
@@ -4193,7 +4338,7 @@ https://transcode.baliprov.dev/get-m3u8.php?srv=internals&channel=2&m3u8=live.m3
  #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BALI", Simpang Benoa
 https://transcode.baliprov.dev/get-m3u8.php?srv=internals&channel=20&m3u8=live.m3u8
 
- #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BALI", Simpang Tirtanandi
+ #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BALI", Simpang Tirtandi
 https://transcode.baliprov.dev/get-m3u8.php?srv=internals&channel=18&m3u8=live.m3u8
 
  #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BALI", Simpang Sindu
@@ -4207,15 +4352,6 @@ https://transcode.baliprov.dev/get-m3u8.php?srv=internals&channel=3&m3u8=live.m3
 
  #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BALI", Pasar Seni Guwang
 https://transcode.baliprov.dev/get-m3u8.php?srv=internals&channel=4&m3u8=live.m3u8
-
- #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BALI", Kapal
-https://transcode.baliprov.dev/get-m3u8.php?srv=badung&m3u8=SP_KAPAL.m3u8
-
- #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BALI", Luluk
-https://transcode.baliprov.dev/get-m3u8.php?srv=badung&m3u8=SP_LUKLUK.m3u8
-
- #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BALI", Abianbase
-https://transcode.baliprov.dev/get-m3u8.php?srv=badung&m3u8=SP_ABIANBASE.m3u8
 
  #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BALI", Tanah Lot
 https://transcode.baliprov.dev/get-m3u8.php?srv=internals&channel=6&m3u8=live.m3u8
@@ -4240,7 +4376,7 @@ https://transcode.baliprov.dev/get-m3u8.php?srv=internals&channel=1&m3u8=live.m3
 
 # CCTV | BANTEN
 
-#EXTINF:-1 group-title="CCTV | BANTEN" group-logo="https://i.ibb.co.com/XkyV6yND/cctv-jogja.png"
+#EXTINF:-1 group-title="CCTV | BANTEN" group-logo="https://i.ibb.co.com/bjJnnL6v/cctv-banten.png"
 
  #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANTEN", Cikupa entrance
 https://pantau.margamandala.co.id:3443/cikupa/entrance/entrance.m3u8
