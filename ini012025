@@ -3829,7 +3829,26 @@ https://fl3.moveonjoy.com/YES_NETWORK/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", Aceh Wastukencana
 https://pelindung.bandung.go.id:3443/video/HIKSVISION/acehwastukencana.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", Pungkur
+https://pelindung.bandung.go.id:3443/video/HIKSVISION/Pungkur.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", Pasar Kordon
+https://pelindung.bandung.go.id:3443/video/HIKSVISION/Perkordon.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", Tegalega
+https://pelindung.bandung.go.id:3443/video/DAHUA/TEGALEGA.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", Moh Toha
+https://pelindung.bandung.go.id:3443/video/DAHUA/DepanTo.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", Buahbatu
+https://pelindung.bandung.go.id:3443/video/DAHUA/BUB.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", Dago Borromeus
+https://pelindung.bandung.go.id:3443/video/HIKSVISION/Dagbor.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG",
+
 
 # CCTV | JOGJA
 
