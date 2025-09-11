@@ -3824,31 +3824,90 @@ https://fl3.moveonjoy.com/YES_NETWORK/index.m3u8
 
 # CCTV | BANDUNG
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", Dago Borromeus 1
+https://pelindung.bandung.go.id:3443/video/HIKSVISION/Dagbor.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", Dago Borromeus 2
+https://pelindung.bandung.go.id:3443/video/HIKSVISION/Dagbr.m3u8
+
 #EXTINF:-1 group-title="CCTV | BANDUNG" group-logo="https://i.ibb.co.com/FbxznN8m/cctv-bdg.png"
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", Aceh Wastukencana
 https://pelindung.bandung.go.id:3443/video/HIKSVISION/acehwastukencana.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", Pungkur
-https://pelindung.bandung.go.id:3443/video/HIKSVISION/Pungkur.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", Asia Afrika Pos
+https://pelindung.bandung.go.id:3443/video/DAHUA/DepanTo.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", Pasar Kordon
-https://pelindung.bandung.go.id:3443/video/HIKSVISION/Perkordon.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", Simpang Lima
+https://pelindung.bandung.go.id:3443/video/HIKSVISION/burangrangbpii.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", Sunda Veteran
+https://pelindung.bandung.go.id:3443/video/DISHUB/spsundavet.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", Pungkur Ciateul
+https://pelindung.bandung.go.id:3443/video/HIKSVISION/Pungkur.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", Tegalega
 https://pelindung.bandung.go.id:3443/video/DAHUA/TEGALEGA.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", Moh Toha
-https://pelindung.bandung.go.id:3443/video/DAHUA/DepanTo.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", Buahbatu
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", Pasar Kosambi
+https://pelindung.bandung.go.id:3443/video/DAHUA/PasarKomb.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", Taman Pramuka
+https://pelindung.bandung.go.id:3443/video/DAHUA/TamanPri.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", Cihapit
+https://pelindung.bandung.go.id:3443/video/DAHUA/Cihapit.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", Cihapit 2
+https://pelindung.bandung.go.id:3443/video/DAHUA/Ciha.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", Ahmad Yani Laswi
+https://pelindung.bandung.go.id:3443/video/DAHUA/YaniLsw.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", Burangrang BPI 1
+https://pelindung.bandung.go.id:3443/video/HIKSVISION/burangrangbpi.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", Burangrang BPI 2
+https://pelindung.bandung.go.id:3443/video/HIKSVISION/burangrangbpii.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", Laswi Gatsu
+https://pelindung.bandung.go.id:3443/video/HIKSVISION/Perlaswi.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", Gatsu Laswi 
+https://pelindung.bandung.go.id:3443/video/DISHUB/spgatsu.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", Turangga 1
+https://pelindung.bandung.go.id:3443/video/DAHUA/Tura.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", Turangga 2
+https://pelindung.bandung.go.id:3443/video/DAHUA/Tura.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG",  Kircon Binong
+https://pelindung.bandung.go.id:3443/video/HIKSVISION/kirconbinongg.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", Gatsu Binong
+https://pelindung.bandung.go.id:3443/video/HIKSVISION/Gatbino.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", Lingkar Selatan Buahbatu
+https://pelindung.bandung.go.id:3443/video/DISHUB/splingkarbubat.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", Buahbatu Griya
+https://pelindung.bandung.go.id:3443/video/HIKSVISION/Buahgriya.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", Soekarno Hatta Buahbatu
+https://pelindung.bandung.go.id:3443/video/DISHUB/spbuahbatu.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", Soekarno Hatta Samsat
+https://pelindung.bandung.go.id:3443/video/DISHUB/samsat.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", Terusan Bubat Pasar Kordon
+https://pelindung.bandung.go.id:3443/video/HIKSVISION/Perkordon.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", Margacinta Tugu
 https://pelindung.bandung.go.id:3443/video/DAHUA/BUB.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", Dago Borromeus
-https://pelindung.bandung.go.id:3443/video/HIKSVISION/Dagbor.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG",
-
 
 # CCTV | JOGJA
 
