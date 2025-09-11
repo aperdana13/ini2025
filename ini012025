@@ -356,16 +356,8 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/bde0a6d8d3fd4d77ae5093ad2e6699dc/in
 https://cdn08jtedge.indihometv.com/dassdvr/134/cinemaworld/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/601kGq3V/etv.png" group-title="CHANNEL | MOVIE",eTV Cinema 1
-#KODIPROP:contentlookup=False
-#KODIPROP:mimetype=application/vnd.apple.mpegurl
-#KODIPROP:inputstream=inputstream.adaptive
-http://194.42.205.99:8070/live/F28312/cc1dc138/298526.ts
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/601kGq3V/etv.png" group-title="CHANNEL | MOVIE",eTV Cinema 2
-#KODIPROP:contentlookup=False
-#KODIPROP:mimetype=application/vnd.apple.mpegurl
-#KODIPROP:inputstream=inputstream.adaptive
-http://108.181.132.217:8070/live/F28312/cc1dc138/298513.ts
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/601kGq3V/etv.png" group-title="CHANNEL | MOVIE", eTV Bioskop 3
 
@@ -922,6 +914,9 @@ https://lotus.stingray.com/manifest/ose-133ads-montreal/samsungtvplus/master.m3u
 #KODIPROP:inputstream.adaptive.license_key=fbbccb9d1f9e402293b23dcf62322d83:63d828f9c104b74c1188a651ba39c812 
 https://atemeshield1-voe.sysln.id/live/eds/ABC_Australia/mpd/ABC_Australia.mpd 
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/WW5NVfL0/africa-news.png" group-title="CHANNEL | NEWS", Africa News
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/africanews/africanews-en.m3u8
+
 #EXTINF:-1 tvg-id="AlJazeera.Arabic.net" tvg-name="AlJazeera Arabic" tvg-logo="https://i.ibb.co.com/q3jFqWNL/aljazeera-ar.png" group-title="CHANNEL | NEWS", Al Jazeera
 https://live-hls-v3-aja.getaj.net/AJA-V3/index.m3u8
 http://cdn.nng.cloudns.us/live/m3u8/ar/f5f5c18cf037918b.m3u8
@@ -1157,6 +1152,9 @@ http://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/gigxsk0lya/o
 #EXTINF:-1 group-title="CHANNEL | SPORTS" tvg-id="" tvg-logo="https://i.ibb.co.com/671Mx64B/beinsport5-sa.png",BeIN Sports 5 SA
 
 #EXTINF:-1 group-title="CHANNEL | SPORTS" tvg-id="" tvg-logo="https://i.ibb.co.com/MxPFwGdQ/beinsport6-sa.png",BeIN Sports 6 SA
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/6R7MwSbX/bluezoom.png" group-title="CHANNEL | SPORTS",Blue Zoom F
+https://viamotionhsi.netplus.ch/live/eds/bluezoomfr/browser-dash/bluezoomfr.mpd
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/4ndtdMkZ/canal-sport.png" group-title="CHANNEL | SPORTS", Canal+ Sport
 
@@ -1501,6 +1499,9 @@ https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
 #EXTINF:-1 channel-id="samsung-GBBD2300003IK" tvg-id="GBBD2300003IK" tvg-chno="4513" tvg-logo="https://i.ibb.co.com/1Jw27Wds/redbulltv.png" group-title="CHANNEL | SPORTS" , Redbull TV
 https://db38umy8gexon.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-f561zwy85csh9/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1Jw27Wds/redbulltv.png" group-title="CHANNEL | SPORTS", Redbull TV Live
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/4RpPgj4Y/skysport-football.png" group-title="CHANNEL | SPORTS",Sky Sports Football
 
 #EXTINF:-1 tvg-id="SkySportsPremierLeagueHD.uk" tvg-logo="https://i.ibb.co.com/4Rh6wVY3/skysport-pl.png" group-title="CHANNEL | SPORTS", Sky Sports Premier League
@@ -1538,11 +1539,7 @@ https://a1xs.vip/2000002
 #EXTINF:-1 tvg-id="Sky Sport F1.it" tvg-logo="https://i.ibb.co.com/GvWms8SG/skysport-f1.png" group-title="CHANNEL | SPORTS", Sky Sport F1
 http://fortv.cc:8080/live/q8KuDU/354945/35244.ts
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/rKx6y8n3/skysport-racing.png" group-title="CHANNEL | SPORTS", Sky Sports Racing
-http://fortv.cc:8080/live/q8KuDU/354945/76842.ts
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/1fHKXQ35/skysport-arena.png" group-title="CHANNEL | SPORTS", Sky Sports Tennis
 
@@ -1612,11 +1609,8 @@ https://fta2-cdn-flr.visionplus.id/out/v1/89a6e4261cd7470f83e5869e90440cff/index
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
 https://fta3-cdn-flr.visionplus.id/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mastertv.tech/mastertv/topxxxxxxxxxx.php
-##KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/rcti_plus/index.drm?id=114
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b576e5f5f1bc4cbaa866e5b0face5a30:3377be6c3b5f688ebed687312c9b9d95
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTINF:-1 tvg-id="SportStars.id" tvg-name="Sportstars" tvg-logo="https://i.ibb.co.com/7NKZjv8C/sportstars3.png" group-title="CHANNEL | SPORTS", Sportstars 3
@@ -1629,6 +1623,15 @@ https://fta4-cdn-flr.visionplus.id/out/v1/6f5596513af749c19d0bcdac013dda3c/index
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTINF:-1 tvg-id="SportStars.id" tvg-name="Sportstars" tvg-logo="https://i.ibb.co.com/BVc5Z162/sportstars4.png" group-title="CHANNEL | SPORTS", Sportstars 4
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/index.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/jvP4KbFG/sport1-de.png" group-title="CHANNEL | SPORTS", Sport1
+https://viamotionhsi.netplus.ch/live/eds/sport1/browser-dash/sport1.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/gbCVDf19/sportitalia-plus.png" group-title="CHANNEL | SPORTS", Sportitalia Plus
+https://amg01370-italiansportcom-sportitalia-rakuten-3hmdb.amagi.tv/amRdirect/ads_pod_type=playerpage_midroll&ads_env=prod&ads_ppid=&ads_rtvid=271861&ads_streaming_id=4f185419-74f6-4564-8ea9-4cdc60746e2f&ads_amagi_channel=781&ads_device_type=web&ads_device_model=&ads_device_year=&ads_player_width=&ads_rtv_content_language=ita&ads_market=it&ads_rtv_content_id=3741&ads_device_make=&ads_user_type=visitor&ads_content_classification=6&ads_gdpr_consent=&ads_device_lmt=1&ads_player_height=&uid=1gnmqg5gu-qsvc-bfo-gaq3-3dgjgexshpe/hls/amagi_hls_data_rakutenAA-sportitalia-rakuten/CDN/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/0VD5GYJZ/solocalcio.png" group-title="CHANNEL | SPORTS", Solo Calcio
+https://italiansport-solocalcio-samsung.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="CHANNEL | SPORTS", tvg-logo="https://i.ibb.co.com/Q7KqqrHV/spotv.png",SPOTV
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1 
@@ -1820,6 +1823,12 @@ https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1ZGE3MDdjOWNm
 #EXTINF:-1 tvg-id="TV2 Sport 1 HD (N) (T)" tvg-logo="https://i.ibb.co.com/wFW6HV83/tv2-sport-X-den.png" group-title="CHANNEL | SPORTS", TV2 Sport X
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/svb5YBM5/tv3-den.png" group-title="CHANNEL | SPORTS",TV3 Sport
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/d0c5LcHw/unifi.png" group-title="CHANNEL | SPORTS", Unifi Sports 1
+https://unifi-live01.secureswiftcontent.com/UnifiHD/live11.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/d0c5LcHw/unifi.png" group-title="CHANNEL | SPORTS", Unifi Sports 2
+https://unifi-live02.secureswiftcontent.com/UnifiHD/live11.mpd
 
 #EXTINF:-1 tvg-id="NBCSportsBoston.us" tvg-name="" tvg-logo="https://i.ibb.co.com/Vp9kmqtt/usa-network1.png" group-title="CHANNEL | SPORTS" ,  USA Network 1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -2494,13 +2503,18 @@ https://d1abp075u76pbq.cloudfront.net/live/eds/EuroNews/sa_dash_vmx/EuroNews.mpd
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/84sDCbQ0/gold-uk.png" group-title="CHANNEL | EUROPE", Gold UK
 
-#EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/V0sDfPw6/itv1-uk.png" group-title="CHANNEL | EUROPE", ITV 1 UK
 
-#EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/yBGnVfq8/itv2-uk.png" group-title="CHANNEL | EUROPE", ITV 2 UK
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/V0sDfPw6/itv1-uk.png" group-title="CHANNEL | EUROPE", itv1
+https://viamotionhsi.netplus.ch/live/eds/itv/browser-dash/itv.mpd
 
-#EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/4RKHf1H4/itv3-uk.png" group-title="CHANNEL | EUROPE", ITV 3 UK
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/yBGnVfq8/itv2-uk.png" group-title="CHANNEL | EUROPE", itv2
+https://viamotionhsi.netplus.ch/live/eds/itv2/browser-dash/itv2.mpd
 
-#EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/FLwXCJwF/itv4-uk.png" group-title="CHANNEL | EUROPE", ITV 4 UK
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/4RKHf1H4/itv3-uk.png" group-title="CHANNEL | EUROPE", itv3
+https://viamotionhsi.netplus.ch/live/eds/itv3/browser-dash/itv3.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/FLwXCJwF/itv4-uk.png" group-title="CHANNEL | EUROPE", itv4
+https://viamotionhsi.netplus.ch/live/eds/itv4/browser-dash/itv4.mpd
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/N4gJnLH/lfctv.png" group-title="CHANNEL | EUROPE", LFC TV UK
 
@@ -2620,6 +2634,15 @@ FR
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/mC5hkkY4/beinsport10-sa.png" group-title="CHANNEL | EUROPE", BeIN Sports Max 10 FR
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/ksTwCtM9/6ter.png" group-title="CHANNEL | EUROPE", 6TER
+https://viamotionhsi.netplus.ch/live/eds/6ter/browser-dash/6ter.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/kgkfMRVz/ab1.png" group-title="CHANNEL | EUROPE", AB1
+https://viamotionhsi.netplus.ch/live/eds/ab1/browser-dash/ab1.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/hFCXNB7B/canal.png" group-title="CHANNEL | EUROPE", Canal+ Clair
+https://viamotionhsi.netplus.ch/live/eds/canalplusclair/browser-dash/canalplusclair.mpd
+
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/hFCXNB7B/canal.png" group-title="CHANNEL | EUROPE", Canal+ FR
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/TDBhw2ZZ/canal-sport.png" group-title="CHANNEL | EUROPE", Canal+ Sport FR
@@ -2632,9 +2655,27 @@ FR
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/Y7FQW3zx/canal-f1.png" group-title="CHANNEL | EUROPE", Canal+ Formula 1 FR
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/VWfDhvPY/cstar.png" group-title="CHANNEL | EUROPE", C Star
+https://viamotionhsi.netplus.ch/live/eds/d17/browser-dash/d17.mpd
+
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/N2RKBdqX/eurosport1.png" group-title="CHANNEL | EUROPE", Eurosport 1 FR
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/7dbGxv1m/eurosport2.png" group-title="CHANNEL | EUROPE", Eurosport 2 FR
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/G4FrQ7xZ/francetv.png" group-title="CHANNEL | EUROPE", France TV
+https://viamotionhsi.netplus.ch/live/eds/france1hd/browser-dash/france1hd.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/FLB6nyPd/francetv2.png" group-title="CHANNEL | EUROPE", France TV 2
+https://viamotionhsi.netplus.ch/live/eds/france2hd/browser-dash/france2hd.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/chgDX8B8/francetv3.png" group-title="CHANNEL | EUROPE", France TV 3
+https://viamotionhsi.netplus.ch/live/eds/france3hd/browser-dash/france3hd.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/9kg1PCrJ/francetv4.png" group-title="CHANNEL | EUROPE", France TV 4
+https://viamotionhsi.netplus.ch/live/eds/france4hd/browser-dash/france4hd.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/C56Z10b3/francetv5.png" group-title="CHANNEL | EUROPE", France TV 5
+https://viamotionhsi.netplus.ch/live/eds/france5hd/browser-dash/france5hd.mpd
 
 #EXTINF:-1 group-title="CHANNEL | EUROPE" tvg-name="" tvg-country="ID" tvg-logo="https://i.ibb.co.com/8gg6YZP6/france24.png", France24 
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1 
@@ -2648,15 +2689,23 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/France24/mpd/France24.mpd
 #KODIPROP:inputstream.adaptive.license_key=11d67d0e8b2a455a8358d3d3a23e7529:d5308e3b12a529c959beab1cddacdec4
 https://atemeshield1-voe.sysln.id/live/eds/TV5Monde/mpd/TV5Monde.mpd
 
-#EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/7xRkh76D/l-equipetv.png" group-title="CHANNEL | EUROPE", L'Equipe FR
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/7xRkh76D/l-equipetv.png" group-title="CHANNEL | EUROPE", L'Équipe 21
+https://viamotionhsi.netplus.ch/live/eds/lequipe21/browser-dash/lequipe21.mpd
 
-#EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/TxRV5rGz/m6.png" group-title="CHANNEL | EUROPE", M6 FR
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/TxRV5rGz/m6.png" group-title="CHANNEL | EUROPE", M6
+https://viamotionhsi.netplus.ch/live/eds/m6hd/browser-dash/m6hd.mpd
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/KxN81XZJ/rmcsport1.png" group-title="CHANNEL | EUROPE", RMC Sport 1 FR
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/ynK5gNR5/rmcsport2.png" group-title="CHANNEL | EUROPE", RMC Sport 2 FR
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/PGdYWBzQ/tfi-fr.png" group-title="CHANNEL | EUROPE", TFI FR
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/7JNFpCgY/tmc.png" group-title="CHANNEL | EUROPE", TMC
+https://viamotionhsi.netplus.ch/live/eds/tmc/browser-dash/tmc.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/CpgnNnTm/w9.png" group-title="CHANNEL | EUROPE", W9
+https://viamotionhsi.netplus.ch/live/eds/w9/browser-dash/w9.mpd
 
 DE
 
@@ -2696,9 +2745,13 @@ https://dwamdstream110.akamaized.net/hls/live/2017971/dwstream110/index.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/SDXwGwHP/ndr-de.png" group-title="CHANNEL | EUROPE", NDR DE
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/215rX2CS/orf1.png" group-title="CHANNEL | EUROPE", ORF 1
+https://viamotionhsi.netplus.ch/live/eds/orf1/browser-dash/orf1.mpd
+
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/LhzjMfVM/prosieben-de.png" group-title="CHANNEL | EUROPE", ProSieben (PRO7) DE
 
-#EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/kVsXfLMr/rtl-de.png" group-title="CHANNEL | EUROPE", RTL DE
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/kVsXfLMr/rtl-de.png" group-title="CHANNEL | EUROPE", RTL
+https://viamotionhsi.netplus.ch/live/eds/rtl/browser-dash/rtl.mpd
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/27ZWzwzw/sky-sports-uk.png" group-title="CHANNEL | EUROPE", Sky Sport Top Event DE
 
@@ -2718,7 +2771,8 @@ https://dwamdstream110.akamaized.net/hls/live/2017971/dwstream110/index.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/WWgRyHKg/sport1-de.png" group-title="CHANNEL | EUROPE", SportDigital Germany
 
-#EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/jvP4KbFG/sport1-de.png" group-title="CHANNEL | EUROPE", Sport1 DE
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/jvP4KbFG/sport1-de.png" group-title="CHANNEL | EUROPE", Sport1
+https://viamotionhsi.netplus.ch/live/eds/sport1/browser-dash/sport1.mpd
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/60CQtZXW/sat1-de.png" group-title="CHANNEL | EUROPE", SAT.1 DE
 
@@ -2745,13 +2799,17 @@ IT
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=00f9f3c0783536b8ee91704e23b78016:bfd04d6f544c9cc4d35cb13ab6778587
-#EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/TB60tZQ7/mediaset1-IT.png" group-title="CHANNEL | EUROPE",Mediaset 1
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/TB60tZQ7/mediaset1-IT.png" group-title="CHANNEL | EUROPE", Canale 1 Mediaset
 https://live03p-seg.msf.cdn.mediaset.net/live/ch-i1/i1-dash-widevine.isml/manifest.mpd
+https://live3dvbi.msf.cdn.mediaset.net/live/dash-playready-mpx-C5-ll.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=00f9f3c0783536b8ce4a30a01a52e082:e926f7d45af4f7d154c990eae6a2d937
-#EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/8LBsCnCB/mediaset5-IT.png" group-title="CHANNEL | EUROPE",Mediaset 5
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/8LBsCnCB/mediaset5-IT.png" group-title="CHANNEL | EUROPE", Canale 5 Mediaset
 https://live03p-seg.msf.cdn.mediaset.net/live/ch-c5/c5-dash-widevine.isml/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/2fMgc6S/20mediaset.png" group-title="CHANNEL | EUROPE", Canale 20 Mediaset
+https://live3dvbi.msf.cdn.mediaset.net/live/dash-playready-mpx-LB-ll.mpd
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/QvDgZPNN/la7-italia.png" group-title="CHANNEL | EUROPE", La7 IT
 
@@ -2823,6 +2881,12 @@ https://atemeshield1-voe.sysln.id/live/eds/RaiItalia/mpd/RaiItalia.mpd
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/60Nr75Sk/sky-calcio-it.png" group-title="CHANNEL | EUROPE", Sky Calcio 4 IT
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/gbCVDf19/sportitalia-plus.png" group-title="CHANNEL | EUROPE", Sportitalia Plus
+https://amg01370-italiansportcom-sportitalia-rakuten-3hmdb.amagi.tv/amRdirect/ads_pod_type=playerpage_midroll&ads_env=prod&ads_ppid=&ads_rtvid=271861&ads_streaming_id=4f185419-74f6-4564-8ea9-4cdc60746e2f&ads_amagi_channel=781&ads_device_type=web&ads_device_model=&ads_device_year=&ads_player_width=&ads_rtv_content_language=ita&ads_market=it&ads_rtv_content_id=3741&ads_device_make=&ads_user_type=visitor&ads_content_classification=6&ads_gdpr_consent=&ads_device_lmt=1&ads_player_height=&uid=1gnmqg5gu-qsvc-bfo-gaq3-3dgjgexshpe/hls/amagi_hls_data_rakutenAA-sportitalia-rakuten/CDN/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/0VD5GYJZ/solocalcio.png" group-title="CHANNEL | EUROPE", Solo Calcio
+https://italiansport-solocalcio-samsung.amagi.tv/playlist.m3u8
+
 TUR
 
 #EXTINF:-1 tvg-id="TRTWorld.tr" tvg-name="TRT World" tvg-logo="https://i.ibb.co.com/4wqrpWj8/trt-world.png" group-title="CHANNEL | EUROPE", TRT World
@@ -2832,7 +2896,10 @@ ES
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/x8K5CZy6/antena-esp.png" group-title="CHANNEL | EUROPE", Antena 3 ES
 
-#EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/hxmQNx6R/bein-esp.png" group-title="CHANNEL | EUROPE", BeIN Sports ES
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/hxmQNx6R/bein-esp.png" group-title="CHANNEL | EUROPE", BeIN Sports Xtra
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bein-sports-xtra-en-espanol/playlist.m3u8
+https://amg01334-beinsportsllc-beinxtraesp-localnow-aekzc.amagi.tv/playlist.m3u8
+https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/8nLRt6Ty/barcatv.png" group-title="CHANNEL | EUROPE", Barca TV ES
 
@@ -2884,7 +2951,8 @@ ES
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/35XF9xDZ/mundotoro-esp.png" group-title="CHANNEL | EUROPE", Mundotoro TV ES
 
-#EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/G3crk7v2/realmadridtv.png" group-title="CHANNEL | EUROPE", Real Madrid TV ES
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/G3crk7v2/realmadridtv.png" group-title="CHANNEL | EUROPE", Real Madrid TV
+https://live-manifest.production-public.tubi.io/live/08bf183c-0d2b-405a-b31b-e30f758e5f32/playlist.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/JwWhsmsv/telecinco-esp.png" group-title="CHANNEL | EUROPE", Telecinco ES
 
@@ -2917,6 +2985,17 @@ NL
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/gbYYNcN2/ziggo-sport4.png" group-title="CHANNEL | EUROPE", Ziggo Sport 4 NL
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/dF5YDZy/ziggo-sport5.png" group-title="CHANNEL | EUROPE", Ziggo Sport 5 NL
+
+BEL
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/5WBdb4FF/ab3.png" group-title="CHANNEL | EUROPE", AB3
+https://viamotionhsi.netplus.ch/live/eds/ab3/browser-dash/ab3.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/k2PjW5JP/rsi1.png" group-title="CHANNEL | EUROPE", RSI La 1
+https://viamotionhsi.netplus.ch/live/eds/rsila1hd/browser-dash/rsila1hd.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/RptyxyPg/rts2.png" group-title="CHANNEL | EUROPE", RTS 2
+https://viamotionhsi.netplus.ch/live/eds/rts2hd/browser-dash/rts2hd.mpd
 
 PT
 
@@ -3038,6 +3117,16 @@ RS
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/q33DtNfL/sk-hd-rs.png" group-title="CHANNEL | EUROPE",Sport Klub HD RS
 
+SW
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/cp61KsY/srf1.png" group-title="CHANNEL | EUROPE", SRF 1
+https://viamotionhsi.netplus.ch/live/eds/srf1hd/browser-dash/srf1hd.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/4ZDhvzH4/srf2.png" group-title="CHANNEL | EUROPE", SRF 2
+https://viamotionhsi.netplus.ch/live/eds/srf2hd/browser-dash/srf2hd.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/rR8zdbLm/srf-news.png" group-title="CHANNEL | EUROPE", SRF Info
+https://viamotionhsi.netplus.ch/live/eds/srfinfo/browser-dash/srfinfo.mpd
 
 DK
 
@@ -3168,6 +3257,9 @@ CY
 #EXTINF:-1 tvg-id="" tvg-name="CYTA6" tvg-logo="https://i.ibb.co.com/KBLyY7c/cytavision6-cyp.png" group-title="CHANNEL | EUROPE",Cytavision Sports 6 CY
 
 #EXTINF:-1 tvg-id="" tvg-name="CYTA7" tvg-logo="https://i.ibb.co.com/LhYQHbzv/cytavision7-cyp.png" group-title="CHANNEL | EUROPE",Cytavision Sports 7 CY
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/FbSzJLbV/rtv.png" group-title="CHANNEL | EUROPE",  RTV
+https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch01/_definst_/smil:ch-01.smil/master.m3u8
 
 # CHANNEL | USA
 
@@ -3728,268 +3820,148 @@ https://fl5.moveonjoy.com/WORLD_FISHING_NETWORK/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/ns8SstpQ/yestv.png" group-title="CHANNEL | USA",YES Network
 https://fl3.moveonjoy.com/YES_NETWORK/index.m3u8
 
+---------------
 
+# CCTV | BANDUNG
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/XJjvSbx/f1.png" group-title="F1 🏎️",F1 GP 🇦🇹
-https://viamotionhsi.netplus.ch/live/eds/orf1/browser-dash/orf1.mpd
+#EXTINF:-1 group-title="CCTV | BANDUNG" group-logo="https://i.ibb.co.com/FbxznN8m/cctv-bdg.png"
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/44jf5LR/beinxtraes.pnghttps://i.ibb.co.com/44jf5LR/beinxtraes.png" group-title="SPORTS🏅SPORTS🏅",BEIN SPORTS XTRA En Español 🇺🇸BEIN SPORTS XTRA En Español 🇺🇸
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bein-sports-xtra-en-espanol/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", Aceh Wastukencana
+https://pelindung.bandung.go.id:3443/video/HIKSVISION/acehwastukencana.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/44jf5LR/beinxtraes.png" group-title="SPORTS🏅",BEIN SPORTS XTRA En Español 🇺🇸
-https://amg01334-beinsportsllc-beinxtraesp-localnow-aekzc.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/44jf5LR/beinxtraes.png" group-title="SPORTS🏅",BEIN SPORTS XTRA En Español 🇺🇸
-https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
+# CCTV | JOGJA
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/kmNy2BM/bluezoomf.png" group-title="SPORTS🏅",bluezoom F
-https://viamotionhsi.netplus.ch/live/eds/bluezoomfr/browser-dash/bluezoomfr.mpd
+#EXTINF:-1 group-title="CCTV | JOGJA" group-logo="https://i.ibb.co.com/XkyV6yND/cctv-jogja.png"
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/DpW536k/realmadridtv.png" group-title="SPORTS🏅",Real Madrid TV 🇪🇸
-https://live-manifest.production-public.tubi.io/live/08bf183c-0d2b-405a-b31b-e30f758e5f32/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/qkh570c/redbulltv.png" group-title="SPORTS🏅",REDBULL TV 🌏
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/qkh570c/redbulltv.png" group-title="SPORTS🏅",REDBULL TV 🌏
-https://db38umy8gexon.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-f561zwy85csh9/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/L5Zjq1f/sport1de.png" group-title="SPORTS🏅",SPORT1 HD 🇩🇪
-https://viamotionhsi.netplus.ch/live/eds/sport1/browser-dash/sport1.mpd
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/L5Zjq1f/sport1de.png" group-title="SPORTS🏅",SPORT1 HD 🇩🇪
-https://ac-009.live.p7s1video.net/181aa0bf/t_009/sport1-de/cenc-default.mpd
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/7Q5vVhy/sportitaliaplus.png" group-title="SPORTS🏅",SPORTITALIA PLUS 🇮🇹
-https://amg01370-italiansportcom-sportitalia-rakuten-3hmdb.amagi.tv/amRdirect/ads_pod_type=playerpage_midroll&ads_env=prod&ads_ppid=&ads_rtvid=271861&ads_streaming_id=4f185419-74f6-4564-8ea9-4cdc60746e2f&ads_amagi_channel=781&ads_device_type=web&ads_device_model=&ads_device_year=&ads_player_width=&ads_rtv_content_language=ita&ads_market=it&ads_rtv_content_id=3741&ads_device_make=&ads_user_type=visitor&ads_content_classification=6&ads_gdpr_consent=&ads_device_lmt=1&ads_player_height=&uid=1gnmqg5gu-qsvc-bfo-gaq3-3dgjgexshpe/hls/amagi_hls_data_rakutenAA-sportitalia-rakuten/CDN/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/7Q5vVhy/sportitaliaplus.png" group-title="SPORTS🏅",Si Solo Calcio 🇮🇹
-https://italiansport-solocalcio-samsung.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/p24tp0P/unifisports.png" group-title="SPORTS🏅",UNIFI SPORTS 🇲🇾
-https://unifi-live01.secureswiftcontent.com/UnifiHD/live11.mpd
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/p24tp0P/unifisports.png" group-title="SPORTS🏅",UNIFI SPORTS 🇲🇾
-https://unifi-live02.secureswiftcontent.com/UnifiHD/live11.mpd
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/fx4ZTzW/abctv.png" group-title="ENTERTAINMENT🎭",ABC TV 🇦🇺
-https://c.mjh.nz/abc-nsw.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/zJdyCpD/amc.png" group-title="MOVIES🍿",AMC 🇺🇸 🇪🇸
-https://5def33c73f084e11a19ca77697d6b413.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_AMCPresents/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/51JsdJR/africanews.png" group-title="NEWS📰",AFRICANEWS. 🌍
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/africanews/africanews-en.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/mtf68tB/aljazeera.png" group-title="NEWS📰",AL JAZEERA ARABIC 🇶🇦
-https://live-hls-web-aja-fa.getaj.net/AJA/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/mtf68tB/aljazeera.png" group-title="NEWS📰",AL JAZEERA ENGLISH 🇶🇦
-https://live-hls-web-aje.getaj.net/AJE/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/gmf3HXQ/bbcnews.png" group-title="NEWS📰",BBC NEWS 🇬🇧
-https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/gmf3HXQ/bbcnews.png" group-title="NEWS📰",BBC NEWS 🇬🇧
-https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/0fvLFLH/skynews.png" group-title="NEWS📰",sky NEWS 🇬🇧
-https://linear417-gb-hls1-prd-ak.cdn.skycdp.com/100e/Content/HLS_001_1080_30/Live/channel(skynews)/index_1080-30.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/M6sxvYN/eulabel.png" group-title="Europe 🌍",Ab3 🇧🇪
-https://viamotionhsi.netplus.ch/live/eds/ab3/browser-dash/ab3.mpd
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/M6sxvYN/eulabel.png" group-title="Europe 🌍",RSI La 1 🇨🇭
-https://viamotionhsi.netplus.ch/live/eds/rsila1hd/browser-dash/rsila1hd.mpd
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/M6sxvYN/eulabel.png" group-title="Europe 🌍",Rts 2 🇨🇭
-https://viamotionhsi.netplus.ch/live/eds/rts2hd/browser-dash/rts2hd.mpd
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/M6sxvYN/eulabel.png" group-title="Europe 🌍",Srf 1 🇨🇭
-https://viamotionhsi.netplus.ch/live/eds/srf1hd/browser-dash/srf1hd.mpd
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/M6sxvYN/eulabel.png" group-title="Europe 🌍",Srf 2 🇨🇭
-https://viamotionhsi.netplus.ch/live/eds/srf2hd/browser-dash/srf2hd.mpd
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/M6sxvYN/eulabel.png" group-title="Europe 🌍",Srf info 🇨🇭
-https://viamotionhsi.netplus.ch/live/eds/srfinfo/browser-dash/srfinfo.mpd
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/M6sxvYN/eulabel.png" group-title="Europe 🌍",Rtl 🇩🇪
-https://viamotionhsi.netplus.ch/live/eds/rtl/browser-dash/rtl.mpd
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/M6sxvYN/eulabel.png" group-title="Europe 🌍",6ter 🇫🇷
-https://viamotionhsi.netplus.ch/live/eds/6ter/browser-dash/6ter.mpd
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/M6sxvYN/eulabel.png" group-title="Europe 🌍",AB1 🇫🇷
-https://viamotionhsi.netplus.ch/live/eds/ab1/browser-dash/ab1.mpd
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/M6sxvYN/eulabel.png" group-title="Europe 🌍",Canal+ Clair 🇫🇷
-https://viamotionhsi.netplus.ch/live/eds/canalplusclair/browser-dash/canalplusclair.mpd
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/M6sxvYN/eulabel.png" group-title="Europe 🌍",CSTAR 🇫🇷
-https://viamotionhsi.netplus.ch/live/eds/d17/browser-dash/d17.mpd
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/M6sxvYN/eulabel.png" group-title="Europe 🌍",France 2 🇫🇷
-https://viamotionhsi.netplus.ch/live/eds/france2hd/browser-dash/france2hd.mpd
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/M6sxvYN/eulabel.png" group-title="Europe 🌍",France 3 🇫🇷
-https://viamotionhsi.netplus.ch/live/eds/france3hd/browser-dash/france3hd.mpd
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/M6sxvYN/eulabel.png" group-title="Europe 🌍",France 4 🇫🇷
-https://viamotionhsi.netplus.ch/live/eds/france4hd/browser-dash/france4hd.mpd
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/M6sxvYN/eulabel.png" group-title="Europe 🌍",France 5 🇫🇷
-https://viamotionhsi.netplus.ch/live/eds/france5hd/browser-dash/france5hd.mpd
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/M6sxvYN/eulabel.png" group-title="Europe 🌍",L'Équipe 21 🇫🇷
-https://viamotionhsi.netplus.ch/live/eds/lequipe21/browser-dash/lequipe21.mpd
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/M6sxvYN/eulabel.png" group-title="Europe 🌍",M6 🇫🇷
-https://viamotionhsi.netplus.ch/live/eds/m6hd/browser-dash/m6hd.mpd
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/M6sxvYN/eulabel.png" group-title="Europe 🌍",TMC 🇫🇷
-https://viamotionhsi.netplus.ch/live/eds/tmc/browser-dash/tmc.mpd
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/M6sxvYN/eulabel.png" group-title="Europe 🌍",W9 🇫🇷
-https://viamotionhsi.netplus.ch/live/eds/w9/browser-dash/w9.mpd
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/M6sxvYN/eulabel.png" group-title="Europe 🌍",Canale 5 🇮🇹
-https://live3dvbi.msf.cdn.mediaset.net/live/dash-playready-mpx-C5-ll.mpd
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/M6sxvYN/eulabel.png" group-title="Europe 🌍",20 🇮🇹
-https://live3dvbi.msf.cdn.mediaset.net/live/dash-playready-mpx-LB-ll.mpd
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/M6sxvYN/eulabel.png" group-title="Europe 🌍",RTV SAN MARINO 🇸🇲
-https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch01/_definst_/smil:ch-01.smil/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/M6sxvYN/eulabel.png" group-title="Europe 🌍",itv1 🇬🇧
-https://viamotionhsi.netplus.ch/live/eds/itv1/browser-dash/itv1.mpd
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/M6sxvYN/eulabel.png" group-title="Europe 🌍",itv2 🇬🇧
-https://viamotionhsi.netplus.ch/live/eds/itv2/browser-dash/itv2.mpd
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/M6sxvYN/eulabel.png" group-title="Europe 🌍",itv3 🇬🇧
-https://viamotionhsi.netplus.ch/live/eds/itv3/browser-dash/itv3.mpd
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/M6sxvYN/eulabel.png" group-title="Europe 🌍",itv4 🇬🇧
-https://viamotionhsi.netplus.ch/live/eds/itv4/browser-dash/itv4.mpd
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/R6cFbjB/cctepe.webp" group-title="CCTV YOGYAKARTA📷",NOL KM JOGJA
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | JOGJA", Nol KM
 https://mam.jogjaprov.go.id:1937/cctv-public/ViewNolKilo.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/R6cFbjB/cctepe.webp" group-title="CCTV YOGYAKARTA📷",SIMPANG NOL KM
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | JOGJA", Simpang Nol KM
 https://cctvjss.jogjakota.go.id/atcs/ATCS_kmnol.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/R6cFbjB/cctepe.webp" group-title="CCTV YOGYAKARTA📷",NOL KM - TIMUR
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | JOGJA", Simpang Nol KM Timur
 https://cctvjss.jogjakota.go.id/malioboro/NolKm_Timur.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/R6cFbjB/cctepe.webp" group-title="CCTV YOGYAKARTA📷",NOL KM - UTARA
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | JOGJA", Simpang Nol KM Utara
 https://cctvjss.jogjakota.go.id/malioboro/NolKm_Utara.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/R6cFbjB/cctepe.webp" group-title="CCTV YOGYAKARTA📷",NOL KM - GD. AGUNG
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | JOGJA", Simpang Nol KM Gd. Agung
 https://cctvjss.jogjakota.go.id/malioboro/NolKm_GdAgung.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/R6cFbjB/cctepe.webp" group-title="CCTV YOGYAKARTA📷",ALUN-ALUN KIDUL
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | JOGJA", Alun Alun Kidul
 https://mam.jogjaprov.go.id:1937/cctv-public/ViewAlunAlunKidul.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/R6cFbjB/cctepe.webp" group-title="CCTV YOGYAKARTA📷",MALIOBORO
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | JOGJA", Malioboro
 https://mam.jogjaprov.go.id:1937/cctv-public/ViewMalioboro.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/R6cFbjB/cctepe.webp" group-title="CCTV YOGYAKARTA📷",MALIOBORO_SIMPANG_REKSOBAYAN
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | JOGJA", Malioboro Simpang Reksobayan
 https://cctvjss.jogjakota.go.id/malioboro/Malioboro_24_Simpang_Reksobayan.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/R6cFbjB/cctepe.webp" group-title="CCTV YOGYAKARTA📷",MALIOBORO_PASAR_BERINGHARJO
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | JOGJA", Malioboro Pasar Bringharjo
 https://cctvjss.jogjakota.go.id/malioboro/Malioboro_30_Pasar_Beringharjo.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/R6cFbjB/cctepe.webp" group-title="CCTV YOGYAKARTA📷",MALIOBORO_GUNUNGMAS
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | JOGJA", Malioboro Gunung Mas
 https://cctvjss.jogjakota.go.id/malioboro/Malioboro_13_Gunungmas.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/R6cFbjB/cctepe.webp" group-title="CCTV YOGYAKARTA📷",MALIOBORO PLAZA
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | JOGJA", Malioboro Plaza
 https://mam.jogjaprov.go.id:1937/cctv-public/ViewDepanMall.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/R6cFbjB/cctepe.webp" group-title="CCTV YOGYAKARTA📷",MALIOBORO_MALL_SELATAN
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | JOGJA", Malioboro Mall Selatan
 https://cctvjss.jogjakota.go.id/malioboro/Malioboro_7_Mall_Selatan.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/R6cFbjB/cctepe.webp" group-title="CCTV YOGYAKARTA📷",MALIOBORO_MALL_UTARA
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | JOGJA", Malioboro Mall Utara
 https://cctvjss.jogjakota.go.id/malioboro/Malioboro_6_Mall_Utara.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/R6cFbjB/cctepe.webp" group-title="CCTV YOGYAKARTA📷",MALIOBORO_PERWAKILAN
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | JOGJA", Malioboro Perwakilan
 https://cctvjss.jogjakota.go.id/malioboro/Malioboro_5_Perwakilan.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/R6cFbjB/cctepe.webp" group-title="CCTV YOGYAKARTA📷",MALIOBORO_UTARA_INNA_MALIOBORO
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | JOGJA", Malioboro Inna Utara
 https://cctvjss.jogjakota.go.id/malioboro/Malioboro_21_Utara_Inna_Malioboro.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/R6cFbjB/cctepe.webp" group-title="CCTV YOGYAKARTA📷",PASAR BERINGHARJO
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | JOGJA", Pasar Beringharjo
 https://mam.jogjaprov.go.id:1937/cctv-public/ViewDepanBeringharjo.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/R6cFbjB/cctepe.webp" group-title="CCTV YOGYAKARTA📷",SIMPANG TUGU JOGJA
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | JOGJA", Simpang Tugu Jogja
 https://mam.jogjaprov.go.id:1937/cctv-public/ViewSimpangTugu.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/R6cFbjB/cctepe.webp" group-title="CCTV YOGYAKARTA📷",CANDI PRAMBANAN
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | JOGJA", Candi Prambanan
 https://mam.jogjaprov.go.id:1937/cctv-public/ViewCandiPrambanan.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/R6cFbjB/cctepe.webp" group-title="CCTV YOGYAKARTA📷",CANDI RATU BOKO
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | JOGJA", Candi Ratu Boko
 https://mam.jogjaprov.go.id:1937/cctv-public/ViewCandiBoko.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/R6cFbjB/cctepe.webp" group-title="CCTV YOGYAKARTA📷",TEBING BREKSI
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | JOGJA", Tebing Breksi
 https://mam.jogjaprov.go.id:1937/cctv-public/ViewBreksi.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/R6cFbjB/cctepe.webp" group-title="CCTV YOGYAKARTA📷",SIMPANG IBU RUSWO
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | JOGJA", Simpang Ibu Ruswo
 https://cctvjss.jogjakota.go.id/atcs/ATCS_Ibu_Ruswo.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/R6cFbjB/cctepe.webp" group-title="CCTV YOGYAKARTA📷",Pos Polisi Jombor
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | JOGJA", Pos Polisi Jombor
 https://mam.jogjaprov.go.id:1937/cctv-kominfosleman/PosPolisi_Jombor.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/R6cFbjB/cctepe.webp" group-title="CCTV YOGYAKARTA📷",Fly Over Jombor Utara
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | JOGJA", Fly Over Jombor Utara
 https://mam.jogjaprov.go.id:1937/cctv-kominfosleman/FlyOver_JomborUtara.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/R6cFbjB/cctepe.webp" group-title="CCTV YOGYAKARTA📷",Fly Over Jombor Timur
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | JOGJA", Fly Over Jombor Timur
 https://mam.jogjaprov.go.id:1937/cctv-kominfosleman/FlyOver_JomborTimur.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/R6cFbjB/cctepe.webp" group-title="CCTV YOGYAKARTA📷",Fly Over Jombor Barat
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | JOGJA", Fly Over Jombor Barat
 https://mam.jogjaprov.go.id:1937/cctv-kominfosleman/FlyOver_JomborBarat.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/R6cFbjB/cctepe.webp" group-title="CCTV",Cikupa entrance
+# CCTV | BANTEN
+
+#EXTINF:-1 group-title="CCTV | BANTEN" group-logo="https://i.ibb.co.com/XkyV6yND/cctv-jogja.png"
+
+ 
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANTEN", Cikupa entrance
 https://pantau.margamandala.co.id:3443/cikupa/entrance/entrance.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/R6cFbjB/cctepe.webp" group-title="CCTV",Serang Timur entrance
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANTEN", Serang Timur entrance
 https://pantau.margamandala.co.id:3443/sertim/entrance/entrance.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/R6cFbjB/cctepe.webp" group-title="CCTV",Serang Timur Exit
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANTEN", Serang Timur Exit
 https://pantau.margamandala.co.id:3443/sertim/exit/exit.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/R6cFbjB/cctepe.webp" group-title="CCTV",Cilegon Timur Exit
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANTEN", Cilegon Timur Exit
 https://pantau.margamandala.co.id:3443/ciltim/exit/exit.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/R6cFbjB/cctepe.webp" group-title="CCTV",Pel. Merak Dermaga 1-2
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANTEN", Pel. Merak Dermaga 1-2
 https://mitradarat-vidstream.kemenhub.go.id/stream/MERXDERMAGA12/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/R6cFbjB/cctepe.webp" group-title="CCTV",Pel. Merak Dermaga 2
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANTEN", Pel. Merak Dermaga 2
 https://mitradarat-vidstream.kemenhub.go.id/stream/LPSMRKCCTVLPSMERAKTHERMAL/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/R6cFbjB/cctepe.webp" group-title="CCTV",Pel. Merak Dermaga 3-4
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANTEN", Pel. Merak Dermaga 3-4
 https://mitradarat-vidstream.kemenhub.go.id/stream/MERXDERMAGA34/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/R6cFbjB/cctepe.webp" group-title="CCTV",Pel. Merak view D. Executive
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANTEN", Pel. Merak view D. Executive
 https://mitradarat-vidstream.kemenhub.go.id/stream/LPSMRKCCTVLPSMERAK/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/R6cFbjB/cctepe.webp" group-title="CCTV",Pel. Bakauheni
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANTEN", Pel. Bakauheni
 https://mitradarat-vidstream.kemenhub.go.id/stream/LPBKHNCCTVLPSBAKAUHENI/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/R6cFbjB/cctepe.webp" group-title="CCTV",Terminal Rajabasa 1
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANTEN", Terminal Rajabasa 1
 https://rtsp.itn.net.id/play/hls/95f5a70f-39ab-4977-a148-9ef25ec1dc95/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/R6cFbjB/cctepe.webp" group-title="CCTV",Terminal Rajabasa 2
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANTEN", Terminal Rajabasa 2
 https://rtsp.itn.net.id/play/hls/516c356b-21a4-4613-adc8-6920f63ba755/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/R6cFbjB/cctepe.webp" group-title="CCTV",Bundaran Raden Intan
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANTEN", Bundaran Raden Intan
 https://rtsp.itn.net.id/play/hls/3e9ceb05-e35f-4ef5-b3ec-293201d9de22/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/R6cFbjB/cctepe.webp" group-title="CCTV",St.Tanjung Karang
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANTEN", St.Tanjung Karang
 https://rtsp.itn.net.id/play/hls/5a39939e-bce5-42d2-8c79-5ad02b3f9710/index.m3u8
+
+
+
+
+
+
+
+
 
 
 \\\\\\\\\\\\\\\\\\\\\\\\ Source Playlist Ini [Gratis] Jangan Diperjualbelikan/////////////////////////////
