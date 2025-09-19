@@ -4596,28 +4596,22 @@ https://mam.jogjaprov.go.id:1937/cctv-kp/AlunAlunUtara1.stream/chunklist_w114827
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | JOGJA", Alun Alun Kidul
 https://mam.jogjaprov.go.id:1937/cctv-public/ViewAlunAlunKidul.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | JOGJA", Simpang Balaikota 
-https://mam.jogjaprov.go.id:1937/atcs-kota/SimpangBalaikota.stream/chunklist_w1365569643.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | JOGJA", Balaikota
+https://cctvjss.jogjakota.go.id/balaikota/Balaikota_Utara_Balkot_V_Timur.stream/chunklist_w568607622.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | JOGJA", Balaikota Gerbang Utama
+https://cctvjss.jogjakota.go.id/balaikota/Balaikota_Utara_Balkot_V_Gerbang_Masuk.stream/chunklist_w524434716.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | JOGJA", Simpang Balaikota
+https://cctvjss.jogjakota.go.id/atcs/ATCS_Simpang_Balaikota_View_Timur.stream/chunklist_w1625116503.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | JOGJA", Simpang Balaikota Barat
-https://mam.jogjaprov.go.id:1937/atcs-kota/SimpangBalaikotaBarat.stream/chunklist_w2033385760.m3u8
+https://mam.jogjaprov.go.id:1937/atcs-kota/SimpangBalaikota.stream/chunklist_w1365569643.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | JOGJA", Simpang Balaikota Timur
 https://mam.jogjaprov.go.id:1937/atcs-kota/SimpangBalaikotaTimur.stream/chunklist_w704293304.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | JOGJA", Balaikota
-https://cctvjss.jogjakota.go.id/balaikota/Balaikota_Utara_Balkot_V_Gerbang_Masuk.stream/chunklist_w524434716.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | JOGJA", Balaikota Timur
-https://cctvjss.jogjakota.go.id/balaikota/Balaikota_Utara_Balkot_V_Timur.stream/chunklist_w568607622.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | JOGJA", Balaikota Barat
-https://cctvjss.jogjakota.go.id/atcs/ATCS_Simpang_Balaikota_View_Timur.stream/chunklist_w1625116503.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | JOGJA", Simpang Mandala Krida
-https://cctvjss.jogjakota.go.id/atcs/ATCS_Simpang_Mandala_Krida_PTZ.stream/chunklist_w1270685751.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | JOGJA", Simpang Amongrogo
 https://cctvjss.jogjakota.go.id/atcs/ATCS_Simpang_Amongrogo_View_Timur.stream/chunklist_w1110854133.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | JOGJA", Simpang Melia Purosani 1
@@ -4838,9 +4832,6 @@ https://mam.jogjaprov.go.id:1937/atcs/MaguwoTimur.stream/chunklist_w845945850.m3
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | JOGJA", Blok O
 https://mam.jogjaprov.go.id:1937/atcs/BlokO.stream/chunklist_w771658190.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | JOGJA", Blok O Selatan
-https://mam.jogjaprov.go.id:1937/atcs/BlokOSelatan.stream/chunklist_w913289508.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | JOGJA", Simpang Rejowinangun Timur
 https://mam.jogjaprov.go.id:1937/atcs-kota/SimpangRejowinangunTimur.stream/chunklist_w339714711.m3u8
 
@@ -4855,9 +4846,6 @@ https://mam.jogjaprov.go.id:1937/atcs/BandaraBarat.stream/chunklist_w443763436.m
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | JOGJA", Pertigaan Adisucipto Bandara Selatan
 https://mam.jogjaprov.go.id:1937/atcs/Bandara2.stream/chunklist_w285675375.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | JOGJA", Simpang Sutoyo Katamso
-
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | JOGJA", Simpang Pasar Prambanan 1
 https://mam.jogjaprov.go.id:1937/atcs/Prambanan_TC.stream/chunklist_w1910849842.m3u8
@@ -4891,9 +4879,6 @@ https://mam.jogjaprov.go.id:1937/cctv-bantul/MakamKotagedeMasjid.stream/playlist
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | JOGJA", Tebing Breksi
 https://mam.jogjaprov.go.id:1937/cctv-public/ViewBreksi.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | JOGJA", Palbapang
-https://mam.jogjaprov.go.id:1937/atcs/Palbapang.stream/chunklist_w1123162124.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | JOGJA", Pintu Masuk Parangtritis
 https://mam.jogjaprov.go.id:1937/cctv-bantul/TPRParangtritis.stream/chunklist_w1707904067.m3u8
