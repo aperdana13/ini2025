@@ -575,10 +575,10 @@ https://pelindung.bandung.go.id:3443/video/HIKSVISION/gerlonggg.m3u8
 https://pelindung.bandung.go.id:3443/video/HIKSVISION/Setiabudidepanterminal.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", Setiabudhi Atas
-https://cctv.atcs-dishubkbb.id/memfs/4bb50deb-d1c4-4840-ba61-dd5b6925da0b_output_0_10904.ts?session=3vMZdC7ojimFHvhqescXBk
+https://cctv.atcs-dishubkbb.id/memfs/4bb50deb-d1c4-4840-ba61-dd5b6925da0b_output_0.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", Setiabudhi Farm House Lembang
-https://cctv.atcs-dishubkbb.id/memfs/671df771-b4ea-49f4-a9e9-aac462c3a48c_output_0_4509.ts?session=LyHGdbPNvKKjbriTQdCUxW
+https://cctv.atcs-dishubkbb.id/memfs/4936192b-c8b3-43fb-ba9f-14b1099f307c_output_0.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", Setiabudhi Sukajadi 1
 https://pelindung.bandung.go.id:3443/video/DAHUA/Sukaja.m3u8
