@@ -4629,7 +4629,7 @@ https://smartcity.cimahikota.go.id/video/120/video120.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG RAYA", Simpang Citeureup Kol Masturi 
 https://smartcity.cimahikota.go.id/video/133/video133.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG RAYA", Cimareme CimahI
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG RAYA", Cimareme Cimahi
 https://cctv.atcs-dishubkbb.id/memfs/4a69fe99-674c-4d18-b58c-b1d3133d7626_output_0.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG RAYA", Cimareme Padalarang
@@ -4638,20 +4638,20 @@ https://cctv.atcs-dishubkbb.id/memfs/6d7e169d-d11b-43bd-b8c1-fe58cdc60cda_output
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG RAYA", Fly Over Padalarang Cimareme
 https://cctv.atcs-dishubkbb.id/memfs/ec13c486-5008-4006-83c5-04be0b075e54_output_0.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG RAYA", Fly Over Padalarang KBP
-https://cctv.atcs-dishubkbb.id/memfs/dfa0a451-adae-4309-98fb-53851b5c2e14_output_0.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG RAYA", Fly Over Padalarang Tol
 https://cctv.atcs-dishubkbb.id/memfs/edcfc0b5-4a59-48a4-82b0-9d587d93bc7e_output_0.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG RAYA", Fly Over Padalarang
 https://cctv.atcs-dishubkbb.id/memfs/f7f61926-3166-4ba1-9e90-3fcf269497c7_output_0.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG RAYA", Bundaran KBP Puspa Iptek Padalarang
-https://cctv.atcs-dishubkbb.id/memfs/9d1cc825-245d-49b7-8412-34eb73d3d555_output_0.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG RAYA", Fly Over Padalarang KBP
+https://cctv.atcs-dishubkbb.id/memfs/dfa0a451-adae-4309-98fb-53851b5c2e14_output_0.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG RAYA", KBP Sundial Padalarang
 https://cctv.atcs-dishubkbb.id/memfs/6905a6f2-4c36-442f-9a35-b08871f9f8bd_output_0.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG RAYA", Bundaran KBP Puspa Iptek Padalarang
+https://cctv.atcs-dishubkbb.id/memfs/9d1cc825-245d-49b7-8412-34eb73d3d555_output_0.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG RAYA", Pertigaan KBP Padalarang 1
 https://cctv.atcs-dishubkbb.id/memfs/ac902612-1f98-43ff-9d0c-b0f1a8d7d6a1_output_0.m3u8
@@ -4724,6 +4724,94 @@ https://cctv.atcs-dishubkbb.id/memfs/d7f68dc1-4ae5-4117-9f19-84d87e7f38b3_output
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG RAYA", Alun Alun Cililin 2
 https://cctv.atcs-dishubkbb.id/memfs/633da1e9-5e53-4721-a03d-3312b3dcb436_output_0.m3u8
+
+# CCTV | BOGOR
+
+#EXTINF:-1 group-title="CCTV | BOGOR" group-logo="https://i.ibb.co.com/FbxznN8m/cctv-bdg.png"
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BOGOR", Simpang Tugu Kujang Botani
+https://restreamer2.kotabogor.go.id/memfs/5a5cf878-9d9b-4400-a73a-27a5b24a6ec4_output_0.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BOGOR", Sukasari
+https://restreamer3.kotabogor.go.id/memfs/0ec104af-9036-48db-b643-ced9d1d42c21_output_0.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BOGOR", Gang Aut
+https://restreamer2.kotabogor.go.id/memfs/64b180ce-d237-44d9-b857-c610e1d0c75c_output_0.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BOGOR", Simpang Kapten Muslihat  Juanda
+https://restreamer2.kotabogor.go.id/memfs/3ec6eaf2-4da1-4adb-8c15-0251e69121d6_output_0.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BOGOR", Mayor Oking
+https://restreamer2.kotabogor.go.id/memfs/a3d87684-2cdd-4190-ac07-8b915864daef_output_0.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BOGOR", Ciheuleut
+https://restreamer2.kotabogor.go.id/memfs/f5ca1d37-c267-4806-850b-d1ca537fb29a_output_0.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BOGOR", Simpang BTM
+https://restreamer2.kotabogor.go.id/memfs/f707b72a-5c95-421a-9f3a-2e478794bd76_output_0.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BOGOR", Alun Alun
+https://restreamer2.kotabogor.go.id/memfs/c07c1926-288c-46e4-a19c-9f51022edc5d_output_0.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BOGOR", Alun Alun Dewi Sartika BRI
+https://restreamer3.kotabogor.go.id/memfs/b99d528a-1eb8-47bf-ba0f-a63fe11dbece_output_0.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BOGOR", Dewi Sartika Masjid Agung
+https://restreamer3.kotabogor.go.id/memfs/3cd8d68e-9022-4891-887b-3ff87fe12b56_output_0.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BOGOR", Dewi Sartika BRI
+https://restreamer3.kotabogor.go.id/memfs/38611ade-09b7-4e5b-b835-f5c3a56bb373_output_0.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BOGOR", Pasar Bogor
+https://restreamer2.kotabogor.go.id/memfs/b43066d4-b1e4-4e90-8e17-86c15a9a944e_output_0.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BOGOR", Tajur DIshub
+https://restreamer2.kotabogor.go.id/memfs/0518012b-655d-4a7d-83d6-b7bb1faf4396_output_0.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BOGOR", Juanda BTM
+https://restreamer2.kotabogor.go.id/memfs/62cded1f-90d0-4af6-b330-dc40af5fdd67_output_0.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BOGOR", Seketeng Surya Kencana
+https://restreamer2.kotabogor.go.id/memfs/3d51d3a1-0d90-4230-956c-60dea3c11ac3_output_0.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BOGOR", Seketeng Gudang
+https://restreamer2.kotabogor.go.id/memfs/1083f9b4-b193-490d-aa45-31cbc69913fb_output_0.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BOGOR", Jembatan Otista
+https://restreamer2.kotabogor.go.id/memfs/b75e84e5-d033-48fb-aa67-fc48c5e11091_output_0.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BOGOR", Pedati Gudang
+https://restreamer3.kotabogor.go.id/memfs/c2d90a44-8f2c-4103-82ad-6cb1730a5000_output_0.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BOGOR", Juanda Sempur
+https://restreamer2.kotabogor.go.id/memfs/70d8b8dd-35ba-4895-8c03-8dbd306ce5cb_output_0.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BOGOR", Sudirman
+https://restreamer3.kotabogor.go.id/memfs/3b76a9cd-0b52-42bd-8577-eb3ecb084ec3_output_0.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BOGOR", Raya Empang Pancasan
+https://restreamer3.kotabogor.go.id/memfs/db8ddbdf-cd84-439b-b1fe-a283dffdd5b6_output_0.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BOGOR", Raya Empang BNR
+https://restreamer3.kotabogor.go.id/memfs/ca848bb3-3f17-4cea-8bef-d89dd116fd7c_output_0.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BOGOR", Surya Kencana Lawang Seketeng
+https://restreamer3.kotabogor.go.id/memfs/f946ad94-d7c0-4bea-bb43-51adbdc90b95_output_0.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BOGOR", Padjadjaran Masjid Raya
+https://restreamer3.kotabogor.go.id/memfs/aff6fd2d-2f56-4072-b5c3-774f07722a04_output_0.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BOGOR", Pedati Suryakencana
+https://restreamer3.kotabogor.go.id/memfs/eedbb9a2-1571-41bd-92db-73b946e3e9b2_output_0.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BOGOR", Pedati Lawang
+https://restreamer3.kotabogor.go.id/memfs/3ec91e05-edf0-451f-b363-4b3c52b75805_output_0.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BOGOR", Simpang Pancasan
+https://restreamer3.kotabogor.go.id/memfs/5c9ce5e6-4971-483f-914f-39ec33a7764e_output_0.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BOGOR", Jembatan Merah
+https://restreamer3.kotabogor.go.id/memfs/5f1e2a06-059c-4c00-9102-ceaf12e2b577.m3u8
 
 # CCTV | JOGJA
 
@@ -5278,8 +5366,6 @@ https://rtsp.itn.net.id/play/hls/3e9ceb05-e35f-4ef5-b3ec-293201d9de22/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANTEN", St.Tanjung Karang
 https://rtsp.itn.net.id/play/hls/5a39939e-bce5-42d2-8c79-5ad02b3f9710/index.m3u8
-
-
 
 
 
