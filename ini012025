@@ -4049,11 +4049,17 @@ https://pelindung.bandung.go.id:3443/video/DAHUA/Cihapit.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", Cihapit
 https://pelindung.bandung.go.id:3443/video/DAHUA/Ciha.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", Jawa Sumatera
+https://atcs-dishub.bandung.go.id:1990/SumJawa/stream.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", Tamblong Sumatera
 https://pelindung.bandung.go.id:3443/video/HIKSVISION/tamblong.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG",  Veteran Sunda
 https://pelindung.bandung.go.id:3443/video/DISHUB/spsundavet.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG",  Sunda Jawa
+https://atcs-dishub.bandung.go.id:1990/SundaJaw/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", Kosambi
 https://pelindung.bandung.go.id:3443/video/DAHUA/PasarKomb.m3u8
@@ -4191,14 +4197,29 @@ https://pelindung.bandung.go.id:3443/video/HIKSVISION/kirconbinongg.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", Gatsu Binong
 https://pelindung.bandung.go.id:3443/video/HIKSVISION/Gatbino.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", Soekarno Hatta Samsat
-https://pelindung.bandung.go.id:3443/video/DISHUB/samsat.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", Soekarno Hatta Kircon Samsat
+https://atcs-dishub.bandung.go.id:1990/Samsat/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", Soekarno Hatta Kircon Samsat Barat
+https://atcs-dishub.bandung.go.id:1990/SamsatBar/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", Soekarno Hatta Metro
 https://pelindung.bandung.go.id:3443/video/HIKSVISION/SoetaMetrodealerMercydua.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", Soekarno Hatta Buahbatu
-https://pelindung.bandung.go.id:3443/video/DISHUB/spbuahbatu.m3u8
+https://atcs-dishub.bandung.go.id:1990/Buahbatu/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", Soekarno Hatta Buahbatu Timur
+https://atcs-dishub.bandung.go.id:1990/BubatTim/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", Soekarno Hatta Buahbatu Selatan
+https://atcs-dishub.bandung.go.id:1990/BubatSel/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", Soekarno Hatta Buahbatu Barat
+https://atcs-dishub.bandung.go.id:1990/BubatBar/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", Soekarno Hatta Buahbatu Utara
+https://atcs-dishub.bandung.go.id:1990/BubatUt/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", Bubat Pasar Kordon
 https://pelindung.bandung.go.id:3443/video/HIKSVISION/Perkordon.m3u8
@@ -4220,24 +4241,48 @@ https://pelindung.bandung.go.id:3443/video/HIKSVISION/WaaspertigaankompleksBatun
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", Soekarno Hatta Batununggal
 https://pelindung.bandung.go.id:3443/video/DISHUB/spbatununggal.m3u8
+https://atcs-dishub.bandung.go.id:1990/Batununggal/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", Soekarno Hatta Batununggal Barat
+https://atcs-dishub.bandung.go.id:1990/BatuBar/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", Soekarno Hatta Moh Toha
 https://pelindung.bandung.go.id:3443/video/DISHUB/spmohtoha.m3u8
+https://atcs-dishub.bandung.go.id:1990/MochToha/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", Soekarno Hatta Moh Toha Timur
+https://atcs-dishub.bandung.go.id:1990/TohaTim/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", Soekarno Hatta Moh Toha Barat
+https://atcs-dishub.bandung.go.id:1990/TohaBar/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", Soekarno Hatta Moh Toha Utara
+https://atcs-dishub.bandung.go.id:1990/TohaUt/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", Soekarno Hatta Moh Toha Selatan
+https://atcs-dishub.bandung.go.id:1990/TohaSel/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", Moh Toha Sartika Asih
 https://pelindung.bandung.go.id:3443/video/HIKSVISION/Tohrs.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", Soekarno Hatta Terminal Leuwipanjang
-https://pelindung.bandung.go.id:3443/video/HIKSVISION/Flykopo.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", Soekarno Hatta Cibaduyut
+https://atcs-dishub.bandung.go.id:1990/Cibaduyut/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", Cibaduyut
 https://pelindung.bandung.go.id:3443/video/HIKSVISION/Cibaytps.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", Soekarno Hatta Terminal Leuwipanjang
+https://pelindung.bandung.go.id:3443/video/HIKSVISION/Flykopo.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", Soekarno Hatta Caringin
 https://pelindung.bandung.go.id:3443/video/DISHUB/spcaringin.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", Soekarno Hatta Ters Pasirkoja Utara
+https://atcs-dishub.bandung.go.id:1990/PaskojUt/stream.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", Soekarno Hatta Ters Pasirkoja
 https://pelindung.bandung.go.id:3443/video/DPU/trspasirkoja.m3u
+https://atcs-dishub.bandung.go.id:1990/PaskojSel/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", Kopo Miko Mall
 https://pelindung.bandung.go.id:3443/video/HIKSVISION/Koposebrangmikomalldua.m3u8
@@ -4362,6 +4407,12 @@ https://pelindung.bandung.go.id:3443/video/HIKSVISION/gerlonggg.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", Terminal Ledeng
 https://pelindung.bandung.go.id:3443/video/HIKSVISION/Setiabudidepanterminal.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", Setiabudhi Atas
+https://cctv.atcs-dishubkbb.id/memfs/4bb50deb-d1c4-4840-ba61-dd5b6925da0b_output_0_10904.ts?session=3vMZdC7ojimFHvhqescXBk
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", Setiabudhi Farm House Lembang
+https://cctv.atcs-dishubkbb.id/memfs/671df771-b4ea-49f4-a9e9-aac462c3a48c_output_0_4509.ts?session=LyHGdbPNvKKjbriTQdCUxW
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", Setiabudhi Sukajadi 1
 https://pelindung.bandung.go.id:3443/video/DAHUA/Sukaja.m3u8
 
@@ -4479,6 +4530,18 @@ https://pelindung.bandung.go.id:3443/video/DPU/rumahsakit.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", Soekarno Hatta Gedebage
 https://pelindung.bandung.go.id:3443/video/HIKSVISION/Soekarnogedebage.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", Soekarno Hatta Gedebage Timur
+https://atcs-dishub.bandung.go.id:1990/GedeTim/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", Soekarno Hatta Gedebage Barat
+https://atcs-dishub.bandung.go.id:1990/GedeBar/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", Soekarno Hatta Gedebage Selatan
+https://atcs-dishub.bandung.go.id:1990/GedeSel/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", Soekarno Hatta Gedebage Utara
+https://atcs-dishub.bandung.go.id:1990/GedeUt/stream.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", Gedebage Petikemas
 https://pelindung.bandung.go.id:3443/video/DAHUA/GEDEBAGE.m3u8
 
@@ -4490,6 +4553,270 @@ https://pelindung.bandung.go.id:3443/video/DPU/gdbageselatan.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", Rancanumpang
 https://pelindung.bandung.go.id:3443/video/HIKSVISION/rancanumpangg.m3u8
+
+# CCTV | LEMBANG
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | LEMBANG", 
+Lembang Paratag
+https://cctv.atcs-dishubkbb.id/memfs/5a6cdfa6-c7bb-4086-96a2-125b8a562747_output_0_116188.ts?session=Bcup5hPJY2cRzWg6KURcge
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | LEMBANG", 
+Lembang Unai
+https://cctv.atcs-dishubkbb.id/memfs/dd2489bc-de9f-4b67-a95c-d4952fa11a69_output_0.m3u8?session=nrn8Hczh8fwuAz9SEqwS3E
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | LEMBANG", 
+Lembang Unai Cihanjuang
+https://cctv.atcs-dishubkbb.id/memfs/71c2b98d-868c-40c1-baae-b34b20480adf_output_0_3615.ts?session=kF7k5KRMPEEACmwWdWQ3b4
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | LEMBANG", 
+Lembang Unai Cisarua
+https://cctv.atcs-dishubkbb.id/memfs/e7a94d54-466a-432a-a57b-896779a3f359_output_0_2102.ts?session=Fp4NahoMRvGCssJCa22p6d
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | LEMBANG", 
+Lembang Betrix Parompong
+https://cctv.atcs-dishubkbb.id/memfs/d860bdd1-7791-49e4-9c1d-975ca897a9d1_output_0_70963.ts?session=dhXtYTGAt9ffs7A7nKynr7
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | LEMBANG", 
+Lembang Grand Hotel
+https://cctv.atcs-dishubkbb.id/memfs/1e9f3cc5-58b9-4169-b959-5e26d4283db7_output_0.m3u8?session=JtEHFjFbREz6zk7ASv3tS5
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | LEMBANG", 
+Pasar Lembang
+https://cctv.atcs-dishubkbb.id/memfs/336b99ec-f691-4e98-ae88-7b51af8842e1_output_0_58036.ts?session=brsLCbqCz8ijHTgnRFvMay
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | LEMBANG", 
+Lembang Darul Hikam Sespim
+https://cctv.atcs-dishubkbb.id/memfs/26272c4d-0f36-4a70-bc9e-2a6b0a852a78_output_0_10761.ts?session=87dGYMK5PSsFZrEAciPjov
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | LEMBANG", 
+Lembang Darul Hikam Kayu Ambon
+https://cctv.atcs-dishubkbb.id/memfs/83f91fde-f8f2-4a7b-ae6d-a6e74fb4b592_output_0_10796.ts?session=GYq3LPK75Yr6UY2ZvMaqHr
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | LEMBANG", 
+Maribaya Cibodas
+https://cctv.atcs-dishubkbb.id/memfs/2946e37c-f05e-4c1c-96de-0a873d375f4c_output_0.m3u8?session=aBoNmjgADJTuzZE2EBCvuY
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | LEMBANG", 
+Maribaya Sespim
+https://cctv.atcs-dishubkbb.id/memfs/ea81b6aa-211a-4f0b-9b5c-68a38426ca8c_output_0_27505.ts?session=NjTXqA9mPt7sL7ok6Biwrv
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | LEMBANG", Cikole Lembang Orchid Utara
+https://cctv.atcs-dishubkbb.id/memfs/1206e494-60c6-4367-9780-2d6ea50ab578_output_0.m3u8?session=HsLtY7EQexQ4ejkEkqVBF4
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | LEMBANG", 
+Cikole Lembang Orchid Selatan
+https://cctv.atcs-dishubkbb.id/memfs/a260f274-0b48-41b4-90bf-ec4f1e059d5c_output_0.m3u8?session=hK8KctdobWD94v2DRTsSuE
+
+# CCTV | BANDUNG RAYA
+
+#EXTINF:-1 group-title="CCTV | BANDUNG RAYA" group-logo="https://i.ibb.co.com/FbxznN8m/cctv-bdg.png"
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG RAYA", 
+Simpang Melong Raya Cijerah
+https://smartcity.cimahikota.go.id/video/111/video111.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG RAYA", 
+Simpang Melong Raya Cijerah
+https://smartcity.cimahikota.go.id/video/112/video112.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG RAYA", 
+Simpang Melong Raya Cijerah
+https://smartcity.cimahikota.go.id/video/113/video113.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG RAYA", 
+Cimindi
+https://smartcity.cimahikota.go.id/video/57/video57.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG RAYA", 
+Simpang Cihanjuang Cimahi
+https://smartcity.cimahikota.go.id/video/46/video46.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG RAYA", 
+Bundaran Pemkot Cimahi 1
+https://smartcity.cimahikota.go.id/video/122/video122.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG RAYA", 
+Bundaran Pemkot Cimahi 2
+https://smartcity.cimahikota.go.id/video/123/video123.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG RAYA", 
+Pasar Atas Cimahi
+https://smartcity.cimahikota.go.id/video/120/video120.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG RAYA", 
+Simpang Citeureup Kol Masturi 
+https://smartcity.cimahikota.go.id/video/133/video133.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG RAYA", 
+Cimareme Cimahi
+https://cctv.atcs-dishubkbb.id/memfs/4a69fe99-674c-4d18-b58c-b1d3133d7626_output_0_20708.ts?session=eoYYTT3rJGSyaceThTcWJt
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG RAYA", 
+Cimareme Padalarang
+https://cctv.atcs-dishubkbb.id/memfs/6d7e169d-d11b-43bd-b8c1-fe58cdc60cda_output_0_20734.ts?session=Zcd4cSBxnGZnMitUxTzAVP
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG RAYA", 
+Fly Over Padalarang Cimareme
+https://cctv.atcs-dishubkbb.id/memfs/ec13c486-5008-4006-83c5-04be0b075e54_output_0_306856.ts?session=iUu4HALQ7pF3aLubBAmBfq
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG RAYA", 
+Fly Over Padalarang
+https://cctv.atcs-dishubkbb.id/memfs/f7f61926-3166-4ba1-9e90-3fcf269497c7_output_0_50774.ts?session=UjJRQDZctxwgqrL7bbPucL
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG RAYA", 
+Fly Over Padalarang KBP
+https://cctv.atcs-dishubkbb.id/memfs/dfa0a451-adae-4309-98fb-53851b5c2e14_output_0_306909.ts?session=YLDHWRZBV34MnKa55aPreV
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG RAYA", 
+Fly Over Padalarang Tol
+https://cctv.atcs-dishubkbb.id/memfs/edcfc0b5-4a59-48a4-82b0-9d587d93bc7e_output_0_306895.ts?session=WLgfAwzNF9Qk8aEQsndhkC
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG RAYA", 
+Bundaran KBP Puspa Iptek Padalarang
+https://cctv.atcs-dishubkbb.id/memfs/9d1cc825-245d-49b7-8412-34eb73d3d555_output_0_42626.ts?session=fa6i4U7zZz7C3PAYdzhSVi
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG RAYA", 
+KBP Sundial Padalarang
+https://cctv.atcs-dishubkbb.id/memfs/f7f61926-3166-4ba1-9e90-3fcf269497c7_output_0.m3u8?session=UjJRQDZctxwgqrL7bbPucL
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG RAYA", 
+Pertigaan KBP Padalarang 1
+https://cctv.atcs-dishubkbb.id/memfs/ac902612-1f98-43ff-9d0c-b0f1a8d7d6a1_output_0_83057.ts?session=atprhtap9snBg3XjyMEh5s
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG RAYA", 
+Pertigaan KBP Padalarang 2
+https://cctv.atcs-dishubkbb.id/memfs/d2e6bcb6-e6d5-4c0f-81c6-134e1345c8b5_output_0.m3u8?session=KAaLQUJKE2p3GoJEzFL9Pk
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG RAYA", 
+Stasiun Padalarang 1
+https://cctv.atcs-dishubkbb.id/memfs/f2648f57-eef6-49bf-9180-5dc071521f4f_output_0.m3u8?session=R8LzQUpq8DKLntr9Z9c9sW
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG RAYA", 
+Stasiun Padalarang 2
+https://cctv.atcs-dishubkbb.id/memfs/b50d64f1-7fdc-4c58-942d-bb018327e174_output_0_439159.ts?session=bMzhrNY3P5M53e4iErds5V
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG RAYA", 
+Stasiun Padalarang 3
+https://cctv.atcs-dishubkbb.id/memfs/9bd7d138-361e-40e2-aabb-508d9b7d54eb_output_0_439193.ts?session=PTbwnnVNLhF8FmMoS7w3QH
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG RAYA", 
+Simpang Tagog Padalarang 1
+https://cctv.atcs-dishubkbb.id/memfs/02e59fd8-d67a-40b3-bb2c-5f54c7bcadf9_output_0_83181.ts?session=bVbyGLPQLvdT96fHWjmdKg
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG RAYA", 
+Simpang Tagog Padalarang 2
+https://cctv.atcs-dishubkbb.id/memfs/8c6a68c4-5fa5-44b6-8be5-72860ba26ba8_output_0_47498.ts?session=7v6FYhWapZdpbtzSGy2YCz
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG RAYA", 
+Purabaya Kavaleri Padalarang
+https://cctv.atcs-dishubkbb.id/memfs/a8a70d7d-0265-4ddb-be0e-9e6438728604_output_0_129249.ts?session=j9sHqx3kCq62hboVSUDJBX
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG RAYA", 
+Purabaya Cipatat Padalarang
+https://cctv.atcs-dishubkbb.id/memfs/c43816f8-f487-4b51-af04-a7cce245d4ef_output_0_51069.ts?session=WTCVZGK5XWFCkE2X48ac3A
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG RAYA", 
+Purabaya Tagog Padalarang
+https://cctv.atcs-dishubkbb.id/memfs/e6549612-e618-4dc5-8e75-086ec0d8140c_output_0.m3u8?session=ZWpWReB9wMkU4AyZys9TCN
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG RAYA", 
+Ciburuy Cipatat Padalarang
+https://cctv.atcs-dishubkbb.id/memfs/9512d5e6-2424-44f0-869a-4026ea91b2ed_output_0_20950.ts?session=kSCAEGzRLeGPaVqeYt6FAW
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG RAYA", 
+Cihaliwung Stasiun Padalarang
+https://cctv.atcs-dishubkbb.id/memfs/8ec35155-b847-41a8-8387-68cfb2ad184b_output_0.m3u8?session=FiU5pnoLGLkgEztWNthma8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG RAYA", 
+Cihaliwung Cikalong Padalarang
+https://cctv.atcs-dishubkbb.id/memfs/67968ed3-ded3-4b14-8e65-792ad566f7fe_output_0_369760.ts?session=ECvKWPtyeicHE2tWgHQd2s
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG RAYA", 
+Ciburuy Tagog
+https://cctv.atcs-dishubkbb.id/memfs/99057394-48a9-4806-9f61-cbbd011ae6cf_output_0_20933.ts?session=6LvnMoahgGLkXQCKgixveg
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG RAYA", Cikamuning Tol Padalarang
+https://cctv.atcs-dishubkbb.id/memfs/f213ebc0-2e3d-4989-9552-7bbe06599d66_output_0_0044.ts?session=NXjKwe2qSBfBbH8aqtTHGn
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG RAYA", 
+Cikamuning Cihaliwung Padalarang
+https://cctv.atcs-dishubkbb.id/memfs/341ddb06-0eb7-491b-a395-6684b4b1c835_output_0_0002.ts?session=EAh8gkfgqdV3hs7XquhVv3
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG RAYA", 
+Cangkorah Batujajar
+https://cctv.atcs-dishubkbb.id/memfs/71ea14f7-d25b-48db-8afe-b48531eb4206_output_0.m3u8?session=5akxZxXwwy69HeF9HBq6Fb
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG RAYA", 
+Citunjung Batujajar
+https://cctv.atcs-dishubkbb.id/memfs/54b72fb9-43c8-426c-8fbc-9a91bf13f857_output_0.m3u8?session=chAfqkUonU5fEHCAh4UwSi
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG RAYA", 
+Cimareme Batujajar
+https://cctv.atcs-dishubkbb.id/memfs/372cc649-a609-4613-9414-3f38ee52e5ff_output_0_30520.ts?session=h2y4quCQ5QVPkJhcEq2uvV
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG RAYA", 
+Cihampelas Sayuran Batujajar
+https://cctv.atcs-dishubkbb.id/memfs/3d00f22f-2c26-4961-affe-9980dae9883c_output_0.m3u8?session=LxoqXyz8q59sRnoUKQm7Sb
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG RAYA", 
+Cihampelas BBS Batujajar
+https://cctv.atcs-dishubkbb.id/memfs/17a9b36c-e087-4231-80f9-2ecc87b6fb00_output_0_57923.ts?session=iRdzxWb6x8GtB6vLzQEbrH
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG RAYA", 
+Simpang BBS Cililin
+https://cctv.atcs-dishubkbb.id/memfs/1372824f-a99d-450b-a614-5fddb49bb96f_output_0.m3u8?session=QyT9ibfA2vdAP35PJbSAzu
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG RAYA", 
+Simpang BBS Cipatik
+https://cctv.atcs-dishubkbb.id/memfs/08f471e0-ea5b-4867-bb9d-8dce1a3c26dd_output_0.m3u8?session=AXXH7KfDs92Qxtvxk4ZGA7
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG RAYA", 
+Alun Alun Cililin 1
+https://cctv.atcs-dishubkbb.id/memfs/d7f68dc1-4ae5-4117-9f19-84d87e7f38b3_output_0_0023.ts?session=WCETda3MrPoGx9zP9yyGUJ
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG RAYA", 
+Alun Alun Cililin 2
+https://cctv.atcs-dishubkbb.id/memfs/633da1e9-5e53-4721-a03d-3312b3dcb436_output_0.m3u8?session=26QwfRKv7qXuxin3FKuqDe
+
+# CCTV | GARUT
+
+#EXTINF:-1 group-title="CCTV | GARUT" group-logo="https://i.ibb.co.com/FbxznN8m/cctv-bdg.png"
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | GARUT", Alun Alun
+https://shinobi.garutkab.go.id/FYI5ypF4oVS0nc1pIy2HwnjnbDQsNf/mp4/csdR7AiwZ7/bakorwil/s.mp4
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | GARUT", BJB
+https://shinobi.garutkab.go.id/FYI5ypF4oVS0nc1pIy2HwnjnbDQsNf/mp4/csdR7AiwZ7/bjb/s.mp4
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | GARUT", Jembatan Maktal
+https://shinobi.garutkab.go.id/FYI5ypF4oVS0nc1pIy2HwnjnbDQsNf/mp4/csdR7AiwZ7/jembatanmaktal/s.mp4
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | GARUT", Bunderan Kerkoff
+https://shinobi.garutkab.go.id/FYI5ypF4oVS0nc1pIy2HwnjnbDQsNf/mp4/csdR7AiwZ7/kerkoff/s.mp4
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | GARUT", Leuwidaun
+https://shinobi.garutkab.go.id/FYI5ypF4oVS0nc1pIy2HwnjnbDQsNf/mp4/csdR7AiwZ7/leuwidaun/s.mp4
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | GARUT", Limbangan
+https://shinobi.garutkab.go.id/FYI5ypF4oVS0nc1pIy2HwnjnbDQsNf/mp4/csdR7AiwZ7/limbangan/s.mp4
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | GARUT", Maktal Pos
+https://shinobi.garutkab.go.id/FYI5ypF4oVS0nc1pIy2HwnjnbDQsNf/mp4/csdR7AiwZ7/maktal/s.mp4
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | GARUT", Pengkolan
+https://shinobi.garutkab.go.id/FYI5ypF4oVS0nc1pIy2HwnjnbDQsNf/mp4/csdR7AiwZ7/pengkolan/s.mp4
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | GARUT", Simpang Lima
+https://shinobi.garutkab.go.id/FYI5ypF4oVS0nc1pIy2HwnjnbDQsNf/mp4/csdR7AiwZ7/simlim/s.mp4
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | GARUT", Bunderan Suci
+https://shinobi.garutkab.go.id/FYI5ypF4oVS0nc1pIy2HwnjnbDQsNf/mp4/csdR7AiwZ7/suci/s.mp4
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | GARUT", Sukadana
+https://shinobi.garutkab.go.id/FYI5ypF4oVS0nc1pIy2HwnjnbDQsNf/mp4/csdR7AiwZ7/sukadana/s.mp4
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | GARUT", Alun Alun Tarogong
+https://shinobi.garutkab.go.id/FYI5ypF4oVS0nc1pIy2HwnjnbDQsNf/mp4/csdR7AiwZ7/tarogong/s.mp4
 
 # CCTV | JOGJA
 
@@ -4928,7 +5255,6 @@ https://mam.jogjaprov.go.id:1937/cctv-public/ViewPandansari.stream/chunklist_w62
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | JOGJA", Gunung Merapi
 https://mam.jogjaprov.go.id:1937/cctv-public/ViewGunungMerapi.stream/chunklist_w1822106707.m3u8
-
 
 # CCTV | BALI
 
