@@ -3838,16 +3838,16 @@ https://fl3.moveonjoy.com/YES_NETWORK/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", Simpang Lima
 https://pelindung.bandung.go.id:3443/video/DISHUB/splima.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", Asia Afrika Grand Preanger
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", Asia Afrika Preanger
 https://pelindung.bandung.go.id:3443/video/DISHUB/sptamblong.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", Asia Afrika Savor Homann
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", Asia Afrika Homann
 https://pelindung.bandung.go.id:3443/video/HIKSVISION/AsiaAfrikaSimpangBragatiga.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", Asia Afrika Gd Merdeka 1
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", Asia Afrika Gd.Merdeka 1
 https://pelindung.bandung.go.id:3443/video/HIKSVISION/AsiaAfrikaSimpangBragadua.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", Asia Afrika Gd Merdeka 2
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", Asia Afrika Gd.Merdeka 2
 https://pelindung.bandung.go.id:3443/video/HIKSVISION/asiaafrika.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", Cikapundung Gd.Merdeka 1
@@ -4303,7 +4303,7 @@ https://pelindung.bandung.go.id:3443/video/DISHUB/spmramdhan.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", Lingkar Selatan Sriwijaya
 https://pelindung.bandung.go.id:3443/video/DISHUB/spsriwijaya.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", Lingkar Selatan Buahbatu
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", Lingkar Selatan Bubat
 https://pelindung.bandung.go.id:3443/video/DISHUB/splingkarbubat.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", Buahbatu Griya
@@ -4406,19 +4406,19 @@ https://pelindung.bandung.go.id:3443/video/HIKSVISION/SoetaMetrodealerMercy.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", Soekarno Hatta Metro 2
 https://pelindung.bandung.go.id:3443/video/HIKSVISION/SoetaMetrodealerMercydua.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", Soekarno Hatta Buahbatu 1
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", Soekarno Hatta Bubat 1
 https://atcs-dishub.bandung.go.id:1990/Buahbatu/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", Soekarno Hatta Buahbatu 2
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", Soekarno Hatta Bubat 2
 https://atcs-dishub.bandung.go.id:1990/BubatTim/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", Soekarno Hatta Buahbatu 3
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", Soekarno Hatta Bubat 3
 https://atcs-dishub.bandung.go.id:1990/BubatSel/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", Soekarno Hatta Buahbatu 4
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", Soekarno Hatta Bubat 4
 https://atcs-dishub.bandung.go.id:1990/BubatBar/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", Soekarno Hatta Buahbatu 5
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", Soekarno Hatta Bubat 5
 https://atcs-dishub.bandung.go.id:1990/BubatUt/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", Ters.Bubat Kordon 1
@@ -4615,16 +4615,16 @@ https://pelindung.bandung.go.id:3443/video/HIKSVISION/husein.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", Padjajaran Husein 2
 https://pelindung.bandung.go.id:3443/video/HIKSVISION/huse.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", Padjajaran Istana Plaza 1
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", Padjajaran Ist.Plaza 1
 https://pelindung.bandung.go.id:3443/video/HIKSVISION/pajajaran.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", Padjajaran Istana Plaza 2
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", Padjajaran Ist.Plaza 2
 https://pelindung.bandung.go.id:3443/video/HIKSVISION/spipp.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", Padjajaran Istana Plaza 3
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", Padjajaran Ist.Plaza 3
 https://pelindung.bandung.go.id:3443/video/HIKSVISION/spippp.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", Padjajaran Istana Plaza 4
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", Padjajaran Ist.Plaza 4
 https://pelindung.bandung.go.id:3443/video/HIKSVISION/spipppp.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", Pasteur RSHS 1
@@ -4802,7 +4802,6 @@ https://pelindung.bandung.go.id:3443/video/DAHUA/SURAB.m3u8
 https://pelindung.bandung.go.id:3443/video/DAHUA/SURA.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", PHH Mustofa Padasuka
-https://atcs-dishub.bandung.go.id:1990/sppadasuka/stream.m3u8
 https://pelindung.bandung.go.id:3443/video/DISHUB/sppadasuka.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", Terminal Cicaheum 1
@@ -4863,8 +4862,6 @@ https://pelindung.bandung.go.id:3443/video/DAHUA/CICA.m3u8
 https://pelindung.bandung.go.id:3443/video/DAHUA/Arcamanik.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", AH Nasution Arcamanik 2
-https://pelindung.bandung.go.id:3443/video/DAHUA/Arcamanik.m3u8
-
 https://pelindung.bandung.go.id:3443/video/DAHUA/Arca.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", AH Nasution Cijambe
