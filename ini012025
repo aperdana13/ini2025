@@ -3611,9 +3611,8 @@ https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch01/_definst_/smil:ch-01.smil/maste
 
 #EXTINF:-1 group-title="CHANNEL | USA" group-logo="https://i.ibb.co.com/cc7wpm2b/usa.png"
 
-
-
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/wNLQSZWC/a-3.png" group-title="CHANNEL | USA",A&E
+http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291165.ts
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/CKY8L6ft/abc.png" group-title="CHANNEL | USA",ABC
 
@@ -3628,6 +3627,7 @@ https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch01/_definst_/smil:ch-01.smil/maste
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/fdtSryLg/amc.png" group-title="CHANNEL | USA",AMC
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/fYNPsJf2/ahc.png" group-title="CHANNEL | USA",American Heroes Channel
+http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291166.ts
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/FGv8wmy/animal-planet.png" group-title="CHANNEL | USA",Animal Planet
 
@@ -3635,32 +3635,7 @@ https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch01/_definst_/smil:ch-01.smil/maste
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/KxGn16JT/axs.png" group-title="CHANNEL | USA",AXS TV
 
-#EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/v64GqRxG/bally-sport.png" group-title="CHANNEL | USA",Bally Sports Detroit
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291562.ts
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/v64GqRxG/bally-sport.png" group-title="CHANNEL | USA",Bally Sports Florida
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291564.ts
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/v64GqRxG/bally-sport.png" group-title="CHANNEL | USA",Bally Sports Indiana
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291568.ts
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/v64GqRxG/bally-sport.png" group-title="CHANNEL | USA",Bally Sports Kansas City
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291569.ts
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/v64GqRxG/bally-sport.png" group-title="CHANNEL | USA",Bally Sports Midwest
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291570.ts
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/v64GqRxG/bally-sport.png" group-title="CHANNEL | USA",Bally Sports Midwest+
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291572.ts
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/v64GqRxG/bally-sport.png" group-title="CHANNEL | USA",Bally Sports New Orleans
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291573.ts
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/v64GqRxG/bally-sport.png" group-title="CHANNEL | USA",Bally Sports North
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291574.ts
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/v64GqRxG/bally-sport.png" group-title="CHANNEL | USA",Bally Sports Ohio
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291575.ts
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/v64GqRxG/bally-sport.png" group-title="CHANNEL | USA",Bally Sports
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/m5K4jNSB/bbc-america.png" group-title="CHANNEL | USA",BBC America
 
@@ -3678,8 +3653,10 @@ http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291592.ts
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/Z6PjJbSy/bit-network.png" group-title="CHANNEL | USA",BIG TEN Network
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/TMTZPTfy/bloomberg.png" group-title="CHANNEL | USA",Bloomberg
+http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291253.ts
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/4n29YY76/boomerang.png" group-title="CHANNEL | USA",Boomerang
+http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291152.ts
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/zWD4NyQv/bounce.png" group-title="CHANNEL | USA",Bounce
 http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291032.ts
@@ -3689,9 +3666,17 @@ http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/290912.ts
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/1J2tKSCt/buzzr.png" group-title="CHANNEL | USA",Buzzr
 
-#EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/jvCcHmVJ/c-span.png" group-title="CHANNEL | USA",C Span
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/jvCcHmVJ/c-span.png" group-title="CHANNEL | USA",C Span 1
+http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291254.ts
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/jvCcHmVJ/c-span.png" group-title="CHANNEL | USA",C Span 2
+http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291255.ts
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/jvCcHmVJ/c-span.png" group-title="CHANNEL | USA",C Span 3
+http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291256.ts
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/JjxGwBHC/cartoon-network.png" group-title="CHANNEL | USA",Cartoon Network
+http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291153.ts
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/fzkLnyvH/cbc.png" group-title="CHANNEL | USA",CBC
 
@@ -3716,12 +3701,19 @@ http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291034.ts
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/Jj3Q1kjf/cleotv.png" group-title="CHANNEL | USA",Cleo TV
 
-
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/PzPvgVM3/cmt.png" group-title="CHANNEL | USA",CMT
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/zHDWsZfm/cnbc.png" group-title="CHANNEL | USA",CNBC
+http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291335.ts
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/zHDWsZfm/cnbc.png" group-title="CHANNEL | USA",CNBC World
+http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291336.ts
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/Lz2QnGhS/cnn.png" group-title="CHANNEL | USA",CNN International
+http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291337.ts
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/Lz2QnGhS/cnn.png" group-title="CHANNEL | USA",CNN
+http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291338.ts
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/GvCGd0zF/comedy-central.png" group-title="CHANNEL | USA",Comedy Central
 
@@ -3730,8 +3722,10 @@ http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291034.ts
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/tpQmgNvp/comet.png" group-title="CHANNEL | USA",Comet
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/NnWDjWrH/cooking-channel.png" group-title="CHANNEL | USA",Cooking Channel
+http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291723.ts
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/67JwpSd7/courttv.png" group-title="CHANNEL | USA",Court TV
+http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291168.ts
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/R4yT6W91/cozitv.png" group-title="CHANNEL | USA",Cozi TV
 
@@ -3744,6 +3738,7 @@ http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291034.ts
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/q30c8qmK/crave4.png" group-title="CHANNEL | USA",Crave 4
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/BV95bkY9/crime-investigation.png" group-title="CHANNEL | USA",Crime+ Investigation
+http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291169.ts
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/YFwNKG7J/curiosity.png" group-title="CHANNEL | USA",Curiosity
 
@@ -3761,20 +3756,27 @@ http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291170.ts
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/Vcf5f9sQ/discovery-family-usa.png" group-title="CHANNEL | USA",Discovery Family
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/tTcp51q7/discovery-life-usa.png" group-title="CHANNEL | USA",Discovery Life Channel
+http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291677.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="Discovery Sciense" tvg-logo="https://i.ibb.co.com/fdtR7Q4x/discovery-science-usa.png" group-title="CHANNEL | USA", Discovery Sciense
+http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291171.ts
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/0RcYTLfL/discovery-velocity-usa.png" group-title="CHANNEL | USA",Discovery Velocity
+http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291172.ts
 
 #EXTINF:-1 group-title="CHANNEL | USA" tvg-id="DisneyChannel.us@East" tvg-logo="https://i.ibb.co.com/Nd2fz89C/disney-channel.png" ,Disney Channel
+http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291154.ts
 
 #EXTINF:-1 group-title="CHANNEL | USA" tvg-id="DisneyJunior.us@East" tvg-logo="https://i.ibb.co.com/C3G0jChF/disney-jr.png" ,Disney Junior
+http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291155.ts
 
 #EXTINF:-1 group-title="CHANNEL | USA" tvg-id="DisneyJunior.us@East" tvg-logo="https://i.ibb.co.com/hJHCRBR6/disney-xd.png" ,Disney XD
+http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291156.ts
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/23K1CGxb/diy.png" group-title="CHANNEL | USA",DIY
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/5gFtK3PZ/E-entertainment.png" group-title="CHANNEL | USA",E! Entertainment
+http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291679.ts
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/jZTsB4VL/epix-drive.png" group-title="CHANNEL | USA",EPIX
 
@@ -3806,6 +3808,7 @@ https://raw.githubusercontent.com/mimipipi22/lalajo/main/Streaming/lifestyle/fas
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/HpXVpJsr/fetv.png" group-title="CHANNEL | USA",FETV
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/3YYTds8j/fight-sport.png" group-title="CHANNEL | USA",Fight Network
+http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291609.ts
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/20SRKFDj/food-network.png" group-title="CHANNEL | USA",The Food Network
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
@@ -3818,12 +3821,15 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/FoodNetworkHD/mpd/FoodNetworkHD.m
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/1GBPS167/fox-business.png" group-title="CHANNEL | USA",Fox Business Network
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/nSLjKxr/fox-news.png" group-title="CHANNEL | USA",Fox News Channel
+http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291391.ts
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/rKCJSrJj/fox-ny.png" group-title="CHANNEL | USA",Fox NY
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/FLFbC9J5/fox-soccer1.png" group-title="CHANNEL | USA",Fox Sports 1
+http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291052.ts
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/cKfLsSdC/fox-soccer2.png" group-title="CHANNEL | USA",Fox Sports 2
+http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291053.ts
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/KcNjXnGk/fox-soccer.png" group-title="CHANNEL | USA",Fox Soccer Plus
 
@@ -3834,10 +3840,12 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/FoodNetworkHD/mpd/FoodNetworkHD.m
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/zWfTdGd4/fox-weather.png" group-title="CHANNEL | USA",Fox Weather Channel
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/svJgYZLN/freeform.png" group-title="CHANNEL | USA",Freeform
+http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291682.ts
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co/8DsYr2Bg/fubo.png" group-title="CHANNEL | USA", Fubo Sports
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/gbv2sgcn/fuse.png" group-title="CHANNEL | USA",Fuse TV
+http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291683.ts
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/21YQMKrZ/fx.png" group-title="CHANNEL | USA",FX
 
@@ -3846,6 +3854,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/FoodNetworkHD/mpd/FoodNetworkHD.m
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/1G09kSXz/fxx.png" group-title="CHANNEL | USA",FXX
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/j9grpp2K/fyi.png" group-title="CHANNEL | USA",FYI
+http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291684.ts
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/nss6nFtW/galavision.png" group-title="CHANNEL | USA",Galavisión
 
@@ -3856,14 +3865,17 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/FoodNetworkHD/mpd/FoodNetworkHD.m
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co/PvQdVSdN/great-american.png" group-title="CHANNEL | USA",Great American Channel
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/DDHzpGvP/grift.png" group-title="CHANNEL | USA",Grit Channel
+http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/290939.ts
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/S4vjsNHV/hallmark.png" group-title="CHANNEL | USA",The Hallmark Channel
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/LXVmdWw9/hallmark-mystery.png" group-title="CHANNEL | USA",Hallmark Movies & Mysterie
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/yBY86Q4N/hbo-usa.png" group-title="CHANNEL | USA",HBO
+http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/290943.ts
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/nsMytCG2/hbo2-usa.png" group-title="CHANNEL | USA",HBO2
+http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/290944.ts
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/dsG4RczZ/hbo-comedy-usa.png" group-title="CHANNEL | USA",HBO Comedy
 
@@ -3878,10 +3890,13 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/FoodNetworkHD/mpd/FoodNetworkHD.m
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/rKsMx6S5/hbo-europe.png" group-title="CHANNEL | USA",HBO Europe
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/4gwj93d6/hgtv.png" group-title="CHANNEL | USA",HGTV
+http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291688.ts
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/pvVW8XFp/history.png" group-title="CHANNEL | USA",History
+http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291173.ts
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/Kc7yT2jH/hln.png" group-title="CHANNEL | USA"Headline News
+http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291413.ts
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/Zpt8RWSV/insp.png" group-title="CHANNEL | USA",INSP
 
@@ -3889,6 +3904,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/FoodNetworkHD/mpd/FoodNetworkHD.m
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/9Hxc9gCg/ifc.png" group-title="CHANNEL | USA",IFC
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/JFpRhbsf/investigation.png" group-title="CHANNEL | USA",Investigation Discovery
+http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291175.ts
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/zVFzhJ68/ion.png" group-title="CHANNEL | USA",ION+
 
@@ -3899,12 +3915,14 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/FoodNetworkHD/mpd/FoodNetworkHD.m
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/RG4ZTyf8/lifetime.png" group-title="CHANNEL | USA",Lifetime Network
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/JjQNcwrT/lifetime-movies.png" group-title="CHANNEL | USA",Lifetime Movies Network
+http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/290953.ts
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/V0p1ZLMJ/longhorn.png" group-title="CHANNEL | USA",Longhorn Network
 
 #EXTINF:-1 tvg-id="" tvg-name="Love Nature" tvg-logo="https://i.ibb.co.com/HTzXCKWT/love-nature.png" group-title="CHANNEL | USA", Love Nature
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/bjH1rSSS/magnolia.png" group-title="CHANNEL | USA",Magnolia Network
+http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291695.ts
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/fzVv3z1X/marquee.png" group-title="CHANNEL | USA",Marquee Sports Network
 
@@ -3912,7 +3930,8 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/FoodNetworkHD/mpd/FoodNetworkHD.m
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/Kp7Tjx3C/mavtv.png" group-title="CHANNEL | USA",MAVTV
 
-#EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/S4q9gFgq/metv.png" group-title="CHANNEL | USA",METV
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/S4q9gFgq/metv.png" group-title="CHANNEL | USA",ME TV
+http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291697.ts
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/h140b44B/military-hisory.png" group-title="CHANNEL | USA",Military History
 
@@ -3923,12 +3942,15 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/FoodNetworkHD/mpd/FoodNetworkHD.m
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/FkxDbsys/masn.png" group-title="CHANNEL | USA",MSG
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/0jjpdTB9/msnbc.png" group-title="CHANNEL | USA",MSNBC
+http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291417.ts
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/5h0p67hH/mtrspt1.png" group-title="CHANNEL | USA",Motor Trend
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/Fk80Y7sv/mtv.png" group-title="CHANNEL | USA",MTV
+http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291110.ts
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/FLfQ6GKr/mtv2.png" group-title="CHANNEL | USA",MTV2
+http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/290958.ts
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/5WmfNcZ9/mtv-classic.png" group-title="CHANNEL | USA",MTV Classic
 
@@ -3939,13 +3961,13 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/FoodNetworkHD/mpd/FoodNetworkHD.m
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/9kk1kFyF/my9tv.png" group-title="CHANNEL | USA",MY9TV
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/4Zr1k1yC/natgeo-usa.png" group-title="CHANNEL | USA",National Geographic
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291177.ts
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/yFr1rQzh/natgeo-wild-usa.png" group-title="CHANNEL | USA",Nat Geo Wild
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/pvj0hw86/nbatv.png" group-title="CHANNEL | USA",NBA TV
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/qfJsHfq/nbc.png" group-title="CHANNEL | USA",NBC
+http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291426.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co.com/J0xVpsN/nbc-sports.png" group-title="CHANNEL | USA" , NBC Sports Chicago
 
@@ -3975,16 +3997,19 @@ http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291177.ts
 https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(lc107a1ddy)/master.mpd
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/23zCw0hp/nick.png" group-title="CHANNEL | USA",Nickelodeon
+http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291158.ts
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/V0tn6SGM/nickjr.png" group-title="CHANNEL | USA",Nick Jr
+http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291157.ts
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/PsgrrCxY/nicktoons.png" group-title="CHANNEL | USA",Nicktoons
+http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291160.ts
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/3ydqPg1x/nick-music.png" group-title="CHANNEL | USA",Nick Music
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/rr6zgMt/teen-nick.png" group-title="CHANNEL | USA",Nicktoons
+http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291159.ts
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/v4j70Sxs/own.png" group-title="CHANNEL | USA",Oprah Winfrey Network
+http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291698.ts
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/MyN3zdR6/outdoor-channel.png" group-title="CHANNEL | USA",Outdoor Channel
 
@@ -3995,9 +4020,9 @@ https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(lc107a1ddy)/m
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/VYqcshXq/ovation.png" group-title="CHANNEL | USA",Ovation
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/4ZGMVPkR/oxygen.png" group-title="CHANNEL | USA",Oxygen
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291179.ts
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/fG1pBWy6/paramount.png" group-title="CHANNEL | USA",Paramount Network
+http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/290960.ts
 
 #EXTINF:-1 group-title="CHANNEL | USA"  tvg-logo="https://i.ibb.co.com/TqYYfjPv/peacock.png",Peacock Premier League TV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -4009,44 +4034,68 @@ https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/m
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/4nfV8MJS/pop.png" group-title="CHANNEL | USA",Pop TV
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/gFXqg2ct/pursuit.png" group-title="CHANNEL | USA",Pursuit Channel
+http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291703.ts
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/9HZ2V687/qvc.png" group-title="CHANNEL | USA",QVC
+http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291704.ts
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/8F27tfv/reelz.png" group-title="CHANNEL | USA",Reelz Channel
+http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291707.ts
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/PGbxybfZ/revolt.png" group-title="CHANNEL | USA",Revolt
+http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291708.ts
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/YFs16H9f/sec.png" group-title="CHANNEL | USA",SEC Network
+http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291647.ts
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/gLB9q0Px/showtime.png" group-title="CHANNEL | USA",Showtime
+http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/290964.ts
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/gLB9q0Px/showtime.png" group-title="CHANNEL | USA",Showtime 2
+http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/290965.ts
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/S4C60Yhz/showtime-N.png" group-title="CHANNEL | USA",Showtime Next
+http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/290968.ts
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/S4C60Yhz/showtime-N.png" group-title="CHANNEL | USA",Showtime West
+http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/290969.ts
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/5ghNBfvy/showtime-W.png" group-title="CHANNEL | USA",Showtime Women
+http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/290970.ts
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/gLB9q0Px/showtime.png" group-title="CHANNEL | USA",Showtime Extreme
+http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/290966.ts
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/gLB9q0Px/showtime.png" group-title="CHANNEL | USA",Showtime Family Zone
+http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/290967.ts
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/ynF88tfT/smithsonian.png" group-title="CHANNEL | USA",Smithsonian Channel
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/m5qJ9Vr6/sony-channel.png" group-title="CHANNEL | USA",Sony Movie Channel
+http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/290971.ts
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/LdcSYVN8/stadium.png" group-title="CHANNEL | USA",Stadium Sports Network
+http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291651.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="Starz" tvg-logo="https://i.ibb.co.com/xtWvT0vD/starz.png" group-title="CHANNEL | USA", Starz
+http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/290972.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="Starz Comedy" tvg-logo="https://i.ibb.co.com/KpXq87Pt/starz-comedy.png" group-title="CHANNEL | USA", Starz Comedy
+http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/290974.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="Starz Encore Action" tvg-logo="https://i.ibb.co.com/XZxpz9jq/starz-action.png" group-title="CHANNEL | USA", Starz Encore Action
+http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/290973.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="Starz Encore" tvg-logo="https://i.ibb.co.com/Q3fSCCSk/starz-encore.png" group-title="CHANNEL | USA", Starz Encore
+http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/290975.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="Starz Edge" tvg-logo="https://i.ibb.co.com/B2FnNv6v/starz-edge.png" group-title="CHANNEL | USA", Starz Edge
 
-#EXTINF:-1 tvg-id="" tvg-name="Starz Encore" tvg-logo="https://i.ibb.co.com/Q3fSCCSk/starz-encore.png" group-title="CHANNEL | USA", Starz Encore
 
 #EXTINF:-1 tvg-id="" tvg-name="Starz Encore Westerns" tvg-logo="https://i.ibb.co.com/Q1qX3bc/starz-westerns.png" group-title="CHANNEL | USA", Starz Encore Westerns
 
 #EXTINF:-1 group-title="CHANNEL | USA" tvg-id="SundanceTV.us@East" tvg-logo="https://i.ibb.co.com/C5KF1DYw/sundancetv.png", Sundance TV
+http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291147.ts
 
 #EXTINF:-1 tvg-id="MLBNetwork.us" tvg-name="Syfy" tvg-logo="https://i.ibb.co.com/953b0M9/syfy.png" group-title="CHANNEL | USA", Syfy
 
@@ -4057,6 +4106,7 @@ https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/m
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/XkYnTdDX/tennis-channel.png" group-title="CHANNEL | USA",Tennis Channel
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/bjT29zT5/tlc.png" group-title="CHANNEL | USA",TLC
+http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291715.ts
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/fhqM7FP/tmc.png" group-title="CHANNEL | USA",TMC Channel
 
@@ -4065,12 +4115,14 @@ https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/m
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/WNVR2LSs/trvl.png" group-title="CHANNEL | USA",Travel Channel
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/FL3G7GZ3/trutv.png" group-title="CHANNEL | USA",TruTV
+http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291716.ts
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/nsYbmSTc/tudn.png" group-title="CHANNEL | USA",TUDN
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/jvKkjnY3/tvland.png" group-title="CHANNEL | USA",TV Land
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/Kjf1JfKF/tvone.png" group-title="CHANNEL | USA",TV One
+http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291717.ts
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/bRq70ygN/ufc.png" group-title="CHANNEL | USA",UFC
 
@@ -4093,10 +4145,13 @@ https://nfsnew.newkso.ru/nfs/premium343/mono.m3u8|referer=https://webxzplay.cfd/
 https://leeeeeeeel.dupereasy.com/event/343.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/pr9rmswQ/vh1.png" group-title="CHANNEL | USA",VH1
+http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291148.ts
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/Nd8y7xmV/vice.png" group-title="CHANNEL | USA",Vice TV
+http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291725.ts
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/BHsXNrwv/theweather-channel.png" group-title="CHANNEL | USA",The Weather Channel
+http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291556.ts
 
 #EXTINF:-1 group-title="CHANNEL | USA" tvg-id="WNetwork.ca@East" tvg-logo="https://i.ibb.co.com/5W526bc5/w-network.png", W Network
 
@@ -4110,1129 +4165,203 @@ https://leeeeeeeel.dupereasy.com/event/343.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/JWkrnYj9/wwe.png" group-title="CHANNEL | USA",WWE Network
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/ns8SstpQ/yestv.png" group-title="CHANNEL | USA",YES Network
+http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291657.ts
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: AKC TV HD
+#EXTINF:-1 tvg-logo="" group-title="CHANNEL | USA", US: AKC TV HD
 http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291025.ts
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: Atlanta Channel HD
+#EXTINF:-1 tvg-logo="" group-title="CHANNEL | USA", US: Atlanta Channel HD
 http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291029.ts
 
 
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: FOX Sports 1 HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291052.ts
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: FOX Sports 2 HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291053.ts
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: Georgia Hollywood Review TV HD
+#EXTINF:-1 tvg-logo="" group-title="CHANNEL | USA", US: Georgia Hollywood Review TV HD
 http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291054.ts
 
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: Fight Sports HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291609.ts
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: Motortrend HD
+#EXTINF:-1 tvg-logo="" group-title="CHANNEL | USA", US: Motortrend HD
 http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291621.ts
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: ROOT Sports HD
+#EXTINF:-1 tvg-logo="" group-title="CHANNEL | USA", US: ROOT Sports HD
 http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291646.ts
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: SEC Network HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291647.ts
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: Spectrum Sportsnet HD
+#EXTINF:-1 tvg-logo="" group-title="CHANNEL | USA", US: Spectrum Sportsnet HD
 http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291648.ts
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: Sportsgrid HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291649.ts
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: Sportsman Channel HD
+#EXTINF:-1 tvg-logo="" group-title="CHANNEL | USA", US: Sportsman Channel HD
 http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291650.ts
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: Stadium HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291651.ts
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: Willow HD
+#EXTINF:-1 tvg-logo="" group-title="CHANNEL | USA", US: Willow HD
 http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291653.ts
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: Willow XTRA HD
+#EXTINF:-1 tvg-logo="" group-title="CHANNEL | USA", US: Willow XTRA HD
 http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291654.ts
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: YES Network HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291657.ts
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: Bally Sports Arizona PLUS HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291561.ts
-
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: A&E HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291165.ts
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: American Heroes Channel HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291166.ts
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: Court TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291168.ts
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: Crime+ Investigation HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291169.ts
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: Discovery Channel HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: Discovery Science HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291171.ts
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: Discovery Velocity HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291172.ts
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: History HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291173.ts
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: Infowars HD
+#EXTINF:-1 tvg-logo="" group-title="CHANNEL | USA", US: Infowars HD
 http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291174.ts
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: Investigation Discovery HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291175.ts
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: NASA TV HD
+#EXTINF:-1 tvg-logo="" group-title="CHANNEL | USA", US: NASA TV HD
 http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291176.ts
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: ABC Spark HD
+#EXTINF:-1 tvg-logo="" group-title="CHANNEL | USA", US: ABC Spark HD
 http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/290908.ts
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: GRIT HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/290939.ts
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: HBO 2 HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/290944.ts
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: Lifetime Movies HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/290953.ts
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: MTV 2 HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/290958.ts
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: Paramount Network HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/290960.ts
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: Showtime HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/290964.ts
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: Showtime 2 HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/290965.ts
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: Showtime Extreme HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/290966.ts
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: Showtime Family ZONE HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/290967.ts
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: Showtime NEXT HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/290968.ts
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: Showtime Showcase HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/290969.ts
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: Showtime Women HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/290970.ts
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: Sony Movies HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/290971.ts
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: Starz HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/290972.ts
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: Starz Cinema HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/290973.ts
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: Starz Comedy HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/290974.ts
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: Starz EAST HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/290975.ts
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: HBO HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/290943.ts
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: Accuweather Network HD
+#EXTINF:-1 tvg-logo="" group-title="CHANNEL | USA", US: Accuweather Network HD
 http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291658.ts
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: Discovery Family HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291676.ts
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: Discovery LIFE Channel HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291677.ts
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: E! HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291679.ts
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: FashionTV HD
+#EXTINF:-1 tvg-logo="" group-title="CHANNEL | USA", US: FashionTV HD
 http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291680.ts
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: FOOD Network HD
+#EXTINF:-1 tvg-logo="" group-title="CHANNEL | USA", US: FOOD Network HD
 http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291681.ts
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: Freeform HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291682.ts
+#EXTINF:-1 tvg-logo="" group-title="CHANNEL | USA", US: HGTV HD
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: FUSE HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291683.ts
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: FYI HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291684.ts
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: Game Show Network HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291685.ts
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: HGTV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291688.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: HSN 2 HD
+#EXTINF:-1 tvg-logo="" group-title="CHANNEL | USA", US: HSN 2 HD
 http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291689.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: Indieplex HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291690.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: Inspiration TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291691.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: ION TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291692.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: Justice Central TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291693.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: Lifetime HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291694.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: Magnolia Network HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291695.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: Masterchef HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291696.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: ME TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291697.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: Oprah Winfrey Network (own) HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291698.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: Outdoor Channel HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291699.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: Peach TREE Atlanta Georgia WPCH TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291700.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: People ARE Awesome HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291701.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: PIXL HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291702.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: Pursuit Channel HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291703.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: QVC HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291704.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: QVC 2 HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291705.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: QVC 3 HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291706.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: Reelz HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291707.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: Revolt HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291708.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: Revry HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291709.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: Revry NEWS HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291710.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: RFD TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291711.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: Start TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291712.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: Tastemade HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291713.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: THE PET Collective HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291714.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: TLC HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291715.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: TRU TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291716.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: TV ONE HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291717.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: Animal Planet HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291718.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: Animal Planet Europe HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291719.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: LOVE Nature 4K Ultra HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291720.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: NAT GEO WILD HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291721.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: Wired2fish HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291722.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: ABC 40/29 FORT Smith AR KHBS HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291183.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: ABC Albany NEW YORK WTEN TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291184.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: ABC Albuquerque NEW Mexico KOAT TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291185.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: ABC Asheville North Carolina WLOS TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291186.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: ABC Atlanta Georgia WSB TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291187.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: ABC Augusta Georgia WJBF TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291188.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: ABC Austin Texas KVUE TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291189.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: ABC Bakersfield California KERO TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291190.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: ABC Baltimore Maryland WMAR TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291191.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: ABC Bangor Maine WVII TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291192.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: ABC Baton Rouge Louisiana WBRZ TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291193.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: ABC Battle Creek WOTV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291194.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: ABC Biloxi Mississippi WLOX HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291195.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: ABC Birmingham Alabama WBMA LD HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291196.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: ABC Boston Massachusetts WCVB TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291197.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: ABC Buffalo NEW YORK WKBW TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291198.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: ABC Charlotte North Carolina WSOC TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291199.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: ABC Chicago Illinois WLS TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291200.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: ABC Cincinnati OHIO WCPO TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291201.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: ABC Cleveland OHIO WEWS TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291202.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: ABC Columbus OHIO WSYX TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291203.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: ABC Dallas Texas WFAA TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291204.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: ABC Denver Colorado KMGH TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291205.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: ABC Detroit Michigan WXYZ TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291206.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: ABC Durham North Carolina WTVD TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291207.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: ABC EL PASO Texas KVIA TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291208.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: ABC Fairbanks Alaska KATN TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291209.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: ABC Fresno California KFSN TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291210.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: ABC Greensboro North Carolina WXLV TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291211.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: ABC Hampton Virginia WVEC TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291212.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: ABC Houston Texas KTRK TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291213.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: ABC Indianapolis Indiana WRTV TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291214.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: ABC Jackson Mississippi WAPT TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291215.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: ABC Kansas CITY Missouri KMBC TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291216.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: ABC Lafayette Louisiana KATC TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291217.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: ABC LAS Vegas Nevada KTNV TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291218.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: ABC Little ROCK Arkansas KATV TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291219.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: ABC LOS Angeles California KABC TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291220.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: ABC Madison Wisconsin WKOW TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291221.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: ABC Manchester NEW Hampshire WMUR TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291222.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: ABC Memphis Tennessee WATN TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291223.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: ABC Miami Florida WPLG TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291224.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: ABC Milwaukee Wisconsin WISN TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291225.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: ABC Nampa Idaho KIVI TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291226.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: ABC NEWS HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291227.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: ABC Oklahoma CITY Oklahoma KOCO TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291228.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: ABC Orlando Florida WFTV TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291229.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: ABC Panama CITY Florida WMBB TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291230.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: ABC Philadelphia Pennsylvania WPVI TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291231.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: ABC Phoenix Arizona KNXV TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291232.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: ABC Pittsburgh Pennsylvania WTAE TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291233.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: ABC Sacramento California KXTV TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291234.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: ABC Salinas California KSBW DT 2 HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291235.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: ABC SALT LAKE CITY UTAH KTVX TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291236.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: ABC SAN Antonio Texas KSAT TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291237.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: ABC SAN Diego California KGTV TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291238.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: ABC SAN Francisco California KGO TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291239.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: ABC Savannah Georgia WJCL 22 HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291240.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: ABC Shreveport Louisiana KTBS TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291241.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: ABC South BEND Indiana WBND LD HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291242.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: ABC Syracuse NEW YORK WSYR TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291243.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: ABC Tallahassee Florida WTXL TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291244.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: ABC Tampa Florida WFTS TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291245.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: ABC Toledo OHIO WTVG TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291246.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: ABC Tucson Arizona KGUN TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291247.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: ABC Tulsa Oklahoma KTUL TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291248.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: ABC Washington District OF Columbia WJLA TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291249.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: ABC Wilmington North Carolina WWAY TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291250.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: Augusta Georgia WBPI CD HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291251.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: Black NEWS Channel HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291252.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: Bloomberg TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291253.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: C SPAN HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291254.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: C SPAN 2 HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291255.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: C SPAN 3 HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291256.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: CBN NEWS HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291257.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: CBS Altoona Pennsylvania WTAJ TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291258.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: CBS Atlanta Georgia WGCL TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291259.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: CBS Augusta Georgia WRDW TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291260.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: CBS Baltimore Maryland WJZ TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291261.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: CBS Birmingham Alabama WIAT TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291262.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: CBS Bloomington Indiana WTTV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291263.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: CBS Boise Idaho KBOI TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291264.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: CBS Boston HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291265.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: CBS Boston Massachusetts WBZ TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291266.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: CBS Buffalo NEW YORK WIVB TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291267.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: CBS Butte Montana KBZK TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291268.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: CBS Charlottesville Virginia WCAV TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291269.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: CBS Chicago Illinois WBBM TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291270.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: CBS Cincinnati OHIO WKRC TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291271.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: CBS Cleveland OHIO WOIO TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291272.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: CBS Columbia South Carolina WLTX HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291273.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: CBS Columbus Mississippi WCBI TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291274.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: CBS Columbus OHIO WBNS TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291275.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: CBS Dayton OHIO WHIO TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291276.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: CBS Denver Colorado KCNC TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291277.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: CBS DES Moines IOWA KCCI TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291278.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: CBS Detroit Michigan WWJ TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291279.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: CBS EL PASO Texas KDBC TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291280.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: CBS Eugene Oregon KVAL TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291281.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: CBS Fargo KXJB LD HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291282.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: CBS FORT Myers Florida WINK TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291283.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: CBS FORT Worth Texas KTVT TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291284.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: CBS Goldsboro North Carolina WNCN HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291285.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: CBS Great Falls Montana KRTV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291286.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: CBS Green BAY Wisconsin WFRV TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291287.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: CBS Greensboro North Carolina WFMY TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291288.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: CBS Greenville North Carolina WNCT TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291289.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: CBS Hartford Connecticut WFSB TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291290.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: CBS Honolulu Hawaii KGMB TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291291.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: CBS Houston Texas KHOU TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291292.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: CBS Hutchinson Kansas KWCH DT HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291293.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: CBS Kansas CITY Missouri KCTV TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291294.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: CBS Lafayette Louisiana KLFY TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291295.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: CBS Lansing Michigan WLNS TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291296.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: CBS LAS Vegas Nevada KLAS TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291297.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: CBS Lexington Kentucky WKYT TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291298.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: CBS LOS Angeles California KCBS TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291299.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: CBS Louisville Kentucky WLKY TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291300.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: CBS Miami Florida WFOR TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291301.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: CBS Milwaukee Wisconsin WDJT TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291302.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: CBS Minneapolis Minnesota WCCO TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291303.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: CBS Mobile Alabama WKRG TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291304.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: CBS Monterey California KION TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291305.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: CBS Nashville Tennessee WTVF TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291306.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: CBS NEW Orleans Louisiana WWL TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291307.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: CBS NEW YORK WCBS TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291308.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: CBS NEWS HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291309.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: CBS NEWS LOS Angeles HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291310.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: CBS NEWS NEW YORK HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291311.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: CBS Norfolk Virginia WTKR TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291312.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: CBS Omaha Nebraska KMTV TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291313.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: CBS Orlando Florida WKMG TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291314.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: CBS Panama CITY Florida WECP LD HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291315.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: CBS Philadelphia Pennsylvania KYW TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291316.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: CBS Pittsburgh Pennsylvania KDKA TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291317.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: CBS Portland Oregon KOIN TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291318.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: CBS Providence Rhode Island WPRI TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291319.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: CBS Richmond Virginia WTVR TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291320.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: CBS Sacramento California KMAX TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291321.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: CBS SALT LAKE CITY KUTV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291322.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: CBS SAN Antonio Texas KENS TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291323.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: CBS SAN Diego California KFMB TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291324.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: CBS SAN Francisco California KPIX TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291325.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: CBS Seattle Washington KIRO TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291326.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: CBS Shreveport Louisiana KSLA TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291327.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: CBS ST Louis Missouri KMOV TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291328.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: CBS ST Petersburg Florida WTSP TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291329.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: CBS Stockton California KOVR TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291330.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: CBS Tulsa Oklahoma KOTV DT HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291331.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: CBS Washington WUSA HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291332.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: CBS WEST PALM Beach Florida WPEC TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291333.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: Cheddar NEWS HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291334.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: CNBC HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291335.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: CNBC World HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291336.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: CNN International HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291337.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: CNN USA HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291338.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: FOX 33 Shreveport Louisiana KMSS TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291339.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: FOX Abilene Texas KXVA TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291340.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: FOX Atlanta Georgia WAGA TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291341.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: FOX Austin Texas KTBC TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291342.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: FOX Bakersfield California KBFX CD HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291343.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: FOX Baltimore Maryland WBFF HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291344.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: FOX Bangor Maine WFVX LD HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291345.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: FOX Baton Rouge Louisiana WGMB TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291346.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: FOX Belmont North Carolina WJZY TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291347.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: FOX Birmingham Alabama WBRC TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291348.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: FOX Bloomington Illinois WYZZ TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291349.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: FOX Boston Massachusetts WFXT TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291350.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: FOX Buffalo NEW YORK WUTV TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291351.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: FOX Business HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291352.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: FOX Caldwell Idaho KNIN TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291353.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: FOX CAPE Coral Florida WFTX TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291354.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: FOX Chicago Illinois WFLD TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291355.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: FOX Cleveland OHIO WJW TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291356.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: FOX College Sports Atlantic HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291357.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: FOX College Sports Pacific HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291358.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: FOX Columbus OHIO WTTE TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291359.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: FOX Dallas Texas KDFW TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291360.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: FOX Dayton OHIO WRGT TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291361.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: FOX Denver Colorado KDVR TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291362.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: FOX Deportes HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291363.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: FOX DES Moines IOWA KDSM TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291364.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: FOX Detroit Michigan WJBK TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291365.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: FOX EL PASO Texas KFOX TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291366.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: FOX Eugene Oregon KLSR TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291367.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: FOX Fargo North Dakota KVRR TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291368.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: FOX Grand Rapids Michigan WXMI TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291369.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: FOX Greenville South Carolina WHNS TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291370.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: FOX Gulfport Mississippi WXXV TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291371.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: FOX Hartford Connecticut WTIC TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291372.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: FOX Honolulu Hawaii KHON TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291373.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: FOX Houston Texas KRIV TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291374.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: FOX Indianapolis Indiana WXIN TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291375.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: FOX Jackson Mississippi WDBD TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291376.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: FOX Jacksonville Florida WFOX TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291377.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: FOX Johnstown Pennsylvania WWCP TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291378.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: FOX Kansas CITY Missouri WDAF TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291379.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: FOX Knoxville Tennessee WTNZ TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291380.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: FOX Lansing Michigan WSYM TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291381.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: FOX LAS Vegas Nevada KVVU TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291382.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: FOX LIFE HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291383.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: FOX Miami Florida WSVN TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291384.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: FOX Milwaukee Wisconsin WITI TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291385.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: FOX Minneapolis Minnesota KMSP TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291386.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: FOX Montgomery Alabama WCOV TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291387.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: FOX Nashville Tennessee WZTV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291388.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: FOX NEW Orleans Louisiana WVUE DT HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291389.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: FOX NEW YORK NEW YORK WNYW TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291390.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: FOX NEWS Channel HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291391.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: FOX NEWS NOW HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291392.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: FOX Ocala Florida WOGX TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291393.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: FOX Orlando Florida WOFL TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291394.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: FOX Pittsburgh Pennsylvania WPGH TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291395.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: FOX Sacramento California KTXL TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291396.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: FOX SALT LAKE CITY UTAH KSTU TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291397.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: FOX SAN Diego California KSWB TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291398.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: FOX SAN Francisco California KTVU TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291399.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: FOX ST Louis Missouri KTVI TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291400.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: FOX Syracuse NEW YORK WSYT TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291401.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: FOX Tacoma Washington KCPQ TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291402.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: FOX Tampa Florida WTVT TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291403.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: FOX Toledo OHIO WUPW TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291404.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: FOX Virginia Beach Virginia WVBT HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291405.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: FOX Visalia California KMPH TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291406.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: FOX Washington District OF Columbia WTTG TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291407.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: FOX Weather HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291408.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: FOX WEST PALM Beach Florida WFLX TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291409.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: FOX Winston Salem North Carolina WGHP HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291410.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: FOX YORK Pennsylvania WPMT TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291411.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: FREE Speech TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291412.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: HLN HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291413.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: Jacksonville Florida WJXT HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291414.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: LIVE NOW FROM FOX HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291415.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: LOS Angeles California KCAL TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291416.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: Msnbc HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291417.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: MY Detroit Michigan WMYD TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291418.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: MY Houston Texas KTXH TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291419.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: MY Miami Florida WBFS TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291420.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: MY Nashville Tennessee WUXP TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291421.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: MY Paducah Kentucky WDKA TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291422.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: MY Secaucus NEW Jersey WWOR TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291423.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: MY Williamsport Pennsylvania WQMY TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291424.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: Myrtle Beach South Carolina WMBF TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291425.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: NBC 2 NEWS HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291426.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: NBC 4 Tucson KVOA TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291427.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: NBC 5 FORT Worth Texas KXAS TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291428.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: NBC 26 Green BAY Wisconsin WGBA TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291429.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: NBC Albany NEW YORK WNYT TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291430.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: NBC Alexandria Louisiana KALB TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291431.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: NBC Atlanta Georgia WXIA TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291432.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: NBC Augusta Georgia WAGT CD HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291433.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: NBC Austin Texas KXAN TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291434.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: NBC Bakersfield California KGET TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291435.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: NBC Baltimore Maryland WBAL TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291436.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: NBC Bangor Maine WLBZ HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291437.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: NBC Baton Rouge Louisiana WVLA TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291438.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: NBC Birmingham Alabama WVTM TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291439.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: NBC Bluefield WEST Virginia WVVA HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291440.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: NBC Boise Idaho KTVB TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291441.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: NBC Boston Massachusetts WBTS CD HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291442.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: NBC Bowling Green Kentucky WNKY HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291443.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: NBC Buffalo NEW YORK WGRZ TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291444.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: NBC Butte Montana KTVM TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291445.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: NBC Casper Wyoming KCWY DT HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291446.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: NBC Charleston South Carolina WCBD TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291447.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: NBC Charlotte North Carolina WCNC TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291448.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: NBC Chattanooga Tennessee WRCB TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291449.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: NBC Chicago Illinois WMAQ TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291450.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: NBC Cincinnati OHIO WLWT TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291451.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: NBC Cleveland OHIO WKYC TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291452.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: NBC Columbia South Carolina WIS HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291453.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: NBC Columbus Georgia WLTZ HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291454.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: NBC Columbus OHIO WCMH TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291455.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: NBC Corpus Christi Texas KRIS TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291456.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: NBC Davenport IOWA KWQC TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291457.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: NBC Dayton OHIO WDTN TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291458.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: NBC Daytona Beach Florida WESH TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291459.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: NBC Decatur Illinois WAND HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291460.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: NBC Denver Colorado KUSA TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291461.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: NBC Detroit Michigan WDIV TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291462.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: NBC EL PASO Texas KTSM TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291463.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: NBC Eugene Oregon KMTR TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291464.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: NBC Evansville Indiana WFIE TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291465.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: NBC Fargo North Dakota KVLY TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291466.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: NBC FORT Myers Florida WBBH TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291467.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: NBC Fresno California KSEE HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291468.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: NBC Greensboro North Carolina WXII TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291469.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: NBC Hartford Connecticut WVIT TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291470.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: NBC Honolulu Hawaii KHNL TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291471.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: NBC Houston Texas KPRC TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291472.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: NBC Huntington WEST Virginia WSAZ TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291473.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: NBC Huntsville Alabama WAFF HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291474.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: NBC Indianapolis Indiana WTHR TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291475.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: NBC Jackson Mississippi WLBT TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291476.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: NBC Jacksonville Florida WTLV TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291477.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: NBC Jacksonville Texas KETK TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291478.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: NBC Knoxville Tennessee WBIR TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291479.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: NBC Lancaster Pennsylvania WGAL TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291480.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: NBC Laredo KGNS TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291481.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: NBC Laurel Mississippi WDAM TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291482.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: NBC Lexington Kentucky WLEX TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291483.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: NBC LIMA OHIO WLIO HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291484.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: NBC Little ROCK Arkansas KARK TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291485.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: NBC Louisville Kentucky WAVE TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291486.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: NBC Lubbock Texas KCBD TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291487.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: NBC Madison Wisconsin WMTV TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291488.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: NBC Memphis Tennessee WMC TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291489.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: NBC MESA Arizona KPNX TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291490.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: NBC Miami Florida WTVJ TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291491.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: NBC Milwaukee Wisconsin WTMJ TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291492.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: NBC Minneapolis Minnesota KARE TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291493.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: NBC Montgomery Alabama WSFA TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291494.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: NBC Nashville Tennessee WSMV TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291495.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: NBC NEW Orleans Louisiana WDSU TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291496.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: NBC Omaha Nebraska WOWT HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291498.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: NBC Onondaga Michigan WILX TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291499.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: NBC Paducah Kentucky WPSD TV
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291500.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: NBC PALM Springs California KMIR TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291501.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: NBC Panama CITY Florida WJHG TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291502.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: NBC Philadelphia Pennsylvania WCAU TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291503.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: NBC Pittsburgh Pennsylvania WPXI TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291504.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: NBC Plattsburgh NEW YORK WPTZ TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291505.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: NBC Portland Maine WCSH TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291506.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: NBC Portland Oregon KGW TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291507.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: NBC Pueblo Colorado KOAA TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291508.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: NBC Raleigh North Carolina WRAL TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291509.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: NBC Roanoke Virginia WSLS TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291510.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: NBC Rockford Illinois WREX TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291511.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: NBC Sacramento California KCRA TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291512.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: NBC SALT LAKE CITY UTAH KSL TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291513.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: NBC SAN Antonio Texas WOAI TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291514.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: NBC SAN Diego California KNSD TV
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291515.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: NBC SAN LUIS Obispo KSBY HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291516.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: NBC Savannah Georgia WSAV TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291517.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: NBC Sioux CITY KTIV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291518.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: NBC Sioux Falls South Dakota KDLT TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291519.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: NBC South BEND Indiana WNDU TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291520.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: NBC Spokane Washington KHQ TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291521.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: NBC Springfield Massachusetts WWLP HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291522.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: NBC Springfield Missouri KYTV TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291523.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: NBC ST Louis Missouri KSDK TV
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291524.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: NBC Superior Nebraska KSNB TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291525.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: NBC Tampa Florida WFLA TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291526.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: NBC Temple Texas KCEN DT HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291527.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: NBC Texarkana Louisiana KTAL TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291528.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: NBC Toledo OHIO WNWO TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291529.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: NBC Topeka Kansas KSNT TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291530.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: NBC Tulsa Oklahoma KJRH TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291531.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: NBC Washington District OF Columbia WRC TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291532.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: NBC Washington North Carolina WITN TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291533.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: NBC WEST PALM Beach Florida WPTV TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291534.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: NBC Wilkes Barre Pennsylvania WBRE TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291535.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: NBC Wilmington North Carolina WECT HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291536.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: NBC Yakima Washington KNDO TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291537.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: NBC Youngstown OHIO WFMJ TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291538.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: NBC Zanesville OHIO WHIZ TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291539.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: Nbcsn HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291540.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: NEW England Cable NEWS NECN HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291541.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: NEWS 12 Hudson Valley HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291542.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: NEWS 12 LONG Island HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291543.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: NEWS 12 NEW Jersey HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291544.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: NEWS 12 NEW YORK HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291545.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: NEWS 12 THE Bronx HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291546.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: Newsmax 2 HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291547.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: Newsmax TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291548.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: Newsnation HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291549.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: Newsnet HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291550.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: Newsy HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291551.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: Omaha Nebraska Council Bluffs KPTM TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291552.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: ONE America NEWS Network HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291553.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: REAL Americas Voice HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291554.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: Reuters TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291555.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: THE Weather Channel HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291556.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: Yahoo Finance HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291557.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: Youtoo America YTA TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291558.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: NBC NEW YORK WNBC TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291497.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: 3ABN KIDS HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291149.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: BABY TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291150.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: Babyfirst TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291151.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: Boomerang HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291152.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: Disney Channel HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291154.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: Disney Junior HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291155.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: Disney XD HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291156.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: NICK JR HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291157.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: Nickelodeon HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291158.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: Nickmusic HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291159.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: Nicktoons HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291160.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: PBS KIDS HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291161.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: Teennick HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291162.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: TG Junior HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291163.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: Universal KIDS HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291164.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: Cartoon Network HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291153.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: 360 TUNE BOX HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291106.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: California Music Channel HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291107.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: CLUB MTV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291108.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: CMT Music HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291109.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: MTV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291110.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: MTV 00S HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291111.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: MTV 80S HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291112.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: MTV 90S HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291113.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: MTV Classic HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291114.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: MTV HITS HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291115.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: MTV HITS Latin America HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291116.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: MTV LIVE HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291117.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: MTV LIVE USA HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291118.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: MTV Music HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291119.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: MTV U HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291120.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: Music Choice 90S HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291121.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: Music Choice Classic Alternative HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291122.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: Music Choice Dance EDM HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291123.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: Music Choice HIP HOP & R&B HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291124.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: Music Choice HIT LIST HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291125.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: Music Choice Indie HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291126.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: Music Choice KIDZ BOP HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291127.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: Music Choice KIDZ ONLY HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291128.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: Music Choice MAX HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291129.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: Music Choice Mexican HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291130.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: Music Choice Musica Urbana HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291131.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: Music Choice POP & Country HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291132.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: Music Choice POP HITS HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291133.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: Music Choice POP Latino HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291134.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: Music Choice R&B SOUL HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291135.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: Music Choice RAP HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291136.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: Music Choice ROCK HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291137.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: Music Choice TEEN Beats HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291138.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: Music Choice Throwback JAMZ HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291139.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: Music Choice Todays Country HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291140.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: Music Choice Toddler Tunes HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291141.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: Music Choice Tropicales HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291142.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: Music Choice Y2K HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291143.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: Popstar TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291144.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: Retro Music TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291145.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: Spirit TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291146.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: Sundance TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291147.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: VH1 HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291148.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: Cooking Channel HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291723.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: Gusto TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291724.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | USA", US: VICE HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291725.ts
 
+#EXTINF:-1 tvg-logo="" group-title="CHANNEL | USA", US: Lifetime HD
+http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291694.ts
+
+#EXTINF:-1 tvg-logo="" group-title="CHANNEL | USA", US: Revry HD
+http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291709.ts
+
+#EXTINF:-1 tvg-logo="" group-title="CHANNEL | USA", US: Revry NEWS HD
+http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291710.ts
+
+#EXTINF:-1 tvg-logo="" group-title="CHANNEL | USA", US: RFD TV HD
+http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291711.ts
+
+#EXTINF:-1 tvg-logo="" group-title="CHANNEL | USA", US: Start TV HD
+http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291712.ts
+
+#EXTINF:-1 tvg-logo="" group-title="CHANNEL | USA", US: Tastemade HD
+http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291713.ts
+
+#EXTINF:-1 tvg-logo="" group-title="CHANNEL | USA", US: Animal Planet HD
+http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291718.ts
+
+#EXTINF:-1 tvg-logo="" group-title="CHANNEL | USA", US: Animal Planet Europe HD
+http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291719.ts
+
+#EXTINF:-1 tvg-logo="" group-title="CHANNEL | USA", US: LOVE Nature 4K Ultra HD
+http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291720.ts
+
+#EXTINF:-1 tvg-logo="" group-title="CHANNEL | USA", US: NAT GEO WILD HD
+http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291721.ts
+
+#EXTINF:-1 tvg-logo="" group-title="CHANNEL | USA", US: Wired2fish HD
+http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291722.ts
+
+#EXTINF:-1 tvg-logo="" group-title="CHANNEL | USA", US: CBN NEWS HD
+
+#EXTINF:-1 tvg-logo="" group-title="CHANNEL | USA", US: Cheddar NEWS HD
+http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291334.ts
+
+#EXTINF:-1 tvg-logo="" group-title="CHANNEL | USA", US: FOX NEWS Channel HD
+
+#EXTINF:-1 tvg-logo="" group-title="CHANNEL | USA", US: FREE Speech TV HD
+http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291412.ts
+
+#EXTINF:-1 tvg-logo="" group-title="CHANNEL | USA", US: Jacksonville Florida WJXT HD
+http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291414.ts
+
+#EXTINF:-1 tvg-logo="" group-title="CHANNEL | USA", US: LIVE NOW FROM FOX HD
+http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291415.ts
+
+#EXTINF:-1 tvg-logo="" group-title="CHANNEL | USA", US: LOS Angeles California KCAL TV HD
+http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291416.ts
+
+#EXTINF:-1 tvg-logo="" group-title="CHANNEL | USA", US: Myrtle Beach South Carolina WMBF TV HD
+http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291425.ts
+
+#EXTINF:-1 tvg-logo="" group-title="CHANNEL | USA", US: Nbcsn HD
+http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291540.ts
+
+#EXTINF:-1 tvg-logo="" group-title="CHANNEL | USA", US: NEWS 12 NEW YORK HD
+http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291545.ts
+
+#EXTINF:-1 tvg-logo="" group-title="CHANNEL | USA", US: Newsmax TV HD
+http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291548.ts
+
+#EXTINF:-1 tvg-logo="" group-title="CHANNEL | USA", US: Newsmax 2 HD
+http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291547.ts
+
+#EXTINF:-1 tvg-logo="" group-title="CHANNEL | USA", US: Newsnation HD
+http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291549.ts
+
+#EXTINF:-1 tvg-logo="" group-title="CHANNEL | USA", US: Newsnet HD
+http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291550.ts
+
+#EXTINF:-1 tvg-logo="" group-title="CHANNEL | USA", US: Newsy HD
+http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291551.ts
+
+#EXTINF:-1 tvg-logo="" group-title="CHANNEL | USA", US: ONE America NEWS Network HD
+http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291553.ts
+
+#EXTINF:-1 tvg-logo="" group-title="CHANNEL | USA", US: REAL Americas Voice HD
+http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291554.ts
+
+#EXTINF:-1 tvg-logo="" group-title="CHANNEL | USA", US: Yahoo Finance HD
+http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291557.ts
+
+#EXTINF:-1 tvg-logo="" group-title="CHANNEL | USA", US: NBC NEW YORK WNBC TV HD
+http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291497.ts
+
+#EXTINF:-1 tvg-logo="" group-title="CHANNEL | USA", US: BABY TV HD
+http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291150.ts
+
+#EXTINF:-1 tvg-logo="" group-title="CHANNEL | USA", US: Babyfirst TV HD
+http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291151.ts
+
+#EXTINF:-1 tvg-logo="" group-title="CHANNEL | USA", US: PBS KIDS HD
+http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291161.ts
+
+#EXTINF:-1 tvg-logo="" group-title="CHANNEL | USA", US: Teennick HD
+http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291162.ts
+
+#EXTINF:-1 tvg-logo="" group-title="CHANNEL | USA", US: Universal KIDS HD
+http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291164.ts
+
+#EXTINF:-1 tvg-logo="" group-title="CHANNEL | USA", US: 360 TUNE BOX HD
+http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291106.ts
+
+#EXTINF:-1 tvg-logo="" group-title="CHANNEL | USA", US: California Music Channel HD
+http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291107.ts
+
+#EXTINF:-1 tvg-logo="" group-title="CHANNEL | USA", US: CLUB MTV HD
+http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291108.ts
+
+#EXTINF:-1 tvg-logo="" group-title="CHANNEL | USA", US: CMT Music HD
+http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291109.ts
+
+#EXTINF:-1 tvg-logo="" group-title="CHANNEL | USA", US: MTV 00S HD
+http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291111.ts
+
+#EXTINF:-1 tvg-logo="" group-title="CHANNEL | USA", US: MTV 80S HD
+http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291112.ts
+
+#EXTINF:-1 tvg-logo="" group-title="CHANNEL | USA", US: MTV 90S HD
+http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291113.ts
+
+#EXTINF:-1 tvg-logo="" group-title="CHANNEL | USA", US: MTV Classic HD
+http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291114.ts
+
+#EXTINF:-1 tvg-logo="" group-title="CHANNEL | USA", US: MTV HITS HD
+http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291115.ts
+
+#EXTINF:-1 tvg-logo="" group-title="CHANNEL | USA", US: MTV LIVE HD
+http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291117.ts
+
+#EXTINF:-1 tvg-logo="" group-title="CHANNEL | USA", US: MTV Music HD
+http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291119.ts
+
+#EXTINF:-1 tvg-logo="" group-title="CHANNEL | USA", US: Popstar TV HD
+http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291144.ts
+
+#EXTINF:-1 tvg-logo="" group-title="CHANNEL | USA", US: Spirit TV HD
+http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291146.ts
 
 ---------------
 
@@ -5243,22 +4372,22 @@ http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291725.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", Simpang Lima
 https://pelindung.bandung.go.id:3443/video/DISHUB/splima.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", Asia Afrika Grand Preanger
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", Asia Afrika Preanger
 https://pelindung.bandung.go.id:3443/video/DISHUB/sptamblong.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", Asia Afrika Savor Homann
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", Asia Afrika Homann
 https://pelindung.bandung.go.id:3443/video/HIKSVISION/AsiaAfrikaSimpangBragatiga.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", Asia Afrika Gd Merdeka 1
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", Asia Afrika Gd.Merdeka 1
 https://pelindung.bandung.go.id:3443/video/HIKSVISION/AsiaAfrikaSimpangBragadua.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", Asia Afrika Gd Merdeka 2
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", Asia Afrika Gd.Merdeka 2
 https://pelindung.bandung.go.id:3443/video/HIKSVISION/asiaafrika.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", Cikapundung Gd Merdeka 1
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", Cikapundung Gd.Merdeka 1
 https://pelindung.bandung.go.id:3443/video/HIKSVISION/Soekar.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", Cikapundung Gd Merdeka 2
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", Cikapundung Gd.Merdeka 2
 https://pelindung.bandung.go.id:3443/video/HIKSVISION/Soe.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", Taman Palestina 1
@@ -5267,10 +4396,10 @@ https://pelindung.bandung.go.id:3443/video/DPKP3/tamanpalestinasatu.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", Taman Palestina 2
 https://pelindung.bandung.go.id:3443/video/DPKP3/tamanpalestinadua.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", Asia Afrika Alun Alun 1
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", Asia Afrika Alun-Alun 1
 https://pelindung.bandung.go.id:3443/video/HIKSVISION/AsiaAfrikaBRITowertiga.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", Asia Afrika Alun Alun 2
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", Asia Afrika Alun-Alun 2
 https://pelindung.bandung.go.id:3443/video/HIKSVISION/AsiaAfrikaBRITowerdua.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", Asia Afrika Kantor Pos
@@ -5306,7 +4435,7 @@ https://pelindung.bandung.go.id:3443/video/DAHUA/Cicen.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", Kebon Kawung Cicendo 3
 https://pelindung.bandung.go.id:3443/video/DAHUA/Cicendo.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", Kebon Kawung
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", Kebon Kawung Stasiun
 https://pelindung.bandung.go.id:3443/video/DAHUA/KebonKam.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", Kebon Kawung Paskal
@@ -5348,16 +4477,16 @@ https://pelindung.bandung.go.id:3443/video/HUAWEI/Merjaww.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", Merdeka Balaikota
 https://pelindung.bandung.go.id:3443/video/HUAWEI/Merjaw.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", Merdeka BIP
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", Merdeka BIP 1
 https://pelindung.bandung.go.id:3443/video/DISHUB/spmerdekaaceh.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", Merdeka Aceh 1
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", Merdeka BIP 2
 https://pelindung.bandung.go.id:3443/video/HIKSVISION/maceh.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", Merdeka Aceh 2
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", Merdeka BIP 3
 https://pelindung.bandung.go.id:3443/video/HIKSVISION/macehh.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", Merdeka Aceh 3
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", Merdeka BIP 4
 https://pelindung.bandung.go.id:3443/video/HIKSVISION/macehhh.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", Dago Taman Radio 1
@@ -5459,7 +4588,7 @@ https://pelindung.bandung.go.id:3443/video/HIKSVISION/Dipaunik.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", Dipatiukur Unikom 2
 https://pelindung.bandung.go.id:3443/video/HIKSVISION/Dipaun.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG",  Dipatiukur Sekeloa
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG",  Dipatiukur Sekeloa 1
 https://pelindung.bandung.go.id:3443/video/HIKSVISION/Dipaunp.m3u8
 Pasteur
 
@@ -5496,10 +4625,10 @@ https://pelindung.bandung.go.id:3443/video/HIKSVISION/Muspusdai.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", Surapati Pusdai 2
 https://pelindung.bandung.go.id:3443/video/HIKSVISION/Muspus.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", Pusdai 1
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", Diponegoro Pusdai 1
 https://pelindung.bandung.go.id:3443/video/DAHUA/Pusdai.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", Pusdai 2
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", Diponegoro Pusdai 2
 https://pelindung.bandung.go.id:3443/video/HIKSVISION/Pusda.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", Supratman Anggrek 1
@@ -5589,16 +4718,16 @@ https://pelindung.bandung.go.id:3443/video/DISHUB/spsundavet.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG",  Sunda Jawa
 https://atcs-dishub.bandung.go.id:1990/SundaJaw/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", Ahmad Yani Kosambi 1
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", A.Yani Kosambi 1
 https://pelindung.bandung.go.id:3443/video/DAHUA/PasarKomb.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", Kosambi 2
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", A.Yani Kosambi 2
 https://pelindung.bandung.go.id:3443/video/DAHUA/PasarKosam.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", Ahmad Yani Malabar 1
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", A.Yani Malabar 1
 https://pelindung.bandung.go.id:3443/video/HIKSVISION/AhmadYanipertigaanmalabar.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", Ahmad Yani Malabar 2
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", A.Yani Malabar 2
 https://pelindung.bandung.go.id:3443/video/HIKSVISION/AhmadYanipertigaanmalabardua.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", Burangrang BPI 1
@@ -5637,16 +4766,16 @@ https://pelindung.bandung.go.id:3443/video/HIKSVISION/KepatihanTengah.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", Kepatihan Kings 2
 https://pelindung.bandung.go.id:3443/video/HIKSVISION/KepatihanTengahh.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", Dalem Kaum Pedestrian 1
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", Dalem Kaum Masjid Agung
 https://pelindung.bandung.go.id:3443/video/HIKSVISION/Dalkaum.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", Dalem Kaum Pedestrian 2
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", Dalem Kaum Pedestrian
 https://pelindung.bandung.go.id:3443/video/HIKSVISION/Dalkam.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", Dalem Kaum Alun Alun 1
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", Dalem Kaum Alun-Alun 1
 https://pelindung.bandung.go.id:3443/video/HIKSVISION/Deppendo.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", Dalem Kaum Alun Alun 2
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", Dalem Kaum Alun-Alun 2
 https://pelindung.bandung.go.id:3443/video/HIKSVISION/Deppen.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", Otista Dalam Kaum
@@ -5667,10 +4796,10 @@ https://pelindung.bandung.go.id:3443/video/DISHUB/sptegalega.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", Peta Inti
 https://pelindung.bandung.go.id:3443/video/DISHUB/spptinti.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", Moh Toha Hubdam 1
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", Moh.Toha Hubdam 1
 https://pelindung.bandung.go.id:3443/video/HIKSVISION/Tohdepan.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", Moh Toha Hubdam 2
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", Moh Toha.Hubdam 2
 https://pelindung.bandung.go.id:3443/video/HIKSVISION/Tohdep.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", Taman Tegalega 1
@@ -5697,7 +4826,7 @@ https://pelindung.bandung.go.id:3443/video/DPKP3/tamantegalegaduabelas.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", Taman Tegalega 8
 https://pelindung.bandung.go.id:3443/video/DPKP3/tamantegalegatigabelas.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", Moh Toha Ciateul
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", Moh.Toha Ciateul
 https://pelindung.bandung.go.id:3443/video/DAHUA/CIA.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", Ciateul
@@ -5709,12 +4838,11 @@ https://pelindung.bandung.go.id:3443/video/DISHUB/spmramdhan.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", Lingkar Selatan Sriwijaya
 https://pelindung.bandung.go.id:3443/video/DISHUB/spsriwijaya.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", Lingkar Selatan Buahbatu
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", Lingkar Selatan Bubat
 https://pelindung.bandung.go.id:3443/video/DISHUB/splingkarbubat.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", Buahbatu Griya
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", Bubat Griya
 https://pelindung.bandung.go.id:3443/video/HIKSVISION/Buahgriya.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", Simpang Talaga Bodas
 https://atcs-dishub.bandung.go.id:1990/sptalagabodas/stream.m3u8
@@ -5760,16 +4888,16 @@ https://pelindung.bandung.go.id:3443/video/HIKSVISION/Garutkp.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", Jakarta HKBP
 https://pelindung.bandung.go.id:3443/video/DAHUA/JAK.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", Kiaracondong Kiara Park
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", Kircon Kiara Park
 https://pelindung.bandung.go.id:3443/video/DAHUA/KIRCON.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", Fly Over Kiaracondong
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", Fly Over Kircon
 https://pelindung.bandung.go.id:3443/video/DAHUA/KIRC.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", Kiaracondong Rel Kereta 1
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", Kircon Rel Kereta 1
 https://pelindung.bandung.go.id:3443/video/HIKSVISION/Keretakir.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", Kiaracondong Rel Kereta 2
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", Kircon Rel Kereta 2
 https://pelindung.bandung.go.id:3443/video/HIKSVISION/Kereta.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", Pasar Kiaracondong 1
@@ -5778,11 +4906,11 @@ https://pelindung.bandung.go.id:3443/video/HIKSVISION/pasarkirconn.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", Pasar Kiaracondong 2
 https://pelindung.bandung.go.id:3443/video/HIKSVISION/pasarkircon.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", Kiaracondong
-https://pelindung.bandung.go.id:3443/video/DPU/ibrahimadjie.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG",  Kiaracondong Binong
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG",  Kircon Binong
 https://pelindung.bandung.go.id:3443/video/HIKSVISION/kirconbinongg.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", Kircon Binong 2
+https://pelindung.bandung.go.id:3443/video/DPU/ibrahimadjie.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", Gatsu Binong
 https://pelindung.bandung.go.id:3443/video/HIKSVISION/Gatbino.m3u8
@@ -5814,25 +4942,25 @@ https://pelindung.bandung.go.id:3443/video/HIKSVISION/SoetaMetrodealerMercy.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", Soekarno Hatta Metro 2
 https://pelindung.bandung.go.id:3443/video/HIKSVISION/SoetaMetrodealerMercydua.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", Soekarno Hatta Buahbatu 1
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", Soekarno Hatta Bubat 1
 https://atcs-dishub.bandung.go.id:1990/Buahbatu/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", Soekarno Hatta Buahbatu 2
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", Soekarno Hatta Bubat 2
 https://atcs-dishub.bandung.go.id:1990/BubatTim/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", Soekarno Hatta Buahbatu 3
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", Soekarno Hatta Bubat 3
 https://atcs-dishub.bandung.go.id:1990/BubatSel/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", Soekarno Hatta Buahbatu 4
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", Soekarno Hatta Bubat 4
 https://atcs-dishub.bandung.go.id:1990/BubatBar/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", Soekarno Hatta Buahbatu 5
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", Soekarno Hatta Bubat 5
 https://atcs-dishub.bandung.go.id:1990/BubatUt/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", Terusan Bubat Kordon 1
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", Ters.Bubat Kordon 1
 https://pelindung.bandung.go.id:3443/video/HIKSVISION/Perkordon.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", Terusan Bubat Kordon 2
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", Ters.Bubat Kordon 2
 https://pelindung.bandung.go.id:3443/video/HIKSVISION/Perkor.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", Pasar Kordon
@@ -5841,13 +4969,13 @@ https://pelindung.bandung.go.id:3443/video/DAHUA/BUBA.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", Margacinta Tugu
 https://pelindung.bandung.go.id:3443/video/DAHUA/BUB.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", Ters. Terusan Bubat Bojongsoang 1
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", Ters. Ters.Bubat Bojongsoang 1
 https://pelindung.bandung.go.id:3443/video/HIKSVISION/Terbuahbatu.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", Terusan Bubat Bojongsoang 2
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", Ters.Bubat Bojongsoang 2
 https://pelindung.bandung.go.id:3443/video/HIKSVISION/TerusanBuahBatu.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", Terusan Bubat Bojongsoang 3
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", Ters.Bubat Bojongsoang 3
 https://pelindung.bandung.go.id:3443/video/HIKSVISION/TerusanBuahBatudua.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", Batununggal Indah 1
@@ -5863,26 +4991,26 @@ https://atcs-dishub.bandung.go.id:1990/Batununggal/stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", Soekarno Hatta Batununggal 2
 https://atcs-dishub.bandung.go.id:1990/BatuBar/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", Soekarno Hatta Moh Toha 1
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", Soekarno Hatta Moh.Toha 1
 https://pelindung.bandung.go.id:3443/video/DISHUB/spmohtoha.m3u8
 https://atcs-dishub.bandung.go.id:1990/MochToha/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", Soekarno Hatta Moh Toha 2
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", Soekarno Hatta Moh.Toha 2
 https://atcs-dishub.bandung.go.id:1990/TohaTim/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", Soekarno Hatta Moh Toha 3
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", Soekarno Hatta Moh.Toha 3
 https://atcs-dishub.bandung.go.id:1990/TohaBar/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", Soekarno Hatta Moh Toha 4
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", Soekarno Hatta Moh.Toha 4
 https://atcs-dishub.bandung.go.id:1990/TohaUt/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", Soekarno Hatta Moh Toha 5
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", Soekarno Hatta Moh.Toha 5
 https://atcs-dishub.bandung.go.id:1990/TohaSel/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", Moh Toha Sartika Asih 1
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", Moh.Toha Sartika Asih 1
 https://pelindung.bandung.go.id:3443/video/HIKSVISION/Tohrs.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", Moh Toha Sartika Asih 2
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", Moh.Toha Sartika Asih 2
 https://pelindung.bandung.go.id:3443/video/HIKSVISION/Tohr.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", Soekarno Hatta Cibaduyut
@@ -5903,10 +5031,10 @@ https://pelindung.bandung.go.id:3443/video/HIKSVISION/Flykop.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", Soekarno Hatta Caringin
 https://pelindung.bandung.go.id:3443/video/DISHUB/spcaringin.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", Soekarno Hatta Ters Pasirkoja 1
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", Soekarno Hatta Ters.Pasirkoja 1
 https://atcs-dishub.bandung.go.id:1990/PaskojUt/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", Soekarno Hatta Ters Pasirkoja 2
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", Soekarno Hatta Ters.Pasirkoja 2
 https://atcs-dishub.bandung.go.id:1990/PaskojSel/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", Kopo Miko Mall 1
@@ -5915,10 +5043,10 @@ https://pelindung.bandung.go.id:3443/video/HIKSVISION/Koposebrangmikomall.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", Kopo Miko Mall 2
 https://pelindung.bandung.go.id:3443/video/HIKSVISION/Koposebrangmikomalldua.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", Kopo BizPark
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", Kopo BizPark 1
 https://pelindung.bandung.go.id:3443/video/DAHUA/KOPOBizpark.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", Kopo BRI BizPark
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", Kopo BizPark 2
 https://pelindung.bandung.go.id:3443/video/DAHUA/KOPOBiz.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", Kopo RS Kiwari 1
@@ -5933,7 +5061,7 @@ https://pelindung.bandung.go.id:3443/video/DPU/kopocitarip.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", Peta Babakan Ciparay
 https://pelindung.bandung.go.id:3443/video/HIKSVISION/sukahajiiii.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", Peta Terusan Pasirkoja
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", Peta Ters.Pasirkoja
 https://pelindung.bandung.go.id:3443/video/HIKSVISION/sukahaji.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", Pagarsih 1
@@ -5987,22 +5115,19 @@ https://pelindung.bandung.go.id:3443/video/DAHUA/CIM.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", Cimindi 2
 https://pelindung.bandung.go.id:3443/video/HIKSVISION/Flycim.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", Cimindi 3
-https://pelindung.bandung.go.id:3443/video/HIKSVISION/Flycimin.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", Fly Over Cimindi 1
 https://pelindung.bandung.go.id:3443/video/DAHUA/CIMINDI.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", Fly Over Cimindi 2
 https://pelindung.bandung.go.id:3443/video/DAHUA/CIMIN.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", Fly Over Cimindi 4
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", Fly Over Cimindi 3
 https://pelindung.bandung.go.id:3443/video/DAHUA/CIMND.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", Cimindi Gn. Batu 1
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", Cimindi Gn.Batu 1
 https://pelindung.bandung.go.id:3443/video/DAHUA/CIMD.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", Cimindi Gn. Batu 2
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", Cimindi Gn.Batu 2
 https://pelindung.bandung.go.id:3443/video/DAHUA/CIMIND.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", Cimindi Cimahi
@@ -6150,10 +5275,10 @@ https://pelindung.bandung.go.id:3443/video/DAHUA/Jalapra.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", Surapati Jalaprang 2
 https://pelindung.bandung.go.id:3443/video/DAHUA/Jalaprang.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", Katamso 1
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", Katamso Cisokan 1
 https://pelindung.bandung.go.id:3443/video/DAHUA/Katamsoke.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", Katamso 2
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", Katamso Cisokan 2
 https://pelindung.bandung.go.id:3443/video/DAHUA/Katamsok.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", Katamso Pahlawan 1
@@ -6228,10 +5353,10 @@ https://pelindung.bandung.go.id:3443/video/DAHUA/CI.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", Cicadas Gateaway 2
 https://pelindung.bandung.go.id:3443/video/DAHUA/CICAB.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", Pertigaan Cicadas Kiaracondong 1
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", Pertigaan Cicadas Kircon 1
 https://pelindung.bandung.go.id:3443/video/HIKSVISION/pertigaancicadas.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", Pertigaan Cicadas Kiaracondong 2
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", Pertigaan Cicadas Kircon 2
 https://pelindung.bandung.go.id:3443/video/HIKSVISION/pertigaancicadass.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", Antapani Fly Over 1
@@ -6274,8 +5399,6 @@ https://pelindung.bandung.go.id:3443/video/DAHUA/CICA.m3u8
 https://pelindung.bandung.go.id:3443/video/DAHUA/Arcamanik.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", AH Nasution Arcamanik 2
-https://pelindung.bandung.go.id:3443/video/DAHUA/Arcamanik.m3u8
-
 https://pelindung.bandung.go.id:3443/video/DAHUA/Arca.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", AH Nasution Cijambe
