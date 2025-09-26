@@ -1,3 +1,4 @@
+
 113.000.404.11.2
 
 
@@ -481,7 +482,7 @@ http://103.179.182.117:6768/hls/29/29.m3u8
 https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd
 http://103.179.182.117:6768/hls/26/26.m3u8
 
-#EXTINF:-1 tvg-id="HBO.HD.id" tvg-logo="https://i.ibb.co.com/FbFwrv0w/hbo-usa.png" group-title="CHANNEL | MOVIE",HBO+
+#EXTINF:-1 tvg-id="HBO.HD.id" tvg-logo="https://i.ibb.co.com/JWky7L3b/hbo.png" group-title="CHANNEL | MOVIE",HBO+
 #KODIPROP:inputstream.adaptive.stream_headers=Referer="https://www.izzigo.tv/"
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
@@ -495,7 +496,7 @@ https://live-atv-cdn.izzigo.tv/5/out/u/dash/HBO-PLUS-HD/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=09e84fc7ecb71def143cd7e2771f3b35:1a91f2d315fb0593321ba60aa783ec2c
 https://live-atv-cdn.izzigo.tv/5/out/u/dash/HBO2-HD/default.mpd
 
-#EXTINF:-1 tvg-id="HBO.HD.id" tvg-logo="https://i.ibb.co.com/S7tGJpTf/hbo.png" group-title="CHANNEL | MOVIE",HBO Pop
+#EXTINF:-1 tvg-id="HBO.HD.id" tvg-logo="https://i.ibb.co.com/zVhC7LW4/hbo-pop.png" group-title="CHANNEL | MOVIE",HBO Pop
 #KODIPROP:inputstream.adaptive.stream_headers=Referer="https://www.izzigo.tv/"
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
@@ -506,7 +507,7 @@ https://live-atv-cdn.izzigo.tv/5/out/u/dash/HBO-POP-HD/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=bc8d4369fcff86db765db82356b4797c:8a7e801dbc275e3f4e1f43cba648906a
-#EXTINF:-1 tvg-id="HBO.HD.id" tvg-logo="https://i.ibb.co.com/S7tGJpTf/hbo.png" group-title="CHANNEL | MOVIE",HBO Xtreme
+#EXTINF:-1 tvg-id="HBO.HD.id" tvg-logo="https://i.ibb.co.com/4ZD4rkb8/hbo-xtreme.png" group-title="CHANNEL | MOVIE",HBO Xtreme
 https://zap-live1-ott.izzigo.tv/5/out/u/dash/HBO-XTREME-HD/default.mpd
 
 #EXTINF:-1 group-title="CHANNEL | MOVIE" tvg-id="GALAXY" tvg-url="https://bit.ly/IndonesiaEpgG" tvg-logo="https://i.ibb.co.com/s9Mw63MP/galaxy.png",Galaxy
@@ -2959,6 +2960,9 @@ https://d1abp075u76pbq.cloudfront.net/live/eds/EuroNews/sa_dash_vmx/EuroNews.mpd
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/j9DMSDS8/rte2.png" group-title="CHANNEL | EUROPE", RTE 2 IE
 
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/FGv8wmy/animal-planet.png" group-title="CHANNEL | EUROPEAN", Animal Planet
+http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291719.ts
+
 FR
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/yrCc6f3/bein1-fr.png" group-title="CHANNEL | EUROPE", BeIN Sports 1 FR
@@ -3619,6 +3623,7 @@ http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291165.ts
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/4RqsHf6r/abc-ny.png" group-title="CHANNEL | USA",ABC NY
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/rRZ6G250/acc-network.png" group-title="CHANNEL | USA",ACC Network
+http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291658.ts
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/SD9jjxtC/adult-swim.png" group-title="CHANNEL | USA",Adult Swim
 
@@ -3630,8 +3635,12 @@ http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291165.ts
 http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291166.ts
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/FGv8wmy/animal-planet.png" group-title="CHANNEL | USA",Animal Planet
+http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291718.ts
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/fYzZqkL8/aspire.png" group-title="CHANNEL | USA",Aspire
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8gv2BkG1/atlanta.png" group-title="CHANNEL | USA", Atlanta Channel
+http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291029.ts
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/KxGn16JT/axs.png" group-title="CHANNEL | USA",AXS TV
 
@@ -3689,6 +3698,9 @@ http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291034.ts
 
 #EXTINF:-1 tvg-id="CBSSportsNetwork.us" tvg-name="CBS_SPORTS_NETWORK" tvg-logo="https://i.ibb.co.com/kgZ56xc0/cbs-sport.png" group-title="CHANNEL | USA", CBS Sports Network Golazo
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Myjnj1jF/cmc.png" group-title="CHANNEL | USA", US: California Music Channel
+http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291107.ts
+
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/BV3P6X4m/cinemax-usa.png" group-title="CHANNEL | USA",Cinemax
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/KzVLyzNK/cinemax.png" group-title="CHANNEL | USA",Cinemax East
@@ -3702,6 +3714,7 @@ http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291034.ts
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/Jj3Q1kjf/cleotv.png" group-title="CHANNEL | USA",Cleo TV
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/PzPvgVM3/cmt.png" group-title="CHANNEL | USA",CMT
+http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291109.ts
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/zHDWsZfm/cnbc.png" group-title="CHANNEL | USA",CNBC
 http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291335.ts
@@ -3802,8 +3815,7 @@ http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291605.ts
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/5hJcFXSG/espn-news.png" group-title="CHANNEL | USA",ESPNews
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/HDzDBXG3/fashiontv.png" group-title="CHANNEL | USA",Fashion TV
-https://fash1043.cloudycdn.services/slive/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist.m3u8
-https://raw.githubusercontent.com/mimipipi22/lalajo/main/Streaming/lifestyle/fashionmidnight.m3u8
+http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291680.ts
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/HpXVpJsr/fetv.png" group-title="CHANNEL | USA",FETV
 
@@ -3811,10 +3823,7 @@ https://raw.githubusercontent.com/mimipipi22/lalajo/main/Streaming/lifestyle/fas
 http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291609.ts
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/20SRKFDj/food-network.png" group-title="CHANNEL | USA",The Food Network
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6dc31ac1031242a8b0c37286acb66a37:648286167b494bf9ee122eced0e37de1
-https://atemecdnbalancer-voe.sysln.id/live/eds/FoodNetworkHD/mpd/FoodNetworkHD.mpd
+http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291681.ts
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/357L5qRH/fox.png" group-title="CHANNEL | USA",Fox
 
@@ -3913,6 +3922,7 @@ http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291175.ts
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/Lz0LCMW3/laff.png" group-title="CHANNEL | USA",Laff TV
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/RG4ZTyf8/lifetime.png" group-title="CHANNEL | USA",Lifetime Network
+http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291694.ts
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/JjQNcwrT/lifetime-movies.png" group-title="CHANNEL | USA",Lifetime Movies Network
 http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/290953.ts
@@ -3920,6 +3930,7 @@ http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/290953.ts
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/V0p1ZLMJ/longhorn.png" group-title="CHANNEL | USA",Longhorn Network
 
 #EXTINF:-1 tvg-id="" tvg-name="Love Nature" tvg-logo="https://i.ibb.co.com/HTzXCKWT/love-nature.png" group-title="CHANNEL | USA", Love Nature
+http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291720.ts
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/bjH1rSSS/magnolia.png" group-title="CHANNEL | USA",Magnolia Network
 http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291695.ts
@@ -3945,6 +3956,7 @@ http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291697.ts
 http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291417.ts
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/5h0p67hH/mtrspt1.png" group-title="CHANNEL | USA",Motor Trend
+http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291621.ts
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/Fk80Y7sv/mtv.png" group-title="CHANNEL | USA",MTV
 http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291110.ts
@@ -3953,8 +3965,28 @@ http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291110.ts
 http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/290958.ts
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/5WmfNcZ9/mtv-classic.png" group-title="CHANNEL | USA",MTV Classic
+http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291114.ts
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/q3by4DZx/mtv-live.png" group-title="CHANNEL | USA",MTV Live
+http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291117.ts
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/G4WMXp87/mtv-music.png" group-title="CHANNEL | USA", MTV 80’s
+http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291112.ts
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/bgLNh5xg/mtv90s.png" group-title="CHANNEL | USA", MTV 90’s
+http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291113.ts
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/V0ZVkmps/mtv-biggest-pop.png" group-title="CHANNEL | USA", MTV 00’s
+http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291111.ts
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Lh9vgQF3/mtv-bestof.png" group-title="CHANNEL | USA", MTV Hits
+http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291115.ts
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/G4WMXp87/mtv-music.png" group-title="CHANNEL | USA", MTV Music
+http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291119.ts
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/bj6SjvPj/mtv-spankin.png" group-title="CHANNEL | USA", Club MTV
+http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291108.ts
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/s97kFjSn/mtv-u.png" group-title="CHANNEL | USA",MTV U
 
@@ -3963,6 +3995,7 @@ http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/290958.ts
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/4Zr1k1yC/natgeo-usa.png" group-title="CHANNEL | USA",National Geographic
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/yFr1rQzh/natgeo-wild-usa.png" group-title="CHANNEL | USA",Nat Geo Wild
+http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291721.ts
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/pvj0hw86/nbatv.png" group-title="CHANNEL | USA",NBA TV
 
@@ -3986,8 +4019,13 @@ http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291426.ts
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/dsGBkBGZ/nesn.png" group-title="CHANNEL | USA",NESN
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/Pvh735mN/news-nation.png" group-title="CHANNEL | USA",News Nation
+http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291549.ts
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/fd44LdPp/newsmax.png" group-title="CHANNEL | USA",Newsmax
+http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291548.ts
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/fd44LdPp/newsmax.png" group-title="CHANNEL | USA",Newsmax 2
+http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291547.ts
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/JWbxHstG/nfl-network.png" group-title="CHANNEL | USA",NFL Network
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -4032,6 +4070,7 @@ http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/290960.ts
 https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/master.mpd
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/4nfV8MJS/pop.png" group-title="CHANNEL | USA",Pop TV
+http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291144.ts
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/gFXqg2ct/pursuit.png" group-title="CHANNEL | USA",Pursuit Channel
 http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291703.ts
@@ -4044,6 +4083,9 @@ http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291707.ts
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/PGbxybfZ/revolt.png" group-title="CHANNEL | USA",Revolt
 http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291708.ts
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/j9kyXwZf/root-sport.png" group-title="CHANNEL | USA", Root Sports
+http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291646.ts
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/YFs16H9f/sec.png" group-title="CHANNEL | USA",SEC Network
 http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291647.ts
@@ -4074,8 +4116,20 @@ http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/290967.ts
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/m5qJ9Vr6/sony-channel.png" group-title="CHANNEL | USA",Sony Movie Channel
 http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/290971.ts
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/67qct3T1/spectrum.png" group-title="CHANNEL | USA", Spectrum Sportsnet
+http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291648.ts
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/4wcsC1M3/spirittv.png" group-title="CHANNEL | USA", Spirit TV HD
+http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291146.ts
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/0j0SxfRp/sportsman.png" group-title="CHANNEL | USA", Sportsman Channel
+http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291650.ts
+
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/LdcSYVN8/stadium.png" group-title="CHANNEL | USA",Stadium Sports Network
 http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291651.ts
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/zW4HMxg5/starttv.png" group-title="CHANNEL | USA", Start TV
+http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291712.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="Starz" tvg-logo="https://i.ibb.co.com/xtWvT0vD/starz.png" group-title="CHANNEL | USA", Starz
 http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/290972.ts
@@ -4091,13 +4145,18 @@ http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/290975.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="Starz Edge" tvg-logo="https://i.ibb.co.com/B2FnNv6v/starz-edge.png" group-title="CHANNEL | USA", Starz Edge
 
-
 #EXTINF:-1 tvg-id="" tvg-name="Starz Encore Westerns" tvg-logo="https://i.ibb.co.com/Q1qX3bc/starz-westerns.png" group-title="CHANNEL | USA", Starz Encore Westerns
 
 #EXTINF:-1 group-title="CHANNEL | USA" tvg-id="SundanceTV.us@East" tvg-logo="https://i.ibb.co.com/C5KF1DYw/sundancetv.png", Sundance TV
 http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291147.ts
 
 #EXTINF:-1 tvg-id="MLBNetwork.us" tvg-name="Syfy" tvg-logo="https://i.ibb.co.com/953b0M9/syfy.png" group-title="CHANNEL | USA", Syfy
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/bMWjJd7x/tastemade.png" group-title="CHANNEL | USA", Tastemade
+http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291713.ts
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/nMdhRxCz/teennick.png" group-title="CHANNEL | USA", Teennick
+http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291162.ts
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/gbpkwL3v/tbs.png" group-title="CHANNEL | USA",TBS
 
@@ -4160,6 +4219,12 @@ http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291556.ts
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/8CwncN5/wgn.png
 " group-title="CHANNEL | USA",WGN
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/BVH9sHFw/willow.png" group-title="CHANNEL | USA", Willow
+http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291653.ts
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/BVH9sHFw/willow.png" group-title="CHANNEL | USA", Willow 2
+http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291654.ts
+
 #EXTINF:-1 tvg-id="" tvg-name="World Fishing Network" tvg-logo="https://i.ibb.co.com/s9jq5bxV/worldfishing.png" group-title="CHANNEL | USA", World Fishing Network
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/JWkrnYj9/wwe.png" group-title="CHANNEL | USA",WWE Network
@@ -4168,61 +4233,17 @@ http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291556.ts
 http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291657.ts
 
 
-#EXTINF:-1 tvg-logo="" group-title="CHANNEL | USA", US: AKC TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291025.ts
+#EXTINF:-1 tvg-logo="" group-title="CHANNEL | USA", US: ABC Spark HD
+http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/290908.ts
 
-#EXTINF:-1 tvg-logo="" group-title="CHANNEL | USA", US: Atlanta Channel HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291029.ts
-
-
-#EXTINF:-1 tvg-logo="" group-title="CHANNEL | USA", US: Georgia Hollywood Review TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291054.ts
-
-#EXTINF:-1 tvg-logo="" group-title="CHANNEL | USA", US: Motortrend HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291621.ts
-
-#EXTINF:-1 tvg-logo="" group-title="CHANNEL | USA", US: ROOT Sports HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291646.ts
-
-
-#EXTINF:-1 tvg-logo="" group-title="CHANNEL | USA", US: Spectrum Sportsnet HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291648.ts
-
-#EXTINF:-1 tvg-logo="" group-title="CHANNEL | USA", US: Sportsman Channel HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291650.ts
-
-#EXTINF:-1 tvg-logo="" group-title="CHANNEL | USA", US: Willow HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291653.ts
-
-#EXTINF:-1 tvg-logo="" group-title="CHANNEL | USA", US: Willow XTRA HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291654.ts
+#EXTINF:-1 tvg-logo="" group-title="CHANNEL | USA", US: HSN 2 HD
+http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291689.ts
 
 #EXTINF:-1 tvg-logo="" group-title="CHANNEL | USA", US: Infowars HD
 http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291174.ts
 
 #EXTINF:-1 tvg-logo="" group-title="CHANNEL | USA", US: NASA TV HD
 http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291176.ts
-
-#EXTINF:-1 tvg-logo="" group-title="CHANNEL | USA", US: ABC Spark HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/290908.ts
-
-#EXTINF:-1 tvg-logo="" group-title="CHANNEL | USA", US: Accuweather Network HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291658.ts
-
-#EXTINF:-1 tvg-logo="" group-title="CHANNEL | USA", US: FashionTV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291680.ts
-
-#EXTINF:-1 tvg-logo="" group-title="CHANNEL | USA", US: FOOD Network HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291681.ts
-
-#EXTINF:-1 tvg-logo="" group-title="CHANNEL | USA", US: HGTV HD
-
-
-#EXTINF:-1 tvg-logo="" group-title="CHANNEL | USA", US: HSN 2 HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291689.ts
-
-#EXTINF:-1 tvg-logo="" group-title="CHANNEL | USA", US: Lifetime HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291694.ts
 
 #EXTINF:-1 tvg-logo="" group-title="CHANNEL | USA", US: Revry HD
 http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291709.ts
@@ -4233,81 +4254,23 @@ http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291710.ts
 #EXTINF:-1 tvg-logo="" group-title="CHANNEL | USA", US: RFD TV HD
 http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291711.ts
 
-#EXTINF:-1 tvg-logo="" group-title="CHANNEL | USA", US: Start TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291712.ts
-
-#EXTINF:-1 tvg-logo="" group-title="CHANNEL | USA", US: Tastemade HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291713.ts
-
-#EXTINF:-1 tvg-logo="" group-title="CHANNEL | USA", US: Animal Planet HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291718.ts
-
-#EXTINF:-1 tvg-logo="" group-title="CHANNEL | USA", US: Animal Planet Europe HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291719.ts
-
-#EXTINF:-1 tvg-logo="" group-title="CHANNEL | USA", US: LOVE Nature 4K Ultra HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291720.ts
-
-#EXTINF:-1 tvg-logo="" group-title="CHANNEL | USA", US: NAT GEO WILD HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291721.ts
-
 #EXTINF:-1 tvg-logo="" group-title="CHANNEL | USA", US: Wired2fish HD
 http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291722.ts
-
-#EXTINF:-1 tvg-logo="" group-title="CHANNEL | USA", US: CBN NEWS HD
 
 #EXTINF:-1 tvg-logo="" group-title="CHANNEL | USA", US: Cheddar NEWS HD
 http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291334.ts
 
-#EXTINF:-1 tvg-logo="" group-title="CHANNEL | USA", US: FOX NEWS Channel HD
-
-#EXTINF:-1 tvg-logo="" group-title="CHANNEL | USA", US: FREE Speech TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291412.ts
-
-#EXTINF:-1 tvg-logo="" group-title="CHANNEL | USA", US: Jacksonville Florida WJXT HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291414.ts
-
 #EXTINF:-1 tvg-logo="" group-title="CHANNEL | USA", US: LIVE NOW FROM FOX HD
 http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291415.ts
 
-#EXTINF:-1 tvg-logo="" group-title="CHANNEL | USA", US: LOS Angeles California KCAL TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291416.ts
-
-#EXTINF:-1 tvg-logo="" group-title="CHANNEL | USA", US: Myrtle Beach South Carolina WMBF TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291425.ts
-
 #EXTINF:-1 tvg-logo="" group-title="CHANNEL | USA", US: Nbcsn HD
 http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291540.ts
-
-#EXTINF:-1 tvg-logo="" group-title="CHANNEL | USA", US: NEWS 12 NEW YORK HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291545.ts
-
-#EXTINF:-1 tvg-logo="" group-title="CHANNEL | USA", US: Newsmax TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291548.ts
-
-#EXTINF:-1 tvg-logo="" group-title="CHANNEL | USA", US: Newsmax 2 HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291547.ts
-
-#EXTINF:-1 tvg-logo="" group-title="CHANNEL | USA", US: Newsnation HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291549.ts
 
 #EXTINF:-1 tvg-logo="" group-title="CHANNEL | USA", US: Newsnet HD
 http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291550.ts
 
 #EXTINF:-1 tvg-logo="" group-title="CHANNEL | USA", US: Newsy HD
 http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291551.ts
-
-#EXTINF:-1 tvg-logo="" group-title="CHANNEL | USA", US: ONE America NEWS Network HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291553.ts
-
-#EXTINF:-1 tvg-logo="" group-title="CHANNEL | USA", US: REAL Americas Voice HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291554.ts
-
-#EXTINF:-1 tvg-logo="" group-title="CHANNEL | USA", US: Yahoo Finance HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291557.ts
-
-#EXTINF:-1 tvg-logo="" group-title="CHANNEL | USA", US: NBC NEW YORK WNBC TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291497.ts
 
 #EXTINF:-1 tvg-logo="" group-title="CHANNEL | USA", US: BABY TV HD
 http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291150.ts
@@ -4318,50 +4281,11 @@ http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291151.ts
 #EXTINF:-1 tvg-logo="" group-title="CHANNEL | USA", US: PBS KIDS HD
 http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291161.ts
 
-#EXTINF:-1 tvg-logo="" group-title="CHANNEL | USA", US: Teennick HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291162.ts
-
 #EXTINF:-1 tvg-logo="" group-title="CHANNEL | USA", US: Universal KIDS HD
 http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291164.ts
 
 #EXTINF:-1 tvg-logo="" group-title="CHANNEL | USA", US: 360 TUNE BOX HD
 http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291106.ts
-
-#EXTINF:-1 tvg-logo="" group-title="CHANNEL | USA", US: California Music Channel HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291107.ts
-
-#EXTINF:-1 tvg-logo="" group-title="CHANNEL | USA", US: CLUB MTV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291108.ts
-
-#EXTINF:-1 tvg-logo="" group-title="CHANNEL | USA", US: CMT Music HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291109.ts
-
-#EXTINF:-1 tvg-logo="" group-title="CHANNEL | USA", US: MTV 00S HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291111.ts
-
-#EXTINF:-1 tvg-logo="" group-title="CHANNEL | USA", US: MTV 80S HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291112.ts
-
-#EXTINF:-1 tvg-logo="" group-title="CHANNEL | USA", US: MTV 90S HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291113.ts
-
-#EXTINF:-1 tvg-logo="" group-title="CHANNEL | USA", US: MTV Classic HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291114.ts
-
-#EXTINF:-1 tvg-logo="" group-title="CHANNEL | USA", US: MTV HITS HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291115.ts
-
-#EXTINF:-1 tvg-logo="" group-title="CHANNEL | USA", US: MTV LIVE HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291117.ts
-
-#EXTINF:-1 tvg-logo="" group-title="CHANNEL | USA", US: MTV Music HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291119.ts
-
-#EXTINF:-1 tvg-logo="" group-title="CHANNEL | USA", US: Popstar TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291144.ts
-
-#EXTINF:-1 tvg-logo="" group-title="CHANNEL | USA", US: Spirit TV HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291146.ts
 
 ---------------
 
