@@ -265,10 +265,10 @@ https://gtv-cutv.rctiplus.id/gtv-sdi.m3u8
 https://atemecdnbalancer-voe.sysln.id/live/eds/SCTVHD/mpd/SCTVHD.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/7NzyHxfY/indosiar.png" group-title="CHANNEL | INDONESIA",Indosiar
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5eaddccd893a47ac8b65f9b31963a3ae:881afa67ea57b41c1822d745d67559e6
-https://atemecdnbalancer-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://kami.drawntightlymuxulx.sbs
+#EXTVLCOPT:http-referrer=https://kami.drawntightlymuxulx.sbs/
+https://bintangstreaming.my.id/connect/index.m3u8?channel=live4&type=m3u8
 
 #EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://i.ibb.co.com/35LdJ6Jd/indosiar-sport.png" group-title="CHANNEL | INDONESIA",Indosiar Sports
 
@@ -1345,8 +1345,9 @@ https://raw.githubusercontent.com/B-inal-123/s-asia/inal-22/AstroArena2.m3u8
 https://wahyu1ptv.pages.dev/AstroGrandStand-HD.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/bgzRZs6K/astro-pl.png" group-title="CHANNEL | SPORTS",Astro Premier League 1
+https://github.com/cattviptv2605/m3u8-world-/raw/main/astropremierleague.m3u8
 
-#EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/bgzRZs6K/astro-pl.png" group-title="CHANNEL | SPORTS",Astro Premier League
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/bgzRZs6K/astro-pl.png" group-title="CHANNEL | SPORTS",Astro Premier League 2
 ##http://zoneuk.club:80/1122334455/6677889900/709261
 https://raw.githubusercontent.com/B-inal-123/s-asia/inal-22/AstroSS2.m3u8
 
@@ -2173,6 +2174,16 @@ https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc122ycnuy)/m
 #EXTINF:-1 tvg-id="NBCSportsBoston.us" tvg-name="" tvg-logo="https://i.ibb.co.com/HDS02Z8Z/usa-network2.png" group-title="CHANNEL | SPORTS" ,  USA Network 2
 https://nfsnew.newkso.ru/nfs/premium343/mono.m3u8|referer=https://webxzplay.cfd/
 https://leeeeeeeel.dupereasy.com/event/343.m3u8
+
+#EXTINF:-1 tvg-id="NBCSportsBoston.us" tvg-name="" tvg-logo="https://i.ibb.co.com/JFcbfVYg/usa-network3.png" group-title="CHANNEL | SPORTS" ,  USA Network 3
+https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/refs/heads/main/Li/Ep1.m3u8
+
+#EXTINF:-1 tvg-id="NBCSportsBoston.us" tvg-name="" tvg-logo="https://i.ibb.co.com/Kjx0BRmF/usa-network4.png" group-title="CHANNEL | SPORTS" ,  USA Network 4
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0045a118e231f1326bcdb45350b1ceaa:8c13afbfa54ea37a368b8b859021f6e3
+https://fsly.stream.peacocktv.com/Content/CMAF_OL2-CTR-4s/Live/channel(knbc)/master.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co.com/8D3tVg65/wsport.png" group-title="CHANNEL | SPORTS", W Sport
 
@@ -4227,6 +4238,16 @@ https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc122ycnuy)/m
 #EXTINF:-1 tvg-id="NBCSportsBoston.us" tvg-name="" tvg-logo="https://i.ibb.co.com/HDS02Z8Z/usa-network2.png" group-title="CHANNEL | USA" ,  USA Network 2
 https://nfsnew.newkso.ru/nfs/premium343/mono.m3u8|referer=https://webxzplay.cfd/
 https://leeeeeeeel.dupereasy.com/event/343.m3u8
+
+#EXTINF:-1 tvg-id="NBCSportsBoston.us" tvg-name="" tvg-logo="https://i.ibb.co.com/JFcbfVYg/usa-network3.png" group-title="CHANNEL | USA" ,  USA Network 3
+https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/refs/heads/main/Li/Ep1.m3u8
+
+#EXTINF:-1 tvg-id="NBCSportsBoston.us" tvg-name="" tvg-logo="https://i.ibb.co.com/Kjx0BRmF/usa-network4.png" group-title="CHANNEL | USA" ,  USA Network 4
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0045a118e231f1326bcdb45350b1ceaa:8c13afbfa54ea37a368b8b859021f6e3
+https://fsly.stream.peacocktv.com/Content/CMAF_OL2-CTR-4s/Live/channel(knbc)/master.mpd
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/pr9rmswQ/vh1.png" group-title="CHANNEL | USA",VH1
 http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291148.ts
