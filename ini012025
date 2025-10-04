@@ -1,3 +1,4 @@
+
 113.000.404.11.2
 
 
@@ -2553,6 +2554,9 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/ZhejiangTV/mpd/ZhejiangTV.mpd
 
 JPN
 
+#EXTINF:-1 group-title="CHANNEL | ASIAN" tvg-id="abc" tvg-logo="https://i.ibb.co.com/VcSH3Dwn/abctv.png", ABC
+https://mt01.utako.moe/abc/index.m3u8
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6f309276a94e45be89a8860159456e84:3fe2eec12885264556ca4e29aa6c0c40
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -2567,6 +2571,69 @@ https://fta1-cdn-flr.visionplus.id/out/v1/ab3ef0f0e4144c3c8b7e60f1873a3bcc/index
 #EXTVLCOPT:http-referrer=http://dens.tv/
 #EXTINF:-1  tvg-name="Aniplus" tvg-id="Aniplus.id" tvg-logo="https://i.ibb.co.com/HLHz4D80/aniplus.png" group-title="CHANNEL | ASIAN",Aniplus
 https://op-group1-swiftservehd-1.dens.tv/h/h201/index.m3u8?app_type=web&userid=lite&chname=ANIPLUS_HD
+
+#EXTINF:-1 group-title="CHANNEL | ASIAN" tvg-id="at_x" tvg-logo="https://i.ibb.co.com/BpDYpKS/atx.png",AT-X
+https://mt01.utako.moe/AT-X/index.m3u8
+
+#EXTINF:-1 group-title="CHANNEL | ASIAN" tvg-id="bs10_star_channel" tvg-logo="https://i.ibb.co.com/nMs2qDFT/bs10.png",BS10 Star Channel
+https://mt01.utako.moe/bs10_star/index.m3u8
+
+#EXTINF:-1 group-title="CHANNEL | ASIAN" tvg-id="bs11" tvg-logo="https://i.ibb.co.com/67rQJJ9c/bs11.png",BS11
+https://mt01.utako.moe/BS11/index.m3u8
+
+#EXTINF:-1 group-title="CHANNEL | ASIAN" tvg-id="bs_asahi" tvg-logo="https://i.ibb.co.com/ynQtj6xk/bs-asahi.png",BS Asahi
+https://mt01.utako.moe/bsasahi/index.m3u8
+
+#EXTINF:-1 group-title="CHANNEL | ASIAN" tvg-id="bs_fuji" tvg-logo="https://i.ibb.co.com/cXMtyWs5/bs-fuji.png",BS Fuji
+https://mt01.utako.moe/bsfuji/index.m3u8
+
+#EXTINF:-1 group-title="CHANNEL | ASIAN" tvg-id="bs_ntv" tvg-logo="https://i.ibb.co.com/xKgp4Cw6/bs-ntv.png",BS NTV
+https://mt01.utako.moe/bsntv/index.m3u8
+
+#EXTINF:-1 group-title="CHANNEL | ASIAN" tvg-id="bs_tbs" tvg-logo="https://i.ibb.co.com/39QkNB7M/bs-tbs.png",BS TBS
+https://mt01.utako.moe/bstbs/index.m3u8
+
+#EXTINF:-1 group-title="CHANNEL | ASIAN" tvg-id="bs_tv_tokyo" tvg-logo="https://i.ibb.co.com/9HDGNcFg/bs-tokyo.png",BS TV Tokyo
+https://mt01.utako.moe/bstvtokyo/index.m3u8
+
+#EXTINF:-1 group-title="CHANNEL | ASIAN" tvg-id="channel_ginga" tvg-logo="https://i.ibb.co.com/WvTqR9cF/channel-ginga.png",Channel Ginga
+https://ca01.utako.moe/gingach/index.m3u8
+
+#EXTINF:-1 group-title="CHANNEL | ASIAN" tvg-id="entermei_tele" tvg-logo="https://i.ibb.co.com/gZQyxbGN/entermei-tele.png",Entermei Tele
+https://ca01.utako.moe/entermei_tele/index.m3u8
+
+#EXTINF:-1 group-title="CHANNEL | ASIAN" tvg-id="eigeki" tvg-logo="https://i.ibb.co.com/F4MJBJpZ/eisei-gekijo.png", Eisei Gekijo
+https://proxy.utako.moe/ph.php?&isp=1&id=cs22
+
+#EXTINF:-1 group-title="CHANNEL | ASIAN" tvg-id="family_geki" tvg-logo="https://i.ibb.co.com/Qvm6MWz8/family-gekijo.png", Family Gekijyo
+https://proxy.utako.moe/ph.php?&isp=1&id=cs20
+
+#EXTINF:-1 group-title="CHANNEL | ASIAN" tvg-id="fighting_tv" tvg-logo="https://i.ibb.co.com/QsFHMMk/fighting-tv.png",Fighting TV Samurai
+https://ca01.utako.moe/fighting_tv/index.m3u8
+
+#EXTINF:-1 group-title="CHANNEL | ASIAN" tvg-id="fuji_tv" tvg-logo="https://i.ibb.co.com/Kzq2sXx7/fuji-tv.png",Fuji TV
+https://mt01.utako.moe/Fuji_TV/index.m3u8
+
+#EXTINF:-1 group-title="CHANNEL | ASIAN" tvg-id="fuji_tv_one" tvg-logo="https://i.ibb.co.com/2YMW9P5b/fuji-tv-1.png",Fuji TV One
+https://ca01.utako.moe/fuji_one/index.m3u8
+
+#EXTINF:-1 group-title="CHANNEL | ASIAN" tvg-id="fuji_tv_two" tvg-logo="https://i.ibb.co.com/0pfY9pRw/fuji-tv-2.png",Fuji TV Two
+https://ca01.utako.moe/fuji_two/index.m3u8
+
+#EXTINF:-1 group-title="CHANNEL | ASIAN" tvg-id="fuji_tv_next" tvg-logo="https://i.ibb.co.com/4R50bfL0/fuji-tv-next.png",Fuji TV Next
+https://ca01.utako.moe/fuji_next/index.m3u8
+
+#EXTINF:-1 group-title="CHANNEL | ASIAN" tvg-id="gaora" tvg-logo="https://i.ibb.co.com/kVrm9KZN/gaora.png",Gaora Sports
+https://mt01.utako.moe/gaora/index.m3u8
+
+#EXTINF:-1 group-title="CHANNEL | ASIAN" tvg-id="golf_network" tvg-logo="https://i.ibb.co.com/7NjwcLXd/golf-network.png", Golf Network
+https://proxy.utako.moe/ph.php?&isp=1&id=cs03
+
+#EXTINF:-1 group-title="CHANNEL | ASIAN" tvg-id="green_channel" tvg-logo="https://i.ibb.co.com/Mx2d5s5Z/green-channel.png",Green Channel
+https://mt01.utako.moe/green/index.m3u8
+
+#EXTINF:-1 group-title="CHANNEL | ASIAN" tvg-id="jidaigeki" tvg-logo="https://i.ibb.co.com/jZQ6YqND/Jidaigeki.png", Jidaigeki Senmon
+https://proxy.utako.moe/ph.php?&isp=1&id=cs04
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTINF:-1 group-title="CHANNEL | ASIAN" tvg-id="homedrama" tvg-logo="https://i.ibb.co.com/rGFwr20n/home-dream.png", Home Drama Channel Japan
@@ -2584,8 +2651,20 @@ https://mt01.utako.moe/js3/index.m3u8
 #EXTINF:-1 group-title="CHANNEL | ASIAN" tvg-id="js4" tvg-logo="https://i.ibb.co.com/JW6Vnv7h/j-sports.png", J Sports 4  
 https://mt01.utako.moe/js4/index.m3u8
 
+#EXTINF:-1 group-title="CHANNEL | ASIAN" tvg-id="kansai_tv" tvg-logo="https://i.ibb.co.com/7dtQ8FV5/kansai-tv.png",Kansai TV
+https://mt01.utako.moe/kansaitv/index.m3u8
+
+#EXTINF:-1 group-title="CHANNEL | ASIAN" tvg-id="kbs" tvg-logo="https://i.ibb.co.com/twRLDgqg/kbs-japan.png",KBS
+https://mt01.utako.moe/kbs/index.m3u8
+
+#EXTINF:-1 group-title="CHANNEL | ASIAN" tvg-id="lala_tv" tvg-logo="https://i.ibb.co.com/HT5mFJnF/lala-tv.png", LaLa TV
+https://proxy.utako.moe/ph.php?&isp=1&id=cs19
+
 #EXTINF:-1 group-title="CHANNEL | ASIAN" tvg-id="mbs" tvg-logo="https://i.ibb.co.com/Cp8rMtmv/mbs.png", MBS Japan
 https://mt01.utako.moe/mbs/index.m3u8
+
+#EXTINF:-1 group-title="CHANNEL | ASIAN" tvg-id="mondo_tv" tvg-logo="https://i.ibb.co.com/8LT8S5c2/mondo-tv.png",Mondo TV
+https://ca01.utako.moe/mondo/index.m3u8
 
 #EXTINF:-1 group-title="CHANNEL | ASIAN" tvg-id="movieplus" tvg-logo="https://i.ibb.co.com/My8rgLdy/movie-plus.png", Movie Plus Japan
  https://proxy.utako.moe/ph.php?&isp=1&id=cs14
@@ -2597,6 +2676,21 @@ https://ca01.utako.moe/neco/index.m3u8
 #EXTINF:-1 group-title="CHANNEL | ASIAN" tvg-id="ntvgplus" tvg-logo="https://i.ibb.co.com/mrXb5Z4S/G.png", Nittele G+ Japan
 https://proxy.utako.moe/ph.php?&isp=1&id=cs02
 
+#EXTINF:-1 group-title="CHANNEL | ASIAN" tvg-id="nihon_eiga" tvg-logo="https://i.ibb.co.com/LzgMVq6w/nihon-eiga.png",Nihon Eiga Senmon
+https://ca01.utako.moe/nihoneiga/index.m3u8
+
+#EXTINF:-1 group-title="CHANNEL | ASIAN" tvg-id="nhk_bs" tvg-logo="https://i.ibb.co.com/JRL09L3K/nhk-bs.png",NHK BS
+https://mt01.utako.moe/NHK_BS/index.m3u8
+
+#EXTINF:-1 group-title="CHANNEL | ASIAN" tvg-id="nhk_bsp_4k" tvg-logo="https://i.ibb.co.com/HpKHYBv1/nhk-bsp4k.png",NHK BS4K
+https://mt01.utako.moe/bsp4k/index.m3u8
+
+#EXTINF:-1 group-title="CHANNEL | ASIAN" tvg-id="nhkg" tvg-logo="https://i.ibb.co.com/3m6JDxj2/nhk-g.png", NHK G Osaka Japan
+https://mt01.utako.moe/NHK_G/index.m3u8
+
+#EXTINF:-1 group-title="CHANNEL | ASIAN" tvg-id="nhk_e_tokyo" tvg-logo="https://i.ibb.co.com/FPYgCKP/nhk-e.png",NHK E
+https://mt01.utako.moe/NHK_E/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/WNVjqfV9/nhk-world.png" group-title="CHANNEL | ASIAN", NHK World Japan
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -2606,11 +2700,65 @@ https://atemeshield1-voe.sysln.id/live/eds/NHKWorldJapanHD/mpd/NHKWorldJapanHD.m
 #EXTINF:-1 tvg-id="NHKWorldPremium.jp" tvg-name="NHK World Premium HD" tvg-logo="https://iili.io/Jmo2pFs.png" group-title="CHANNEL | ASIAN", NHK World Premium
 https://cdn.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3u8
 
-#EXTINF:-1 group-title="CHANNEL | ASIAN" tvg-id="nhkg" tvg-logo="https://i.ibb.co.com/3m6JDxj2/nhk-g.png", NHK G Osaka Japan
-https://mt01.utako.moe/NHK_G/index.m3u8
+#EXTINF:-1 group-title="CHANNEL | ASIAN" tvg-id="ntv" tvg-logo="https://i.ibb.co.com/d46TdH4b/ntv.png",NTV
+https://mt01.utako.moe/Nippon_TV/index.m3u8
+
+#EXTINF:-1 group-title="CHANNEL | ASIAN" tvg-id="sky_a" tvg-logo="https://i.ibb.co.com/NgJCgHdJ/sky-a.png",Sky A
+https://ca01.utako.moe/skya/index.m3u8
 
 #EXTINF:-1 group-title="CHANNEL | ASIAN" tvg-id="suntv" tvg-logo="https://i.ibb.co.com/fVCYhK8W/suntv.png", SUN TV Japan
 https://mt01.utako.moe/suntv/index.m3u8
+
+#EXTINF:-1 group-title="CHANNEL | ASIAN" tvg-id="tabi_channel" tvg-logo="https://i.ibb.co.com/3mccSC9P/tabi.png",Tabi Channel
+https://ca01.utako.moe/tabi/index.m3u8
+
+#EXTINF:-1 group-title="CHANNEL | ASIAN" tvg-id="sky_stage" tvg-logo="https://i.ibb.co.com/b5mM0jDj/takarazuka.png", Takarazuka Sky Stage
+https://proxy.utako.moe/ph.php?&isp=2&id=cs28
+
+#EXTINF:-1 group-title="CHANNEL | ASIAN" tvg-id="tbs" tvg-logo="https://i.ibb.co.com/zVDXxPqr/tbs.png",TBS
+https://mt01.utako.moe/TBS/index.m3u8
+
+#EXTINF:-1 group-title="CHANNEL | ASIAN" tvg-id="tbs_channel_1" tvg-logo="https://i.ibb.co.com/4w3cy8rv/tbs1.png",TBS Channel 1
+https://ca01.utako.moe/tbsch1/index.m3u8
+
+#EXTINF:-1 group-title="CHANNEL | ASIAN" tvg-id="tbs_channel_2" tvg-logo="https://i.ibb.co.com/rKG8TRFZ/tbs2.png",TBS Channel 2
+https://ca01.utako.moe/tbsch2/index.m3u8
+
+#EXTINF:-1 group-title="CHANNEL | ASIAN" tvg-id="toei_channel" tvg-logo="https://i.ibb.co.com/RVJ3Rfj/toei.png",Toei Channel
+https://ca01.utako.moe/toei/index.m3u8
+
+#EXTINF:-1 group-title="CHANNEL | ASIAN" tvg-id="tv_asahi" tvg-logo="https://i.ibb.co.com/bjbgc9fv/tv-asahi.png",TV Asahi
+https://mt01.utako.moe/TV_Asahi/index.m3u8
+
+#EXTINF:-1 group-title="CHANNEL | ASIAN" tvg-id="tv_asahi_channel_1" tvg-logo="https://i.ibb.co.com/m5TYhmCd/tv-asahi-1.png",TV Asahi Channel 1
+https://ca01.utako.moe/ex_ch1/index.m3u8
+
+#EXTINF:-1 group-title="CHANNEL | ASIAN" tvg-id="tv_asahi_channel_2" tvg-logo="https://i.ibb.co.com/gbpsXkYf/tv-asahi-2.png",TV Asahi Channel 2
+https://ca01.utako.moe/ex_ch2/index.m3u8
+
+#EXTINF:-1 group-title="CHANNEL | ASIAN" tvg-id="tv_osaka" tvg-logo="https://i.ibb.co.com/G4Gw0YH7/tv-osaka.png",TV Osaka
+https://mt01.utako.moe/tvo/index.m3u8
+
+#EXTINF:-1 group-title="CHANNEL | ASIAN" tvg-id="tv_tokyo" tvg-logo="https://i.ibb.co.com/jZRskcdT/tv-tokyo.png",TV Tokyo
+https://mt01.utako.moe/TV_Tokyo/index.m3u8
+
+#EXTINF:-1 group-title="CHANNEL | ASIAN" tvg-id="tokyo_mx_1" tvg-logo="https://i.ibb.co.com/8LrsYY9q/tokyo-mx.png",Tokyo MX1
+https://mt01.utako.moe/Tokyo_MX1/index.m3u8
+
+#EXTINF:-1 group-title="CHANNEL | ASIAN" tvg-id="tokyo_mx2" tvg-logo="https://i.ibb.co.com/8LrsYY9q/tokyo-mx.png",Tokyo MX2
+https://mt01.utako.moe/Tokyo_MX2/index.m3u8
+
+#EXTINF:-1 group-title="CHANNEL | ASIAN" tvg-id="wowow_prime" tvg-logo="https://i.ibb.co.com/dwyQq9mY/wowow-prime.png",Wowow Prime
+https://mt01.utako.moe/wprime/index.m3u8
+
+#EXTINF:-1 group-title="CHANNEL | ASIAN" tvg-id="wowow_cinema" tvg-logo="https://i.ibb.co.com/Y4Y8pWY6/wowow-cinema.png",Wowow Cinema
+https://mt01.utako.moe/wcinema/index.m3u8
+
+#EXTINF:-1 group-title="CHANNEL | ASIAN" tvg-id="wowow_live" tvg-logo="https://i.ibb.co.com/HDZh8wdS/wowow-live.png",Wowow Live
+https://mt01.utako.moe/wlive/index.m3u8
+
+#EXTINF:-1 group-title="CHANNEL | ASIAN" tvg-id="yomiuri_tv" tvg-logo="https://i.ibb.co.com/d07TtQw5/ytv.png",Ytv
+https://mt01.utako.moe/ytv/index.m3u8
 
 IND
 
