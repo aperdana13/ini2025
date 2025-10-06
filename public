@@ -1590,9 +1590,79 @@ https://restreamer2.kotabogor.go.id/memfs/0518012b-655d-4a7d-83d6-b7bb1faf4396_o
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BOGOR", Sukasari
 https://restreamer3.kotabogor.go.id/memfs/0ec104af-9036-48db-b643-ced9d1d42c21_output_0.m3u8
 
+# CCTV | TASIK
+
+#EXTINF:-1 group-title="CCTV | TASIK" group-logo="https://i.ibb.co.com/XkfWfxTR/tasik.png"
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | TASIK", Simpang Rancabango 1
+https://atcs.tasikmalayakota.go.id/camera/rancabangoptz.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | TASIK", Simpang Rancabango 2
+https://atcs.tasikmalayakota.go.id/camera/rancabangoarahjati.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | TASIK", Simpang Rancabango 3
+https://atcs.tasikmalayakota.go.id/camera/rancabangoarahletnanharun.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | TASIK", Simpang Dewi Sartika
+https://atcs.tasikmalayakota.go.id/camera/dewisartikaarahcimulu.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | TASIK", Simpang Masjid Agung
+https://atcs.tasikmalayakota.go.id/camera/masjidagungptz.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | TASIK", Simpang Nagarawangi
+https://atcs.tasikmalayakota.go.id/camera/nagarawangi.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | TASIK", Simpang Alun Alun 1
+https://atcs.tasikmalayakota.go.id/camera/alunalunarahotista.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | TASIK", Simpang Alun Alun 2
+https://atcs.tasikmalayakota.go.id/camera/alunalunarahsutsen.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | TASIK", Simpang Pataruman 1
+https://atcs.tasikmalayakota.go.id/camera/patarumanptz.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | TASIK", Simpang Pataruman 2
+https://atcs.tasikmalayakota.go.id/camera/patarumanarahnagarawangi.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | TASIK", Simpang Panyerutan 1
+https://atcs.tasikmalayakota.go.id/camera/panyerutanptz.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | TASIK", Simpang Panyerutan 2
+https://atcs.tasikmalayakota.go.id/camera/panyerutanarahnagarawangi.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | TASIK", Simpang Paseh
+https://atcs.tasikmalayakota.go.id/camera/pasehptz.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | TASIK", Simpang Padayungan Kawalu
+https://atcs.tasikmalayakota.go.id/camera/padayunganarahkawalu.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | TASIK", Simpang Rumah Sakit
+https://atcs.tasikmalayakota.go.id/camera/rumahsakit.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | TASIK", Batas Kota
+https://atcs.tasikmalayakota.go.id/camera/bataskotaarahbandung.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | TASIK", Simpang Wasita Kusuma
+https://atcs.tasikmalayakota.go.id/camera/wasitakusumaarahletnanharun.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | TASIK", Simpang Bojong Jengkol 1
+https://atcs.tasikmalayakota.go.id/camera/bojongjengkolarahwasita.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | TASIK", Simpang Bojong Jengkol 2
+https://atcs.tasikmalayakota.go.id/camera/bojongjengkolarahleuwidahu.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | TASIK", Simpang Jati
+https://atcs.tasikmalayakota.go.id/camera/jati.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | TASIK", Simpang Mitra Batik
+https://atcs.tasikmalayakota.go.id/camera/mitrabatik.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | TASIK", Simpang Lima
+https://atcs.tasikmalayakota.go.id/camera/simpanglima.m3u8
+
 # CCTV | CIREBON
 
-#EXTINF:-1 group-title="CCTV | CIREBON" group-logo="https://i.ibb.co.com/v4FG2YPr/cctv-indramayu.png"
+#EXTINF:-1 group-title="CCTV | CIREBON" group-logo="https://i.ibb.co.com/FqJWWhW6/cirebon.png"
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | CIREBON", Simpang Palimanan 1
 https://cctv-backend.cirebonkab.go.id/memfs/d7038283-383d-4ae3-bf07-b830d84e6cfb.m3u8
@@ -1703,50 +1773,50 @@ https://cctv-backend.cirebonkab.go.id/memfs/28e36d45-192a-453b-bdac-06b51897aff0
 https://cctv-backend.cirebonkab.go.id/memfs/ad53bc01-0415-4a8e-a006-00da6a69eb2e.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | CIREBON", Simpang Samsat
-https://lon.rtsp.me/IdNBUDQ53Mvi0inChGBj3A/1759778819/hls/hhtQ7SkA.m3u8?ip=114.10.45.38
+https://lon.rtsp.me/IdNBUDQ53Mvi0inChGBj3A/1759778819/hls/hhtQ7SkA.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | CIREBON", Simpang A
-https://lon.rtsp.me/knojE-zIsGa2EJslF1HAXg/1759778969/hls/NRn6KHiD.m3u8?ip=114.10.45.38
+https://lon.rtsp.me/knojE-zIsGa2EJslF1HAXg/1759778969/hls/NRn6KHiD.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | CIREBON", Simpang B
-https://lon.rtsp.me/DweQwWJnlpZQwZCZMsRzMg/1759778876/hls/2aBQY4YK.m3u8?ip=114.10.45.38
+https://lon.rtsp.me/DweQwWJnlpZQwZCZMsRzMg/1759778876/hls/2aBQY4YK.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | CIREBON", Simpang C
-https://lon.rtsp.me/zIpP1BKLtQmhPdZMy1GBig/1759778876/hls/aH2NSsrZ.m3u8?ip=114.10.45.38
+https://lon.rtsp.me/zIpP1BKLtQmhPdZMy1GBig/1759778876/hls/aH2NSsrZ.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | CIREBON", Simpang D
-https://lon.rtsp.me/Q-VaNcEa_jvnvdj30Zz0qA/1759778934/hls/aH2NSsrZ.m3u8?ip=114.10.45.38
+https://lon.rtsp.me/Q-VaNcEa_jvnvdj30Zz0qA/1759778934/hls/aH2NSsrZ.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | CIREBON", Simpang E
-https://lon.rtsp.me/Cr93u1DgywDmpIrpJ6MUWA/1759778876/hls/RZS2GFdK.m3u8?ip=114.10.45.38
+https://lon.rtsp.me/Cr93u1DgywDmpIrpJ6MUWA/1759778876/hls/RZS2GFdK.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | CIREBON", Simpang F
-https://lon.rtsp.me/JdO-zp2vzMeYTXk5o_CyAQ/1759778876/hls/K75YN2DY.m3u8?ip=114.10.45.38
+https://lon.rtsp.me/JdO-zp2vzMeYTXk5o_CyAQ/1759778876/hls/K75YN2DY.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | CIREBON", Simpang G
-https://lon.rtsp.me/5SdkskkrIOxdqT5zgbtFBA/1759778876/hls/fztab4ye.m3u8?ip=114.10.45.38
+https://lon.rtsp.me/5SdkskkrIOxdqT5zgbtFBA/1759778876/hls/fztab4ye.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | CIREBON", Simpang H
-https://lon.rtsp.me/wmEHcJfBFsao75B5X4Niiw/1759778876/hls/zA9HyQSn.m3u8?ip=114.10.45.38
+https://lon.rtsp.me/wmEHcJfBFsao75B5X4Niiw/1759778876/hls/zA9HyQSn.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | CIREBON", Simpang  I
-https://lon.rtsp.me/1OPYHZjK9NKOe6E22Rt6Aw/1759778876/hls/aFDdKAfd.m3u8?ip=114.10.45.38
+https://lon.rtsp.me/1OPYHZjK9NKOe6E22Rt6Aw/1759778876/hls/aFDdKAfd.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | CIREBON", Simpang J
-https://lon.rtsp.me/AODooU7TUrAW1jNdUHyTOg/1759778876/hls/dQkGaGka.m3u8?ip=114.10.45.38
+https://lon.rtsp.me/AODooU7TUrAW1jNdUHyTOg/1759778876/hls/dQkGaGka.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | CIREBON", Simpang K
-https://lon.rtsp.me/1xkzStIaxpG0F75s0cF85g/1759778876/hls/rkzfQ7FY.m3u8?ip=114.10.45.38
+https://lon.rtsp.me/1xkzStIaxpG0F75s0cF85g/1759778876/hls/rkzfQ7FY.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | CIREBON", Simpang L
-https://lon.rtsp.me/_A0S-_rrAl1XyZK5zPtX1Q/1759779055/hls/rkzfQ7FY.m3u8?ip=114.10.45.38
+https://lon.rtsp.me/_A0S-_rrAl1XyZK5zPtX1Q/1759779055/hls/rkzfQ7FY.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | CIREBON", Simpang M
-https://lon.rtsp.me/Mn4ewWO4raBsZtlZXjegVA/1759778876/hls/n4bHB6re.m3u8?ip=114.10.45.38
+https://lon.rtsp.me/Mn4ewWO4raBsZtlZXjegVA/1759778876/hls/n4bHB6re.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | CIREBON", Simpang N
-https://lon.rtsp.me/AnquFCCYG3Nz8HCkjFPQZw/1759779018/hls/n4bHB6re.m3u8?ip=114.10.45.38
+https://lon.rtsp.me/AnquFCCYG3Nz8HCkjFPQZw/1759779018/hls/n4bHB6re.m3u8
 
 # CCTV | INDRAMAYU
 
@@ -2354,3 +2424,6 @@ https://transcode.baliprov.dev/get-m3u8.php?srv=internals&channel=1&m3u8=live.m3
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANTEN", St.Tanjung Karang
 ##https://rtsp.itn.net.id/play/hls/5a39939e-bce5-42d2-8c79-5ad02b3f9710/index.m3u8
+
+
+
