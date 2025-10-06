@@ -5077,7 +5077,7 @@ https://pelindung.bandung.go.id:3443/video/HIKSVISION/pasarkirconn.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", Pasar Kiaracondong 2
 https://pelindung.bandung.go.id:3443/video/HIKSVISION/pasarkircon.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG",  Kircon Binong
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", Kircon Binong
 https://pelindung.bandung.go.id:3443/video/HIKSVISION/kirconbinongg.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", Kircon Binong 2
@@ -5140,7 +5140,7 @@ https://pelindung.bandung.go.id:3443/video/DAHUA/BUBA.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", Margacinta Tugu
 https://pelindung.bandung.go.id:3443/video/DAHUA/BUB.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", Ters. Ters.Bubat Bojongsoang 1
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", Ters.Bubat Bojongsoang 1
 https://pelindung.bandung.go.id:3443/video/HIKSVISION/Terbuahbatu.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", Ters.Bubat Bojongsoang 2
