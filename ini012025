@@ -1,4 +1,5 @@
 
+
 113.000.404.11.2
 
 
@@ -4533,6 +4534,8 @@ https://fsly.stream.peacocktv.com/Content/CMAF_OL2-CTR-4s/Live/channel(knbc)/mas
 
 ---------------
 
+---------------
+
 # CCTV | BANDUNG
 
 #EXTINF:-1 group-title="CCTV | BANDUNG" group-logo="https://i.ibb.co.com/FbxznN8m/cctv-bdg.png"
@@ -6122,6 +6125,188 @@ https://restreamer2.kotabogor.go.id/memfs/0518012b-655d-4a7d-83d6-b7bb1faf4396_o
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BOGOR", Sukasari
 https://restreamer3.kotabogor.go.id/memfs/0ec104af-9036-48db-b643-ced9d1d42c21_output_0.m3u8
 
+# CCTV | TASIK
+
+#EXTINF:-1 group-title="CCTV | TASIK" group-logo="https://i.ibb.co.com/XkfWfxTR/tasik.png"
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | TASIK", Simpang Rancabango 1
+https://atcs.tasikmalayakota.go.id/camera/rancabangoptz.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | TASIK", Simpang Rancabango 2
+https://atcs.tasikmalayakota.go.id/camera/rancabangoarahjati.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | TASIK", Simpang Rancabango 3
+https://atcs.tasikmalayakota.go.id/camera/rancabangoarahletnanharun.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | TASIK", Simpang Dewi Sartika
+https://atcs.tasikmalayakota.go.id/camera/dewisartikaarahcimulu.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | TASIK", Simpang Masjid Agung
+https://atcs.tasikmalayakota.go.id/camera/masjidagungptz.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | TASIK", Simpang Nagarawangi
+https://atcs.tasikmalayakota.go.id/camera/nagarawangi.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | TASIK", Simpang Alun Alun 1
+https://atcs.tasikmalayakota.go.id/camera/alunalunarahotista.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | TASIK", Simpang Alun Alun 2
+https://atcs.tasikmalayakota.go.id/camera/alunalunarahsutsen.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | TASIK", Simpang Pataruman 1
+https://atcs.tasikmalayakota.go.id/camera/patarumanptz.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | TASIK", Simpang Pataruman 2
+https://atcs.tasikmalayakota.go.id/camera/patarumanarahnagarawangi.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | TASIK", Simpang Panyerutan 1
+https://atcs.tasikmalayakota.go.id/camera/panyerutanptz.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | TASIK", Simpang Panyerutan 2
+https://atcs.tasikmalayakota.go.id/camera/panyerutanarahnagarawangi.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | TASIK", Simpang Paseh
+https://atcs.tasikmalayakota.go.id/camera/pasehptz.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | TASIK", Simpang Padayungan Kawalu
+https://atcs.tasikmalayakota.go.id/camera/padayunganarahkawalu.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | TASIK", Simpang Rumah Sakit
+https://atcs.tasikmalayakota.go.id/camera/rumahsakit.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | TASIK", Batas Kota
+https://atcs.tasikmalayakota.go.id/camera/bataskotaarahbandung.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | TASIK", Simpang Wasita Kusuma
+https://atcs.tasikmalayakota.go.id/camera/wasitakusumaarahletnanharun.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | TASIK", Simpang Bojong Jengkol 1
+https://atcs.tasikmalayakota.go.id/camera/bojongjengkolarahwasita.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | TASIK", Simpang Bojong Jengkol 2
+https://atcs.tasikmalayakota.go.id/camera/bojongjengkolarahleuwidahu.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | TASIK", Simpang Jati
+https://atcs.tasikmalayakota.go.id/camera/jati.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | TASIK", Simpang Mitra Batik
+https://atcs.tasikmalayakota.go.id/camera/mitrabatik.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | TASIK", Simpang Lima
+https://atcs.tasikmalayakota.go.id/camera/simpanglima.m3u8
+
+# CCTV | CIREBON
+
+#EXTINF:-1 group-title="CCTV | CIREBON" group-logo="https://i.ibb.co.com/FqJWWhW6/cirebon.png"
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | CIREBON", Simpang Palimanan 1
+https://cctv-backend.cirebonkab.go.id/memfs/d7038283-383d-4ae3-bf07-b830d84e6cfb_output_0.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | CIREBON", Simpang Palimanan 2
+https://cctv-backend.cirebonkab.go.id/memfs/03abf72b-50b8-416d-ba4f-8d31b321a770_output_0.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | CIREBON", Simpang Palimanan 3
+https://cctv-backend.cirebonkab.go.id/memfs/0ee80c88-ce2e-44e5-876c-0f0df757a7a5_output_0.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | CIREBON", Simpang Tol Plumbon
+https://cctv-backend.cirebonkab.go.id/memfs/98f36e18-97fc-428e-935d-107c8a1fca4f_output_0.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | CIREBON", Simpang Plered 1
+https://cctv-backend.cirebonkab.go.id/memfs/90b33500-c499-4ea4-9043-0ffd35f7372e_output_0.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | CIREBON", Simpang Plered 2
+https://cctv-backend.cirebonkab.go.id/memfs/af707ed2-d762-469d-9483-fc3110f3d937_output_0.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | CIREBON", Simpang Plered 3
+https://cctv-backend.cirebonkab.go.id/memfs/ca9fda3a-1794-446b-a584-7943ec8cc937_output_0.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | CIREBON", Bundaran Kedawung 1
+https://cctv-backend.cirebonkab.go.id/memfs/04afffc3-7881-4deb-ad67-c1322cd0aea3_output_0.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | CIREBON", Bundaran Kedawung 2
+https://cctv-backend.cirebonkab.go.id/memfs/08f4912f-8979-4c70-9af9-9fde08e77960_output_0.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | CIREBON", Simpang Cempaka
+https://cctv-backend.cirebonkab.go.id/memfs/b724f8c4-f7f8-4ade-975d-a51f79b2747c_output_0.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | CIREBON", Simpang Babakan Sumber
+https://cctv-backend.cirebonkab.go.id/memfs/3f7c74ef-7901-4344-8715-752c7f6f1bbc_output_0.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | CIREBON", Alun Alun Pataraksa
+https://cctv-backend.cirebonkab.go.id/memfs/ba94e3cb-ff3f-42de-95bb-2e13fb53ba86_output_0.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | CIREBON", Kantor Bupati
+https://cctv-backend.cirebonkab.go.id/memfs/a3e3f02f-34a3-4965-808a-855703c21d6e_output_0.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | CIREBON", Simpang DPRD
+https://cctv-backend.cirebonkab.go.id/memfs/d9132e9d-a9ca-48b0-a1f1-1c9f707bc24b_output_0.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | CIREBON", Kantor DPRD
+https://cctv-backend.cirebonkab.go.id/memfs/ae11f329-1cb7-43e6-88d4-fa6cb3195ced_output_0.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | CIREBON", Simpang Disdik
+https://cctv-backend.cirebonkab.go.id/memfs/2357e776-ad6b-4bfc-b83f-bd7b3106655a_output_0.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | CIREBON", Simpang Kenanga
+https://cctv-backend.cirebonkab.go.id/memfs/d42bf3ab-38bd-4e06-9a42-2fcfafdb04aa_output_0.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | CIREBON", Simpang Pasar Pabuaran
+https://cctv-backend.cirebonkab.go.id/memfs/858ed1bc-6ba6-48fa-9067-2755ff518296_output_0.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | CIREBON", Simpang Pasar Sumber 1
+https://cctv-backend.cirebonkab.go.id/memfs/7febbdc0-59ed-4526-96cc-417629c76334_output_0.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | CIREBON", Simpang Pasar Sumber 2
+https://cctv-backend.cirebonkab.go.id/memfs/22e17cf5-3945-4ce0-b77b-11ee65c073c4_output_0.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | CIREBON", Simpang Taman PKK
+https://cctv-backend.cirebonkab.go.id/memfs/0ba55700-6269-4281-8995-cc209a60285d_output_0.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | CIREBON", Simpang Pasar Gebang
+https://cctv-backend.cirebonkab.go.id/memfs/ce509abb-5d87-461c-8623-79029d0fb66f_output_0.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | CIREBON", Lemahabang
+https://cctv-backend.cirebonkab.go.id/memfs/4a6609f7-4263-4dfb-8b98-bc8e4de41faf_output_0.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | CIREBON", Simpang Pasar Jungjang 1
+https://cctv-backend.cirebonkab.go.id/memfs/e8471cd1-0f70-4150-9ac2-fa18c926c356_output_0.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | CIREBON", Simpang Pasar Jungjang 2
+https://cctv-backend.cirebonkab.go.id/memfs/dda7364d-428c-4dd5-92fd-9271edca0166_output_0.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | CIREBON", Simpang Ciwaringin
+https://cctv-backend.cirebonkab.go.id/memfs/26cbdb8a-2558-41da-a5f3-3fca38ebddb4_output_0.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | CIREBON", Simpang Cempaka
+https://cctv-backend.cirebonkab.go.id/memfs/b724f8c4-f7f8-4ade-975d-a51f79b2747c_output_0.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | CIREBON", Simpang Pasar Kramat 1
+https://cctv-backend.cirebonkab.go.id/memfs/bf96e652-1014-4ad7-9a82-70bcd1343248_output_0.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | CIREBON", Simpang Pasar Kramat 2
+https://cctv-backend.cirebonkab.go.id/memfs/4457f1d1-33de-4643-bc91-92c8b757d1fb_output_0.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | CIREBON", Simpang Tol Ciperna 1
+https://cctv-backend.cirebonkab.go.id/memfs/1dc0f916-f12d-4bc3-acaf-efdf364bf0da_output_0.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | CIREBON", Simpang Tol Ciperna 2
+https://cctv-backend.cirebonkab.go.id/memfs/c3cf602f-7751-43e6-be69-820aa5ca1834_output_0.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | CIREBON", Gronggong
+https://cctv-backend.cirebonkab.go.id/memfs/215602f7-0cbb-43c3-8ed3-1083f9b138b2_output_0.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | CIREBON", Simpang Tol Kanci 1
+https://cctv-backend.cirebonkab.go.id/memfs/831767fc-d1fc-4e49-a8da-dba41fb12f88_output_0.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | CIREBON", Simpang Tol Kanci 2
+https://cctv-backend.cirebonkab.go.id/memfs/b305b7f4-6586-4ef3-ac99-52fe5730cb28_output_0.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | CIREBON", Simpang Terminal Losari 1
+https://cctv-backend.cirebonkab.go.id/memfs/28e36d45-192a-453b-bdac-06b51897aff0_output_0.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | CIREBON", Simpang Terminal Losari 2
+https://cctv-backend.cirebonkab.go.id/memfs/ad53bc01-0415-4a8e-a006-00da6a69eb2e_output_0.m3u8
+
 # CCTV | INDRAMAYU
 
 #EXTINF:-1 group-title="CCTV | INDRAMAYU" group-logo="https://i.ibb.co.com/v4FG2YPr/cctv-indramayu.png"
@@ -6728,6 +6913,20 @@ https://transcode.baliprov.dev/get-m3u8.php?srv=internals&channel=1&m3u8=live.m3
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANTEN", St.Tanjung Karang
 ##https://rtsp.itn.net.id/play/hls/5a39939e-bce5-42d2-8c79-5ad02b3f9710/index.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
