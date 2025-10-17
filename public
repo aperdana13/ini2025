@@ -1371,9 +1371,11 @@ https://cctv.atcs-dishubkbb.id/memfs/08f471e0-ea5b-4867-bb9d-8dce1a3c26dd_output
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BDG RAYA", Alun Alun Cililin 1
 https://cctv.atcs-dishubkbb.id/memfs/633da1e9-5e53-4721-a03d-3312b3dcb436_output_0.m3u8
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BDG RAYA", Alun Alun Cililin 2
 https://cctv.atcs-dishubkbb.id/memfs/8b44ea8a-f419-41fb-9e32-493c91fcc140_output_0.m3u8
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BDG RAYA", Alun Alun Cililin 3
 https://cctv.atcs-dishubkbb.id/memfs/d7f68dc1-4ae5-4117-9f19-84d87e7f38b3_output_0.m3u8
 
@@ -1381,9 +1383,11 @@ https://cctv.atcs-dishubkbb.id/memfs/d7f68dc1-4ae5-4117-9f19-84d87e7f38b3_output
 
 #EXTINF:-1 group-title="CCTV | CIANJUR" group-logo="https://i.ibb.co.com/4RRTDxzM/cctv-cianjur.png"
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | CIANJUR", Alun Alun Cianjur
 https://atcs.cianjurkab.go.id:5443/LiveApp/streams/MyTOnfxISBjj1746015900027.m3u8
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | CIANJUR", Simpang Warujajar
 https://atcs.cianjurkab.go.id:5443/LiveApp/streams/uzsSYpxeSqev1743256114729.m3u8
 
@@ -1661,8 +1665,10 @@ https://atcs.tasikmalayakota.go.id/camera/simpanglima.m3u8
 
 # CCTV | CIREBON
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 #EXTINF:-1 group-title="CCTV | CIREBON" group-logo="https://i.ibb.co.com/FqJWWhW6/cirebon.png"
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | CIREBON", Simpang Palimanan 1
 https://cctv-backend.cirebonkab.go.id/memfs/d7038283-383d-4ae3-bf07-b830d84e6cfb_output_0.m3u8
 
@@ -1675,12 +1681,15 @@ https://cctv-backend.cirebonkab.go.id/memfs/0ee80c88-ce2e-44e5-876c-0f0df757a7a5
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | CIREBON", Simpang Tol Plumbon
 https://cctv-backend.cirebonkab.go.id/memfs/98f36e18-97fc-428e-935d-107c8a1fca4f_output_0.m3u8
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | CIREBON", Simpang Plered 1
 https://cctv-backend.cirebonkab.go.id/memfs/90b33500-c499-4ea4-9043-0ffd35f7372e_output_0.m3u8
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | CIREBON", Simpang Plered 2
 https://cctv-backend.cirebonkab.go.id/memfs/af707ed2-d762-469d-9483-fc3110f3d937_output_0.m3u8
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | CIREBON", Simpang Plered 3
 https://cctv-backend.cirebonkab.go.id/memfs/ca9fda3a-1794-446b-a584-7943ec8cc937_output_0.m3u8
 
@@ -2342,11 +2351,13 @@ https://transcode.baliprov.dev/get-m3u8.php?srv=internals&channel=1&m3u8=live.m3
 
 #EXTINF:-1 group-title="CCTV | BANTEN" group-logo="https://i.ibb.co.com/bjJnnL6v/cctv-banten.png"
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
  #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANTEN", Cikupa entrance
-##https://pantau.margamandala.co.id:3443/cikupa/entrance/entrance.m3u8
+https://pantau.margamandala.co.id:3443/cikupa/entrance/entrance.m3u8
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANTEN", Serang Timur entrance
-##https://pantau.margamandala.co.id:3443/sertim/entrance/entrance.m3u8
+https://pantau.margamandala.co.id:3443/sertim/entrance/entrance.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANTEN", Serang Timur Exit
 ##https://pantau.margamandala.co.id:3443/sertim/exit/exit.m3u8
@@ -2366,11 +2377,14 @@ https://transcode.baliprov.dev/get-m3u8.php?srv=internals&channel=1&m3u8=live.m3
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANTEN", Pel. Merak view D. Executive
 ##https://mitradarat-vidstream.kemenhub.go.id/stream/LPSMRKCCTVLPSMERAK/index.m3u8
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANTEN", Pel. Bakauheni
-##https://mitradarat-vidstream.kemenhub.go.id/stream/LPBKHNCCTVLPSBAKAUHENI/index.m3u8
+https://mitradarat-vidstream.kemenhub.go.id/stream/LPBKHNCCTVLPSBAKAUHENI/index.m3u8
 
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANTEN", Terminal Rajabasa 1
-##https://rtsp.itn.net.id/play/hls/95f5a70f-39ab-4977-a148-9ef25ec1dc95/index.m3u8
+https://rtsp.itn.net.id/play/hls/95f5a70f-39ab-4977-a148-9ef25ec1dc95/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANTEN", Terminal Rajabasa 2
 ##https://rtsp.itn.net.id/play/hls/516c356b-21a4-4613-adc8-6920f63ba755/index.m3u8
