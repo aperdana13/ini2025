@@ -1,5 +1,6 @@
 
 
+
 113.000.404.11.2
 
 
@@ -6101,6 +6102,25 @@ https://atcs.tasikmalayakota.go.id/camera/simpanglima.m3u8
 
 #EXTINF:-1 group-title="CCTV | CIREBON" group-logo="https://i.ibb.co.com/FqJWWhW6/cirebon.png"
 
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | CIREBON", Balaikota 1
+https://cctv.cirebonkota.go.id/hls/pintu-balaikota/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | CIREBON", Balaikota 2
+https://cctv.cirebonkota.go.id/hls/depan-balaikota/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | CIREBON",  At Taqwa
+https://cctv.cirebonkota.go.id/hls/depan-ataqwa/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | CIREBON", Flyovey Pegambiran
+https://cctv.cirebonkota.go.id/hls/flyover-pegambiran/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | CIREBON", Pemuda
+https://cctv.cirebonkota.go.id/hls/pemuda/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | CIREBON", Lamer
+https://cctv.cirebonkota.go.id/hls/lamer-jabang-bayi/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | CIREBON", Simpang Palimanan 1
 https://cctv-backend.cirebonkab.go.id/memfs/d7038283-383d-4ae3-bf07-b830d84e6cfb_output_0.m3u8
 
@@ -6815,11 +6835,6 @@ https://transcode.baliprov.dev/get-m3u8.php?srv=internals&channel=1&m3u8=live.m3
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANTEN", St.Tanjung Karang
 ##https://rtsp.itn.net.id/play/hls/5a39939e-bce5-42d2-8c79-5ad02b3f9710/index.m3u8
-
-
-
-
-
 
 
 
