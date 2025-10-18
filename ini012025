@@ -575,6 +575,15 @@ https://atemeshield1-voe.sysln.id/live/eds/HitsHD/mpd/HitsHD.mpd
 #KODIPROP:inputstream.adaptive.license_key=26bfec0f1cb047d7963f37e1b6401ec0:60e2302b29cb9cabf7e1743fc2f0f059 
 https://atemeshield1-voe.sysln.id/live/eds/HITSNowHD/mpd/HITSNowHD.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/sultantvnew1.php
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu.devhik.workers.dev/license_cenc
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/N6mZkk1R/wbtv.png" group-title="CHANNEL | MOVIE",Warner TV
+https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016cf0b533fe73e3/manifest.mpd
+https://cdn10jtedge.indihometv.com/atm/DASH/warner/manifest.mpd
+http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/WarnerTV/playlist.m3u8
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
 #EXTINF:-1 tvg-id="MN+" tvg-name="MN+" tvg-logo="https://i.ibb.co.com/tMx2kQSk/mn-plus.png" group-title="CHANNEL | MOVIE", MN+
@@ -594,14 +603,6 @@ https://times-ott-live.akamaized.net/moviesnow_wv_drm/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=8e799d091a775e320fe991ac1157e54c:3905edab045510aa8e16a036dfdcbad4
 #EXTINF:-1 tvg-id="" tvg-name="Starz Comedy" tvg-logo="https://i.ibb.co.com/KpXq87Pt/starz-comedy.png" group-title="CHANNEL | MOVIE", Starz Comedy
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/clients/dash/enc/kwj9ebjr2v/out/v1/e4240c0b0310427fa7c04bbece7689f4/cenc.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/sultantvnew1.php
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/N6mZkk1R/wbtv.png" group-title="CHANNEL | MOVIE",Warner TV
-https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016cf0b533fe73e3/manifest.mpd
-https://cdn10jtedge.indihometv.com/atm/DASH/warner/manifest.mpd
-http://103.179.182.117:6768/hls/41/41.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/wrCG11HM/originals.png" group-title="CHANNEL | MOVIE",Originals
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -5077,7 +5078,7 @@ https://pelindung.bandung.go.id:3443/video/HIKSVISION/pasarkirconn.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", Pasar Kiaracondong 2
 https://pelindung.bandung.go.id:3443/video/HIKSVISION/pasarkircon.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", Kircon Binong
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG",  Kircon Binong
 https://pelindung.bandung.go.id:3443/video/HIKSVISION/kirconbinongg.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", Kircon Binong 2
@@ -5140,7 +5141,7 @@ https://pelindung.bandung.go.id:3443/video/DAHUA/BUBA.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", Margacinta Tugu
 https://pelindung.bandung.go.id:3443/video/DAHUA/BUB.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", Ters.Bubat Bojongsoang 1
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", Ters. Ters.Bubat Bojongsoang 1
 https://pelindung.bandung.go.id:3443/video/HIKSVISION/Terbuahbatu.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANDUNG", Ters.Bubat Bojongsoang 2
@@ -5917,125 +5918,26 @@ https://cctv.atcs-dishubkbb.id/memfs/d7f68dc1-4ae5-4117-9f19-84d87e7f38b3_output
 
 #EXTINF:-1 group-title="CCTV | CIANJUR" group-logo="https://i.ibb.co.com/4RRTDxzM/cctv-cianjur.png"
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | CIANJUR", Alun Alun Cianjur
-https://atcs.cianjurkab.go.id:5443/LiveApp/streams/MyTOnfxISBjj1746015900027.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | CIANJUR", Simpang Warujajar
-https://atcs.cianjurkab.go.id:5443/LiveApp/streams/uzsSYpxeSqev1743256114729.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | CIANJUR", Simpang Joglo Toserba
-https://atcs.cianjurkab.go.id:5443/LiveApp/streams/D2oSvNP7C9HG1711825861872.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | CIANJUR", Tugu Tauhid
-https://atcs.cianjurkab.go.id:5443/LiveApp/streams/SP3_Tugu_Tauhid.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | CIANJUR", Simpang Siliwangi BRI
-https://atcs.cianjurkab.go.id:5443/LiveApp/streams/c5xOyAxF5Q4b1722831046145.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | CIANJUR", Simpang Syanghai
-https://atcs.cianjurkab.go.id:5443/LiveApp/streams/duohCUX31r8c1723911255849.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | CIANJUR", Simpang Cibodas
-https://atcs.cianjurkab.go.id:5443/LiveApp/streams/jymG4dgFNyUy1742662338464.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | CIANJUR", Rest Area Cipanas Puncak
-https://atcs.cianjurkab.go.id:5443/LiveApp/streams/Rp3eZ6fOI8DQ1744298591678.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | CIANJUR", Cipanas
-https://atcs.cianjurkab.go.id:5443/LiveApp/streams/K4zVFj6BbAJo1742659485930.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | CIANJUR", Simpang Dishub 1
-https://atcs.cianjurkab.go.id:5443/LiveApp/streams/SP4_Dishub_PTZ_1.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | CIANJUR", Simpang Dishub 2
-https://atcs.cianjurkab.go.id:5443/LiveApp/streams/SP4_Dishub_PTZ_2.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | CIANJUR", Bundaran Gentur 1
-https://atcs.cianjurkab.go.id:5443/LiveApp/streams/SP4_Gentur_PTZ_1.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | CIANJUR", Bundaran Gentur 2
-https://atcs.cianjurkab.go.id:5443/LiveApp/streams/gLAw2ExVoK7k1742398721616.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | CIANJUR", Bundaran Gentur 3
-https://atcs.cianjurkab.go.id:5443/LiveApp/streams/SP4_Gentur_Dari_Arah_Selakopi.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | CIANJUR", Tugu Pandanwangi 1
-https://atcs.cianjurkab.go.id:5443/LiveApp/streams/SP_3_Tugu_Pandan_Wangi_Arah_Sukabumi.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | CIANJUR", Tugu Pandanwangi 2
-https://atcs.cianjurkab.go.id:5443/LiveApp/streams/SP_3_Tugu_Pandan_Wangi_Arah_BLK.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | CIANJUR", Abdullah bin Nuh 1
-https://atcs.cianjurkab.go.id:5443/LiveApp/streams/BLK_VID_1.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | CIANJUR", Abdullah bin Nuh 2
-https://atcs.cianjurkab.go.id:5443/LiveApp/streams/BLK_VID_2.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | CIANJUR", Abdullah bin Nuh 3
-https://atcs.cianjurkab.go.id:5443/LiveApp/streams/BLK_VID_3.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | CIANJUR", Abdullah bin Nuh 4
-https://atcs.cianjurkab.go.id:5443/LiveApp/streams/BLK_VID_4.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | CIANJUR", Simpang Cikidang
-https://atcs.cianjurkab.go.id:5443/LiveApp/streams/SP3_Cikidang.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | CIANJUR", Simpang Ariaciko
-https://atcs.cianjurkab.go.id:5443/LiveApp/streams/CaJbe3k8bc2b1733293035809.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | CIANJUR", Tugu Tauco 1
-https://atcs.cianjurkab.go.id:5443/LiveApp/streams/SP3_Tauco_PTZ_2.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | CIANJUR", Tugu Tauco 2
-https://atcs.cianjurkab.go.id:5443/LiveApp/streams/uZj8DaDFRSZx1742398262430.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | CIANJUR", Mangunsarkoro Sinar
-https://atcs.cianjurkab.go.id:5443/LiveApp/streams/SP3_Sinar.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | CIANJUR", Mangunsarkoro Toko AA
-https://atcs.cianjurkab.go.id:5443/LiveApp/streams/SP4_TokoLili_PTZ_2.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | CIANJUR", Simpang Suge 1
-https://atcs.cianjurkab.go.id:5443/LiveApp/streams/SP3_Suge_PTZ_1.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | CIANJUR", Simpang Suge 2
-https://atcs.cianjurkab.go.id:5443/LiveApp/streams/SP3_Suge_PTZ_2.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | CIANJUR", Toko Lili 1
-https://atcs.cianjurkab.go.id:5443/LiveApp/streams/SP3_Toko_Lili_Dari_ArahWaruJajar.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | CIANJUR", Toko Lili 2
-https://atcs.cianjurkab.go.id:5443/LiveApp/streams/OJqdMcQDdtLQ1723906510739.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | CIANJUR", Toko Lili 3
-https://atcs.cianjurkab.go.id:5443/LiveApp/streams/eJeHnt1XOesg1743263419006.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | CIANJUR", Simpang Sasak 1
-https://atcs.cianjurkab.go.id:5443/LiveApp/streams/SP3_Sasak_PTZ-1.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | CIANJUR", Simpang Sasak 2
-https://atcs.cianjurkab.go.id:5443/LiveApp/streams/SP3_Sasak_PTZ-2.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | CIANJUR", Simpang Bojong
-https://atcs.cianjurkab.go.id:5443/LiveApp/streams/SP4_Bojong_PTZ_1.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | CIANJUR", Simpang Pramuka 1
-https://atcs.cianjurkab.go.id:5443/LiveApp/streams/SP4_Pramuka_PTZ_2.m3u8
+https://atcs.cianjurkab.go.id:5443/LieApp/streams/PM85nUxkNyZr1759502723221.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | CIANJUR", Simpang Pramuka 2
-https://atcs.cianjurkab.go.id:5443/LiveApp/streams/SP4_Pramuka_Dari_Arah_Lingkar.m3u8
+https://atcs.cianjurkab.go.id:5443/LieApp/streams/ISdrj5FYam3o1759502339025.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | CIANJUR", Simpang Pramuka 3
-https://atcs.cianjurkab.go.id:5443/LiveApp/streams/SP4_Pramuka_Dari_Arah_Dr_Hafiz.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | CIANJUR", Tugu Pandanwangi
+https://atcs.cianjurkab.go.id:5443/LieApp/streams/SP3PANDANWANGIARAHSUKABUMI.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | CIANJUR", Simpang Pramuka 4
-https://atcs.cianjurkab.go.id:5443/LiveApp/streams/SP4_Pramuka_Dari_Arah_Bandung.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | CIANJUR", Bundaran Gentur Citimall 1
+https://atcs.cianjurkab.go.id:5443/LieApp/streams/BundaranTuguGentur.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | CIANJUR", Raya Bandung Masjid Al Zabbar
-https://ruas-ciranjang.jaring.host/api/hls/camera_b/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | CIANJUR", Bundaran Gentur Citimall 2
+https://atcs.cianjurkab.go.id:5443/LieApp/streams/ArahSalakopi.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | CIANJUR", Jembatan Citarum
-https://atcs.cianjurkab.go.id:5443/LiveApp/streams/kzI3yr8DgyN01733292946046.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | CIANJUR", Abdullah Bin Nuh 1
+https://atcs.cianjurkab.go.id:5443/LieApp/streams/VID1RuasJlAbdullahBinNuh.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | CIANJUR", Abdullah Bin Nuh 2
+https://atcs.cianjurkab.go.id:5443/LieApp/streams/VID2RuasJlAbdullahBinNuh.m3u8
 
 # CCTV | BOGOR
 
