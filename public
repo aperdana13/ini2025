@@ -1383,14 +1383,21 @@ https://cctv.atcs-dishubkbb.id/memfs/d7f68dc1-4ae5-4117-9f19-84d87e7f38b3_output
 
 #EXTINF:-1 group-title="CCTV | CIANJUR" group-logo="https://i.ibb.co.com/4RRTDxzM/cctv-cianjur.png"
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#EXTVLCOPT:http-referrer=https://atcs.cianjurkab.go.id
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | CIANJUR", Alun Alun Cianjur
 https://atcs.cianjurkab.go.id:5443/LiveApp/streams/MyTOnfxISBjj1746015900027.m3u8
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#EXTVLCOPT:http-referrer=https://atcs.cianjurkab.go.id
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | CIANJUR", Simpang Warujajar
 https://atcs.cianjurkab.go.id:5443/LiveApp/streams/uzsSYpxeSqev1743256114729.m3u8
 
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#EXTVLCOPT:http-referrer=https://atcs.cianjurkab.go.id
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | CIANJUR", Simpang Joglo Toserba
 https://atcs.cianjurkab.go.id:5443/LiveApp/streams/D2oSvNP7C9HG1711825861872.m3u8
 
@@ -1490,14 +1497,20 @@ https://atcs.cianjurkab.go.id:5443/LiveApp/streams/SP4_Bojong_PTZ_1.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | CIANJUR", Simpang Pramuka 1
 https://atcs.cianjurkab.go.id:5443/LiveApp/streams/SP4_Pramuka_PTZ_2.m3u8
 
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#EXTVLCOPT:http-referrer=https://atcs.cianjurkab.go.id
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | CIANJUR", Simpang Pramuka 2
-https://atcs.cianjurkab.go.id:5443/LiveApp/streams/SP4_Pramuka_Dari_Arah_Lingkar.m3u8
+https://atcs.cianjurkab.go.id:5443/LieApp/streams/ISdrj5FYam3o1759502339025.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | CIANJUR", Simpang Pramuka 2 A
+https://atcs.cianjurkab.go.id:5443/LieApp/streams/ISdrj5FYam3o1759502339025.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | CIANJUR", Simpang Pramuka 3
 https://atcs.cianjurkab.go.id:5443/LiveApp/streams/SP4_Pramuka_Dari_Arah_Dr_Hafiz.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | CIANJUR", Simpang Pramuka 4
-https://atcs.cianjurkab.go.id:5443/LiveApp/streams/SP4_Pramuka_Dari_Arah_Bandung.m3u8
+https://atcs.cianjurkab.go.id:5443/LieApp/streams/PM85nUxkNyZr1759502723221.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | CIANJUR", Raya Bandung Masjid Al Zabbar
 https://ruas-ciranjang.jaring.host/api/hls/camera_b/stream.m3u8
@@ -2394,7 +2407,6 @@ https://rtsp.itn.net.id/play/hls/95f5a70f-39ab-4977-a148-9ef25ec1dc95/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANTEN", St.Tanjung Karang
 ##https://rtsp.itn.net.id/play/hls/5a39939e-bce5-42d2-8c79-5ad02b3f9710/index.m3u8
-
 
 
 
