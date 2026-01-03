@@ -6817,7 +6817,7 @@ https://mam.jogjaprov.go.id:1937/cctv-public/ViewGunungMerapi.stream/chunklist_w
 #https://transcode.baliprov.dev/get-m3u8.php?srv=internals&channel=4&m3u8=live.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BALI", Tanah Lot
-https://transcode.baliprov.dev/get-m3u8.php?srv=internals&channel=6&m3u8=live.m3u8
+#https://transcode.baliprov.dev/get-m3u8.php?srv=internals&channel=6&m3u8=live.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BALI", Pelabuhan Padang Bai
 #https://transcode.baliprov.dev/get-m3u8.php?srv=internals&channel=7&m3u8=live.m3u8
@@ -6826,7 +6826,7 @@ https://transcode.baliprov.dev/get-m3u8.php?srv=internals&channel=6&m3u8=live.m3
 #https://transcode.baliprov.dev/get-m3u8.php?srv=internals&channel=30&m3u8=live.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BALI", Besakih Pospol
-https://transcode.baliprov.dev/get-m3u8.php?srv=internals&channel=32&m3u8=live.m3u8
+#https://transcode.baliprov.dev/get-m3u8.php?srv=internals&channel=32&m3u8=live.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BALI", Besakih Pintu Keluar
 #https://transcode.baliprov.dev/get-m3u8.php?srv=internals&channel=31&m3u8=live.m3u8
