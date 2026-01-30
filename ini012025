@@ -715,7 +715,25 @@ https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/995zvakyej/
 #KODIPROP:inputstream.adaptive.license_key=046c374a3db594dfb32cba86d2e4f72f:04c00a6ed0fc4ce37841210a42eeeb35
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bw5g1vx3k9/out/v1/6913f190498b44c8a705e91728401769/cenc.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co.com/gbk5hfbY/star-movies.png" group-title="CHANNEL | MOVIE", Star Movies
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/mCWn0dy3/mgm.png" group-title="CHANNEL | MOVIE",MGM+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={34bbe1d5cad94e81a2f2eb3275611f85:7e6a42fbe78e7ff8c20cb4eeb475ed17}
+https://epix.live.epix.services/out/v1/9e8d7f463c10401da4c78387a627e184/index.mpd
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/mCWn0dy3/mgm.png" group-title="CHANNEL | MOVIE", MGM+ Drive In
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2aa5443eab3841fca0804ed7df621e21:f6337da72d318e72e77742c7f8d2e698
+https://epix-drivein.live.epix.services/out/v1/bef1dd342f69416e9fdd844ece496dc0/index.mpd
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/mCWn0dy3/mgm.png" group-title="CHANNEL | MOVIE", MGM+ Hits
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2e177abdd25b476dbb474fa7c2ee76b3:dc43cb2d4bd48774ef9620fda1158060
+https://epix2.live.epix.services/out/v1/08bcf975c3ef4013adb31929aef1fb82/index.mpd
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/mCWn0dy3/mgm.png" group-title="CHANNEL | MOVIE", MGM+ Marquee
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2f2032b4cae944a0adf5ce111a2ff693:2b4a2855b0abde035714985be6db4bd0
+https://epix-hits.live.epix.services/out/v1/a87dee961e4249afae86749c59202b9e/index.mpd
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
 #EXTINF:-1 tvg-id="" tvg-name="Starz Comedy" tvg-logo="https://i.ibb.co.com/xtWvT0vD/starz.png" group-title="CHANNEL | MOVIE", Starz Eastern
@@ -1077,6 +1095,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/AFNHD/mediampd/AFNHD.mpd
 #EXTINF:-1  tvg-name="BBC Food" tvg-id="udptvus/bbcfood" tvg-logo="https://i.ibb.co.com/Kxhv1x4g/bbc-food.png" group-title="CHANNEL | LIFESTYLE",BBC Food
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/NnWDjWrH/cooking-channel.png" group-title="CHANNEL | LIFESTYLE",Cooking TV
+http://supersonictv.live:8080/611366/682256/22067
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/jZDkNSCS/food-network.png" group-title="CHANNEL | LIFESTYLE",Food Network
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
@@ -2554,10 +2573,13 @@ https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/i2pcjr4pe5/out/v1/9
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/d0c5LcHw/unifi.png" group-title="CHANNEL | SPORTS", Unifi Sports
 
 #EXTINF:-1 tvg-id="NBCSportsBoston.us" tvg-name="" tvg-logo="https://i.ibb.co.com/Vp9kmqtt/usa-network1.png" group-title="CHANNEL | SPORTS" ,  USA Network 1
+http://supersonictv.live:8080/611366/682256/22174
 
 #EXTINF:-1 tvg-id="NBCSportsBoston.us" tvg-name="" tvg-logo="https://i.ibb.co.com/HDS02Z8Z/usa-network2.png" group-title="CHANNEL | SPORTS" ,  USA Network 2
+http://supersonictv.live:8080/611366/682256/22175
 
 #EXTINF:-1 tvg-id="NBCSportsBoston.us" tvg-name="" tvg-logo="https://i.ibb.co.com/JFcbfVYg/usa-network3.png" group-title="CHANNEL | SPORTS" ,  USA Network 3
+http://supersonictv.live:8080/611366/682256/22176
 
 #EXTINF:-1 tvg-id="NBCSportsBoston.us" tvg-name="" tvg-logo="https://i.ibb.co.com/Kjx0BRmF/usa-network4.png" group-title="CHANNEL | SPORTS" ,  USA Network 4
 
@@ -4014,42 +4036,58 @@ CY
 #EXTINF:-1 group-title="CHANNEL | USA" group-logo="https://i.ibb.co.com/cc7wpm2b/usa.png"
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/wNLQSZWC/a-3.png" group-title="CHANNEL | USA",A&E
+http://supersonictv.live:8080/611366/682256/22040
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/CKY8L6ft/abc.png" group-title="CHANNEL | USA",ABC
+http://supersonictv.live:8080/611366/682256/22041
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/4RqsHf6r/abc-ny.png" group-title="CHANNEL | USA",ABC NY
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/rRZ6G250/acc-network.png" group-title="CHANNEL | USA",ACC Network
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/SD9jjxtC/adult-swim.png" group-title="CHANNEL | USA",Adult Swim
+http://supersonictv.live:8080/611366/682256/22043
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/Q7ZxcjZJ/altitude-sport.png" group-title="CHANNEL | USA",Altitude Sports
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/fdtSryLg/amc.png" group-title="CHANNEL | USA",AMC
+#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://www.izzigo.tv/"
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=97cfeda35c2f42d6c2be729ea2945b12:59c1f3c384bd0a25e817539d5fe6e24b
+https://nog-live1-ott.izzigo.tv/4/out/u/dash/AMCHD/default.mpd
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/fYNPsJf2/ahc.png" group-title="CHANNEL | USA",American Heroes Channel
+http://supersonictv.live:8080/611366/682256/22044
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/FGv8wmy/animal-planet.png" group-title="CHANNEL | USA",Animal Planet
+http://supersonictv.live:8080/611366/682256/22045
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/fYzZqkL8/aspire.png" group-title="CHANNEL | USA",Aspire
+http://supersonictv.live:8080/611366/682256/22048
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8gv2BkG1/atlanta.png" group-title="CHANNEL | USA", Atlanta Channel
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/KxGn16JT/axs.png" group-title="CHANNEL | USA",AXS TV
+http://supersonictv.live:8080/611366/682256/22050
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/v64GqRxG/bally-sport.png" group-title="CHANNEL | USA",Bally Sports
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/m5K4jNSB/bbc-america.png" group-title="CHANNEL | USA",BBC America
+http://supersonictv.live:8080/611366/682256/22051
 
 #EXTINF:-1 tvg-id="beINSports.us" tvg-name="BEIN_SPORTS" tvg-logo="https://i.ibb.co.com/PvKNbds6/beinsport.png" group-title="CHANNEL | USA",BeIN Sports
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/KzjXdPbL/bet.png" group-title="CHANNEL | USA",BET
+http://supersonictv.live:8080/611366/682256/22052
 
 #EXTINF:-1 tvg-id="BET.us" tvg-name="BET" tvg-logo="https://i.ibb.co.com/Gf8nCPM5/bettv.png" group-title="CHANNEL | USA",BET Jams
+http://supersonictv.live:8080/611366/682256/22054
 
 #EXTINF:-1 tvg-id="BETHer.us" tvg-name="BET_HER" tvg-logo="https://i.ibb.co.com/S49df2ch/ber-her.png" group-title="CHANNEL | USA", BET Her
+http://supersonictv.live:8080/611366/682256/22053
 
 #EXTINF:-1 tvg-id="BETSOUL.us" tvg-name="BET_SOUL" tvg-logo="https://i.ibb.co.com/7t3PtHQ2/ber-soul.png" group-title="CHANNEL | USA", BET Soul
+http://supersonictv.live:8080/611366/682256/22055
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/Z6PjJbSy/bit-network.png" group-title="CHANNEL | USA",BIG TEN Network
 
@@ -4059,10 +4097,13 @@ https://bloomberg.com/media-manifest/streams/asia.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/4n29YY76/boomerang.png" group-title="CHANNEL | USA",Boomerang
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/zWD4NyQv/bounce.png" group-title="CHANNEL | USA",Bounce
+http://supersonictv.live:8080/611366/682256/22058
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/d0kTQggm/bravo.png" group-title="CHANNEL | USA",Bravo
+http://supersonictv.live:8080/611366/682256/22059
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/1J2tKSCt/buzzr.png" group-title="CHANNEL | USA",Buzzr
+http://supersonictv.live:8080/611366/682256/22061
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/jvCcHmVJ/c-span.png" group-title="CHANNEL | USA",C Span 1
 
@@ -4075,6 +4116,7 @@ https://bloomberg.com/media-manifest/streams/asia.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/fzkLnyvH/cbc.png" group-title="CHANNEL | USA",CBC
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/pjkgr57F/cbs.png" group-title="CHANNEL | USA",CBS
+http://supersonictv.live:8080/611366/682256/22062
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/ZRzxYTP5/cbs-ny.png" group-title="CHANNEL | USA",CBS NY
 
@@ -4099,8 +4141,10 @@ https://bloomberg.com/media-manifest/streams/asia.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/Jj3Q1kjf/cleotv.png" group-title="CHANNEL | USA",Cleo TV
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/PzPvgVM3/cmt.png" group-title="CHANNEL | USA",CMT
+http://supersonictv.live:8080/611366/682256/22063
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/zHDWsZfm/cnbc.png" group-title="CHANNEL | USA",CNBC
+http://supersonictv.live:8080/611366/682256/22064
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/zHDWsZfm/cnbc.png" group-title="CHANNEL | USA",CNBC World
 
@@ -4109,17 +4153,26 @@ https://bloomberg.com/media-manifest/streams/asia.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/Lz2QnGhS/cnn.png" group-title="CHANNEL | USA",CNN
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/GvCGd0zF/comedy-central.png" group-title="CHANNEL | USA",Comedy Central
+#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://www.izzigo.tv/"
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2a61b7a7912064acc62a06a6ae22ac5c:5bfb374d644703550f0637532bca0491
+https://zap-live1-ott.izzigo.tv/2/out/u/dash/COMEDY-CENTRAL-HD/default.mpd
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/spN4zkcy/comedy-tv.png" group-title="CHANNEL | USA",Comedy TV
+http://supersonictv.live:8080/611366/682256/47730
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/tpQmgNvp/comet.png" group-title="CHANNEL | USA",Comet
-https://fast-channels.sinclairstoryline.com/COMET/index.m3u8
+http://supersonictv.live:8080/611366/682256/22066
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/NnWDjWrH/cooking-channel.png" group-title="CHANNEL | USA",Cooking Channel
+http://supersonictv.live:8080/611366/682256/22067
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/67JwpSd7/courttv.png" group-title="CHANNEL | USA",Court TV
+http://supersonictv.live:8080/611366/682256/22068
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/R4yT6W91/cozitv.png" group-title="CHANNEL | USA",Cozi TV
+http://supersonictv.live:8080/611366/682256/22070
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/HDCR42cX/crave1.png" group-title="CHANNEL | USA",Crave 1
 
@@ -4130,20 +4183,28 @@ https://fast-channels.sinclairstoryline.com/COMET/index.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/q30c8qmK/crave4.png" group-title="CHANNEL | USA",Crave 4
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/BV95bkY9/crime-investigation.png" group-title="CHANNEL | USA",Crime+ Investigation
+http://supersonictv.live:8080/611366/682256/22071
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/YFwNKG7J/curiosity.png" group-title="CHANNEL | USA",Curiosity
 
-#EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/F4y19gVN/cw.png" group-title="CHANNEL | USA",CW
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/F4y19gVN/cw.png" group-title="CHANNEL | USA",CW Gold
+https://d1d726ny1vain2.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-femoe55fvrdvc/playlist.m3u8
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/F4y19gVN/cw.png" group-title="CHANNEL | USA",CW Forever
+https://d1sknsnbkyvie.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-sbcl5hxexbihh/playlist.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/DDgKh2V7/cw11.png" group-title="CHANNEL | USA",CW PIX 11
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/k6JZqRhn/dave.png" group-title="CHANNEL | USA",Dave
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/bgQm4NdH/destination-america.png" group-title="CHANNEL | USA",Destination America
+http://supersonictv.live:8080/611366/682256/22073
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/DHBb7mqc/discovery-channel-usa.png" group-title="CHANNEL | USA",Discovery Channel
+http://supersonictv.live:8080/611366/682256/22074
 
 #EXTINF:-1 tvg-id="" tvg-name="Discovery Sciense" tvg-logo="https://i.ibb.co.com/fdtR7Q4x/discovery-science-usa.png" group-title="CHANNEL | USA", Discovery Sciense
+http://supersonictv.live:8080/611366/682256/22077
 
 #EXTINF:-1 tvg-id="" tvg-name="Discovery Sciense" tvg-logo="https://i.ibb.co.com/sJVzwDDz/discovery-turbo.png" group-title="CHANNEL | USA", Discovery  Turbo
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -4151,10 +4212,13 @@ https://fast-channels.sinclairstoryline.com/COMET/index.m3u8
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Discoveryturbo2/default/manifest.mpd
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/Vcf5f9sQ/discovery-family-usa.png" group-title="CHANNEL | USA",Discovery Family
+http://supersonictv.live:8080/611366/682256/22076
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/tTcp51q7/discovery-life-usa.png" group-title="CHANNEL | USA",Discovery Life Channel
+http://supersonictv.live:8080/611366/682256/22075
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/0RcYTLfL/discovery-velocity-usa.png" group-title="CHANNEL | USA",Discovery Velocity
+http://supersonictv.live:8080/611366/682256/22078
 
 #EXTINF:-1 group-title="CHANNEL | USA" tvg-id="DisneyChannel.us@East" tvg-logo="https://i.ibb.co.com/Nd2fz89C/disney-channel.png" ,Disney Channel
 
@@ -4163,8 +4227,10 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Discoveryturbo2/default/manifest.mp
 #EXTINF:-1 group-title="CHANNEL | USA" tvg-id="DisneyJunior.us@East" tvg-logo="https://i.ibb.co.com/hJHCRBR6/disney-xd.png" ,Disney XD
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/23K1CGxb/diy.png" group-title="CHANNEL | USA",DIY
+http://supersonictv.live:8080/611366/682256/22080
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/5gFtK3PZ/E-entertainment.png" group-title="CHANNEL | USA",E! Entertainment
+http://supersonictv.live:8080/611366/682256/22082
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/jZTsB4VL/epix-drive.png" group-title="CHANNEL | USA",EPIX
 
@@ -4193,8 +4259,10 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Discoveryturbo2/default/manifest.mp
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/3YYTds8j/fight-sport.png" group-title="CHANNEL | USA",Fight Network
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/20SRKFDj/food-network.png" group-title="CHANNEL | USA",The Food Network
+http://supersonictv.live:8080/611366/682256/22084
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/357L5qRH/fox.png" group-title="CHANNEL | USA",Fox
+http://supersonictv.live:8080/611366/682256/22086
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/1GBPS167/fox-business.png" group-title="CHANNEL | USA",Fox Business Network
 
@@ -4235,24 +4303,32 @@ https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/uiffe4jhf0/
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/gbv2sgcn/fuse.png" group-title="CHANNEL | USA",Fuse TV
+http://supersonictv.live:8080/611366/682256/22089
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/21YQMKrZ/fx.png" group-title="CHANNEL | USA",FX
+http://supersonictv.live:8080/611366/682256/22092
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/Cpcybcpy/fxmovie.png" group-title="CHANNEL | USA",FX Movie Channel
+http://supersonictv.live:8080/611366/682256/22091
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/1G09kSXz/fxx.png" group-title="CHANNEL | USA",FXX
+http://supersonictv.live:8080/611366/682256/22093
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/j9grpp2K/fyi.png" group-title="CHANNEL | USA",FYI
+http://supersonictv.live:8080/611366/682256/22096
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/nss6nFtW/galavision.png" group-title="CHANNEL | USA",Galavisión
+http://supersonictv.live:8080/611366/682256/22097
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/ynkmtxjN/get-tv.png" group-title="CHANNEL | USA",Get TV
+http://supersonictv.live:8080/611366/682256/22099
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/kvky5ZQ/golf-channel.png" group-title="CHANNEL | USA",Golf Channel
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co/PvQdVSdN/great-american.png" group-title="CHANNEL | USA",Great American Channel
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/DDHzpGvP/grift.png" group-title="CHANNEL | USA",Grit Channel
+http://supersonictv.live:8080/611366/682256/22100
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/S4vjsNHV/hallmark.png" group-title="CHANNEL | USA",The Hallmark Channel
 
@@ -4286,27 +4362,36 @@ https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/
 https://mediapackage-hgtv-source.fullscreen.nz/index.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/pvVW8XFp/history.png" group-title="CHANNEL | USA",History
+http://supersonictv.live:8080/611366/682256/22104
 
-#EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/Kc7yT2jH/hln.png" group-title="CHANNEL | USA"Headline News
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/Kc7yT2jH/hln.png" group-title="CHANNEL | USA", HLN
+http://supersonictv.live:8080/611366/682256/22107
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/m5fJ3zB0/world-war.png" group-title="CHANNEL | USA", Infowars
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/Zpt8RWSV/insp.png" group-title="CHANNEL | USA",INSP
+http://supersonictv.live:8080/611366/682256/22109
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/9Hxc9gCg/ifc.png" group-title="CHANNEL | USA",IFC
+http://supersonictv.live:8080/611366/682256/22108
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/JFpRhbsf/investigation.png" group-title="CHANNEL | USA",Investigation Discovery
+http://supersonictv.live:8080/611366/682256/22111
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/zVFzhJ68/ion.png" group-title="CHANNEL | USA",ION TV
-https://live-manifest.production-public.tubi.io/live/4ed608c9-863e-4ea5-91d1-27549ef1adda/playlist.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/zVFzhJ68/ion.png" group-title="CHANNEL | USA",ION Mystery
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/zVFzhJ68/ion.png" group-title="CHANNEL | USA",ION+
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/Lz0LCMW3/laff.png" group-title="CHANNEL | USA",Laff TV
+http://supersonictv.live:8080/611366/682256/22113
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/RG4ZTyf8/lifetime.png" group-title="CHANNEL | USA",Lifetime
+http://supersonictv.live:8080/611366/682256/22115
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/RG4ZTyf8/lifetime.png" group-title="CHANNEL | USA",Lifetime Real Women
+http://supersonictv.live:8080/611366/682256/47736
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/JjQNcwrT/lifetime-movies.png" group-title="CHANNEL | USA",Lifetime Movies Network
 
@@ -4321,12 +4406,32 @@ https://live-manifest.production-public.tubi.io/live/4ed608c9-863e-4ea5-91d1-275
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/ZpbfmJww/msn.png" group-title="CHANNEL | USA",MASN
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/Kp7Tjx3C/mavtv.png" group-title="CHANNEL | USA",MAVTV
+http://supersonictv.live:8080/611366/682256/22117
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/S4q9gFgq/metv.png" group-title="CHANNEL | USA",ME TV
+http://supersonictv.live:8080/611366/682256/22118
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/h140b44B/military-hisory.png" group-title="CHANNEL | USA",Military History
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/mCWn0dy3/mgm.png" group-title="CHANNEL | USA",MGM+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={34bbe1d5cad94e81a2f2eb3275611f85:7e6a42fbe78e7ff8c20cb4eeb475ed17}
+https://epix.live.epix.services/out/v1/9e8d7f463c10401da4c78387a627e184/index.mpd
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/mCWn0dy3/mgm.png" group-title="CHANNEL | USA", MGM+ Drive In
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2aa5443eab3841fca0804ed7df621e21:f6337da72d318e72e77742c7f8d2e698
+https://epix-drivein.live.epix.services/out/v1/bef1dd342f69416e9fdd844ece496dc0/index.mpd
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/mCWn0dy3/mgm.png" group-title="CHANNEL | USA", MGM+ Hits
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2e177abdd25b476dbb474fa7c2ee76b3:dc43cb2d4bd48774ef9620fda1158060
+https://epix2.live.epix.services/out/v1/08bcf975c3ef4013adb31929aef1fb82/index.mpd
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/mCWn0dy3/mgm.png" group-title="CHANNEL | USA", MGM+ Marquee
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2f2032b4cae944a0adf5ce111a2ff693:2b4a2855b0abde035714985be6db4bd0
+https://epix-hits.live.epix.services/out/v1/a87dee961e4249afae86749c59202b9e/index.mpd
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/ym92hvyD/mlb-network.png" group-title="CHANNEL | USA",MLB Network
 
@@ -4338,8 +4443,10 @@ https://live-manifest.production-public.tubi.io/live/4ed608c9-863e-4ea5-91d1-275
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02873-kravemedia-mtrspt1-samsungau/playlist.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/1GrCkWjB/motortrend.png" group-title="CHANNEL | USA",Motor Trend
+http://supersonictv.live:8080/611366/682256/22119
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/Fk80Y7sv/mtv.png" group-title="CHANNEL | USA",MTV
+http://supersonictv.live:8080/611366/682256/22120
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/FLfQ6GKr/mtv2.png" group-title="CHANNEL | USA",MTV2
 
@@ -4352,12 +4459,15 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02873-kravemedia-mtrspt1-samsungau/
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/9kk1kFyF/my9tv.png" group-title="CHANNEL | USA",MY9TV
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/4Zr1k1yC/natgeo-usa.png" group-title="CHANNEL | USA",National Geographic
+http://supersonictv.live:8080/611366/682256/22124
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/yFr1rQzh/natgeo-wild-usa.png" group-title="CHANNEL | USA",Nat Geo Wild
+http://supersonictv.live:8080/611366/682256/22122
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/pvj0hw86/nbatv.png" group-title="CHANNEL | USA",NBA TV
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/qfJsHfq/nbc.png" group-title="CHANNEL | USA",NBC
+http://supersonictv.live:8080/611366/682256/22126
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co.com/J0xVpsN/nbc-sports.png" group-title="CHANNEL | USA" , NBC Sports
 
@@ -4399,26 +4509,32 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/spVgsRtW/outermax.png" group-title="CHANNEL | USA",Outer Max
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/FTGqkz9/outsidetv.png" group-title="CHANNEL | USA",Oustide TV
+http://supersonictv.live:8080/611366/682256/22132
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/VYqcshXq/ovation.png" group-title="CHANNEL | USA",Ovation
+http://supersonictv.live:8080/611366/682256/22133
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/4ZGMVPkR/oxygen.png" group-title="CHANNEL | USA",Oxygen
+http://supersonictv.live:8080/611366/682256/22134
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/fG1pBWy6/paramount.png" group-title="CHANNEL | USA",Paramount Network
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
-https://viamotionhsi.netplus.ch/live/eds/paramount/browser-dash/paramount.mpd
 
 #EXTINF:-1 group-title="CHANNEL | USA"  tvg-logo="https://i.ibb.co.com/TqYYfjPv/peacock.png",Peacock Premier League TV
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/4nfV8MJS/pop.png" group-title="CHANNEL | USA",Pop TV
+http://supersonictv.live:8080/611366/682256/22139
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/gFXqg2ct/pursuit.png" group-title="CHANNEL | USA",Pursuit Channel
+http://supersonictv.live:8080/611366/682256/22140
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/9HZ2V687/qvc.png" group-title="CHANNEL | USA",QVC
+http://supersonictv.live:8080/611366/682256/22141
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/8F27tfv/reelz.png" group-title="CHANNEL | USA",Reelz Channel
+http://supersonictv.live:8080/611366/682256/22142
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/PGbxybfZ/revolt.png" group-title="CHANNEL | USA",Revolt
+http://supersonictv.live:8080/611366/682256/22143
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/j9kyXwZf/root-sport.png" group-title="CHANNEL | USA", Root Sports
 
@@ -4439,6 +4555,7 @@ https://viamotionhsi.netplus.ch/live/eds/paramount/browser-dash/paramount.mpd
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/gLB9q0Px/showtime.png" group-title="CHANNEL | USA",Showtime Family Zone
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/ynF88tfT/smithsonian.png" group-title="CHANNEL | USA",Smithsonian Channel
+http://supersonictv.live:8080/611366/682256/22148
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/m5qJ9Vr6/sony-channel.png" group-title="CHANNEL | USA",Sony Movie Channel
 http://xxip9.top:8080/live/Gizvid192@giz.com/1234@4321/2214.ts
@@ -4448,6 +4565,7 @@ http://xxip9.top:8080/live/Gizvid192@giz.com/1234@4321/2214.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/4wcsC1M3/spirittv.png" group-title="CHANNEL | USA", Spirit TV HD
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/0j0SxfRp/sportsman.png" group-title="CHANNEL | USA", Sportsman Channel
+http://supersonictv.live:8080/611366/682256/22149
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/LdcSYVN8/stadium.png" group-title="CHANNEL | USA",Stadium Sports Network
 
@@ -4466,28 +4584,48 @@ http://xxip9.top:8080/live/Gizvid192@giz.com/1234@4321/2214.ts
 #EXTINF:-1 tvg-id="" tvg-name="Starz Encore Westerns" tvg-logo="https://i.ibb.co.com/Q1qX3bc/starz-westerns.png" group-title="CHANNEL | USA", Starz Encore Westerns
 
 #EXTINF:-1 group-title="CHANNEL | USA" tvg-id="SundanceTV.us@East" tvg-logo="https://i.ibb.co.com/C5KF1DYw/sundancetv.png", Sundance TV
+http://supersonictv.live:8080/611366/682256/22152
 
 #EXTINF:-1 tvg-id="MLBNetwork.us" tvg-name="Syfy" tvg-logo="https://i.ibb.co.com/953b0M9/syfy.png" group-title="CHANNEL | USA", Syfy
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/bMWjJd7x/tastemade.png" group-title="CHANNEL | USA", Tastemade
+http://supersonictv.live:8080/611366/682256/22153
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/nMdhRxCz/teennick.png" group-title="CHANNEL | USA", Teennick
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/gbpkwL3v/tbs.png" group-title="CHANNEL | USA",TBS
+http://supersonictv.live:8080/611366/682256/22154
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/h3yYYx7/tcm.png" group-title="CHANNEL | USA",TCM
+http://supersonictv.live:8080/611366/682256/22156
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/XkYnTdDX/tennis-channel.png" group-title="CHANNEL | USA",Tennis Channel
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/bjT29zT5/tlc.png" group-title="CHANNEL | USA",TLC
+http://supersonictv.live:8080/611366/682256/22157
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/bjT29zT5/tlc.png" group-title="CHANNEL | USA",TLC West
+http://supersonictv.live:8080/611366/682256/22158
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/fhqM7FP/tmc.png" group-title="CHANNEL | USA",TMC Channel
 
-#EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/4ZWXfZwS/tnt.png" group-title="CHANNEL | USA",TNT
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/4ZWXfZwS/tnt.png" group-title="CHANNEL | USA",TNT East
+http://supersonictv.live:8080/611366/682256/22159
 
-#EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/WNVR2LSs/trvl.png" group-title="CHANNEL | USA",Travel Channel
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/4ZWXfZwS/tnt.png" group-title="CHANNEL | USA",TNT West
+http://supersonictv.live:8080/611366/682256/22161
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/4ZWXfZwS/tnt.png" group-title="CHANNEL | USA",TNT Pacific
+http://supersonictv.live:8080/611366/682256/22160
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/WNVR2LSs/trvl.png" group-title="CHANNEL | USA",Travel Channel East
+http://supersonictv.live:8080/611366/682256/22162
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/WNVR2LSs/trvl.png" group-title="CHANNEL | USA",Travel Channel West
+http://supersonictv.live:8080/611366/682256/22163
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/FL3G7GZ3/trutv.png" group-title="CHANNEL | USA",TruTV
+http://supersonictv.live:8080/611366/682256/22164
 
 #EXTINF:-1 tvg-id="TSN 1" tvg-logo="https://i.ibb.co.com/F4cMZ1R1/tsn1.png" group-title="CHANNEL | USA",TSN 1 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
@@ -4514,45 +4652,61 @@ https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/mrskysvotx/
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/nsYbmSTc/tudn.png" group-title="CHANNEL | USA",TUDN
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/jvKkjnY3/tvland.png" group-title="CHANNEL | USA",TV Land
+http://supersonictv.live:8080/611366/682256/22169
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/Kjf1JfKF/tvone.png" group-title="CHANNEL | USA",TV One
+http://supersonictv.live:8080/611366/682256/22166
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/bRq70ygN/ufc.png" group-title="CHANNEL | USA",UFC
+http://supersonictv.live:8080/611366/682256/22177
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/fYMWDyJh/univision.png" group-title="CHANNEL | USA",Univision
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/fTSxtn6/unimas.png" group-title="CHANNEL | USA",Unimas
 
 #EXTINF:-1 group-title="CHANNEL | USA" tvg-id="UpTV.us" tvg-logo="https://i.ibb.co/TBfyCBL6/uptv.png",UP TV
+http://supersonictv.live:8080/611366/682256/47744
 
 #EXTINF:-1 tvg-id="NBCSportsBoston.us" tvg-name="" tvg-logo="https://i.ibb.co.com/Vp9kmqtt/usa-network1.png" group-title="CHANNEL | USA" ,  USA Network 1
+http://supersonictv.live:8080/611366/682256/22174
 
 #EXTINF:-1 tvg-id="NBCSportsBoston.us" tvg-name="" tvg-logo="https://i.ibb.co.com/HDS02Z8Z/usa-network2.png" group-title="CHANNEL | USA" ,  USA Network 2
+http://supersonictv.live:8080/611366/682256/22175
 
 #EXTINF:-1 tvg-id="NBCSportsBoston.us" tvg-name="" tvg-logo="https://i.ibb.co.com/JFcbfVYg/usa-network3.png" group-title="CHANNEL | USA" ,  USA Network 3
+http://supersonictv.live:8080/611366/682256/22176
 
 #EXTINF:-1 tvg-id="NBCSportsBoston.us" tvg-name="" tvg-logo="https://i.ibb.co.com/Kjx0BRmF/usa-network4.png" group-title="CHANNEL | USA" ,  USA Network 4
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/pr9rmswQ/vh1.png" group-title="CHANNEL | USA",VH1
+http://supersonictv.live:8080/611366/682256/22178
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/pr9rmswQ/vh1.png" group-title="CHANNEL | USA",VH1 Classic
+http://supersonictv.live:8080/611366/682256/22179
+
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/Nd8y7xmV/vice.png" group-title="CHANNEL | USA",Vice TV
+http://supersonictv.live:8080/611366/682256/22180
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/BHsXNrwv/theweather-channel.png" group-title="CHANNEL | USA",The Weather Channel
 
 #EXTINF:-1 group-title="CHANNEL | USA" tvg-id="WNetwork.ca@East" tvg-logo="https://i.ibb.co.com/5W526bc5/w-network.png", W Network
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/wF8w46qr/wetv.png" group-title="CHANNEL | USA",WE TV
+http://supersonictv.live:8080/611366/682256/22182
 
-#EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/8CwncN5/wgn.png
-" group-title="CHANNEL | USA",WGN
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/8CwncN5/wgn.png" group-title="CHANNEL | USA",WGN
+http://supersonictv.live:8080/611366/682256/22184
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/BVH9sHFw/willow.png" group-title="CHANNEL | USA", Willow
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/BVH9sHFw/willow.png" group-title="CHANNEL | USA", Willow 2
 
 #EXTINF:-1 tvg-id="" tvg-name="World Fishing Network" tvg-logo="https://i.ibb.co.com/s9jq5bxV/worldfishing.png" group-title="CHANNEL | USA", World Fishing Network
+http://supersonictv.live:8080/611366/682256/22183
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/JWkrnYj9/wwe.png" group-title="CHANNEL | USA",WWE Network
+http://supersonictv.live:8080/611366/682256/22185
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/ns8SstpQ/yestv.png" group-title="CHANNEL | USA",YES Network
 
