@@ -7,6 +7,7 @@
 
 
 
+
 113.000.404.11.2
 
 
@@ -832,7 +833,7 @@ https://times-ott-live.akamaized.net/mnxhd_wv_drm/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
-#EXTINF:-1 tvg-id="Movies Now" tvg-name="Movies Now" tvg-logo="https://i.ibb.co.com/QjMVH0DK/movies-now.png" group-title="CHANNEL | CINEMA WORLD", Movies Now
+#EXTINF:-1 tvg-id="Movies Now" tvg-name="Movies Now" tvg-logo="https://i.ibb.co.com/QjMVH0DK/movies-now.png" group-title="CHANNEL | CINEMA", Movies Now
 https://times-ott-live.akamaized.net/moviesnow_wv_drm/index.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co.com/KzLhdhBj/cinemax-moremax.png" group-title="CHANNEL | CINEMA", Star MAX
@@ -1893,13 +1894,13 @@ https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="beINSports" group-title="CHANNEL | SPORTS" tvg-logo="https://i.ibb.co.com/LznjJF3T/beinsport3.png", BeIN Sports 3 EN
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/6R7MwSbX/bluezoom.png" group-title="CHANNEL | SPORTS",Blue Zoom FR
-https://viamotionhsi.netplus.ch/live/eds/bluezoomfr/browser-dash/bluezoomfr.mpd
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/6R7MwSbX/bluezoom.png" group-title="CHANNEL | SPORTS",Blue Zoom DE
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://viamotionhsi.netplus.ch/live/eds/bluezoomde/browser-dash/bluezoomde.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/6R7MwSbX/bluezoom.png" group-title="CHANNEL | SPORTS",Blue Zoom FR
+https://viamotionhsi.netplus.ch/live/eds/bluezoomfr/browser-dash/bluezoomfr.mpd
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/4ndtdMkZ/canal-sport.png" group-title="CHANNEL | SPORTS", Canal+ Sport
 
