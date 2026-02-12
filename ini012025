@@ -10,7 +10,6 @@
 
 
 
-
 113.000.404.11.2
 
 
@@ -601,12 +600,6 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/RockEntertainmentHD/mediampd/Rock
 https://cdn10jtedge.indihometv.com/atm/DASH/warner/manifest.mpd
 http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/WarnerTV/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/N6mZkk1R/wbtv.png" group-title="CHANNEL | MOVIES",WB TV
-#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://www.izzigo.tv/"
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a62d210f0f907a0ebfb84a790d42780b:590779be25e38a41d817f6ad13f5b070
-https://nog-live1-ott.izzigo.tv/5/out/u/dash/WARNERHD/default.mpd
-
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=12a34fccac944a19a14101a9009dae05:2d1543668411b31aec7269d889d4821c
@@ -902,6 +895,12 @@ http://xxip9.top:8080/live/Gizvid192@giz.com/1234@4321/2214.ts
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/m5qJ9Vr6/sony-channel.png" group-title="CHANNEL | CINEMA WORLD",Sony Channel
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/N6mZkk1R/wbtv.png" group-title="CHANNEL | CINEMA WORLD",Warner TV
+#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://www.izzigo.tv/"
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a62d210f0f907a0ebfb84a790d42780b:590779be25e38a41d817f6ad13f5b070
+https://nog-live1-ott.izzigo.tv/5/out/u/dash/WARNERHD/default.mpd
+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/Rk6GYS6d/pluto-fantastic.png" group-title="CHANNEL | CINEMA WORLD",Pluto TV Fantastic
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5b64a245a202b3337f09e51d/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2aed45-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=46d9eb84-1a99-477f-99be-7f761b922cd2&serverSideAds=false&checkedby:iptvcat.com
@@ -1160,10 +1159,6 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/77d7eac1b90247ac9aa745bd2eb47fa8/ind
 https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_5/dash.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/Wpcg9qvj/4ktravel.png" group-title="CHANNEL | LIFESTYLE",4K Travel
-
-#EXTINF:-1 tvg-id="TravelXP4k.mv" tvg-name="Travel XP" tvg-logo="https://i.ibb.co.com/Vch50434/travelxp.png" group-title="CHANNEL | LIFESTYLE",Travel XP
-https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
-https://maldivesn.net/hilaytv/travelxp
 
 #EXTINF:-1 tvg-id="" tvg-name="Travel & Lifestyle TV" tvg-logo="https://i.ibb.co.com/WWbpMgJG/travel-lifestyle.png" group-title="CHANNEL | LIFESTYLE",Travel & Lifestyle TV
 
@@ -1790,17 +1785,75 @@ https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv_enc/abudhabi_sports_
 
 #EXTINF:-1 tvg-id="Arena Premium 3.ba" tvg-logo="https://i.ibb.co.com/ZzNJ8VZv/arena-premium3-cro.png" group-title="CHANNEL | SPORTS", Arena Sport Premium 3
 
-#EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/nMg7Xpxd/astro-arena.png" group-title="CHANNEL | SPORTS",Astro Arena
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/nMg7Xpxd/astro-arena.png" group-title="CHANNEL | SPORTS",Astro Arena 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstream.adaptive.license_key=efda647dad723563b625be8c05ee6110:6776985938b332164b97b81fe566a34a
+https://ast.livecricketsl.live/proxy/sg.php/https://linearjitp-playback.astro.com.my/dash-wv/linear/2604/default_ott.mpd
+http://ma-yi.k.vu/mayi/697456c165396.php?id=Arena
+https://mimipipi22.github.io/logo/offline.m3u8
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/nMg7Xpxd/astro-arena.png" group-title="CHANNEL | SPORTS",Astro Arena 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstream.adaptive.license_key=ead0335d60401225727a6d531e9c2710:1ee3b252227c5c2ec9378c833d2e14ff
+https://ast.livecricketsl.live/proxy/sg.php/https://linearjitp-playback.astro.com.my/dash-wv/linear/5057/default_ott.mpd
+http://vipkentken.top:8080/VIP01697172669118799/80fba95604f6/34649
+http://ma-yi.k.vu/mayi/697456c165396.php?id=Arena2
+https://mimipipi22.github.io/logo/offline.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/JJvXDMM/astro-arenabola.png" group-title="CHANNEL | SPORTS",Astro Arena Bola
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/VWjhR95J/astro-football.png" group-title="CHANNEL | SPORTS",Astro Football
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstream.adaptive.license_key=79f4028730acca9ab8b00f26158ddb10:91febe843c08c7cc523efd827292e40e
+https://ast.livecricketsl.live/proxy/sg.php/https://linearjitp-playback.astro.com.my/dash-wv/linear/2506/default_ott.mpd
+http://vipkentken.top:8080/VIP01697172669118799/80fba95604f6/34531
+http://ma-yi.k.vu/mayi/697456c165396.php?id=go_assp4
+https://mimipipi22.github.io/logo/offline.m3u8
 
 #EXTINF:-1 tvg-id="AstroSupersport3" tvg-name="Astro Grandstand HD" tvg-logo="https://i.ibb.co.com/zVC2YKGT/astro-grandstand.png" group-title="CHANNEL | SPORTS",Astro Grandstand
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstream.adaptive.license_key=5be66a6f88efee3d6e30f72a9c58e310:168f3fadfc730ba3dfc932f7c430e27d
+https://ast.livecricketsl.live/proxy/sg.php/https://linearjitp-playback.astro.com.my/dash-wv/linear/2701/default_ott.mpd
+http://vipkentken.top:8080/VIP01697172669118799/80fba95604f6/34533
+http://ma-yi.k.vu/mayi/697456c165396.php?id=go_assp3
+https://mimipipi22.github.io/logo/offline.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/bgzRZs6K/astro-pl.png" group-title="CHANNEL | SPORTS",Astro Premier League 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/536_144.png" group-title="WORLD SPORTS",ASTRO PREMIER LEAGUE
+##KODIPROP:inputstream.adaptive.license_type=clearkey
+##KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"TxVBP35HZ7UMSOGbf5ovzA", "kid":"90mrcfInmZv7CY9zNZqsEA" } ], "type":"temporary" }
+##https://ast.livecricketsl.live/proxy/sg.php/http://linearjitp-playback.astro.com.my/dash-wv/linear/601/default_ott.mpd
+http://vipkentken.top:8080/VIP01697172669118799/80fba95604f6/34535
+http://ma-yi.k.vu/mayi/697456c165396.php?id=go_assp1
+https://mimipipi22.github.io/logo/offline.m3u8
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/bgzRZs6K/astro-pl.png" group-title="CHANNEL | SPORTS",Astro Premier League 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+##KODIPROP:inputstream.adaptive.license_type=clearkey
+##KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"3fpujVSbTVF3qcref5oLIw", "kid":"wdyS8HifESUDwNs73i8SEA" } ], "type":"temporary" }
+##https://ast.livecricketsl.live/proxy/sg.php/http://linearjitp-playback.astro.com.my/dash-wv/linear/2104/default_ott.mpd
+http://vipkentken.top:8080/VIP01697172669118799/80fba95604f6/34534
+http://ma-yi.k.vu/mayi/697456c165396.php?id=go_assp2
+https://mimipipi22.github.io/logo/offline.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Astro Sports Plus" tvg-logo="https://i.ibb.co.com/Kxyf1MF4/astro-sports-plus.png" group-title="CHANNEL | SPORTS",Astro Sports
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8ac8b2f7af05ad829805345a517bc110:ee1ae1cd086fa9bfc0505e6d5e9e27e9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://ast.livecricketsl.live/proxy/sg.php/https://linearjitp-playback.astro.com.my/dash-wv/linear/1600/default_ott.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="Astro Sports Plus" tvg-logo="https://i.ibb.co.com/Kxyf1MF4/astro-sports-plus.png" group-title="CHANNEL | SPORTS",Astro Sports Plus
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstream.adaptive.license_key=81352bc47ec1177b321ee65ac1be7f10:c8b886142005d7e5067c8717777eaac4
+https://ast.livecricketsl.live/proxy/sg.php/https://linearjitp-playback.astro.com.my/dash-wv/linear/5171/default_ott.mpd
+http://ma-yi.k.vu/mayi/697456c165396.php?id=go_sportsplus
+https://mimipipi22.github.io/logo/offline.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/8nLRt6Ty/barcatv.png" group-title="CHANNEL | SPORTS", Barca TV
 
@@ -2250,6 +2303,7 @@ https://dash2.antik.sk/stream/nvidia_nova_sport2/playlist_cenc.mpd
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/XkCJWRTk/nova-sport6-gre.png" group-title="CHANNEL | SPORTS",Nova Sports 6
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/pBb0k4tm/now-sports.png" group-title="CHANNEL | SPORTS",Now Sports
+https://7pal.short.gy/nowhkp1
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/gZMzQvgJ/optus-sport.png" group-title="CHANNEL | SPORTS",Optus
 
@@ -3288,10 +3342,6 @@ https://viamotionhsi.netplus.ch/live/eds/canalj/browser-HLS8/canalj.m3u8
 https://viamotionhsi.netplus.ch/live/eds/d17/browser-dash/d17.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/G4FrQ7xZ/francetv.png" group-title="CHANNEL | EUROPE", France TV
-https://viamotionhsi.netplus.ch/live/eds/francehd/browser-dash/francehd.mpd
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/G4FrQ7xZ/francetv.png" group-title="CHANNEL | EUROPE", France TV 1
-https://viamotionhsi.netplus.ch/live/eds/france1hd/browser-dash/france1hd.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/FLB6nyPd/francetv2.png" group-title="CHANNEL | EUROPE", France TV 2
 https://viamotionhsi.netplus.ch/live/eds/france2hd/browser-dash/france2hd.mpd
