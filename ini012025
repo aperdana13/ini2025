@@ -7,7 +7,6 @@
 
 
 
-
 113.000.404.11.2
 
 
@@ -1894,12 +1893,12 @@ https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="beINSports" group-title="CHANNEL | SPORTS" tvg-logo="https://i.ibb.co.com/LznjJF3T/beinsport3.png", BeIN Sports 3 EN
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/6R7MwSbX/bluezoom.png" group-title="CHANNEL | SPORTS",Blue Zoom D
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/6R7MwSbX/bluezoom.png" group-title="CHANNEL | SPORTS",Blue Zoom DE
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://viamotionhsi.netplus.ch/live/eds/bluezoomde/browser-dash/bluezoomde.mpd
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/6R7MwSbX/bluezoom.png" group-title="CHANNEL | SPORTS",Blue Zoom F
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/6R7MwSbX/bluezoom.png" group-title="CHANNEL | SPORTS",Blue Zoom FR
 https://viamotionhsi.netplus.ch/live/eds/bluezoomfr/browser-dash/bluezoomfr.mpd
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/4ndtdMkZ/canal-sport.png" group-title="CHANNEL | SPORTS", Canal+ Sport
@@ -1919,6 +1918,7 @@ https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/rbem8rorcw/
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/m5csHg1K/champions-tv.png" group-title="CHANNEL | SPORTS", Champions TV 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://manamedian.serv00.net/antaubospanel.php/manifest.mpd?id=6685&type=drm
@@ -2650,17 +2650,17 @@ https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/bfigtl960n/
 #EXTINF:-1 group-title="CHANNEL | SPORTS" tvg-id="TNTSports1.uk" tvg-logo="https://i.ibb.co.com/xK6LH82X/tntsports1.png",TNT Sports 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d0f2e5c39e70c18f29bf77768a1ad89a:d6853c51fcf37a18905f0609972395d7
-#https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/bsaaetko8v/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
+https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/bsaaetko8v/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
 
 #EXTINF:-1 group-title="CHANNEL | SPORTS" tvg-id="TNTSports2.uk" tvg-logo="https://i.ibb.co.com/fzjvdw6V/tntsports2.png",TNT Sports 2 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9f51f3dc6313ac8bc668e2d9d1c04dfa:74bc63e5a193454a91ca494975db33f9
-#https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/enniazhzls/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
+https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/enniazhzls/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
 
 #EXTINF:-1 group-title="CHANNEL | SPORTS" tvg-id="TNTSports3.uk" tvg-logo="https://i.ibb.co.com/5WmWDDfw/tntsports3.png",TNT Sports 3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a93c1cbfdccd23233bac13540c693e7f:2f6ab2e6693eb847eff3c9da8f9d01fc
-#https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/lsdasbvglv/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd
+https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/lsdasbvglv/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd
 
 #EXTINF:-1 group-title="CHANNEL | SPORTS" tvg-id="TNTSports4.uk" tvg-logo="https://i.ibb.co.com/My5v9m2Y/tntsports4.png",TNT Sports 4
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -2974,12 +2974,10 @@ https://vod2.abn.co.kr/IPHONE/abn.m3u8
 #EXTVLCOPT:http-user-agent=OTTNavigator/1.7.1.6 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://d50a1g0nh14ou.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/CJ-ENM-prod/e91c6419_2e45_4f6c_a646_b912658d73b8/hls/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co.com/twywYrLr/gcn.png" group-title="CHANNEL | ASIAN",GCN TV
+http://liveko24-manminglobal3.ktcdn.co.kr/liveko24/gcnko_1300k.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co.com/wh4RJX0P/cgntv.png" group-title="CHANNEL | ASIAN",CGNTV Korea
-#EXTVLCOPT:http-origin=https://tv.garden
-#EXTVLCOPT:http-referrer=https://tv.garden/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://du35ivadp6cxj.cloudfront.net/out/v1/81781d23cbbf490990b2aa9181d4ce19/CGNWebLiveKR.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co.com/5hqy10fv/wbc.png" group-title="CHANNEL | ASIAN",WBC
 
@@ -2992,6 +2990,9 @@ https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ed197e7253c04946903f03bad9afac91:99ebb8683ea74b70a9fda1cbdc2cc1b4
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Koreandramas2/default/manifest.mpd
+
+#EXTINF:-1 tvg-id="" group-title="CHANNEL | ASIAN" tvg-logo="https://i.ibb.co.com/9m5xpqFk/obs.png", OBS
+https://vod.obs.co.kr:444/live/obsstream1/tv.stream/playlist.m3u8
 
 JPN
 
@@ -3377,6 +3378,18 @@ https://viamotionhsi.netplus.ch/live/eds/6ter/browser-dash/6ter.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/kgkfMRVz/ab1.png" group-title="CHANNEL | EUROPE", AB1 FR
 https://viamotionhsi.netplus.ch/live/eds/ab1/browser-dash/ab1.mpd
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/LXydtP6z/bfm-tv.png" group-title="CHANNEL | EUROPE", BFM TV FR
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+https://viamotionhsi.netplus.ch/live/eds/bfmtv/browser-dash/bfmtv.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/gZxKYKqM/bfm-bus.png" group-title="CHANNEL | EUROPE", BFM Business FR
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+https://viamotionhsi.netplus.ch/live/eds/bfmbusiness/browser-dash/bfmbusiness.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/zWh1KsVP/bvn.png" group-title="CHANNEL | EUROPE", BVN FR
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+https://viamotionhsi.netplus.ch/live/eds/bvn/browser-dash/bvn.mpd
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/hFCXNB7B/canal.png" group-title="CHANNEL | EUROPE", Canal+ Clair FR
 https://viamotionhsi.netplus.ch/live/eds/canalplusclair/browser-dash/canalplusclair.mpd
@@ -3386,10 +3399,28 @@ https://viamotionhsi.netplus.ch/live/eds/canalj/browser-HLS8/canalj.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/hFCXNB7B/canal.png" group-title="CHANNEL | EUROPE", Canal+ FR
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/sMn6fRK/canal9-FR.png" group-title="CHANNEL | EUROPE", Canal 9 FR
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+https://viamotionhsi.netplus.ch/live/eds/canal9/browser-dash/canal9.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/RpXBW3ss/canal-alpha.png" group-title="CHANNEL | EUROPE", Canal Alphane FR
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+https://viamotionhsi.netplus.ch/live/eds/canalalphane/browser-dash/canalalphane.mpd
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/VWfDhvPY/cstar.png" group-title="CHANNEL | EUROPE", C Star FR
 https://viamotionhsi.netplus.ch/live/eds/d17/browser-dash/d17.mpd
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/MkQ0ZgMM/deluxe-music.png" group-title="CHANNEL | EUROPE", Deluxe Music FR
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+https://viamotionhsi.netplus.ch/live/eds/deluxemusic/browser-dash/deluxemusic.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/ks4C3QTV/france-info.png" group-title="CHANNEL | EUROPE", France Info
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+https://viamotionhsi.netplus.ch/live/eds/franceinfo/browser-dash/franceinfo.mpd
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/G4FrQ7xZ/francetv.png" group-title="CHANNEL | EUROPE", France TV
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+https://viamotionhsi.netplus.ch/live/eds/france2hd/browser-dash/france2hd.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/FLB6nyPd/francetv2.png" group-title="CHANNEL | EUROPE", France TV 2
 https://viamotionhsi.netplus.ch/live/eds/france2hd/browser-dash/france2hd.mpd
@@ -3404,14 +3435,58 @@ https://viamotionhsi.netplus.ch/live/eds/france4hd/browser-dash/france4hd.mpd
 https://viamotionhsi.netplus.ch/live/eds/france5hd/browser-dash/france5hd.mpd
 
 #EXTINF:-1 group-title="CHANNEL | EUROPE" tvg-name="" tvg-country="ID" tvg-logo="https://i.ibb.co.com/8gg6YZP6/france24.png", France24 
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+https://viamotionhsi.netplus.ch/live/eds/france24/browser-dash/france24.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/JFs24h91/gulli.png" group-title="CHANNEL | EUROPE", Gulli FR
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+https://viamotionhsi.netplus.ch/live/eds/gulli/browser-dash/gulli.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/LD25fDN1/itele.png" group-title="CHANNEL | EUROPE", ITele FR
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+https://viamotionhsi.netplus.ch/live/eds/itele/browser-dash/itele.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/PZdrnTkc/lci.png" group-title="CHANNEL | EUROPE", LCI FR
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+https://viamotionhsi.netplus.ch/live/eds/lci/browser-dash/lci.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/0pTDXsCW/lcp.png" group-title="CHANNEL | EUROPE", LCP FR
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+https://viamotionhsi.netplus.ch/live/eds/lcp/browser-dash/lcp.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/TxRV5rGz/m6.png" group-title="CHANNEL | EUROPE", M6 FR
 https://viamotionhsi.netplus.ch/live/eds/m6hd/browser-dash/m6hd.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="TV5 Monde Asie" tvg-logo="https://i.ibb.co.com/jZR04ZPh/tv5monde.png" group-title="CHANNEL | EUROPE", TV5 Monde Info  FR
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/ns4WYJdB/nt1.png" group-title="CHANNEL | EUROPE", NT1 FR
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+https://viamotionhsi.netplus.ch/live/eds/nt1/browser-dash/nt1.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/39ySd4Yx/rmc-decouverte.png" group-title="CHANNEL | EUROPE", RMC Decouverte FR
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+https://viamotionhsi.netplus.ch/live/eds/rmcdecouverte/browser-dash/rmcdecouverte.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/7Nj6hXkF/rmc-story.png" group-title="CHANNEL | EUROPE", RMC Story FR
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+https://viamotionhsi.netplus.ch/live/eds/numero23/browser-dash/numero23.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/VWWwfNKW/tfi-film.png" group-title="CHANNEL | EUROPE", TF1 Films FR
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+https://viamotionhsi.netplus.ch/live/eds/hd1/browser-dash/hd1.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/NdC04zRN/tv5mondefbs.png" group-title="CHANNEL | EUROPE", TV5 Monde FBS FR
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+https://viamotionhsi.netplus.ch/live/eds/tv5mondefbs/browser-dash/tv5mondefbs.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="TV5 Monde Asie" tvg-logo="https://i.ibb.co.com/jZR04ZPh/tv5monde.png" group-title="CHANNEL | EUROPE", TV5 Monde Info FR
 https://ott.tv5monde.com/Content/HLS/Live/channel(info)/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/m5s7tC9L/tv8-mountblanc.png" group-title="CHANNEL | EUROPE", TV8 Montblanc FR
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+https://viamotionhsi.netplus.ch/live/eds/tv8montblanc/browser-dash/tv8montblanc.mpd
+
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/PGdYWBzQ/tfi-fr.png" group-title="CHANNEL | EUROPE", TFI FR
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+https://viamotionhsi.netplus.ch/live/eds/tf1hd/browser-dash/tf1hd.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/7JNFpCgY/tmc.png" group-title="CHANNEL | EUROPE", TMC FR
 https://viamotionhsi.netplus.ch/live/eds/tmc/browser-dash/tmc.mpd
@@ -3427,6 +3502,8 @@ DE
 https://ac-009.live.p7s1video.net/4cb9b4be/t_009/3sat-de-hd/cenc-default.mpd
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/p6Wtvybb/arte-de.png" group-title="CHANNEL | EUROPE", Arte DE
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+https://viamotionhsi.netplus.ch/live/eds/artehd/browser-dash/artehd.mpd
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/k2FQFqXh/bbc-de.png" group-title="CHANNEL | EUROPE", BBC 1 DE
 
@@ -3440,20 +3517,35 @@ https://ac-009.live.p7s1video.net/4cb9b4be/t_009/3sat-de-hd/cenc-default.mpd
 https://dwamdstream110.akamaized.net/hls/live/2017971/dwstream110/index.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/xZHLsHY/hr-fersehen-de.png" group-title="CHANNEL | EUROPE", HR Fernsehen DE
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+https://viamotionhsi.netplus.ch/live/eds/hr/browser-dash/hr.mpd
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/RpHznYvW/kabel1-de.png" group-title="CHANNEL | EUROPE", Kabel Eins (Kabel 1) DE
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/4RMDdM8N/mdr-de.png" group-title="CHANNEL | EUROPE", MDR DE
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+https://viamotionhsi.netplus.ch/live/eds/mdr/browser-dash/mdr.mpd
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/SDXwGwHP/ndr-de.png" group-title="CHANNEL | EUROPE", NDR DE
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+https://viamotionhsi.netplus.ch/live/eds/ndr/browser-dash/ndr.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/215rX2CS/orf1.png" group-title="CHANNEL | EUROPE", ORF 1 DE
 https://viamotionhsi.netplus.ch/live/eds/orf1/browser-dash/orf1.mpd
 
-#EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/LhzjMfVM/prosieben-de.png" group-title="CHANNEL | EUROPE", ProSieben (PRO7) DE
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/xSRgmtyf/orf2.png" group-title="CHANNEL | EUROPE", ORF 2 DE
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+https://viamotionhsi.netplus.ch/live/eds/orf2/browser-dash/orf2.mpd
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/kVsXfLMr/rtl-de.png" group-title="CHANNEL | EUROPE", RTL DE
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/LhzjMfVM/prosieben-de.png" group-title="CHANNEL | EUROPE", ProSieben (PRO7) DE
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+https://viamotionhsi.netplus.ch/live/eds/pro7/browser-dash/pro7.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/kVsXfLMr/rtl-de.png" group-title="CHANNEL | EUROPE", RTL 1 DE
 https://viamotionhsi.netplus.ch/live/eds/rtl/browser-dash/rtl.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/kVsXfLMr/rtl-de.png" group-title="CHANNEL | EUROPE", RTL 2 DE
+https://viamotionhsi.netplus.ch/live/eds/rtl2/browser-dash/rtl2.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/jvP4KbFG/sport1-de.png" group-title="CHANNEL | EUROPE", Sport1 DE
 https://viamotionhsi.netplus.ch/live/eds/sport1/browser-dash/sport1.mpd
@@ -3463,12 +3555,26 @@ https://viamotionhsi.netplus.ch/live/eds/sport1/browser-dash/sport1.mpd
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/WWWRZgHH/sixx-de.png" group-title="CHANNEL | EUROPE", Sixx DE
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/kVsXfLMr/rtl-de.png" group-title="CHANNEL | EUROPE", SUPER RTL DE
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+https://viamotionhsi.netplus.ch/live/eds/superrtl/browser-dash/superrtl.mpd
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/vxXt57SK/sr-ferhensen-de.png" group-title="CHANNEL | EUROPE", SR Fernsehen DE
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/Sw6Gckdd/wdr-de.png" group-title="CHANNEL | EUROPE", WDR DE
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+https://viamotionhsi.netplus.ch/live/eds/wdrhd/browser-dash/wdrhd.mpd
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/PsPRv6xw/zdf.png" group-title="CHANNEL | EUROPE", ZDF DE
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+https://viamotionhsi.netplus.ch/live/eds/zdfhd/browser-dash/zdfhd.mpd
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/ZRwyjn6N/zdf.png" group-title="CHANNEL | EUROPE", ZDF Neo DE
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+https://viamotionhsi.netplus.ch/live/eds/zdfneohd/browser-dash/zdfneohd.mpd
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/8g6XRDQ7/zdf-de.png" group-title="CHANNEL | EUROPE", ZDF Info DE
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+https://viamotionhsi.netplus.ch/live/eds/zdfinfohd/browser-dash/zdfinfohd.mpd
 
 IT 
 
@@ -3609,7 +3715,37 @@ PL
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/qL99KQ9h/tvp2-pol.png" group-title="CHANNEL | EUROPE",TVP2 PL
 
-SW
+SUI
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/pvSBjdhT/carac1.png" group-title="CHANNEL | EUROPE", Carac1 SU
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+https://viamotionhsi.netplus.ch/live/eds/rougetv/browser-dash/rougetv.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/7xvh4VKf/carac2.png" group-title="CHANNEL | EUROPE", Carac2 SU
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+https://viamotionhsi.netplus.ch/live/eds/onetv/browser-dash/onetv.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Z6DZ5VLH/carac3.png" group-title="CHANNEL | EUROPE", Carac3 SU
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+https://viamotionhsi.netplus.ch/live/eds/lfmtv/browser-dash/lfmtv.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/tMvTq0CN/nrtv-SU.png" group-title="CHANNEL | EUROPE", NRTV SU
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+https://viamotionhsi.netplus.ch/live/eds/nrtv/browser-dash/nrtv.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/k2PjW5JP/rsi1.png" group-title="CHANNEL | EUROPE", RSI La 1 CH
+https://viamotionhsi.netplus.ch/live/eds/rsila1hd/browser-dash/rsila1hd.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/gbdJcPpk/rtl9-SU.png" group-title="CHANNEL | EUROPE", RTL9 SU
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+https://viamotionhsi.netplus.ch/live/eds/rtl9/browser-dash/rtl9.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/cRDKh9t/rts1.png" group-title="CHANNEL | EUROPE", RTS 1 CH
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+https://viamotionhsi.netplus.ch/live/eds/rts1hd/browser-dash/rts1hd.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/RptyxyPg/rts2.png" group-title="CHANNEL | EUROPE", RTS 2 CH
+https://viamotionhsi.netplus.ch/live/eds/rts2hd/browser-dash/rts2hd.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/cp61KsY/srf1.png" group-title="CHANNEL | EUROPE", SRF 1 CH
 https://viamotionhsi.netplus.ch/live/eds/srf1hd/browser-dash/srf1hd.mpd
@@ -3617,14 +3753,24 @@ https://viamotionhsi.netplus.ch/live/eds/srf1hd/browser-dash/srf1hd.mpd
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/4ZDhvzH4/srf2.png" group-title="CHANNEL | EUROPE", SRF 2 CH
 https://viamotionhsi.netplus.ch/live/eds/srf2hd/browser-dash/srf2hd.mpd
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/k2PjW5JP/rsi1.png" group-title="CHANNEL | EUROPE", RSI La 1 CH
-https://viamotionhsi.netplus.ch/live/eds/rsila1hd/browser-dash/rsila1hd.mpd
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/RptyxyPg/rts2.png" group-title="CHANNEL | EUROPE", RTS 2 CH
-https://viamotionhsi.netplus.ch/live/eds/rts2hd/browser-dash/rts2hd.mpd
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/rR8zdbLm/srf-news.png" group-title="CHANNEL | EUROPE", SRF Info CH
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/FbX7vPcb/srf-info.png" group-title="CHANNEL | EUROPE", SRF Info CH
 https://viamotionhsi.netplus.ch/live/eds/srfinfo/browser-dash/srfinfo.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/N2Zty3Yf/t18-SU.png" group-title="CHANNEL | EUROPE", T 18 SU
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+https://viamotionhsi.netplus.ch/live/eds/t18/browser-dash/t18.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Fq36c6jm/tvsuisse.png" group-title="CHANNEL | EUROPE", TV Suisse+
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+https://viamotionhsi.netplus.ch/live/eds/tvsuisseplus/browser-dash/tvsuisseplus.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/4Rhprsd0/tvm4-SU.png" group-title="CHANNEL | EUROPE", TVM 3 SU
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+https://viamotionhsi.netplus.ch/live/eds/tvm3/browser-dash/tvm3.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/G38f5Dwf/valtv.png" group-title="CHANNEL | EUROPE", ValTV SU
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+https://viamotionhsi.netplus.ch/live/eds/valtv/browser-dash/valtv.mpd
 
 DK
 
@@ -6759,8 +6905,6 @@ https://mam.jogjaprov.go.id:1937/cctv-public/ViewGunungMerapi.stream/chunklist_w
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANTEN", St.Tanjung Karang
 ##https://rtsp.itn.net.id/play/hls/5a39939e-bce5-42d2-8c79-5ad02b3f9710/index.m3u8
-
-
 
 
 
