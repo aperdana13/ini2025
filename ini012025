@@ -1355,7 +1355,7 @@ https://amg00841-aenetworksukane-worldwartv-samsunguk-fiod1.amagi.tv/playlist/am
 #EXTINF:-1 group-title="CHANNEL | MUSIC" group-logo="https://i.ibb.co.com/mVhLdz73/music.png"
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1JscfbZd/mtv-clasic.png" group-title="CHANNEL | MUSIC",MTV
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1JscfbZd/mtv-clasic.png" group-title="CHANNEL | MUSIC",MTV Pop
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65410176770cf1000866bf31/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7b17f7-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=bcf56774-6379-4d92-a0d3-c5c517f6e994&serverSideAds=false
 #https://jmp2.uk/PlutoTV/5d14fd1a252d35decbc4080c-alt.m3u8
 
@@ -1365,7 +1365,7 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65
 #https://jmp2.uk/PlutoTV/635bfb89b5cd9b0007ca9d63-alt.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Lh9vgQF3/mtv-bestof.png" group-title="CHANNEL | MUSIC",MTV Pluto
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Lh9vgQF3/mtv-bestof.png" group-title="CHANNEL | MUSIC",MTV
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ca672f515a62078d2ec0ad2/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7b3f02-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=7c3402af-f54f-4488-b74f-62b1998013e4&serverSideAds=false
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co.com/9HvL0Mvj/channel-v.png" group-title="CHANNEL | MUSIC", Channel V
@@ -2383,7 +2383,6 @@ https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/splus/Skyactn.m3u
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/DgKMv6b8/sky-sport.png" group-title="CHANNEL | SPORTS", Sky Sport Live 1
 https://github.com/cattviptv2605/m3u8-world-/raw/refs/heads/main/skysport1_nz.m3u8
 
-
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/DgKMv6b8/sky-sport.png" group-title="CHANNEL | SPORTS", Sky Sport Live 2
 https://github.com/cattviptv2605/m3u8-world-/raw/refs/heads/main/skysport2_nz.m3u8
 
@@ -2545,18 +2544,6 @@ https://otte.live.fly.ww.aiv-cdn.net/fra-nitro/live/clients/dash/enc/ssdefyhkkr/
 #EXTINF:-1 group-title="CHANNEL | SPORTS" tvg-id="SSC EXTRA 2" tvg-logo="https://i.ibb.co.com/6Jm0kHhW/ssc-xtra-2.png", SSC Extra 2
 
 #EXTINF:-1 group-title="CHANNEL | ASIAN" tvg-id="SSC EXTRA 3" tvg-logo="https://i.ibb.co.com/wFBq07vp/ssc-xtra-3.png", SSC Extra 3
-
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="CHANNEL | SPORTS", Star Sport 1
-http://filex.tv:8080//live/vc/1234/247159.ts
-
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="CHANNEL | SPORTS", Star Sport 2
-http://filex.tv:8080//live/vc/1234/247160.ts
-
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="CHANNEL | SPORTS", Star Sport Select 1
-http://filex.tv:8080//live/vc/1234/247161.ts
-
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="CHANNEL | SPORTS", Star Sport Select 2
-http://filex.tv:8080//live/vc/1234/247162.ts
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/gFvzPv6k/ss-pl.png" group-title="CHANNEL | SPORTS", SuperSport Premier League
 
@@ -2952,7 +2939,6 @@ https://nl.utako.moe/bstvtokyo/index.m3u8
 #EXTINF:-1 group-title="CHANNEL | ASIAN" tvg-id="channel_ginga" tvg-logo="https://i.ibb.co.com/WvTqR9cF/channel-ginga.png",Channel Ginga
 
 #EXTINF:-1 group-title="CHANNEL | ASIAN" tvg-id="entermei_tele" tvg-logo="https://i.ibb.co.com/gZQyxbGN/entermei-tele.png",Entermei Tele
-https://nl.utako.moe/entermei_tele/index.m3u8
 
 #EXTINF:-1 group-title="CHANNEL | ASIAN" tvg-id="eigeki" tvg-logo="https://i.ibb.co.com/F4MJBJpZ/eisei-gekijo.png", Eisei Gekijo
 
@@ -3007,10 +2993,12 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs22&isp=4
 
 #EXTINF:-1 group-title="CHANNEL | ASIAN" tvg-id="mondo_tv" tvg-logo="https://i.ibb.co.com/8LT8S5c2/mondo-tv.png",Mondo TV
 https://nl.utako.moe/mondo/index.m3u8
+
 #EXTINF:-1 group-title="CHANNEL | ASIAN" tvg-id="movieplus" tvg-logo="https://i.ibb.co.com/My8rgLdy/movie-plus.png", Movie Plus Japan
 
 #EXTINF:-1 group-title="CHANNEL | ASIAN" tvg-id="neco" tvg-logo="https://i.ibb.co.com/0VZ6B30f/neco.png", Neco Japan
 https://nl.utako.moe/neco/index.m3u8
+
 #EXTINF:-1 group-title="CHANNEL | ASIAN" tvg-id="ntvgplus" tvg-logo="https://i.ibb.co.com/mrXb5Z4S/G.png", Nittele G+ Japan
 
 #EXTINF:-1 group-title="CHANNEL | ASIAN" tvg-id="nihon_eiga" tvg-logo="https://i.ibb.co.com/LzgMVq6w/nihon-eiga.png",Nihon Eiga Senmon
@@ -6822,6 +6810,7 @@ https://mam.jogjaprov.go.id:1937/cctv-public/ViewGunungMerapi.stream/chunklist_w
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BANTEN", St.Tanjung Karang
 ##https://rtsp.itn.net.id/play/hls/5a39939e-bce5-42d2-8c79-5ad02b3f9710/index.m3u8
+
 
 
 
