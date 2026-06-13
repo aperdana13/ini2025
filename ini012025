@@ -7,7 +7,6 @@
 
 
 
-
 113.000.404.11.2
 
 
@@ -1319,9 +1318,6 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ca672f515a62078d2ec0ad2/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7b3f02-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=7c3402af-f54f-4488-b74f-62b1998013e4&serverSideAds=false
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co.com/9HvL0Mvj/channel-v.png" group-title="CHANNEL | MUSIC", Channel V
-#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
-#EXTHTTP:{"Authorization":"Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NTg1NDk2NTQsImV4cCI6MTc1ODU2MDQ1NCwiZGF0YSI6eyJ1c2VyIjoiYmFkc2kiLCJjbGllbnRfaXAiOiIxMDMuMTA3Ljg0LjE4MyJ9fQ.wMafBJ9gJ_O3Fz6vZ6mjwls65hSlf-jupah8hsAIDEc", "X-TOKEN":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NTg1NDk2NTQsImV4cCI6MTc1ODU2MDQ1NCwiZGF0YSI6eyJ1c2VyIjoiYmFkc2kiLCJjbGllbnRfaXAiOiIxMDMuMTA3Ljg0LjE4MyJ9fQ.0BUFpzNT3h5xuYuhmKHMffBu22_78xn792rAWxKY4RQ"}
-https://gooo.blog/opix/genx.m3u8?id=vchina&cyev=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NTg1NDk2NTQsImV4cCI6MTc1ODU2MDQ1NCwiZGF0YSI6eyJ1c2VyIjoiYmFkc2kiLCJjbGllbnRfaXAiOiIxMDMuMTA3Ljg0LjE4MyJ9fQ.wMafBJ9gJ_O3Fz6vZ6mjwls65hSlf-jupah8hsAIDEc
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co.com/Myjnj1jF/cmc.png" group-title="CHANNEL | MUSIC", CMC
 
@@ -1357,8 +1353,6 @@ https://jmp2.uk/stvp-GBBC19000017V
 https://jmp2.uk/plu-5d93b635b43dd1a399b39eee.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/5x63XLFC/vevo-rock.png" group-title="CHANNEL | MUSIC", Vevo Rock
-https://jmp2.uk/stvp-USBD3000145P
-https://jmp2.uk/plu-61d4b38226b8a50007fe03a6.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/JWmGDM0M/vevo80s.png" group-title="CHANNEL | MUSIC", Vevo '80s
 
@@ -1427,6 +1421,7 @@ https://jmp2.uk/stvp-US39000038W
 
 #EXTINF:-1 tvg-id="tving|C00579" tvg-name="M.net FHD" tvg-logo="https://i.ibb.co.com/zTtLysws/mnet.png" group-title="CHANNEL | MUSIC",M Net
 http://akariko.netgenx.site/stream/jp/mnet/stream-output.m3u8?mode=hls
+
 #EXTINF:-1   tvg-logo="https://i.ibb.co.com/Q7PXy0RJ/1mus.png" group-title="CHANNEL | MUSIC", 1music
 http://rtmp.one.by:1300
 
@@ -1516,11 +1511,7 @@ https://cdn10jtedge.indihometv.com/atm/DASH/ABC_AUSTRALIA/ABC_AUSTRALIA-avc1_250
 
 #EXTINF:-1 tvg-id="AlJazeera.Arabic.net" tvg-name="AlJazeera Arabic" tvg-logo="https://i.ibb.co.com/q3jFqWNL/aljazeera-ar.png" group-title="CHANNEL | NEWS", Al Jazeera
 
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4b3c7a7356de4bbc92a405545d3b1a7a:9bc7381a1be526b2e0f74eb036819f26
 #EXTINF:-1 tvg-id="AlJazeeraEnglish.id" tvg-name="Al Jazeera English" tvg-logo="https://i.ibb.co.com/sdLZ1rp5/aljazeera-en.png" group-title="CHANNEL | NEWS", Al Jazeera English
-https://atemecdnbalancer-voe.sysln.id/live/eds/AlJazeeraIntHD/mediampd/AlJazeeraIntHD.mpd
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTINF:-1 tvg-id="Al Arabiya HD.ae" tvg-name="Al Arabiya HD.ae" tvg-logo="https://i.ibb.co.com/ycfr1jn0/alarabiya.png" group-title="CHANNEL | NEWS", Al Arabiya
@@ -1842,7 +1833,7 @@ http://38.75.136.137:98/gslb/dsdqpub/fyzq.m3u8?auth=testpub
 #KODIPROP:inputstream.adaptive.license_key=549ab7cd35a64bb6bb479ecead04d69d:829799ed534d11fcadeb4b192467e050
 https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/ch299/default/index.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co.com/gbWxVPPg/cytavision1-cyp.png" group-title="CHANNEL | SPORTS",CT Sport
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-Live-TV/main/Script/world_cup.png" group-title="CHANNEL | SPORTS",CT Sport
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referer=https://webtv.sk/tv/
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -1890,7 +1881,7 @@ https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/splus/Elev5.m3u8
 
 #EXTINF:-1 tvg-id="DAZN LALIGA" tvg-logo="https://i.ibb.co.com/YTXCZKq7/dazn-laliga-esp.png" group-title="CHANNEL | SPORTS" , DAZN LaLiga 2
 
-#EXTINF:-1 tvg-id="DAZN LALIGA" tvg-logo="https://i.ibb.co.com/yFCDN92Y/dazn-fast.png" group-title="CHANNEL | SPORTS" , DAZN Fast
+#EXTINF:-1 tvg-id="DAZN LALIGA" tvg-logo="https://i.ibb.co.com/yFCDN92Y/dazn-fast.png" group-title="CHANNEL | SPORTS", DAZN Fast
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8bcec6b31cc9edcb6768ab26548e22c3:e3c5b07328894c33734a4de6ae55a87f
 https://ac-003.live.p7s1video.net/63f8995e/t_003/dazn-fast-hd/cenc-default.mpd
@@ -1999,12 +1990,6 @@ https://fta2-cdn-flr.visionplus.id/out/v1/73b7057c72da4615888a11b02a6cbb3c/index
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
 https://streams2.sofast.tv/ptnr-yupptv/title-FIGHT-TV-ENG_yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/70e45fc8-1f6c-4492-ac26-9868f70f4e02/manifest.m3u8?hdnts=st%3D1769558008~exp%3D1769579608~acl%3D%21%2A%2Fptnr-yupptv%2Ftitle-FIGHT-TV-ENG_yupptv%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2F70e45fc8-1f6c-4492-ac26-9868f70f4e02%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_128.24.160.230_yuppfast_2_channel_68_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_128.24.160.230_yuppfast_2_channel_68_-1~hmac%3D5b3e91a87146d945717d2e68736986e441208071d11b32a2aeccccc4f4333496
-
-#EXTINF:-1 tvg-id="272" tvg-chno="320" tvg-name="mma-tv" tvg-logo="https://i.ibb.co.com/dJxgQTQg/mmatv.png" group-title="CHANNEL | SPORTS", MMA TV
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
-https://streams2.sofast.tv/ptnr-yupptv/title-MMA_YUPPTV/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/72581a39-9590-4c64-998e-b61fcf2d0294/playlist.m3u8?hdnts=st%3D1769558010~exp%3D1769579610~acl%3D%21%2A%2Fptnr-yupptv%2Ftitle-MMA_YUPPTV%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2F72581a39-9590-4c64-998e-b61fcf2d0294%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_128.24.160.230_yuppfast_2_channel_272_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_128.24.160.230_yuppfast_2_channel_272_-1~hmac%3Da55604e17d60325b22810a63f432a77a831b82ba1299e99deb7fbbefea159866
 
 #EXTINF:-1 group-title="CHANNEL | SPORTS" tvg-id="Fox Soccer Plus" tvg-logo="https://i.ibb.co.com/KxQBbNrC/fox-soccer.png", Fox Soccer Plus 
 
@@ -2669,17 +2654,14 @@ https://tglmp02.akamaized.net/out/v1/1063ebb215c14312ba9d4e415ac706d2/manifest.m
 MY
 
 #EXTINF:-1 tvg-id="TV1.my" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://i.ibb.co.com/2YNTvZzF/tv1-my.png" tvg-url="https://bit.ly/JejeVisionEPG" group-title="CHANNEL | ASEAN",TV 1
-https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd
 
 #EXTINF:-1 tvg-id="TV2.my" tvg-logo="https://i.ibb.co.com/wrbp3npV/tv2-my.png" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" group-title="CHANNEL | ASEAN",TV 2
-https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
 
 #EXTINF:-1 tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-id="TV3.my" group-title="CHANNEL | ASEAN" tvg-logo="https://i.ibb.co.com/LDr96Gkq/tv3-my.png",TV3
 
 #EXTINF:-1 group-title="CHANNEL | ASEAN" tvg-id="Dunia Sinema HD"  tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium2.xml" tvg-logo="https://i.ibb.co.com/NdznS8B6/dunia-sinema-my.png",Dunia Sinema
 
 #EXTINF:-1 tvg-id="Okey" tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium1.xml" group-title="CHANNEL | ASEAN" tvg-logo="https://i.ibb.co.com/W4WXk5xN/tvokey-my.png",TV Okey
-https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/yFQMk428/apetito.png" group-title="CHANNEL | ASEAN",Apetito
 https://d1sq2slp9afh7o.cloudfront.net/smil:apetito/chunklist.m3u8
@@ -2691,13 +2673,10 @@ https://d1sq2slp9afh7o.cloudfront.net/smil:apetito/chunklist.m3u8
 https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_5/dash.mpd
 
 #EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://i.ibb.co.com/39QXW2t4/tv6-my.png" group-title="CHANNEL | ASEAN",TV 6
-https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/manifest.mpd
 
 #EXTINF:-1 tvg-id="Sukan RTM" tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium1.xml" tvg-logo="https://i.ibb.co.com/P2CvVKw/sukanrtm-my.png" group-title="CHANNEL | ASEAN",Sukan RTM
-https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/chunklist.m3u8?id=1|Referer=https://rtmklik.rtm.gov.my
 
 #EXTINF:-1 tvg-id="Berita RTM" tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium1.xml" tvg-logo="https://i.ibb.co.com/60T5r7qn/beritartm-my.png" group-title="CHANNEL | ASEAN",Berita RTM
-https://d25tgymtnqzu8s.cloudfront.net/smil:berita/manifest.mpd
 
 #EXTINF:-1 tvg-id="AstroAwani.my" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://i.ibb.co.com/C5hd6zJZ/astro-awani-my.png" group-title="CHANNEL | ASEAN",Astro Awani
 https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index.m3u8
@@ -2755,15 +2734,13 @@ https://tglmp02.akamaized.net/out/v1/3170252e3fb0453085f2f4b0f8401a6b/manifest.m
 
 KOR
 
-#EXTVLCOPT:http-referrer=https://www.indihometv.com/
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="CHANNEL | ASIAN" tvg-logo="https://i.ibb.co.com/JFzGY7Dq/arirang.png",Arirang
-https://cdn10jtedge.indihometv.com/atm/DASH/ARIRANG/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ea468ed546bd4f94b9fd8355d5656997:a3b8756a947905cb44c997b656ffb012
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTINF:-1 tvg-id="Arirang.id" tvg-name="Arirang TV" tvg-logo="https://i.ibb.co.com/JFzGY7Dq/arirang.png" group-title="CHANNEL | ASIAN", Arirang
+https://atemeshield1-voe.sysln.id/live/eds/ArirangHD/mediampd/ArirangHD.mpd
+https://atemecdnbalancer-voe.sysln.id/live/eds/ArirangHD/mediampd/ArirangHD.mpd
+https://cdnbal1.indihometv.com/atm/DASH/ARIRANG/ARIRANG-avc1_2500000=7-3277707030000000.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/GvbkB7bt/ebs1.png" group-title="CHANNEL | ASIAN",EBS 1
 https://ebsonairios.ebs.co.kr/groundwavetablet500k/tablet500k/playlist.m3u8
@@ -2783,9 +2760,8 @@ https://ebsonair.ebs.co.kr/plus2familypc/familypc1m/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/tP28NWs9/k.png" group-title="CHANNEL | ASIAN",K+
-https://cdn10jtedge.indihometv.com/atm/DASH/kplus/manifest.mpd
-http://gotv.k.vu/api.php?id=Kplus
-#https://op-group1-swiftservehd-1.dens.tv/h/h08/index.m3u8?app_type=web&userid=lite&chname=K-PLUS_HD
+https://cdnbal1.indihometv.com/atm/DASH/kplus/kplus-avc1_2500000=7-3277707030000000.mpd
+https://cdnbal1.indihometv.com/atm/DASH/kplus/manifest.mpd
 
 #EXTINF:-1 tvg-id="133" tvg-logo="https://i.ibb.co.com/Xkj73Q2w/kbs-korea.png" group-title="CHANNEL | ASIAN", KBS Korea
 
@@ -2806,15 +2782,14 @@ http://gotv.k.vu/api.php?id=Kplus
 http://125.227.210.55:17478/VideoInput/play.ts
 #https://atemecdnbalancer-voe.sysln.id/live/eds/KBSWorldHD/mpd/KBSWorldHD.mpd
 
-#EXTVLCOPT:http-referrer=https://www.indihometv.com/
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=85f74e4d84834605a4b01820091ea627:c2881a45f94ec6ecbec1303f4e3b1fd6
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTINF:-1 tvg-id="49" tvg-logo="https://i.ibb.co.com/FbVsBd8t/kix.png" group-title="CHANNEL | ASIAN", KIX
-https://cdn10jtedge.indihometv.com/atm/DASH/kix/manifest.mpd
+https://d2tjypxxy769fn.cloudfront.net/out/v1/7a50d44c0a154dd29880c3728fb49a56/index.mpd
+https://fta2-cdn-flr.visionplus.id/out/v1/7a50d44c0a154dd29880c3728fb49a56/index.mpd
+https://cdnbal1.indihometv.com/atm/DASH/kix/kix-avc1_2500000=7-3277707030000000.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=be886ebe45024d4b80110269211b3adb:91b1858f34ece95c8377366fb87d99c4
@@ -2843,14 +2818,10 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000141/1024.m3u8
 #https://atemecdnbalancer-voe.sysln.id/live/eds/TvNHD/mpd/TvNHD.mpd
 
 #EXTINF:-1 tvg-id="tvN Drama" tvg-logo="https://i.ibb.co.com/G3WR2MKv/tvn-drama.png" group-title="CHANNEL | ASIAN",TvN Drama
-https://setting.qkim.net/alive/api/url.m3u8?m=web_play&s=tving&i=C01143&q=FHD&apikey=TQDUYRMX4P&u=Y
-#http://warlock0.synology.me:9999/klive/api/url.m3u8?m=web_play&s=tving&i=C01143&q=SD&apikey=5MY50EII66
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/kggxmHwM/tvn-story.png" group-title="CHANNEL | ASIAN", TvN Story
-https://setting.qkim.net/alive/api/url.m3u8?m=web_play&s=tving&i=C51258&q=SD&apikey=TQDUYRMX4P&u=Y
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/0VmDs0Ds/tvn-show.png" group-title="CHANNEL | ASIAN", TvN Show
-https://setting.qkim.net/alive/api/url.m3u8?m=web_play&s=tving&i=C01141&q=FHD&apikey=TQDUYRMX4P&u=Y
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=17fb563c784848f09d8a1ea88a2fa989:1d0bd94eab5d5f56a950b784d9345439
@@ -2899,17 +2870,9 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Koreandramas2/default/manifest.mpd
 
 #EXTINF:-1 tvg-id="" group-title="CHANNEL | ASIAN" tvg-logo="https://i.ibb.co.com/9m5xpqFk/obs.png", OBS
 
-
 #EXTINF:-1 group-title="CHANNEL | ASIAN" tvg-logo="https://i.ibb.co.com/CKD1hM7v/ocn.png", OCN
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3fe5dc0503a849cbb1966cdd1faa6066:1058f9cebf4d4198b09335ee64cea5dc
-http://ocn-drm2-mcdn.tving.com/ocn_drm/live5000.smil/manifest.mpd
 
 #EXTINF:-1 group-title="CHANNEL | ASIAN" tvg-logo="https://i.ibb.co.com/Q76BBTdY/ocn-movies.png", OCN Movies
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a97de619e5834e6da10c9bab768fc626:1452d46b8ecd87b38310ce90d4f5209f
-https://ocnmovies2-drm2-mcdn.tving.com/ocnmovies2_drm/live5000.smil/manifest.mpd
 
 JPN
 
@@ -3061,7 +3024,6 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/NHKWorldJapanHD/mediampd/NHKWorld
 https://cdn10jtedge.indihometv.com/atm/DASH/NHK_WORLD_JAPAN/NHK_WORLD_JAPAN-avc1_2500000=7-3277707030000000.mpd
 
 #EXTINF:-1 group-title="CHANNEL | ASIAN" tvg-id="ntv" tvg-logo="https://i.ibb.co.com/d46TdH4b/ntv.png",NTV
-http://akariko.netgenx.site/stream/jp/Nippon_TV/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 group-title="CHANNEL | ASIAN" tvg-id="sky_a" tvg-logo="https://i.ibb.co.com/NgJCgHdJ/sky-a.png",Sky A
 http://akariko.netgenx.site/stream/jp/sky_a/stream-output.m3u8?mode=hls
@@ -3181,26 +3143,11 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/JiangsuTV/mediampd/JiangsuTV.mpd
 https://atemeshield1-voe.sysln.id/live/eds/ShenzenTV/mediampd/ShenzenTV.mpd
 https://atemecdnbalancer-voe.sysln.id/live/eds/ShenzenTV/mediampd/ShenzenTV.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=7f123a83acae4361b3c2d5d8d918ff1a:7031880a4c0c7e29014e32554b8b422d
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #EXTINF:-1 group-title="CHANNEL | ASIAN" tvg-name="" tvg-country="ID" tvg-logo="https://i.ibb.co.com/KjY9qbhh/tvb-xianghe.png", TVB Xing He 
-https://atemeshield1-voe.sysln.id/live/eds/TVBXingHe/mediampd/TVBXingHe.mpd
-https://atemecdnbalancer-voe.sysln.id/live/eds/TVBXingHe/mediampd/TVBXingHe.
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=b4439ed36468445ea780f1eba44e1d05:e40e4ecb1caadc90c92ce975264c99d8
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #EXTINF:-1 group-title="CHANNEL | ASIAN" tvg-name="" tvg-country="ID" tvg-logo="https://i.ibb.co.com/XkSWTrMX/tvbs-news.png", TVBS News 
-https://atemeshield1-voe.sysln.id/live/eds/TVBSNews/mediampd/TVBSNews.mpd
-https://atemecdnbalancer-voe.sysln.id/live/eds/TVBSNews/mediampd/TVBSNews.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=f530cf9ab2244fdb935da69d93614188:ccd52f487ef5c2c29869a5b6899397bb
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #EXTINF:-1 group-title="CHANNEL | ASIAN" tvg-name="" tvg-country="ID" tvg-logo="https://i.ibb.co.com/8LR7dmnm/tvbs-asia.png", TVBS Asia 
-https://atemeshield1-voe.sysln.id/live/eds/TVBSAsia/mediampd/TVBSAsia.mpd
-https://atemecdnbalancer-voe.sysln.id/live/eds/TVBSAsia/mediampd/TVBSAsia.mpd
 
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -3218,10 +3165,6 @@ IND
 https://streams2.sofast.tv/ptnr-yupptv/title-BOLLYWOOD-4U-ENG_yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/22d13e33-8705-40e8-9809-4e80aa795f15/manifest.m3u8?hdnts=st%3D1769557964~exp%3D1769579564~acl%3D%21%2A%2Fptnr-yupptv%2Ftitle-BOLLYWOOD-4U-ENG_yupptv%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2F22d13e33-8705-40e8-9809-4e80aa795f15%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_128.24.160.230_yuppfast_2_channel_47_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_128.24.160.230_yuppfast_2_channel_47_-1~hmac%3D5fbc1c3b6ffd5d354e64e6dbff63ee31b610e8c6ce73b6177f4fab5540acb470
 
 #EXTINF:-1 tvg-id="288" tvg-chno="87" tvg-name="chana-jor" tvg-logo="https://i.ibb.co.com/Ngc5MfPL/chana-jor.png" group-title="CHANNEL | ASIAN", Chana Jor
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
-https://yupptv-chanajor.akamaized.net/ptnr-yupptv/title-Chanajor/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/b5663d20-93c0-4ea1-9a86-d114a67f75db/main.m3u8?hdnts=st%3D1769557963~exp%3D1769579563~acl%3D%21%2A%2Fptnr-yupptv%2Ftitle-Chanajor%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2Fb5663d20-93c0-4ea1-9a86-d114a67f75db%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_128.24.160.230_yuppfast_2_channel_288_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_128.24.160.230_yuppfast_2_channel_288_-1~hmac%3D7acc39962a5eb702f3769745f2608693f1f95ecce1d81003b1d00c218d9ec82e
 
 #EXTINF:-1 group-title="CHANNEL | ASIAN" tvg-name="" tvg-country="ID" tvg-logo="https://i.ibb.co.com/hR8js0K0/sonymax.png", Sony Max
 
@@ -3247,15 +3190,7 @@ KSA
 https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
 http://cdn.nng.cloudns.us/live/m3u8/ar/b8b58e25df2b3ce.m3u8
 
-#EXTVLCOPT:http-referrer=https://www.indihometv.com/
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/rjFTpm5/makkah.png" group-title="CHANNEL | ASIAN", Makkah TV
-https://cdn10jtedge.indihometv.com/atm/DASH/alquran/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/v4Y5Xwh5/madinah.png" group-title="CHANNEL | ASIAN", Madinah TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
@@ -3285,27 +3220,36 @@ EN
 https://otte.live.fly.ww.aiv-cdn.net/sin-nitro/live/clients/dash/enc/nnhx4xadfk/out/v1/b716a65abc9d41cb8330ac655c098106/cenc.mpd
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/XZswjzBB/channel4-uk.png" group-title="CHANNEL | EUROPE", Channel 4
-#https://viamotionhsi.netplus.ch/live/eds/more4/browser-dash/more4.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0000000000000000000000000063340a:5ce85f1aa5771900b952f0ba58857d7a
+https://olsp.live.dash.c4assets.com/dash_iso_sp_tl/live/channel(c4)/manifest.mpd
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/PsJpTwyM/4more.png" group-title="CHANNEL | EUROPE", Channel 4 More
-#https://viamotionhsi.netplus.ch/live/eds/more4/browser-dash/more4.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=000000000000000000000000006d340a:efee11d60dd6a2afb6865fc141e1c4a0
+https://olsp.live.dash.c4assets.com/dash_iso_sp_tl/live/channel(m4)/manifest.mpd
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/Fkd4YCw6/5.png" group-title="CHANNEL | EUROPE", Channel 5
 #https://viamotionhsi.netplus.ch/live/eds/channel5/browser-dash/channel5.mpd
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/sp1K5yxP/e4channel-uk.png" group-title="CHANNEL | EUROPE", E4 Channel
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0000000000000000000000000065340a:88a5d26b2dc54896693dea815df7c592
+https://olsp.live.dash.c4assets.com/dash_iso_sp_tl/live/channel(e4)/manifest.mpd
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/KpMgYX7X/film4-uk.png" group-title="CHANNEL | EUROPE", Film 4
-#https://viamotionhsi.netplus.ch/live/eds/film4/browser-dash/film4.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0000000000000000000000000066340a:627bcdc9e9556a74b05c5d311d8d2a61
+https://olsp.live.dash.c4assets.com/dash_iso_sp_tl/live/channel(f4)/manifest.mpd
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/XZswjzBB/channel4-uk.png" group-title="CHANNEL | EUROPE", Channel 4seven
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0000000000000000000000000034730a:19bfb83e0e0f40f6eef4eccedbfa7bb8
+https://olsp.live.dash.c4assets.com/dash_iso_sp_tl/live/channel(4s)/manifest.mpd
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/84sDCbQ0/gold-uk.png" group-title="CHANNEL | EUROPE", Gold
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/V0sDfPw6/itv1-uk.png" group-title="CHANNEL | EUROPE", Itv1
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a0763c867523cdae498b2ad5a8ed66c4:fbca9fa0d6d784be974170f82c155938
-https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/yfsmgtnygz/out/v1/272d43358d1f41feb4dc2e9c61733628/cenc.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/yBGnVfq8/itv2-uk.png" group-title="CHANNEL | EUROPE", Itv2
 #https://viamotionhsi.netplus.ch/live/eds/itv2/browser-dash/itv2.mpd
@@ -3755,6 +3699,8 @@ CY
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/wNLQSZWC/a-3.png" group-title="CHANNEL | USA",A&E
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/CKY8L6ft/abc.png" group-title="CHANNEL | USA",ABC
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+http://41.205.93.154/ABC/index.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/4RqsHf6r/abc-ny.png" group-title="CHANNEL | USA",ABC NY
 
@@ -3941,6 +3887,8 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Discoveryturbo2/default/manifest.mp
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/20SRKFDj/food-network.png" group-title="CHANNEL | USA",The Food Network
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/357L5qRH/fox.png" group-title="CHANNEL | USA",Fox
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+http://41.205.93.154/FOX49/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/1GBPS167/fox-business.png" group-title="CHANNEL | USA",Fox Business Network
 
@@ -4116,7 +4064,9 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02873-kravemedia-mtrspt1-samsungau/
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/pvj0hw86/nbatv.png" group-title="CHANNEL | USA",NBA TV
 
-#EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/qfJsHfq/nbc.png" group-title="CHANNEL | USA",NBC 6
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/qfJsHfq/nbc.png" group-title="CHANNEL | USA",NBC
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+http://41.205.93.154/NBC/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co.com/J0xVpsN/nbc-sports.png" group-title="CHANNEL | USA" , NBC Sports
 
@@ -5429,266 +5379,266 @@ https://pelindung.bandung.go.id:3443/video/HIKSVISION/rancanumpangg.m3u8
 #EXTINF:-1 group-title="CCTV | LEMBANG" group-logo="https://i.ibb.co.com/gMJVj7rD/cctv-bdgraya.png"
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | LEMBANG", Setiabudhi Farmhouse 1
-https://cctv.atcs-dishubkbb.id/memfs/671df771-b4ea-49f4-a9e9-aac462c3a48c_output_0.m3u8
+#https://cctv.atcs-dishubkbb.id/memfs/671df771-b4ea-49f4-a9e9-aac462c3a48c_output_0.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | LEMBANG", Setiabudhi Farmhouse 2
-https://cctv.atcs-dishubkbb.id/memfs/4936192b-c8b3-43fb-ba9f-14b1099f307c_output_0.m3u8
+#https://cctv.atcs-dishubkbb.id/memfs/4936192b-c8b3-43fb-ba9f-14b1099f307c_output_0.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | LEMBANG", Beatrix Setiabudhi
-https://cctv.atcs-dishubkbb.id/memfs/ef739a9d-0e90-49db-8fc2-2717f0b62ef6_output_0.m3u8
+#https://cctv.atcs-dishubkbb.id/memfs/ef739a9d-0e90-49db-8fc2-2717f0b62ef6_output_0.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | LEMBANG", Beatrix Parompong
-https://cctv.atcs-dishubkbb.id/memfs/d860bdd1-7791-49e4-9c1d-975ca897a9d1_output_0.m3u8
+#https://cctv.atcs-dishubkbb.id/memfs/d860bdd1-7791-49e4-9c1d-975ca897a9d1_output_0.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | LEMBANG", Beatrix Lembang
-https://cctv.atcs-dishubkbb.id/memfs/299e4f8c-3d76-4c56-bb0c-fb151cadce76_output_0.m3u8
+#https://cctv.atcs-dishubkbb.id/memfs/299e4f8c-3d76-4c56-bb0c-fb151cadce76_output_0.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | LEMBANG", Simpang Grand Hotel Lembang 1
-https://cctv.atcs-dishubkbb.id/memfs/1e9f3cc5-58b9-4169-b959-5e26d4283db7_output_0.m3u8
+#https://cctv.atcs-dishubkbb.id/memfs/1e9f3cc5-58b9-4169-b959-5e26d4283db7_output_0.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | LEMBANG", Simpang Grand Hotel Lembang 2
-https://cctv.atcs-dishubkbb.id/memfs/0f5cf06b-9d5b-421e-8c30-4e5aa1bd0759_output_0.m3u8
+#https://cctv.atcs-dishubkbb.id/memfs/0f5cf06b-9d5b-421e-8c30-4e5aa1bd0759_output_0.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | LEMBANG", Simpang Grand Hotel Lembang 3
-https://cctv.atcs-dishubkbb.id/memfs/a3e5fd09-792a-4157-8b8b-9911be5dda03_output_0.m3u8
+#https://cctv.atcs-dishubkbb.id/memfs/a3e5fd09-792a-4157-8b8b-9911be5dda03_output_0.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | LEMBANG", Alun Alun Lembang 1
-https://cctv.atcs-dishubkbb.id/memfs/6ef0987a-7191-426d-b8cd-15580a6687ba_output_0.m3u8
+#https://cctv.atcs-dishubkbb.id/memfs/6ef0987a-7191-426d-b8cd-15580a6687ba_output_0.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | LEMBANG", Alun Alun Lembang 2
-https://cctv.atcs-dishubkbb.id/memfs/609a325f-8926-43d4-ad26-d98524a6bef1_output_0.m3u8
+#https://cctv.atcs-dishubkbb.id/memfs/609a325f-8926-43d4-ad26-d98524a6bef1_output_0.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | LEMBANG", Pasar Panorama Lembang 1
-https://cctv.atcs-dishubkbb.id/memfs/eb679609-6858-406e-89bb-c24b9179a6da_output_0.m3u8
+#https://cctv.atcs-dishubkbb.id/memfs/eb679609-6858-406e-89bb-c24b9179a6da_output_0.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | LEMBANG", Pasar Panorama Lembang 2
-https://cctv.atcs-dishubkbb.id/memfs/336b99ec-f691-4e98-ae88-7b51af8842e1_output_0.m3u8
+#https://cctv.atcs-dishubkbb.id/memfs/336b99ec-f691-4e98-ae88-7b51af8842e1_output_0.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | LEMBANG", Pasar Panorama Lembang 3
-https://cctv.atcs-dishubkbb.id/memfs/f3de5bb9-89fa-4bc3-b543-e48761d317c4_output_0.m3u8
+#https://cctv.atcs-dishubkbb.id/memfs/f3de5bb9-89fa-4bc3-b543-e48761d317c4_output_0.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | LEMBANG", De Ranch Tangkuban Parahu
-https://cctv.atcs-dishubkbb.id/memfs/6c1ecb97-558b-4936-b6bd-bb022eac326e_output_0.m3u8
+#https://cctv.atcs-dishubkbb.id/memfs/6c1ecb97-558b-4936-b6bd-bb022eac326e_output_0.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | LEMBANG", De Ranch Sesko AU
-https://cctv.atcs-dishubkbb.id/memfs/ffe4021e-e42b-44e9-9f15-0344f1374976_output_0.m3u8
+#https://cctv.atcs-dishubkbb.id/memfs/ffe4021e-e42b-44e9-9f15-0344f1374976_output_0.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | LEMBANG", Lembang Darul Hikam Sespim
-https://cctv.atcs-dishubkbb.id/memfs/26272c4d-0f36-4a70-bc9e-2a6b0a852a78_output_0.m3u8
+#https://cctv.atcs-dishubkbb.id/memfs/26272c4d-0f36-4a70-bc9e-2a6b0a852a78_output_0.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | LEMBANG", Lembang Darul Hikam Kayu Ambon
-https://cctv.atcs-dishubkbb.id/memfs/83f91fde-f8f2-4a7b-ae6d-a6e74fb4b592_output_0.m3u8
+#https://cctv.atcs-dishubkbb.id/memfs/83f91fde-f8f2-4a7b-ae6d-a6e74fb4b592_output_0.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | LEMBANG", Maribaya Cibodas
-https://cctv.atcs-dishubkbb.id/memfs/2946e37c-f05e-4c1c-96de-0a873d375f4c_output_0.m3u8
+#https://cctv.atcs-dishubkbb.id/memfs/2946e37c-f05e-4c1c-96de-0a873d375f4c_output_0.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | LEMBANG", Maribaya Sespim
-https://cctv.atcs-dishubkbb.id/memfs/ea81b6aa-211a-4f0b-9b5c-68a38426ca8c_output_0.m3u8
+#https://cctv.atcs-dishubkbb.id/memfs/ea81b6aa-211a-4f0b-9b5c-68a38426ca8c_output_0.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | LEMBANG", Floating Market Lembang
-https://cctv.atcs-dishubkbb.id/memfs/98c8a122-2df3-4a68-a7a8-22c3bb053521_output_0.m3u8
+#https://cctv.atcs-dishubkbb.id/memfs/98c8a122-2df3-4a68-a7a8-22c3bb053521_output_0.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | LEMBANG", Simpang Floating Market Lembang
-https://cctv.atcs-dishubkbb.id/memfs/a6b21ef0-169a-49a3-baec-1b23b96d4a1a_output_0.m3u8
+#https://cctv.atcs-dishubkbb.id/memfs/a6b21ef0-169a-49a3-baec-1b23b96d4a1a_output_0.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | LEMBANG", Orchid Cikole 1
-https://cctv.atcs-dishubkbb.id/memfs/1206e494-60c6-4367-9780-2d6ea50ab578_output_0.m3u8
+#https://cctv.atcs-dishubkbb.id/memfs/1206e494-60c6-4367-9780-2d6ea50ab578_output_0.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | LEMBANG", Orchid Cikole 1
-https://cctv.atcs-dishubkbb.id/memfs/a260f274-0b48-41b4-90bf-ec4f1e059d5c_output_0.m3u8
+#https://cctv.atcs-dishubkbb.id/memfs/a260f274-0b48-41b4-90bf-ec4f1e059d5c_output_0.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | LEMBANG", Tangkuban Perahu 
-https://cctv.atcs-dishubkbb.id/memfs/265f2dbc-d03a-4c38-bb66-81d2f09bdb4c_output_0.m3u8
+#https://cctv.atcs-dishubkbb.id/memfs/265f2dbc-d03a-4c38-bb66-81d2f09bdb4c_output_0.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | LEMBANG", Tangkuban Parahu Tugu Subang
-https://cctv.atcs-dishubkbb.id/memfs/5016c7d9-e418-401c-950b-625ba7402f82_output_0.m3u8
+#https://cctv.atcs-dishubkbb.id/memfs/5016c7d9-e418-401c-950b-625ba7402f82_output_0.m3u8
 
 # CCTV | BDG RAYA
 
 #EXTINF:-1 group-title="CCTV | BDG RAYA" group-logo="https://i.ibb.co.com/gMJVj7rD/cctv-bdgraya.png"
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BDG RAYA", Simpang Gading Tutuka
-https://cctv.bandungkab.go.id/278e09911c911de73dc6624c2bdda83c/hls/dishub/68Z9P3bRmK/s.m3u8
+#https://cctv.bandungkab.go.id/278e09911c911de73dc6624c2bdda83c/hls/dishub/68Z9P3bRmK/s.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BDG RAYA", Simpang Al Fathu Soreang
-https://cctv.bandungkab.go.id/278e09911c911de73dc6624c2bdda83c/hls/dishub/Z1yMOD012l/s.m3u8
+#https://cctv.bandungkab.go.id/278e09911c911de73dc6624c2bdda83c/hls/dishub/Z1yMOD012l/s.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BDG RAYA", Simpang Pemda Soreang
-https://cctv.bandungkab.go.id/278e09911c911de73dc6624c2bdda83c/hls/dishub/kRTdYHeHLZ/s.m3u8
+#https://cctv.bandungkab.go.id/278e09911c911de73dc6624c2bdda83c/hls/dishub/kRTdYHeHLZ/s.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BDG RAYA", Sabilulungan Tol Soroja
-https://cctv.bandungkab.go.id/278e09911c911de73dc6624c2bdda83c/hls/dishub/vlWaaKJA8Y/s.m3u8
+#https://cctv.bandungkab.go.id/278e09911c911de73dc6624c2bdda83c/hls/dishub/vlWaaKJA8Y/s.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BDG RAYA", Cimindi
-https://smartcity.cimahikota.go.id/video/57/video57.m3u8
+#https://smartcity.cimahikota.go.id/video/57/video57.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BDG RAYA", Simpang Cihanjuang Cimahi
-https://smartcity.cimahikota.go.id/video/46/video46.m3u8
+#https://smartcity.cimahikota.go.id/video/46/video46.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BDG RAYA", Bundaran Pemkot Cimahi 1
-https://smartcity.cimahikota.go.id/video/122/video122.m3u8
+#https://smartcity.cimahikota.go.id/video/122/video122.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BDG RAYA", Bundaran Pemkot Cimahi 2
-https://smartcity.cimahikota.go.id/video/123/video123.m3u8
+#https://smartcity.cimahikota.go.id/video/123/video123.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BDG RAYA", Pasar Atas Cimahi
-https://smartcity.cimahikota.go.id/video/120/video120.m3u8
+#https://smartcity.cimahikota.go.id/video/120/video120.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BDG RAYA", Simpang Citeureup Kol Masturi 
-https://smartcity.cimahikota.go.id/video/133/video133.m3u8
+#https://smartcity.cimahikota.go.id/video/133/video133.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BDG RAYA", Paratag Lembang
-https://cctv.atcs-dishubkbb.id/memfs/5a6cdfa6-c7bb-4086-96a2-125b8a562747_output_0.m3u8
+#https://cctv.atcs-dishubkbb.id/memfs/5a6cdfa6-c7bb-4086-96a2-125b8a562747_output_0.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BDG RAYA", Paratag Cimahi
-https://cctv.atcs-dishubkbb.id/memfs/b4b839d0-6a88-4f71-b96a-12f4373c9fed_output_0.m3u8
+#https://cctv.atcs-dishubkbb.id/memfs/b4b839d0-6a88-4f71-b96a-12f4373c9fed_output_0.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BDG RAYA", Unai Lembang
-https://cctv.atcs-dishubkbb.id/memfs/dd2489bc-de9f-4b67-a95c-d4952fa11a69_output_0.m3u8
+#https://cctv.atcs-dishubkbb.id/memfs/dd2489bc-de9f-4b67-a95c-d4952fa11a69_output_0.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BDG RAYA", Unai Cihanjuang
-https://cctv.atcs-dishubkbb.id/memfs/71c2b98d-868c-40c1-baae-b34b20480adf_output_0.m3u8
+#https://cctv.atcs-dishubkbb.id/memfs/71c2b98d-868c-40c1-baae-b34b20480adf_output_0.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BDG RAYA", Unai Cisarua
-https://cctv.atcs-dishubkbb.id/memfs/e7a94d54-466a-432a-a57b-896779a3f359_output_0.m3u8
+#https://cctv.atcs-dishubkbb.id/memfs/e7a94d54-466a-432a-a57b-896779a3f359_output_0.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BDG RAYA", Ciloa Cisarua
-https://cctv.atcs-dishubkbb.id/memfs/72cbe014-1bf2-4f32-9026-5fd3acc3d88d_output_0.m3u8
+#https://cctv.atcs-dishubkbb.id/memfs/72cbe014-1bf2-4f32-9026-5fd3acc3d88d_output_0.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BDG RAYA", Park Zoo Parompong
-https://cctv.atcs-dishubkbb.id/memfs/71eb2c0f-2d67-4152-814d-e81b4c0bfb55_output_0.m3u8
+#https://cctv.atcs-dishubkbb.id/memfs/71eb2c0f-2d67-4152-814d-e81b4c0bfb55_output_0.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BDG RAYA", Simpang Park Zoo Parompong
-https://cctv.atcs-dishubkbb.id/memfs/9621ab08-b027-4652-b524-7e32996184d9_output_0.m3u8
+#https://cctv.atcs-dishubkbb.id/memfs/9621ab08-b027-4652-b524-7e32996184d9_output_0.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BDG RAYA", Cimareme Cimahi
-https://cctv.atcs-dishubkbb.id/memfs/4a69fe99-674c-4d18-b58c-b1d3133d7626_output_0.m3u8
+#https://cctv.atcs-dishubkbb.id/memfs/4a69fe99-674c-4d18-b58c-b1d3133d7626_output_0.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BDG RAYA", Cimareme Padalarang
-https://cctv.atcs-dishubkbb.id/memfs/6d7e169d-d11b-43bd-b8c1-fe58cdc60cda_output_0.m3u8
+#https://cctv.atcs-dishubkbb.id/memfs/6d7e169d-d11b-43bd-b8c1-fe58cdc60cda_output_0.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BDG RAYA", Fly Over Padalarang Cimareme
-https://cctv.atcs-dishubkbb.id/memfs/ec13c486-5008-4006-83c5-04be0b075e54_output_0.m3u8
+#https://cctv.atcs-dishubkbb.id/memfs/ec13c486-5008-4006-83c5-04be0b075e54_output_0.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BDG RAYA", Fly Over Padalarang Tol
-https://cctv.atcs-dishubkbb.id/memfs/edcfc0b5-4a59-48a4-82b0-9d587d93bc7e_output_0.m3u8
+#https://cctv.atcs-dishubkbb.id/memfs/edcfc0b5-4a59-48a4-82b0-9d587d93bc7e_output_0.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BDG RAYA", Fly Over Padalarang
-https://cctv.atcs-dishubkbb.id/memfs/f7f61926-3166-4ba1-9e90-3fcf269497c7_output_0.m3u8
+#https://cctv.atcs-dishubkbb.id/memfs/f7f61926-3166-4ba1-9e90-3fcf269497c7_output_0.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BDG RAYA", Fly Over Padalarang KBP
-https://cctv.atcs-dishubkbb.id/memfs/dfa0a451-adae-4309-98fb-53851b5c2e14_output_0.m3u8
+#https://cctv.atcs-dishubkbb.id/memfs/dfa0a451-adae-4309-98fb-53851b5c2e14_output_0.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BDG RAYA", KBP Sundial Padalarang 1
-https://cctv.atcs-dishubkbb.id/memfs/6905a6f2-4c36-442f-9a35-b08871f9f8bd_output_0.m3u8
+#https://cctv.atcs-dishubkbb.id/memfs/6905a6f2-4c36-442f-9a35-b08871f9f8bd_output_0.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BDG RAYA", KBP Sundial Padalarang 2
-https://cctv.atcs-dishubkbb.id/memfs/f201f35d-3caf-4648-986a-f6647ffa764d_output_0.m3u8
+#https://cctv.atcs-dishubkbb.id/memfs/f201f35d-3caf-4648-986a-f6647ffa764d_output_0.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BDG RAYA", Bundaran KBP Puspa Iptek Padalarang
-https://cctv.atcs-dishubkbb.id/memfs/9d1cc825-245d-49b7-8412-34eb73d3d555_output_0.m3u8
+#https://cctv.atcs-dishubkbb.id/memfs/9d1cc825-245d-49b7-8412-34eb73d3d555_output_0.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BDG RAYA", Pertigaan KBP Padalarang 1
-https://cctv.atcs-dishubkbb.id/memfs/ac902612-1f98-43ff-9d0c-b0f1a8d7d6a1_output_0.m3u8
+#https://cctv.atcs-dishubkbb.id/memfs/ac902612-1f98-43ff-9d0c-b0f1a8d7d6a1_output_0.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BDG RAYA", Pertigaan KBP Padalarang 2
-https://cctv.atcs-dishubkbb.id/memfs/d2e6bcb6-e6d5-4c0f-81c6-134e1345c8b5_output_0.m3u8
+#https://cctv.atcs-dishubkbb.id/memfs/d2e6bcb6-e6d5-4c0f-81c6-134e1345c8b5_output_0.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BDG RAYA", Stasiun Padalarang 1
-https://cctv.atcs-dishubkbb.id/memfs/f2648f57-eef6-49bf-9180-5dc071521f4f_output_0.m3u8
+#https://cctv.atcs-dishubkbb.id/memfs/f2648f57-eef6-49bf-9180-5dc071521f4f_output_0.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BDG RAYA", Stasiun Padalarang 2
-https://cctv.atcs-dishubkbb.id/memfs/b50d64f1-7fdc-4c58-942d-bb018327e174_output_0.m3u8
+#https://cctv.atcs-dishubkbb.id/memfs/b50d64f1-7fdc-4c58-942d-bb018327e174_output_0.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BDG RAYA", Stasiun Padalarang 3
-https://cctv.atcs-dishubkbb.id/memfs/9bd7d138-361e-40e2-aabb-508d9b7d54eb_output_0.m3u8
+#https://cctv.atcs-dishubkbb.id/memfs/9bd7d138-361e-40e2-aabb-508d9b7d54eb_output_0.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BDG RAYA", Simpang Pemkab KBB Gerbang
-https://cctv.atcs-dishubkbb.id/memfs/6f53d16e-4974-443b-82ac-3c14383c7de7_output_0.m3u8
+#https://cctv.atcs-dishubkbb.id/memfs/6f53d16e-4974-443b-82ac-3c14383c7de7_output_0.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BDG RAYA", Simpang Pemkab KBB Cisarua
-https://cctv.atcs-dishubkbb.id/memfs/0fc295ae-018b-4575-9aa5-347cfd390c99_output_0.m3u8
+#https://cctv.atcs-dishubkbb.id/memfs/0fc295ae-018b-4575-9aa5-347cfd390c99_output_0.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BDG RAYA", Simpang Pemkab KBB Underpass
-https://cctv.atcs-dishubkbb.id/memfs/97ae4921-5f6c-4992-b023-2b5fb78df724_output_0.m3u8
+#https://cctv.atcs-dishubkbb.id/memfs/97ae4921-5f6c-4992-b023-2b5fb78df724_output_0.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BDG RAYA", Gd 5 Bawah Tol Padalarang
-https://cctv.atcs-dishubkbb.id/memfs/7885b4db-a93f-4e0c-ada4-9f11ca8809e5_output_0.m3u8
+#https://cctv.atcs-dishubkbb.id/memfs/7885b4db-a93f-4e0c-ada4-9f11ca8809e5_output_0.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BDG RAYA", Gd 5 Bawah Stasiun Padalarang
-https://cctv.atcs-dishubkbb.id/memfs/96d284ee-54ef-4d93-97d8-0ee8e6bca4dc_output_0.m3u8
+#https://cctv.atcs-dishubkbb.id/memfs/96d284ee-54ef-4d93-97d8-0ee8e6bca4dc_output_0.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BDG RAYA", Simpang Tagog Padalarang 1
-https://cctv.atcs-dishubkbb.id/memfs/8c6a68c4-5fa5-44b6-8be5-72860ba26ba8_output_0.m3u8
+#https://cctv.atcs-dishubkbb.id/memfs/8c6a68c4-5fa5-44b6-8be5-72860ba26ba8_output_0.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BDG RAYA", Simpang Tagog Padalarang 2
-https://cctv.atcs-dishubkbb.id/memfs/02e59fd8-d67a-40b3-bb2c-5f54c7bcadf9_output_0.m3u8
+#https://cctv.atcs-dishubkbb.id/memfs/02e59fd8-d67a-40b3-bb2c-5f54c7bcadf9_output_0.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BDG RAYA", Purabaya Kavaleri Padalarang
-https://cctv.atcs-dishubkbb.id/memfs/a8a70d7d-0265-4ddb-be0e-9e6438728604_output_0.m3u8
+#https://cctv.atcs-dishubkbb.id/memfs/a8a70d7d-0265-4ddb-be0e-9e6438728604_output_0.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BDG RAYA", Purabaya Cipatat Padalarang
-https://cctv.atcs-dishubkbb.id/memfs/c43816f8-f487-4b51-af04-a7cce245d4ef_output_0.m3u8
+#https://cctv.atcs-dishubkbb.id/memfs/c43816f8-f487-4b51-af04-a7cce245d4ef_output_0.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BDG RAYA", Purabaya Tagog Padalarang
-https://cctv.atcs-dishubkbb.id/memfs/e6549612-e618-4dc5-8e75-086ec0d8140c_output_0.m3u8
+#https://cctv.atcs-dishubkbb.id/memfs/e6549612-e618-4dc5-8e75-086ec0d8140c_output_0.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BDG RAYA", Ciburuy Tagog Padalarang
-https://cctv.atcs-dishubkbb.id/memfs/99057394-48a9-4806-9f61-cbbd011ae6cf_output_0.m3u8
+#https://cctv.atcs-dishubkbb.id/memfs/99057394-48a9-4806-9f61-cbbd011ae6cf_output_0.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BDG RAYA", Ciburuy Wisata Padalarang
-https://cctv.atcs-dishubkbb.id/memfs/002019e2-ac91-4eed-9fb7-2f4f862903c0_output_0.m3u8
+#https://cctv.atcs-dishubkbb.id/memfs/002019e2-ac91-4eed-9fb7-2f4f862903c0_output_0.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BDG RAYA", Ciburuy Cipatat Padalarang
-https://cctv.atcs-dishubkbb.id/memfs/9512d5e6-2424-44f0-869a-4026ea91b2ed_output_0.m3u8
+#https://cctv.atcs-dishubkbb.id/memfs/9512d5e6-2424-44f0-869a-4026ea91b2ed_output_0.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BDG RAYA", Cihaliwung Stasiun Padalarang
-https://cctv.atcs-dishubkbb.id/memfs/8ec35155-b847-41a8-8387-68cfb2ad184b_output_0.m3u8
+#https://cctv.atcs-dishubkbb.id/memfs/8ec35155-b847-41a8-8387-68cfb2ad184b_output_0.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BDG RAYA", Cihaliwung Cikalong Padalarang
-https://cctv.atcs-dishubkbb.id/memfs/67968ed3-ded3-4b14-8e65-792ad566f7fe_output_0.m3u8
+#https://cctv.atcs-dishubkbb.id/memfs/67968ed3-ded3-4b14-8e65-792ad566f7fe_output_0.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BDG RAYA", Cihaliwung Polsek Padalarang
-https://cctv.atcs-dishubkbb.id/memfs/0b9606c1-3b76-49d7-9373-22c36186d5c3_output_0.m3u8
+#https://cctv.atcs-dishubkbb.id/memfs/0b9606c1-3b76-49d7-9373-22c36186d5c3_output_0.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BDG RAYA", Cikamuning Tol Padalarang
-https://cctv.atcs-dishubkbb.id/memfs/f213ebc0-2e3d-4989-9552-7bbe06599d66_output_0.m3u8
+#https://cctv.atcs-dishubkbb.id/memfs/f213ebc0-2e3d-4989-9552-7bbe06599d66_output_0.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BDG RAYA", Cangkorah Leuwigajah
-https://cctv.atcs-dishubkbb.id/memfs/a1dba728-28bb-4ba5-86b4-a898cfeb1753_output_0.m3u8
+#https://cctv.atcs-dishubkbb.id/memfs/a1dba728-28bb-4ba5-86b4-a898cfeb1753_output_0.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BDG RAYA", Cangkorah Batujajar
-https://cctv.atcs-dishubkbb.id/memfs/71ea14f7-d25b-48db-8afe-b48531eb4206_output_0.m3u8
+#https://cctv.atcs-dishubkbb.id/memfs/71ea14f7-d25b-48db-8afe-b48531eb4206_output_0.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BDG RAYA", Citunjung Leuwigajah
-https://cctv.atcs-dishubkbb.id/memfs/2aae361d-2513-49ed-8bde-6e20cd74f6c7_output_0.m3u8
+#https://cctv.atcs-dishubkbb.id/memfs/2aae361d-2513-49ed-8bde-6e20cd74f6c7_output_0.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BDG RAYA", Citunjung Batujajar
-https://cctv.atcs-dishubkbb.id/memfs/54b72fb9-43c8-426c-8fbc-9a91bf13f857_output_0.m3u8
+#https://cctv.atcs-dishubkbb.id/memfs/54b72fb9-43c8-426c-8fbc-9a91bf13f857_output_0.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BDG RAYA", Cimareme Batujajar
-https://cctv.atcs-dishubkbb.id/memfs/372cc649-a609-4613-9414-3f38ee52e5ff_output_0.m3u8
+#https://cctv.atcs-dishubkbb.id/memfs/372cc649-a609-4613-9414-3f38ee52e5ff_output_0.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BDG RAYA", Cihampelas Sayuran Batujajar
-https://cctv.atcs-dishubkbb.id/memfs/3d00f22f-2c26-4961-affe-9980dae9883c_output_0.m3u8
+#https://cctv.atcs-dishubkbb.id/memfs/3d00f22f-2c26-4961-affe-9980dae9883c_output_0.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BDG RAYA", Cihampelas BBS Batujajar
-https://cctv.atcs-dishubkbb.id/memfs/17a9b36c-e087-4231-80f9-2ecc87b6fb00_output_0.m3u8
+#https://cctv.atcs-dishubkbb.id/memfs/17a9b36c-e087-4231-80f9-2ecc87b6fb00_output_0.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BDG RAYA", Simpang BBS Cililin
-https://cctv.atcs-dishubkbb.id/memfs/1372824f-a99d-450b-a614-5fddb49bb96f_output_0.m3u8
+#https://cctv.atcs-dishubkbb.id/memfs/1372824f-a99d-450b-a614-5fddb49bb96f_output_0.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BDG RAYA", Simpang BBS Cipatik
-https://cctv.atcs-dishubkbb.id/memfs/08f471e0-ea5b-4867-bb9d-8dce1a3c26dd_output_0.m3u8
+#https://cctv.atcs-dishubkbb.id/memfs/08f471e0-ea5b-4867-bb9d-8dce1a3c26dd_output_0.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BDG RAYA", Alun Alun Cililin 1
-https://cctv.atcs-dishubkbb.id/memfs/633da1e9-5e53-4721-a03d-3312b3dcb436_output_0.m3u8
+#https://cctv.atcs-dishubkbb.id/memfs/633da1e9-5e53-4721-a03d-3312b3dcb436_output_0.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BDG RAYA", Alun Alun Cililin 2
-https://cctv.atcs-dishubkbb.id/memfs/8b44ea8a-f419-41fb-9e32-493c91fcc140_output_0.m3u8
+#https://cctv.atcs-dishubkbb.id/memfs/8b44ea8a-f419-41fb-9e32-493c91fcc140_output_0.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BDG RAYA", Alun Alun Cililin 3
-https://cctv.atcs-dishubkbb.id/memfs/d7f68dc1-4ae5-4117-9f19-84d87e7f38b3_output_0.m3u8
+#https://cctv.atcs-dishubkbb.id/memfs/d7f68dc1-4ae5-4117-9f19-84d87e7f38b3_output_0.m3u8
 
 # CCTV | CIANJUR
 
@@ -5719,9 +5669,9 @@ https://atcs.cianjurkab.go.id:5443/LieApp/streams/VID1RuasJlAbdullahBinNuh.m3u8
 https://atcs.cianjurkab.go.id:5443/LieApp/streams/VID2RuasJlAbdullahBinNuh.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | CIANJUR", Simpang Dishub 1
-https://atcs.cianjurkab.go.id:5443/LieApp/streams/SP4DishubArahBandung.m3u8
+#https://atcs.cianjurkab.go.id:5443/LieApp/streams/SP4DishubArahBandung.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | CIANJUR", Simpang Dishub 2
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | CIANJUR", Simpang Dishub
 https://atcs.cianjurkab.go.id:5443/LieApp/streams/SP4_Dishub_PTZ_2.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | CIANJUR", Bundaran Gentur Citimall 1
@@ -5740,7 +5690,7 @@ https://atcs.cianjurkab.go.id:5443/LieApp/streams/Muwardi.m3u8
 https://atcs.cianjurkab.go.id:5443/LieApp/streams/SP3Hanjawar.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | CIANJUR", Simpang Cibodas
-https://atcs.cianjurkab.go.id:5443/LieApp/streams/SP3Cibodas.m3u8
+#https://atcs.cianjurkab.go.id:5443/LieApp/streams/SP3Cibodas.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | CIANJUR", Pasar Cipanas
 https://atcs.cianjurkab.go.id:5443/LieApp/streams/pasarcipanas.m3u8
@@ -5756,7 +5706,7 @@ https://atcs.cianjurkab.go.id:5443/LieApp/streams/restarea.m3u8
 https://restreamer2.kotabogor.go.id/memfs/5a5cf878-9d9b-4400-a73a-27a5b24a6ec4_output_0.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BOGOR", Djuanda Jembatan Otista
-https://restreamer2.kotabogor.go.id/memfs/b75e84e5-d033-48fb-aa67-fc48c5e11091_output_0.m3u8
+#https://restreamer2.kotabogor.go.id/memfs/b75e84e5-d033-48fb-aa67-fc48c5e11091_output_0.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BOGOR", Suryakencana Lawang
 https://restreamer3.kotabogor.go.id/memfs/f946ad94-d7c0-4bea-bb43-51adbdc90b95_output_0.m3u8
@@ -5765,7 +5715,7 @@ https://restreamer3.kotabogor.go.id/memfs/f946ad94-d7c0-4bea-bb43-51adbdc90b95_o
 https://restreamer2.kotabogor.go.id/memfs/b43066d4-b1e4-4e90-8e17-86c15a9a944e_output_0.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BOGOR", Suryakencana Selatan
-https://restreamer2.kotabogor.go.id/memfs/64b180ce-d237-44d9-b857-c610e1d0c75c_output_0.m3u8
+#https://restreamer2.kotabogor.go.id/memfs/64b180ce-d237-44d9-b857-c610e1d0c75c_output_0.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BOGOR", Seketeng Suryakencana
 https://restreamer2.kotabogor.go.id/memfs/3d51d3a1-0d90-4230-956c-60dea3c11ac3_output_0.m3u8
@@ -5786,13 +5736,13 @@ https://restreamer3.kotabogor.go.id/memfs/3ec91e05-edf0-451f-b363-4b3c52b75805_o
 https://restreamer2.kotabogor.go.id/memfs/f707b72a-5c95-421a-9f3a-2e478794bd76_output_0.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BOGOR", Pertigaan Empang Pancasan
-https://restreamer3.kotabogor.go.id/memfs/db8ddbdf-cd84-439b-b1fe-a283dffdd5b6_output_0.m3u8
+#https://restreamer3.kotabogor.go.id/memfs/db8ddbdf-cd84-439b-b1fe-a283dffdd5b6_output_0.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BOGOR", Pertigaan Empang BNR
-https://restreamer3.kotabogor.go.id/memfs/ca848bb3-3f17-4cea-8bef-d89dd116fd7c_output_0.m3u8
+#https://restreamer3.kotabogor.go.id/memfs/ca848bb3-3f17-4cea-8bef-d89dd116fd7c_output_0.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BOGOR", Pertigaan Kapt. Yusuf Pancasan
-https://restreamer3.kotabogor.go.id/memfs/5c9ce5e6-4971-483f-914f-39ec33a7764e_output_0.m3u8
+#https://restreamer3.kotabogor.go.id/memfs/5c9ce5e6-4971-483f-914f-39ec33a7764e_output_0.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BOGOR", Djuanda
 https://restreamer2.kotabogor.go.id/memfs/62cded1f-90d0-4af6-b330-dc40af5fdd67_output_0.m3u8
@@ -5804,25 +5754,25 @@ https://restreamer2.kotabogor.go.id/memfs/3ec6eaf2-4da1-4adb-8c15-0251e69121d6_o
 https://restreamer2.kotabogor.go.id/memfs/c07c1926-288c-46e4-a19c-9f51022edc5d_output_0.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BOGOR", Pertigaan Kapt. Muslihat Mayor Oking
-https://restreamer2.kotabogor.go.id/memfs/a3d87684-2cdd-4190-ac07-8b915864daef_output_0.m3u8
+#https://restreamer2.kotabogor.go.id/memfs/a3d87684-2cdd-4190-ac07-8b915864daef_output_0.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BOGOR", Jembatan Merah
 https://restreamer3.kotabogor.go.id/memfs/5f1e2a06-059c-4c00-9102-ceaf12e2b577.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BOGOR", Dewi Sartika Alun Alun 1
-https://restreamer3.kotabogor.go.id/memfs/b99d528a-1eb8-47bf-ba0f-a63fe11dbece_output_0.m3u8
+#https://restreamer3.kotabogor.go.id/memfs/b99d528a-1eb8-47bf-ba0f-a63fe11dbece_output_0.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BOGOR", Dewi Sartika Alun Alun 2
-https://restreamer3.kotabogor.go.id/memfs/38611ade-09b7-4e5b-b835-f5c3a56bb373_output_0.m3u8
+#https://restreamer3.kotabogor.go.id/memfs/38611ade-09b7-4e5b-b835-f5c3a56bb373_output_0.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BOGOR", Dewi Sartika Masjid Agung
-https://restreamer3.kotabogor.go.id/memfs/3cd8d68e-9022-4891-887b-3ff87fe12b56_output_0.m3u8
+#https://restreamer3.kotabogor.go.id/memfs/3cd8d68e-9022-4891-887b-3ff87fe12b56_output_0.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BOGOR", Pertigaan Djuanda Sudirman
-https://restreamer2.kotabogor.go.id/memfs/70d8b8dd-35ba-4895-8c03-8dbd306ce5cb_output_0.m3u8
+#https://restreamer2.kotabogor.go.id/memfs/70d8b8dd-35ba-4895-8c03-8dbd306ce5cb_output_0.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BOGOR", Sudirman
-https://restreamer3.kotabogor.go.id/memfs/3b76a9cd-0b52-42bd-8577-eb3ecb084ec3_output_0.m3u8
+#https://restreamer3.kotabogor.go.id/memfs/3b76a9cd-0b52-42bd-8577-eb3ecb084ec3_output_0.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BOGOR", Padjadjaran Masjid Raya
 https://restreamer3.kotabogor.go.id/memfs/aff6fd2d-2f56-4072-b5c3-774f07722a04_output_0.m3u8
@@ -5830,11 +5780,11 @@ https://restreamer3.kotabogor.go.id/memfs/aff6fd2d-2f56-4072-b5c3-774f07722a04_o
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BOGOR", Pertigaan Padjadjaran Ciheuleut
 https://restreamer2.kotabogor.go.id/memfs/f5ca1d37-c267-4806-850b-d1ca537fb29a_output_0.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BOGOR", Tajur DIshub
-https://restreamer2.kotabogor.go.id/memfs/0518012b-655d-4a7d-83d6-b7bb1faf4396_output_0.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BOGOR", Tajur Dishub
+#https://restreamer2.kotabogor.go.id/memfs/0518012b-655d-4a7d-83d6-b7bb1faf4396_output_0.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | BOGOR", Sukasari
-https://restreamer3.kotabogor.go.id/memfs/0ec104af-9036-48db-b643-ced9d1d42c21_output_0.m3u8
+#https://restreamer3.kotabogor.go.id/memfs/0ec104af-9036-48db-b643-ced9d1d42c21_output_0.m3u8
 
 # CCTV | TASIK
 
@@ -5912,61 +5862,61 @@ https://atcs.tasikmalayakota.go.id/camera/simpanglima.m3u8
 #EXTINF:-1 group-title="CCTV | CIAMIS" group-logo="https://i.ibb.co.com/FqJWWhW6/cirebon.png"
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | CIAMIS", Simpang Ramona 1
-https://ams.ciamiskab.go.id:5443/LiveApp/streams/9eeihg8mCPjdSPZA11438123584949.m3u8
+#https://ams.ciamiskab.go.id:5443/LiveApp/streams/9eeihg8mCPjdSPZA11438123584949.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | CIAMIS", Simpang Ramona 2
-https://ams.ciamiskab.go.id:5443/LiveApp/streams/b9oVcRmb6mygovh711323506940850.m3u8
+#https://ams.ciamiskab.go.id:5443/LiveApp/streams/b9oVcRmb6mygovh711323506940850.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | CIAMIS", Simpang Pusaka
-https://ams.ciamiskab.go.id:5443/LiveApp/streams/2qLLaZwZ84dVBWiI11686757500847.m3u8
+#https://ams.ciamiskab.go.id:5443/LiveApp/streams/2qLLaZwZ84dVBWiI11686757500847.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | CIAMIS", Simpang Tonjong 1
-https://ams.ciamiskab.go.id:5443/LiveApp/streams/XMUXif4e7LYm1dgs11233744357045.m3u8
+#https://ams.ciamiskab.go.id:5443/LiveApp/streams/XMUXif4e7LYm1dgs11233744357045.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | CIAMIS", Simpang Tonjong 2
-https://ams.ciamiskab.go.id:5443/LiveApp/streams/2lXC4ckpEIMOOeu812101585077277.m3u8
+#https://ams.ciamiskab.go.id:5443/LiveApp/streams/2lXC4ckpEIMOOeu812101585077277.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | CIAMIS", Simpang Cirahong 1
-https://ams.ciamiskab.go.id:5443/LiveApp/streams/ZWkyJ1Y0nbyfPDX6115497951775580.m3u8
+#https://ams.ciamiskab.go.id:5443/LiveApp/streams/ZWkyJ1Y0nbyfPDX6115497951775580.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | CIAMIS", Simpang Cirahong 2
-https://ams.ciamiskab.go.id:5443/LiveApp/streams/lwIqNcCk4X9zcERz12099901714808.m3u8
+#https://ams.ciamiskab.go.id:5443/LiveApp/streams/lwIqNcCk4X9zcERz12099901714808.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | CIAMIS", Simpang Cirahong 3
-https://ams.ciamiskab.go.id:5443/LiveApp/streams/087972640406421621987862.m3u8
+#https://ams.ciamiskab.go.id:5443/LiveApp/streams/087972640406421621987862.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | CIAMIS", Simpang Kodim 1
-https://ams.ciamiskab.go.id:5443/LiveApp/streams/llKMI6Md87NqN3AA11768312384889.m3u8
+#https://ams.ciamiskab.go.id:5443/LiveApp/streams/llKMI6Md87NqN3AA11768312384889.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | CIAMIS", Simpang Kodim 2
-https://ams.ciamiskab.go.id:5443/LiveApp/streams/gLLoY1uqLSTTHKHN11918887577126.m3u8
+#https://ams.ciamiskab.go.id:5443/LiveApp/streams/gLLoY1uqLSTTHKHN11918887577126.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | CIAMIS", Simpang Kodim 3
-https://ams.ciamiskab.go.id:5443/LiveApp/streams/pSKFpYiCGcyKWWb812166747317920.m3u8
+#https://ams.ciamiskab.go.id:5443/LiveApp/streams/pSKFpYiCGcyKWWb812166747317920.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | CIAMIS", Simpang Pahlawan 1
-https://ams.ciamiskab.go.id:5443/LiveApp/streams/X05ielUCi3yg0qGw11383012047454.m3u8
+#https://ams.ciamiskab.go.id:5443/LiveApp/streams/X05ielUCi3yg0qGw11383012047454.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | CIAMIS", Simpang Pahlawan 2
-https://ams.ciamiskab.go.id:5443/LiveApp/streams/jfBkbIf4VOZN1pqr12222132016316.m3u8
+#https://ams.ciamiskab.go.id:5443/LiveApp/streams/jfBkbIf4VOZN1pqr12222132016316.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | CIAMIS", Simpang Pahlawan 3
-https://ams.ciamiskab.go.id:5443/LiveApp/streams/T1RDCka4hOT8XaYA12331511488363.m3u8
+#https://ams.ciamiskab.go.id:5443/LiveApp/streams/T1RDCka4hOT8XaYA12331511488363.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | CIAMIS", Simpang Pasar Ciamis 1
-https://ams.ciamiskab.go.id:5443/LiveApp/streams/Gil7iBjt6ifeZweD11492401663749.m3u8
+#https://ams.ciamiskab.go.id:5443/LiveApp/streams/Gil7iBjt6ifeZweD11492401663749.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | CIAMIS", Simpang Graha 1
-https://ams.ciamiskab.go.id:5443/LiveApp/streams/mlyBgXYmbs62oPK1115697332827732.m3u8
+#https://ams.ciamiskab.go.id:5443/LiveApp/streams/mlyBgXYmbs62oPK1115697332827732.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | CIAMIS", Simpang Graha 2
-https://ams.ciamiskab.go.id:5443/LiveApp/streams/hh6qhYgQ4PQFkmEy11620099659764.m3u8
+#https://ams.ciamiskab.go.id:5443/LiveApp/streams/hh6qhYgQ4PQFkmEy11620099659764.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | CIAMIS", Simpang Rumah Sakit
-https://ams.ciamiskab.go.id:5443/LiveApp/streams/t1ZKv7QiNLncxXwU11017104949620.m3u8
+#https://ams.ciamiskab.go.id:5443/LiveApp/streams/t1ZKv7QiNLncxXwU11017104949620.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D4G9jTw/cctv.png" group-title="CCTV | CIAMIS", Simpang Lokasana
-https://ams.ciamiskab.go.id:5443/LiveApp/streams/JxZImmEqsMsGIkvl11101292506546.m3u8
+#https://ams.ciamiskab.go.id:5443/LiveApp/streams/JxZImmEqsMsGIkvl11101292506546.m3u8
 
 # CCTV | CIREBON
 
@@ -6718,8 +6668,6 @@ https://mam.jogjaprov.go.id:1937/cctv-public/ViewGunungMerapi.stream/chunklist_w
 
 
 \\\\\\\\\\\\\\\\\\\\\\\\ Source Playlist Ini [Gratis] Jangan Diperjualbelikan/////////////////////////////
-
-
 
 
 
